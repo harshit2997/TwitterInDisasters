@@ -1,0 +1,40 @@
+Report - Facts and News (0)
+	Facts and updates regarding deaths and damage (human/animal lives and infrastructure)
+	Details about disaster (Number of preptators /Weapon count / Shooter count, Magnitude of earthquake, location of disaster)
+	Number of people killed/injured/lost
+	Area affected
+	Government momentary funding
+	Eye-witness or First responders
+	Official announcements
+	Evacuated
+ 
+Report - Availability of resources (1)
+	Available resources (Food, Water, Shelter, Medical Help, Mobile or Internet Connectivity) with or without location information
+	Availability of manpower in terms of volunteers
+	Report of rescue and relief operations going on
+
+Report - Weather (2)
+	Updates regarding weather
+
+Request (3)
+	Requirement of resources (Food, Water, Shelter, Medical Help, Mobile or Internet Connectivity)
+	Request for Search and Rescue
+
+Call to Action (4)
+	Asking people to volunteer
+	Requesting people to donate and contribute to the rehabilitation efforts
+	Shipping of resources
+
+Other - Sentiment (5)
+	Non-factual tweets conveying feelings, prayers and sending messages of hope
+
+Other - Advice (6)
+	Suggestions regarding staying safe and mitigation measures
+	In case of any disease is spreading, then people already affected are advised with medical treatment and people unaffected with disease are advised with preventive measures
+	Evacuate particular place or move to safer locations
+
+Other - Unknown/Irrelevant (7)
+	Not relevant to application for relief purpose
+
+Multimedia (8)
+	Tweets related to images and videos
