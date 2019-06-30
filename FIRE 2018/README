@@ -1,0 +1,18 @@
+For task1:
+
+Run files in this order - 
+make.py
+make_test.py (test file json too big to be uploaded)
+doc_freq_calc.py
+tfidf.py
+final_pos_words.py
+final_neg_words.py
+classify.py
+
+For task 2:
+
+Run files in this order -
+save_news.py
+store_pos.py
+index_fire.java (twice, one for the headlines folder and once for the factual tweeets folder)
+match_articles.java
