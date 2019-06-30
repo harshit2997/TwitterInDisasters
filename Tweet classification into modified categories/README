@@ -1,0 +1,3 @@
+1. Run make_data with test and train json files corresponding to each of the 6 events (earthquake, typhoon, shooting, bombing, flood, fire)  to create data files.
+2. Run precomp.py.
+3. Run classify.py
