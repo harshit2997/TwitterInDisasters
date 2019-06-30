@@ -1,0 +1,21 @@
+<url>
+https://in.news.yahoo.com/india-ready-support-nepal-rajnath-083213432.html
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+India ready to provide support to Nepal: Rajnath
+</headline>
+
+<text>
+New Delhi, May 12 (IANS) Home Minister Rajnath Singh on Tuesday said India would provide all the support required to Nepal, which was once again jolted by a major earthquake.
+
+"India is ready to provide all the support which Nepal would require," the minister told reporters.
+
+According to the India Meteorological Department website, a 7.3 magnitude earthquake rocked Nepal again on Tuesday.
+
+Earlier, a 7.9 magnitude earthquake devastated the Himalayan nation on April 25, killing 8,151 people.
+</text>

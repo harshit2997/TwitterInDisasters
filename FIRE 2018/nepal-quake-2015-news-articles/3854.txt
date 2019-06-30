@@ -1,0 +1,19 @@
+<url>
+http://www.wsj.com/articles/international-aid-pours-into-nepals-capital-1430246905
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Nepal’s Airport Provides Shelter, Relief and Treatment After Earthquake
+</headline>
+
+<text>
+KATMANDU, Nepal—As a Nepalese military helicopter touched down here near dusk Tuesday, two dozen army medics and doctors rushed across the tarmac.
+
+Inside was a teenage boy in tattered pants with a blood-soaked bandage on his head, a farmer with a crushed femur, and 11 others from a Himalayan village near the Chinese border—all injured in the 7.8-magnitude earthquake that jolted Nepal on Saturday.
+
+Since the quake, this capital...
+</text>

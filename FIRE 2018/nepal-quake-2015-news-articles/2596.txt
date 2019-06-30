@@ -1,0 +1,59 @@
+<url>
+http://www.automatedtrader.net/headlines/153695/nepal-earthquake-deploying-ai-in-disaster-relief-efforts
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Nepal earthquake: Deploying AI in disaster relief efforts
+</headline>
+
+<text>
+Patrick Meier, Director of Social Innovation at the Qatar Computing Research Institute and Co-Founder of the Digital Humanitarian Network "This is just as much a human story as it is a story about next generation technology."
+
+From across dozens of countries, a small army of volunteer digital humanitarians are tagging tweets streaming from Nepal as the country struggles with relief and recovery efforts after a devastating 7.8-magnitude quake.
+
+The death toll has reached 5,000 but could end up as high as 10,000 and the United Nations has estimated that 8 million people are affected, representing about a quarter of the country's population.
+
+It may seem surprising that during such a time one of the strategies the UN is pursuing is to request that all the tweets in Nepal get searched and analysed. But that request leads to activating about 1,500 volunteers scattered around the globe from the Digital Humanitarian Network, who will manually label those tweets as "urgent need", "infrastructure damage", or "response effort" (ongoing activities on the ground).
+
+After that, artificial intelligence takes over to continue categorising at super-human speed.
+
+Crowdsourcing meets AI
+
+The DH Network was set up to help humanitarian organisations make sense of the big data generated during disasters. It's now been involved in about a half-dozen major activations, including typhoons, cyclones and floods.
+
+"We realised early on after the Haiti earthquake in 2010 that crowdsourcing alone is simply not going to win the big data battle," said Patrick Meier, director of Social Innovation at the Qatar Computing Research Institute (QCRI) and co-founder of the DH Network. "There is simply too much information to be able to crowdsource."
+
+That led to the adoption of AIDR (Artificial Intelligence Disaster Response), an AI engine that uses crowdsourcing via the MicroMappers platform, to learn in real time.
+
+"Volunteers are tagging hundreds of thousands of tweets (while) the AIDR platform runs in real time (using) a technique called statistical machine learning to recognise which tweet belongs in which bucket. And once it's learned enough, can automatically tag up to 2 million tweets an hour," Meier explained.
+
+This information then populates a live crisis map of the crowdsourced, AI-tagged tweets.
+
+It's difficult to draw conclusions about specific results achieved in the middle of a crisis, said Meier, because the multitude of information channels are aggregated when used by humanitarian organisations to make critical decisions.
+
+But the US Marine Corps credited a live crisis map to saving hundreds of lives in Haiti. "Getting that kind of feedback and that kind of correlation is the exception rather than the rule," he noted however.
+
+Now, Meier wants to see AI techniques applied to pictures and videos, though such applications are still in research phase.
+
+Next-gen tech
+
+In Nepal, there are teams with UAVs (unmanned aerial vehicles) that will capture high resolution aerial imagery of disaster damage, which will then be tackled by the volunteers of MicroMappers for analysis.
+
+Computer teams will then feed the crowdsourced information into an AIDR-type algorithm to detect the features associated with damage, Meier explained.
+
+This exercise is not new. On behalf of the World Bank, some 2,500 high resolution aerial images were crowdsourced for disaster damage assessment after category-5 Cyclone Pam hit Vanuatu earlier this year.
+
+The next steps are to create machine learning classifiers for damage detection based on the Pacific region's infrastructure features and Meier would like to see the same happen in Nepal.
+
+Still, it really is as much a human story as it is a story about next generation technology, he added.
+
+"We hear (about technology being used) to spy, to target, to harass, (but) people literally in their (pajamas) in San Diego, or in Malta, or in new Zealand, 40 countries in the world, are coming together to help others in need (by) using technology.
+
+"While the technology is obviously very exciting, enabling us to do things we weren't able to even a couple of years ago, if people didn't care and weren't moved to help others in need halfway across the planet (then) nobody would be tagging these pictures, nobody would be tagging these tweets," Meier said. "There would be no mission money to do it. The maps would be blank, period."
+
+You can get involved with MicroMappers by clicking "Join", or contact Patrick Meier to contribute to applied AI research.
+</text>

@@ -1,0 +1,17 @@
+<url>
+http://reliefweb.int/report/nepal/emirates-red-crescent-provide-urgent-relief-nepal
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Emirates Red Crescent to provide urgent relief to Nepal
+</headline>
+
+<text>
+Abu Dhabi, 26th April, 2015 (WAM) -- Under the directives of President His Highness Sheikh Khalifa bin Zayed Al Nahyan, and instructions of His Highness Sheikh Mohamed bin Zayed Al Nahyan, Crown Prince of Abu Dhabi and Deputy Supreme Commander of the UAE Armed Forces, H.H. Sheikh Hamdan bin Zayed Al Nahyan, Ruler's Representative in the Western Region, and Chairman of the Emirates Red Crescent (ERC), has directed the UAE's key relief agency to deliver urgent humanitarian assistance to the population affected by the earthquake that struck Nepal yesterday.
+
+A group of ERC aid workers along with the Ministry of Interior's Search and Rescue (SAR) team will fly tomorrow (Sunday) to Nepal to participate in the international SAR operations. Another ERC delegation will travel to Indian capital of New Delhi to purchase food and medical supplies and then airlift them as quickly as possible to the quake-affected areas in Nepal. – Emirates News Agency, WAM –
+</text>

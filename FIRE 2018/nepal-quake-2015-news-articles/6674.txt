@@ -1,0 +1,23 @@
+<url>
+http://www.msf.org/article/nepal-second-earthquake-near-kathmandhu
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Nepal: Second earthquake near Kathmandhu
+</headline>
+
+<text>
+A second earthquake today hit Nepal, this time with an epicentre 80km east of Kathmandu, in Dolakha district. Teams from Médecins Sans Frontières (MSF) are conducting assessments in the affected areas, including Dolakha itself. In the Charikot area of Dolakha district they have seen villages destroyed by this second quake.
+
+An additional MSF team is conducting an assessment in Bhaktapur, east of Kathmandu, while other MSF medical teams have divided and are visiting various hospitals in Kathmandu ready to intervene immediately if necessary.
+
+This comes as the Nepali population struggles to recover from the loss of life and substantial damage that followed the earthquake of 25 April in which over 8,000 people died.
+
+“This complicates an already precarious situation. There is going to be more trouble accessing the affected areas. MSF is strengthening its emergency operations and re-assessing the needs of those affected by the current earthquake in order to respond accordingly and immediately,” says, Dan Sermand, MSF’s Country Director in Nepal.
+
+For the last two weeks, MSF teams have been providing medical assistance and distributing food and shelter to remote areas impacted by the previous earthquake. MSF has also set-up an inflatable hospital in Arughat in Gorkha district, which is running and serving the population affected by that previous disaster.
+</text>

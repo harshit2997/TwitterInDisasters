@@ -1,0 +1,27 @@
+<url>
+http://www.maoritelevision.com/news/national/new-zealand-usar-team-prepares-head-kathmandu
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+New Zealand USAR team prepares to head to Kathmandu
+</headline>
+
+<text>
+An Urban Search and Rescue team (USAR) will head to Nepal tonight as part of a co-ordinated United Nations rescue effort.
+
+The team hopes to contribute as much as it can to rescue efforts in the wake of destructive earthquakes in that country.
+
+The team of 37 is comprised of experts from Auckland, Palmerston North and Christchurch which includes 10 search and rescue specialists, two paramedics, a doctor, an engineer, seven logistics personnel and 10 command and IT support staff.
+
+According to a media release, the team will also take a 12-tonne cache of equipment so it can be fully self-sufficient, including for food, water, power and rescue equipment.
+
+New Zealand Fire Service Chief Executive & National Commander Paul Baxter said the deployment was provisionally for two weeks, but that could be extended if the situation demanded.
+
+He said New Zealand was one of 22 countries sending teams to help with urban search and rescue efforts. A UN co-ordinating body in Kathmandu would assign the team to a particular part of the Kathmandu Valley or further afield as part of that wider effort.
+
+Mr Baxter says, “The significance of this is apparent now: the UN knows that we will arrive in the country with the necessary equipment and expertise to hit the ground running and to help, rather than hamper, rescue efforts. We are now in a position to pull our weight on the international stage."
+</text>

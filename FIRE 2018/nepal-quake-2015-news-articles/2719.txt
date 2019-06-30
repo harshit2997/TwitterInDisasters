@@ -1,0 +1,15 @@
+<url>
+http://durangoherald.com/article/20150427/NEWS03/150429659/Nepal-quake-toll-tops-4000-
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Nepal quake toll tops 4,000
+</headline>
+
+<text>
+In Bhaktapur, on the outskirts of Kathmandu, Nepal, damage from Saturday’s 7.8-magnitude earthquake was severe. Rescue workers and medical teams from at least a dozen countries were helping police and army troops Monday in Kathmandu and surrounding areas.
+</text>

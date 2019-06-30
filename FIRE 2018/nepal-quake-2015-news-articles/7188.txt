@@ -1,0 +1,25 @@
+<url>
+http://news.xinhuanet.com/english/2015-05/11/c_134227231.htm
+</url>
+
+<date>
+20150511
+</date>
+
+<headline>
+New Zealand engineers to assess quake damage in Nepal - Xinhua
+</headline>
+
+<text>
+WELLINGTON, May 11 (Xinhua) -- A New Zealand engineering team is traveling to Nepal to assess damage caused by the April 25 earthquake, Foreign Minister Murray McCully said Monday.
+
+"The Nepalese government has requested assistance from New Zealand experts with damage assessments of critical public infrastructure, including government buildings and hospitals," McCully said in a statement.
+
+"Four New Zealand engineers, with considerable experience in earthquake strengthening, have volunteered their time and they are en route to Nepal," he said.
+
+"This group of engineers will be in Kathmandu for a week, and, in addition to undertaking damage assessments, they will also help determine whether a larger contingent of 10 to 12 engineers is required," he said.
+
+"This later deployment would be for three months and would focus on assisting with stabilization and retrofitting of damaged buildings."
+
+The New Zealand government had already given 2 million NZ dollars (1.48 million U.S. dollars) in financial assistance to Nepal following the earthquake.
+</text>

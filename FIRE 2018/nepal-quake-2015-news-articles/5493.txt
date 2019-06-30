@@ -1,0 +1,49 @@
+<url>
+http://fusion.net/story/131232/a-startup-run-by-a-20-year-old-is-trying-to-use-drones-to-make-air-drops-of-supplies-to-nepal/
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+The 20-year-old head of a drone company is trying to use his fleet to make air drops of supplies to Nepal
+</headline>
+
+<text>
+DroneCast
+
+The death toll in Nepal climbed again yesterday to more than 7,500. Many areas remain inaccessible because roads have been cut off by collapsed buildings and mudslides, and debris is preventing helicopters from landing.
+
+Raj Singh, the 20-year-old founder of DroneCast, a drone-based advertising firm that has worked with Ford, Sony, and Ciroc, is hoping to repurpose this company’s fleet to provide a solution.
+
+Advertisement
+
+“I’ve always had idea that drones are there for so much more,” Singh, who is taking time off from Drexel University, told Fusion. “Now this is the next logical step.”
+
+The immediate idea for Nepal came after Singh spotted footage of the disaster taken by a drone on Facebook—although not because of the images themselves.
+
+Drones have been used in previous disasters to survey affected areas, and that was the ostensible purpose of ones that were until recently hovering over Nepal.
+
+But Singh says angry commenters have begun criticizing the producers of the footage on Facebook as aerial disaster tourists, Singh said, and he began to fear that the reputation of drones, which already make people uneasy, would be further tarnished.
+
+Advertisement
+
+“When I heard this, I was appalled,” he said. “This is the industry we’re trying to create, and they were putting a bad image to it, so I said we need to do something.”
+
+The plan is to leave on May 16th with at least six drones that would carry food, water, tents and first aid supplies. But before then, DroneCast will hold a hackathon this Friday to find ways of increasing their payload and decreasing flight time. Here's what they look like:
+
+They also hope to raise $50,000, which they will match in in-kind resources, to up the number of drones to 15. They are in talks with coordinating
+
+Singh says he is aware of three villages that remain inaccessible, so he doesn’t think his campaign will be too late. He said he’s also using it as an opportunity to test out the service for relief missions in the future, noting that another major earthquake just hit Papua New Guinea.
+
+“If we were prepared right now, we’d already be deployed,” he said.
+
+On Wednesday, the Times of India reported Nepal’s civil aviation authority had banned drones over concerns about photographs being taken of sensitive areas. But Singh says DroneCast is working with Earthquakes Without Frontiers to obtain an exemption.
+
+Advertisement
+
+“I do not believe we will be turned down,” he said. “The necessary individuals/authorities have been very supportive and receptive to the drone aid concept.”
+
+Rob covers business, economics and the environment for Fusion. He previously worked at Business Insider. He grew up in Chicago.
+</text>

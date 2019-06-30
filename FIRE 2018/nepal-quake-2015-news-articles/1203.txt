@@ -1,0 +1,25 @@
+<url>
+http://www.thejakartapost.com/news/2015/04/26/who-sends-emergency-health-kits-funds-nepal.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+WHO sends emergency health kits, funds to Nepal
+</headline>
+
+<text>
+The World Health Organization (WHO) on Sunday handed over four emergency health kits comprising medicines and medical supplies and US$175,000 as the first tranche of emergency health funds to meet the immediate health needs of the earthquake-affected people in Nepal.
+
+"Within hours of the tragedy, WHO disbursed medical supplies to cover the health needs of 40, 000 people for three months. These supplies are in the form of inter-agency emergency health kits and were given to hospitals in Nepal treating the injured," WHO South-East Asia Regional director Poonam Khetrapal Singh said in a release made available to The Jakarta Post on Sunday.
+
+WHO also immediately made available $175,000 to the Ministry of Health and Population in Nepal, as the first tranche of South-East Asia Regional Health Emergency Funding (SEARHEF).
+
+The SEARHEF funds are aimed at meeting immediate financial needs and to fill critical gaps in the aftermath of a disaster.
+
+Simultaneously, WHO is supporting the Ministry of Health and Population to continue to assess the health needs of the affected people and the damage to health facilities. Senior officials from the WHO Regional office are in Kathmandu, to reinforce WHO Nepal Office's support for the Nepalese government.
+
+Other than the injured, those rendered homeless by the earthquake are in need of immediate support for regular public health services, water and sanitation and psycho-social support to deal with the trauma caused by the tragedy, said the WHO. (ebf)(++++)
+</text>

@@ -1,0 +1,173 @@
+<url>
+http://www.huffingtonpost.in/2015/04/29/nepal-earthquake_n_7167078.html
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Nepal Earthquake: Two Kerala Doctors Lose Their Lives
+</headline>
+
+<text>
+A woman recovers cooking pots from her collapsed home destroyed village of Paslang near the epicenter of Saturday's massive earthquake in the Gorkha District of Nepal, Tuesday, April 28, 2015. Military operations continue Tuesday to reach the isolated areas following the powerful earthquake that has devastated the nation and killed at least 4,400 people, according to district official Surya Mohan Adhikari. (AP Photo/Wally Santana)
+
+ADVERTISEMENT
+
+KATHMANDU/THIRUVANANTHAPURAM — A pleasure trip to Nepal by three young doctors from Kerala turned tragic with two of them losing their lives in the killer earthquake and another managing to survive with serious injuries.
+
+"There are no details of the deceased as of now. But we can say the two dead are from Kerala. One person is also injured," said a spokesperson at the Indian High Commission in Kathmandu, the capital of Nepal.
+
+Till now, 15 Indians have died in the earthquake that has torn the Himalayan nation apart taking the toll above 5,000.
+
+In Thiruvananthapuram, Non Resident Kerala Affairs Minister K C Joseph said the bodies of Dr Deepak Thomas from Kannur and Dr A S Irshad from Kasaragod have been identified by relatives and efforts are on to bring their remains to India as early as possible.
+
+Thomas and Irshad were missing since the quake shook the Himalayan nation on Saturday.
+
+There were earlier reports that the two had survived and had been admitted to a hospital in Kathmandu.
+
+Dr Abin Suri, who was also part of the group, managed to escape with injuries. He was subjected to dialysis during the past two days.
+
+Suri is likely to be taken to Delhi for further treatment as early as possible.
+
+Suri's mother Anitha told PTI from Kozhikode that while her son was in his room on the sixth floor of the hotel, the two other men were in the corridor when the earthquake struck.
+
+"After two and half hour operation, he was rescued," she said.
+
+The three doctors, working at National Health Rural Mission programme at Mananthavady in Waynad district had left for Kathmandu for an excursion last week from Kozhikode before joining for their PG courses in May. They had passed out from Kozhikode medical college last year.
+
+The button below indicates how much has been raised on Crowdrise's "Nepal Earthquake Relief" page. Click to visit the site and donate.
+
+#custom_crowdrise_widget div.crDonateWidget {
+
+width: 298px !important;
+
+margin-left: 0 !important;
+
+margin-right: 0 !important;
+
+padding: 0 !important;
+
+height:78px;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget h4 { display: none; }
+
+#custom_crowdrise_widget .crDonateTriangle { display: none !important;}
+
+#custom_crowdrise_widget .crImageAndTitleOuter { display: none !important;}
+
+#custom_crowdrise_widget .CRShadowImage { display: none !important;}
+
+#custom_crowdrise_widget .crDonateWidgetOuter {
+
+border:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+margin-top: 0 !important;
+
+margin-right: 0 !important;
+
+margin-bottom: 0 !important;
+
+margin-left: 0 !important;
+
+background: url("https://www.crowdrise.com/media/cdncustom/huffpost_donate_widget.png") 0 0 no-repeat !important;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget {
+
+margin:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+background-color: inherit !important;
+
+padding: 0 10px !important;
+
+}
+
+#custom_crowdrise_widget .startFundraiser { display: none !important;}
+
+#custom_crowdrise_widget .gradientButton {
+
+width: inherit !important;
+
+margin-bottom: 0 !important;
+
+}
+
+#custom_crowdrise_widget .crDonated {
+
+margin: 0 !important;
+
+font: bold 14px/16px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+width: 185px;
+
+padding-top: 9px !important;
+
+}
+
+#custom_crowdrise_widget .crLogo img { display: none !important;}
+
+#custom_crowdrise_widget .crDonatedLabel { display: none !important; }
+
+#custom_crowdrise_widget .gradientButton {
+
+background: none !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)" !important;
+
+filter: alpha(opacity=0) !important;
+
+opacity: 0 !important;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 21px !important;
+
+margin-top:15px !important;
+
+}
+
+#custom_crowdrise_widget .donateNow {
+
+font: normal 9px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+filter: alpha(opacity=0);
+
+opacity: 0;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 36px !important;
+
+margin-top:0 !important;
+
+padding-top: 0 !important;
+
+}
+
+Like Us On Facebook |
+
+Follow Us On Twitter |
+
+Contact HuffPost India
+
+
+</text>

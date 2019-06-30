@@ -1,0 +1,29 @@
+<url>
+http://aero-news.net/subscribe.cfm?do=main.textpost&id=01f6aea2-99c9-49e8-a834-a68e32b6b697
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Airbus Foundation Coordinates Relief Flight To Nepal
+</headline>
+
+<text>
+Medical Personnel And Aid Relief Transported Aboard An A350 XWB Test Aircraft
+
+The Airbus Foundation has coordinated with the French Government’s Crisis Center the transport of 50 humanitarian staff, 21 metric tons of food and medical aid from Paris to Kathmandu onboard an Airbus A350 XWB test aircraft. These are destined to the victims of the terrible earthquake that shook the country on 25 April, the worst in more than 80 years, leaving thousands of people dead, injured or sleeping in the open.
+
+The aircraft took off from Paris and landed in Kathmandu on 29 April with high nutritious food products provided by Action contre la Faim, medical equipment and personnel for Médecins du Monde, emergency freight and personnel on behalf of Pompiers du Rhône and 25 humanitarian personnel, six medical personnel and two from the French Foreign Ministry.
+
+Airbus and the Airbus Foundation are also working with Nepal Airlines towards using an A320 currently being delivered to the airline from Hamburg to transport medical supplies and NGO personnel to Kathmandu. The flight should leave Hamburg before the end of the week.
+
+Last weekend already, Airbus Helicopters, through its Foundation, already started working with humanitarian agencies in order to provide helicopter-based solutions, aimed at saving lives and safely transporting passengers within the affected areas.
+
+Furthermore, Airbus Defence and Space has acquired Pléiades satellites imagery to support the International Charter and Copernicus Emergency Management Service. The data acquired will assist in assessing the damage and help rescue organisations in the delivery of humanitarian aid.
+
+“We were shocked about the devastation the earthquake has caused in Nepal and our thoughts are with the families and friends of those affected by this tragedy”, said Tom Enders, CEO of Airbus Group and Chairman of the Airbus Foundation. “Providing swift assistance to those in distress is the least we can and must do. I thank our partners, who are involved in this project, for their logistics support and their dedication. Without their tremendous efforts, this special mission would not have been possible so quickly.”
+
+(Image from file)
+</text>

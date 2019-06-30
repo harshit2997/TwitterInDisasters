@@ -1,0 +1,25 @@
+<url>
+http://www.upi.com/Top_News/World-News/2015/05/14/British-relief-aircraft-denied-Nepalese-entry/2321431622976/
+</url>
+
+<date>
+20150514
+</date>
+
+<headline>
+British relief aircraft denied Nepalese entry
+</headline>
+
+<text>
+DELHI , India, May 14 (UPI) -- Three heavy-lift British Air Force helicopters, sent to Nepal to aid in earthquake relief, still await permission to arrive from the Nepalese government.
+
+The RAF Chinook helicopters were sent two weeks ago to Delhi, India, in a transport plane, and await clearance from Nepal's government at the Delhi airport, the British government's Department for International Development (DfID) said. The government believes the heavy aircraft's downdraft could damage fragile buildings and could cause roof collapses simply by taking off and landing, although other countries have contributed helicopters to help Nepal deal with a series of devastating earthquakes, beginning April 25, which have killed over 8,000 people.
+
+There are other reports suggesting nearby India and China are reluctant to allow flights of foreign aircraft so close to their airspace.
+
+The helicopter is capable of carrying up to 10 tons of freight, or up to 70 people. The United States has deployed military helicopters with similar capabilities to the area of the earthquakes.
+
+A DfID spokesman commented, "U.N. agencies and other NGOs (non-government organizations) have indicated that additional helicopters are needed to deliver aid to remote areas inaccessible by road and the U.K. has sent the most appropriate equipment to support these efforts, including three Chinook helicopters."
+
+The helicopters' flight crews and maintenance technicians, a group of about 40, also remain at the airport in India. The cost of keeping the aircraft and crew idle prompted the British government to arrange talks with Nepalese authorities over the restriction in the next few days.
+</text>

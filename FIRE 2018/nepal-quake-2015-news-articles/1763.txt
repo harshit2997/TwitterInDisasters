@@ -1,0 +1,23 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/27/c_134186946.htm
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Canada's rescue team departing for earthquake-stricken Nepal - Xinhua
+</headline>
+
+<text>
+OTTAWA, April 26 (Xinhua) -- Canada's Disaster Assistance Response Team (DART) is departing for Nepal after Saturday's devastating earthquake that has claimed more than 2,500 lives, according to CTV Sunday evening.
+
+Meanwhile, Canada is also donating relief material worth five million Canadian dollars (about four million U.S. dollars) to Nepal.
+
+Canadian Defence Minister Jason Kenney said that the Canadian government is deploying a DART to Nepal immediately in response to the earthquake.
+
+Canadian Prime Minister Stephen Harper on Saturday expressed his condolences about the earthquake and said Canada is prepared to help out in the wake of the disaster.
+
+The DART is a multidisciplinary military organization designed to deploy on short notice anywhere in the world in response to situations ranging from natural disasters to complex humanitarian emergencies.
+</text>

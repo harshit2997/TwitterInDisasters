@@ -1,0 +1,49 @@
+<url>
+https://philanthropy.com/article/Opinion-Nepal-Response-Shows/229887
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Opinion: Nepal Response Shows Why Donor-Advised Funds Are a Boon to Philanthropy
+</headline>
+
+<text>
+In the days immediately after Americans learned of the devastating earthquake in Nepal, they began to send millions of dollars in donations to organizations prepared to put disaster-relief boots on the ground in that historic Himalayan kingdom.
+
+Such charity — whether directed to long-established organizations like the Red Cross and CARE or to newer ones such as Doctors Without Borders — reflects the American tradition of personal generosity. But there was also something notably different about the sources of Nepal relief funds compared to similar outpourings a generation previous.
+
+A handful of umbrella organizations holding reserves of charitable funds for thousands of donors were able to direct that money to recommended relief organizations at the online direction of donors, with no checkbooks involved. The grants were directed from thousands of individual donor-advised funds managed by the charitable-foundation arms of some of the nation’s largest financial-services firms. Indeed, just five days after the earthquake, Fidelity, Schwab, and Vanguard charitable could already jointly report nearly 3,000 individual grants of more than $3.5 million.
+
+One might call it charitable rapid response — and it demonstrates the value of an aspect of the fast-growing universe of donor-advised funds that has, surprisingly, been controversial but should not be: the financial reserves held in individual accounts managed by major national financial-services firms.
+
+It is no secret in the philanthropy world that the number of donor-advised fund accounts, especially those housed at what might be called national advised-fund organizations, have dramatically increased in recent years. Since 2007, the number of such accounts has risen by nearly 40,000 nationwide. At the same time, financial reserves — undisbursed funds managed for growth and earmarked for eventual charitable contribution — have also grown significantly, from $11 billion to $25 billion. If that total were housed within a single foundation, it would represent the most assets of any such U.S. entity except the Bill & Melinda Gates Foundation.
+
+But even as private foundations have continued to be a largely unchallenged part of the U.S. philanthropic landscape, the undisbursed funds of donor-advised fund accounts have drawn fire.
+
+Specifically, critics concerned that charities that once relied on individual donor checks might lose near-term funds — or be "starved for funds," as Ray Madoff of Boston College Law School has put it — have pushed for contributions to DAF accounts to be disbursed within a set time. Surprisingly, the tax-overhaul proposal offered last year by former House Ways and Means chairman Rep. Dave Camp incorporated a five-year distribution requirement. [Editor's note: The previous paragraph has been corrected to make clear that it is Mr. Camp, not Ray Madoff, who has proposed a five-year distribution rule.]
+
+The response to the Nepal disaster — like responses to previous crises like the Haiti earthquake and the Ebola crisis — is just one more reason that idea should not be adopted.
+
+Crucially, critics overlook the fact that undisbursed DAF funds grow over time and that increased capital can be used only for one thing: charitable giving. Just for that reason, they are an ideal source of countercyclical philanthropy: When incomes decline, DAF disbursements can buffer organizations that rely on charitable giving. Indeed, if DAF donations had not continued at pre — financial crisis levels in 2008, overall U.S. charitable giving would have declined even more during the height of the Great Recession.
+
+And there are other reasons that requiring rapid payouts from donor-advised funds doesn’t hold water.
+
+It is true that major financial-services firms earn fees for the management of assets, but such fees would be incurred whether funds were held in charitable accounts or brokerage accounts. And the actual administrative fees for the management of DAF accounts are low. As I note in a new paper for the Manhattan Institute, the average account at one national DAF entity, administrative fees are about 0.6 percent of assets. Nor can such accounts be remotely considered significant profit centers for financial services firms: Vanguard, for example, realized less than $5 million in total fees for Vanguard Charitable in fiscal year 2014 — a trivial sum when compared with overall revenues for an organization managing roughly $3 trillion. Fidelity, which manages 15 mutual funds for those with accounts in Fidelity Charitable, sets fees (by independent boards of those respective funds) ranging from 0.07 to 1.17 percent. Fidelity Charitable’s assets, meanwhile, constitute less than 1 percent of Fidelity’s nearly $2 trillion in assets under management.
+
+It is true that under present law donors have a strong tax incentive to use advised funds: They can take a tax deduction in a year in which they have a high income and disburse charitable assets over the years to come. One can argue, then, that the funds facilitate tax minimization. To believe that, however, one must believe that government generally makes better use of funds than do charitable organizations.
+
+Those who do not believe that should be cheered by the fact that the incentive to make contributions, and the relative ease of their distribution from online advised-fund accounts, holds the promise of increasing U.S. charitable giving over all.
+
+It is worth asking the question as to where such disbursements are being directed.
+
+To answer that question, my Manhattan Institute study examined anonymized proprietary fiscal 2013 data from the Fidelity, Schwab, and Vanguard charitable foundations for three Chicago, Dallas, and Denver. It found that nearly 23,000 grants totaling more than $90 million were made by national advised-fund account holders to charities headquartered in those areas in that single year.
+
+Notable top recipient organizations include the Greater Chicago Food Depository, the American Red Cross of Denver, and the Communities Foundation of Texas.
+
+Dozens of local churches, synagogues, schools, and food banks rank alongside regional offices of national charities like the United Way among the top 500 recipient organizations in each metropolitan area. In other words, there is no evident reason to be concerned that charitable organizations which had relied on annual, individual checks will be ignored in a more DAF-centric system — even as the remainder balances of the advised funds hold the potential for increased giving over time.
+
+Broadly, then, it’s a mistake to view the growth of donor-advised funds as a threat to philanthropic giving. It should be seen, rather, as a new step forward in the democratization of such giving — in effect, tens of thousands of low-cost individual foundations for those who are far from wealthy enough to sign the billionaires’ Giving Pledge. As their response to events half a world away in Nepal make clear, they are a robust new arm of the storied American philanthropic tradition.
+</text>

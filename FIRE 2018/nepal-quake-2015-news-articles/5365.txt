@@ -1,0 +1,31 @@
+<url>
+http://www.brookings.edu/blogs/order-from-chaos/posts/2015/05/07-nepal-earthquake-ferris-white
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+Nepal’s horrific earthquake: Is the international community doing too much to prepare?
+</headline>
+
+<text>
+Although the last major disaster in Nepal was the Nepal-Bihar Earthquake of 1934, for years, international humanitarian agencies have been predicting a catastrophic earthquake in Nepal. Studies, assessments, contingency planning exercises, and simulations have been carried out over the years with some scenarios predicting hundreds of thousands of deaths. Thankfully, the April 25, 2015 earthquake in Nepal—while horrific—did not produce this scale of devastation. But even so, it has revealed the dismal state of disaster preparedness in which the small country found itself.
+
+While much Western media attention is focused on the international response, the April 2015 earthquake offers a cautionary tale about the need for states, including small states, to make disaster risk management a priority. Just prior to the April 2015 earthquake in Nepal, Brookings carried out field research on the role of the South Asian Association for Regional Cooperation’s role in supporting national disaster risk management (DRM) capacity among its state members, with a particular focus on Nepal and India. Just a month before the earthquake, the researcher (Stacey White) found widespread acknowledgement that Nepalese government officials were simply not seized by the urgency of disaster risk in the country. In fact, DRM was such a low priority that more than one observer mentioned that the only factor likely to force the Government of Nepal to take decisive action on DRM was another major disaster. Now, that very disaster has come to pass with tragic consequences for the country.
+
+In the highly political post-civil war context of the last decade, Nepal has been unable—and perhaps unwilling—to focus adequate attention and resources on building its capacity to manage disaster risk. Yet both the disaster risks facing the country and the technical know-how to mitigate and prepare for those risks were well understood.
+
+In the aftermath of the earthquake, we hope that the Government of Nepal will adopt new disaster legislation—as has been repeatedly discussed in recent years. As we have argued elsewhere, legal preparedness is a key component of emergency planning. Without a robust legal framework and corresponding institutional structures, governments simply cannot respond effectively to disaster risks that they face. Nepal’s disaster management policies derive from the Calamity Act of 1982, an outdated and response-driven law that does not include the preventive and proactive concepts of modern-day disaster risk management—a term encompassing not only disaster response but also disaster risk reduction. Although a National Strategy for Disaster Risk Management was developed with the support of the U.N. Development Program in 2008 to supplement the archaic Calamity Act, this strategy is not enough. Only new legislation will provide sufficiently robust political directives to create a common vision for disaster resilience.
+
+While some may argue that it does not matter if Nepal has an updated Disaster Act or not, the fact remains that there will never be adequate institutional structures, trained human resources, integrated planning, and realistic budgets for DRM without a state-of-the-art National Disaster Act in the country.
+
+Other policies are sorely needed as well. Four years ago, a study by the International Federation of Red Cross and Red Crescent Societies underscored the lack of a mechanism to implement building codes or even safety inspections—a shortcoming still tragically apparent.
+
+Just prior to the earthquake, the Ministry of Urban Development had spearheaded the drafting of a new Building National Plan of Action with the support of international partners. Once adopted, the new National Plan of Action will replace the current building code dating back to 1993. Hopefully, this new Plan of Action will act as a major keystone in the reconstruction of the country post-2015.
+
+Given the absence of an updated laws and policies, Nepal has taken a predominantly reactive approach to disaster risk rather than the more effective (and less expensive) option of proactive preparedness and risk reduction. It also seems to have relied heavily on the expectation that international organizations and the Indian government would come to the rescue in the event of an emergency. In the absence of real government progress on DRM over the last decade, international partners have had to step in to provide assistance. Two key institutional arrangements that have brought together the Nepalese government and external actors in the absence of approved national structures and policies for DRM are: 1) the Nepal Risk Reduction Consortium, and 2) the Cluster Approach. Both of these structures have been of critical use to the current emergency response in the country.
+
+Many have argued that the international community has done too much in the area of disaster risk management, providing such an intensive level of hand-holding over the years as to substitute for the country’s political leadership and reduce national incentives to centralize the issues as a core government priority. The tragic earthquake in Nepal should lead the government to take the necessary steps to adopt new legislation and new policies on disaster risk management that will prevent such tragedies in the future.
+</text>

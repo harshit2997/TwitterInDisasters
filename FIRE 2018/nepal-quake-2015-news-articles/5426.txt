@@ -1,0 +1,33 @@
+<url>
+http://www.ign.com/articles/2015/05/07/super-smash-bros-live-stream-raises-money-for-nepal-earthquake-relief
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+Super Smash Bros. Live Stream Raises Money For Nepal Earthquake Relief
+</headline>
+
+<text>
+Share. Gaming for good. Gaming for good.
+
+Super Smash Bros. Invitational participant and live streamer Neha "Lilo" Chhetri raised over $4,000 dollars for Nepal earthquake relief with the help of her fans, viewers, and others in the Smash community.
+
+Chhetri, herself born and raised in Nepal, hosted a nine hour donation stream on her Twitch channel, streaming Super Smash Bros. Melee and chatting with other competitive players.
+
+She set just $1,000 as the initial goal, but ended up raising four times that: $4,080.08 to be exact.
+
+All donations were given to general relief for those affected by the 7.8 magnitude earthquake that hit Nepal on April 25th.
+
+The quake's epicenter hit near Lamjung, Nepal less than two weeks ago, triggering a deadly avalanche on Mount Everest, leveling several towns and temples, and killing over 7,000 people.
+
+Video game charities aren't uncommon for live streamers or let's players.
+
+Recently, a YouTuber decided to donate £1 to leukemia and lymphoma research every time he died in Bloodborne.
+
+Then there's the Awesome Games Done Quick series of charity speedruns, which always raises a ton of money for cancer research and other funds.
+
+Chloi Rad is a Staff Writer for IGN. You can follow her on Twitter at @_chloi.
+</text>

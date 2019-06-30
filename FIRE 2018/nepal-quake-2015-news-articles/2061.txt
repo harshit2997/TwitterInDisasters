@@ -1,0 +1,29 @@
+<url>
+http://mashable.com/2015/04/27/nepal-aftershocks-map/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+42 aftershocks have rattled Nepal since massive earthquake
+</headline>
+
+<text>
+While the desperate effort to save lives in earthquake-ravaged Nepal intensified on Monday, residents and rescuers remain uneasy over the more than 40 aftershocks that have rattled the region since Saturday.
+
+See also: Aerial footage from Nepal reveals earthquake devastation
+
+Simon Rogers, a data editor at Google's News Lab, used data from the U.S. Geological Survey (USGS) that show the location of aftershocks since Friday's devastating 7.8-magnitude earthquake.
+
+The data show there have been more than 40 smaller earthquakes after the big one, which struck 34-km ESE of Lamjung, Nepal, at 6:11 a.m. UTC, ranging from 6.7 to 4.1. At magnitude 6.7, that powerful aftershock was strong enough to feel like an another earthquake, making buildings sway and sending panicked Kathmandu residents running into the streets.
+
+"Right now, the main needs are rescuing people and supplying those affected with food, water and shelter," Mariona Minet of Spain's Oxfam Intermon told the Associated Press. "The government has asked them not to go back to their homes" due to the aftershocks, she said. "Electricity and water are cut off, so supplying potable water is urgent."
+
+More than 4,000 people were killed in the earthquake.
+
+Some of the centuries-old monuments that are spread throughout the Kathmandu Valley were heavily damaged, a United Nations official said on Monday. Some of the sites suffered "extensive and irreversible damage."
+
+Some information in this report is provided by the Associated Press.
+</text>

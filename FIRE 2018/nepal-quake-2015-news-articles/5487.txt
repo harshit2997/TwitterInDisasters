@@ -1,0 +1,21 @@
+<url>
+http://www.thejakartapost.com/news/2015/05/06/26-indonesians-be-repatriated-nepal.html
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+26 Indonesians to be repatriated from Nepal
+</headline>
+
+<text>
+Twenty-six Indonesian survivors of an earthquake that devastated Nepal recently will arrive in Jakarta on Wednesday night, according to a military source.
+
+The commander of an evacuation mission team dispatched by the government to Nepal, Lt. Col. Indan Gilang, said that besides the 26 Indonesians, the Indonesian military aircraft would also bring home the 30-member evacuation team, as well as journalists.
+
+'There are six more Indonesians in Nepal who are still missing,' Indan said, adding that several military personnel from the Indonesian Air Force, Taruna Hiking Club (THC) and Mer-C would remain in Nepal to continue the search for the missing.
+
+The UN has said that the quake measuring 7.9 on the Richter scale affected 8.1 million people ' more than a quarter of Nepal's population of 28 million.(+++)
+</text>

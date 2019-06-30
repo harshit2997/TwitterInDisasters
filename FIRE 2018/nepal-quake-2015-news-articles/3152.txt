@@ -1,0 +1,23 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/29/c_134193399.htm
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Switzerland sends medical team to quake-hit Nepal - Xinhua
+</headline>
+
+<text>
+GENEVA, April 28 (Xinhua) -- A 10-strong medical team is scheduled to fly to Nepal Tuesday evening as part of the efforts to provide medical support in the disaster area for women in childbirth and to perform surgery on children there, the Swiss federal government has announced.
+
+The deployment of the team of doctors, by the Swiss Humanitarian Aid Unit, is the first response measure to be taken following an initial assessment of the situation by the rapid response team sent to the region earlier on Sunday in the wake of the devastating earthquake in the Himalayas.
+
+The team, including eight medical personnel and two logistics experts, will travel on the Swiss Federal Council's official jet in cooperation with the Swiss Air Force operated by the Federal Department of Defence, Civil Protection and Sport (DDPS).
+
+The team will take with it 562 kg of the medical equipments needed for its work.
+
+According to a Swiss government spokesperson, a larger consignment of aid is scheduled to be delivered on the coming Thursday.
+</text>

@@ -1,0 +1,39 @@
+<url>
+http://america.aljazeera.com/articles/2015/4/29/frustration-mounts-in-quake-devasted-nepal.html
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Frustration mounts in quake devastated Nepal
+</headline>
+
+<text>
+The death toll from the devastating earthquake in Nepal passed 5,000 on Wednesday as officials conceded they had made mistakes in their initial response, and a U.N. food agency official said distribution of food and medicine would start five days after the quake struck.
+
+It would take time for the aid to reach survivors in remote communities who have been cut off by landslides, warned said Geoff Pinnock, a World Food Program officer.
+
+The U.N. food agency was expected to deliver shipments of high-energy food biscuits to be sent out to areas without enough water for cooking, Pinnock said. The first aid shipments had reached Dhading district, just east of Gorhka, Tuesday night, he said.
+
+The government has yet to fully assess the devastation, unable to reach many remote mountainous areas despite aid supplies and personnel pouring in from around the world.
+
+The U.N. says the disaster has affected 8.1 million people — more than a fourth of Nepal's population of 27.8 million — and that 1.4 million needed food assistance.
+
+Anger and frustration were mounting steadily on Wednesday, after many Nepalis slept out in the open under makeshift tents for a fourth night since the country's worst quake in more than 80 years.
+
+In Kathmandu, thousands of people were lining up at bus stations, hoping to reach their hometowns in rural areas. Some have had little news of family and loved ones since Saturday's quake. Others are scared of staying close to the epicenter, northwest of Kathmandu.
+
+“I am hoping to get on a bus, any bus heading out of Kathmandu. I am too scared to be staying in Kathmandu,” said Raja Gurung, who wanted to get to his home in western Nepal.
+
+“This is a disaster on an unprecedented scale. There have been some weaknesses in managing the relief operation,” Nepal's Communication Minister Minendra Rijalsaid late on Tuesday.
+
+Prime Minister Sushil Koirala said Tuesday that the death toll could reach 10,000, which surpass the 8,500 deaths caused by a 1934 earthquake, the last disaster on this scale to hit the Himalayan nation of 28 million people that sits between India and China.
+
+As of Wednesday, rescue helicopters have been unable to land in remote mountainous areas. Shambhu Khatri, a technician on board one of the helicopters, said entire hillsides had collapsed in parts of the worst-hit Gorkha district, burying settlements, and access was impossible.
+
+“The big challenge is to find a place to land,” he said.
+
+A health official in Laprak, a village in the district best known as the home of Gurkha soldiers, estimated that 1,600 of the 1,700 houses in the village had been razed.
+</text>

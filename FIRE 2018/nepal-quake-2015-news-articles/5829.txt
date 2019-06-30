@@ -1,0 +1,31 @@
+<url>
+http://www.bgr.in/news/vodafone-foundation-sends-mobile-network-in-a-backpack-to-earthquake-hit-nepal/
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Vodafone Foundation sends ‘mobile network in a backpack’ to earthquake-hit Nepal
+</headline>
+
+<text>
+To help restore mobile communications in earthquake-hit Nepal, Vodafone Foundation has sent a portable “mobile network in a backpack” to the Kathmandu Valley. The Instant Network Mini system can connect up to five mobile phone users to global telecoms networks concurrently within a radius of 100 meters and enable text messages to be sent to thousands of people to provide crucial information following a disaster.
+
+“The instant network mini, an 11kg mobile network in a backpack which can be set up in just 10 minutes, has arrived in Kathmandu with the Instant Network team leader on a commercial flight,” the company said in a statement.
+
+The GSM base transceiver station connects to a host network over a highly portable satellite connection and is run through an integrated battery solution. The team will offer support to local operators to help re-establish mobile communications, help aid workers communicate during the relief effort and enable people to contact their families following the devastating earthquake.
+
+FROM EARLIER: How tech companies are helping in rescue and relief operations after deadly Nepal earthquake
+
+The Vodafone Foundation has a team of volunteers, all Vodafone employees, on standby to deploy additional Instant Network equipment, including the larger (but less than 100kg) Vodafone Foundation Instant Network – a mobile network in four suitcases which can be taken on a commercial flight – as well as a new 3G version of the Instant Network.
+
+“The team, working alongside NGO Telecoms Sans Frontieres, is currently awaiting instruction from the local operators and NGOs working in Nepal as to when and where the equipment should be deployed. The equipment will be deployed once the scope of the mission is confirmed,” the statement added.
+
+The Vodafone Foundation Instant Network is transportable on commercial flights and allows emergency response partners such as Telecoms Sans Frontieres to travel with emergency communications equipment as it responds immediately to any disaster. Once on location, a network can be established in less than 40 minutes.
+
+It was used by Vodafone during Cyclone Phailin in Odisha in 2013 and also during Uttarakhand in the heavy deluge. The network was also deployed in the Philippines in November 2013 during Typhoon Haiyan, where over 443,000 calls were made and 1.4 million SMS were sent in 29 days.
+
+Telecom operators like Vodafone India, Bharti Airtel, Idea Cellular, Bharat Sanchar Nigam Ltd and MTS India who earlier had extended call rate concessions for quake-hit families, however, did not extend it further.
+</text>

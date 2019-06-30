@@ -1,0 +1,29 @@
+<url>
+http://www.morningjournal.com/general-news/20150508/ohio-state-professor-uses-satellite-maps-to-aid-relief-effort-in-nepal
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+Ohio State professor uses satellite maps to aid relief effort in Nepal
+</headline>
+
+<text>
+COLUMBUS (AP)  An Ohio State professor is using his skills as a glaciologist to help the relief effort in Nepal.
+
+Ian Howat is used to studying maps of ice-covered terrain to track changes in Antarctica. But now hes teaming up with University of Minnesota researcher Paul Morin to track landscape changes in Nepal following an earthquake that rocked the country last month and killed more than 7,000 people, the Columbus Dispatch reports.
+
+They helped create software that builds detailed maps from satellite images to show how the landscape in Nepal has changed. The maps can give relief crews a sense of what areas are at risk for flooding or landslides.
+
+You can use (the images) to look at slopes that are particularly unstable and then go target those for assessment, Howat said. We think it could save lives if you could evacuate villages in the way.
+
+Advertisement
+
+Morin said a United Nations relief group has used the maps to identify potentially troubled areas in Nepal.
+
+Howat and Morin knew they could build maps of Nepal, but they needed high-powered computers to do so because a standard desktop computer couldnt handle that amount of data.
+
+They turned to the Oakley Cluster, a supercomputer from the Ohio Supercomputer Center, to crunch the data. Normally, they would need had to apply for a grant to use the supercomputer, but a manager at the center, said the process was bypassed because the circumstances constituted an emergency.
+</text>

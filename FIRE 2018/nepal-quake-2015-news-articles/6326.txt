@@ -1,0 +1,17 @@
+<url>
+http://arirang.co.kr/News/News_View.asp?nseq=179477
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+The World On arirang
+</headline>
+
+<text>
+Reporter :
+
+We start with the latest natural disaster to hit NepalThe country was slammed by yet another powerful earthquake on Tuesday, less than three weeks after it was devastated by the first seven.eight magnitude tremor that killed more than eight-thousand people.According to the U.S. Geological Survey, the second earthquake -- measured at a magnitude of seven.three -- struck near Mount Everest early Tuesday, local time, and was followed by two separate aftershocks.Authorities say the death toll has reached at least 50, while another 12-hundred have been injured.This as the country has been desperately trying to recover and rebuild ahead of the monsoon season which starts next month.Meanwhile, a U.S. military helicopter sent to support relief efforts in Nepal has gone missing, with as many as eight people believed to be on board.The Korean government says it will send an emergency response team to Nepal later today.
+</text>

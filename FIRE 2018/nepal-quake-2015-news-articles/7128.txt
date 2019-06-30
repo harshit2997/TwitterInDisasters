@@ -1,0 +1,57 @@
+<url>
+http://www.dhs.gov/science-and-technology/news/2015/05/05/finder-helps-save-four-nepal
+</url>
+
+<date>
+20150511
+</date>
+
+<headline>
+FINDER Helps Save Four in Nepal
+</headline>
+
+<text>
+For Immediate Release
+
+DHS Science & Technology Press Office, John Verrico (202) 254-2385
+
+NASA Headquarters Press Office: Joshua Buck, (202) 358-1130
+
+NASA Jet Propulsion Laboratory, Elizabeth Landau (818) 354-6425
+
+Washington, D.C. – Four men trapped under as much as 10 feet of bricks, mud and other debris have been rescued in Nepal thanks to a new search-and-rescue technology developed in partnership by the Department of Homeland Security’s (DHS) Science and Technology Directorate (S&T) and the National Aeronautics and Space Administration's (NASA) Jet Propulsion Laboratory (JPL). The device called FINDER (Finding Individuals for Disaster and Emergency Response) uses microwave-radar technology to detect heartbeats of victims trapped in wreckage. Following the April 25 earthquake in Nepal, two prototype FINDER devices were deployed to support search and rescue teams in the stricken areas.
+
+“The true test of any technology is how well it works in a real-life operational setting,” said DHS Under Secretary for Science and Technology Dr. Reginald Brothers. “Of course, no one wants disasters to occur, but tools like this are designed to help when our worst nightmares do happen. I am proud that we were able to provide the tools to help rescue these four men.”
+
+The men had been trapped beneath the rubble for days in the hard-hit village of Chautara. David Lewis, president of one of S&T’s commercial partners, R4 Inc. out of Eatontown, N.J., arrived in Nepal with two prototype FINDER devices on April 29 to assist in the rescue efforts. He joined a contingent of international rescuers from China, the Netherlands, Belgium and members of the Nepali Army in Northern Nepal. Using FINDER, they were able to detect two heartbeats beneath each of two different collapsed structures, allowing the rescue workers to find and save the men.
+
+"NASA technology plays many roles: driving exploration, protecting the lives of our astronauts and improving--even saving--the lives of people on Earth," said Dr. David Miller, NASA's chief technologist at NASA Headquarters in Washington. "FINDER exemplifies how technology designed for space exploration has profound impacts to life on Earth."
+
+The FINDER device will be demonstrated on Thursday, May 7, at the Virginia Task Force One Training Facility in Lorton, Va. At this event, which was scheduled long before the Nepali earthquake, S&T and JPL will demonstrate the technology with the assistance of members of Virginia Task Force One. They will also announce its official transition to commercial enterprise where the devices can be manufactured and made available to search and rescue teams around the world.
+
+FINDER has previously demonstrated capabilities of detect people buried under up to 30 feet of rubble, hidden behind 20 feet of solid concrete, and from a distant of 100 feet in open spaces. A new “locator” feature has since been added to not only provide search and rescue responders with confirmation of a heartbeat, but also the approximate location of trapped individuals within about five feet, depending on the type of rubble.
+
+###
+
+Information for media about the demonstration on Thursday, May 7:
+
+WHO: John Price, Program Manager, First Responders Group, DHS S&T
+
+Jim Lux, FINDER Task Manager, Communications Tracking and Radar Division, NASA JPL
+
+Chuck Ryan, Deputy Chief, Virginia Task Force One
+
+Randal Bittinger, Captain, Fairfax Fire & Rescue Department
+
+WHAT: Demonstration of the FINDER technology in a simulated post-disaster search and rescue scenario
+
+WHEN: May 7, 2015, 10:30 AM EDT
+
+WHERE: Virginia Task Force One Training Facility
+
+9850 Furnace Road (use 9900 for GPS – and follow event signs)
+
+Lorton, Va. 22079
+
+Reporters planning to attend should RSVP to Stacey Levitt Stacey.Levitt@associates.hq.dhs.gov; (202) 254-6769. Additional background information about FINDER can be found at http://www.dhs.gov/detecting-heartbeats-rubble-dhs-and-nasa-team-save-victims-disasters
+</text>

@@ -1,0 +1,45 @@
+<url>
+http://dailynexus.com/2015-04-30/nationalinternational/
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+National/International
+</headline>
+
+<text>
+National
+
+Baltimore Protests
+
+Protesters in Baltimore, Maryland continued marches Wednesday, speaking out against the death of 23-year-old black man Freddie Gray who passed away in prison due to spinal cord injuries inflicted during his time in police custody. Many wore T-shirts that read “Black Lives Matter” and attempted to protest peacefully to respect the wishes of Gray’s family. Protesters in other cities including Ferguson, Missouri, New York, Chicago, Oakland and Los Angeles have marched in solidarity with Baltimore throughout the week. (CNN)
+
+Jerry Brown Water Fine
+
+California governor Jerry Brown proposed a $10,000 per day fine on Tuesday for residents and businesses using excessive amounts of water during the extreme statewide drought. The higher penalties would be a significant increase to the current $500 maximum fine local water districts can impose for water usage infractions. Brown also said he is directing state agencies to speed up environmental reviews of projects that increase local water supplies in response to concern that the fine wasn’t strong enough to spur development of new water resources. (L.A. Times)
+
+American Airlines
+
+American Airlines was forced to ground dozens of domestic flights in the U.S. on Wednesday after iPad devices used to view maps malfunctioned, making flight plans and information temporarily inaccessible. American Airlines said the glitch was caused by a faulty software application on the iPads. The switch to electronic maps was established in 2013 to reduce the burden on pilots to carry large files and for more consistency and reliability among airplane maps and pilot programs. Planes at some airports returned to gates to access internet connection and reload information. (Telegraph)
+
+International
+
+Space vessel
+
+The European Space Agency reported a cargo vessel ferrying supplies to the International Space Station (ISS) is falling to Earth after contact was lost on Wednesday. The seven-meter-long Progress 59 vessel malfunctioned after reaching orbit on Tuesday and went into an uncontrolled spin. Head of Roscosmos Russian space agency Igor Komarov said a safe docking with the ISS is not possible, and the agency is looking toward opportunities for water landing. (The Guardian)
+
+Nepal Earthquake
+
+The United Nations launched a $415 million dollar appeal in emergency relief funds for people affected by the 7.8 magnitude earthquake in Nepal. Saturday’s 7.8-magnitude quake killed more than 5,000 people and injured at least 10,000. Aid is beginning to penetrate the region, but areas closest to the epicenter of the earthquake are still blockaded by rubble and other wreckage, stranded without shelter, food or water. (BBC)
+
+U.N.
+
+French prosecutors and military authorities announced Wednesday they are investigating accusations that French United Nations soldiers sexually abused children in Central African Republic during a 12,000 unit peacekeeping occupation in September last year. The alleged abuses took place between December 2013 and June 2014 at a camp at the airport of Central African Republic’s capital, Bangui, before the UN mission in the country took effect. (Telegraph)
+
+A version of this story appeared on page 8 of the Thursday, April 30, 2015 print edition of the Daily Nexus.
+
+Print
+</text>

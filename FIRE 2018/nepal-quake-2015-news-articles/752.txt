@@ -1,0 +1,33 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/26/c_134184744.htm
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Xinhua sends multiple news reporting teams to cover Nepal's powerful quake - Xinhua
+</headline>
+
+<text>
+BEIJING, April 25 (Xinhua) -- Xinhua became the first international news agency to have reported a massive 7.8 magnitude earthquake that struke somewhere less than 60 km from Nepal's capital, Kathmandu at 11:45 am local time (0600 GMT) on Saturday.
+
+According to a senior official with the country's Home Ministry, the death toll had reached at least 711.
+
+Zhou Shengping, chief correspondent of the Xinhua Bureau in Nepal, along with seven local employees, rushed to ground zero to cover the disaster.
+
+In the meantime, Xinhua has also launched an emergent reporting scheme, sending multiple teams from different areas to Nepal.
+
+Wu Qiang, chief correspondent in New Delhi, and Zhao Yi, chief correspondent in Kabul, have headed to Kathmandu with equipment of marisat systems.
+
+Xinhua has also dispatched an reinforcement team of reporters Zhang Ning, Xu Yanyan and Qin Qing, together with engineer Wang Xiaowei, who had been covering the Asian-African Summit in Indonesia to Nepal, with live broadcasting equipment.
+
+In addition, Bai Yang, Xinhua reporter from Xinhua headquarters in Beijing, would fly to Nepal along with Chinese rescue teams.
+
+The great earthquake has also violently jolted China's Tibet Autonomous Region and surrounding areass.
+
+Strong tremors were felt in the city of Shigatse and Lhasa, capital of the Tibet Autonomous Region.
+
+Xinhua's Tibet Bureau has sent three teams of reporters and technical staffs to quake-hit areas. Enditem
+</text>

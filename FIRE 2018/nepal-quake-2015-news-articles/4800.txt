@@ -1,0 +1,39 @@
+<url>
+http://www.comminit.com/global/content/can-you-hear-me-now-why-good-communication-critical-nepal-quake-response
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+Can You Hear Me Now? Why Good Communication Is Critical to the Nepal Quake Response
+</headline>
+
+<text>
+Author: Imogen Wall
+
+"The need to communicate - and the idea that information is a form of assistance in its own right - is increasingly acknowledged as an urgent but under-supported aspect of disaster response."
+
+In this article, Imogen Wall offers examples of the ways that strategic thinking around the use of communication is playing a role in the response to the April 25 2015 Nepal earthquake.
+
+Wall notes that: "Nepal is proving yet again just how important communication is to disaster survivors. Images of Nepalis charging their phones on the street, listening to the radio, sending an SMS even while lying injured: that this is an operational priority for the survivors of this quake is already clear."
+
+Social media has been key, according to Wall. She cites as an example Stay Strong Nepal, a Facebook group that, as of this writing, has more than 150,000 members. As Wall reports, one Kathmandu resident used Twitter to track down friends, share emergency contact numbers, and thank Skype for allowing free calls for Nepalis. "Nepalis overseas are joining online volunteer efforts to translate information and map affected areas. Local newspapers continue to publish online, even while they struggle to print and distribute their traditional hard copies....Sector updates are being produced by the CDAC [Communicating with Disaster Affected Communities] Network, available from their website. Tools like the message library, an online bank of approved safety information and advice, are available for all."
+
+According to Wall, survivors, especially those outside urban areas, are also turning to more traditional platforms, like radio stations, to find out: where to get food, which hospitals are open, and how to deal with an aftershock. "BBC Media Action, which has long worked with community radio in Nepal, went on air with their first Lifeline programme for Nepal - designed to provide useable information about the emergency - within 10 hours."
+
+Suggested strategies going forward:
+
+"Get the phone networks working. Mobile is now the most important communications tool most affected communities have access to....
+
+Assess information needs and channels. You can't communicate unless you know how people like to get information - and guessing doesn't work. In Haiti, one of the poorest countries in the world, aid workers were surprised to find that 80 percent of people nevertheless had mobile phones.
+
+Help local media do their job. For many in rural Nepal, radio is their sole link with the outside world. Local journalists are also first responders and providers of information: help them become operational again. In Nepal, stations outside the capital have been badly damaged or destroyed, while in Kathmandu, those that are functioning are using generators that are running low on fuel....Have a local spokesperson fluent in the right languages. Distribute newspapers with aid packages.
+
+Listen, as well as talk....Listening is crucial. In Nepal, rumours are circulating of another major quake, causing people to panic. Picking up on that, BBC Media Action and others have been broadcasting the simple fact that all earthquakes are impossible to predict. In Haiti, having a local staff member tasked with engaging local populations helped the World Food Programme find out that people were selling and forging their vouchers. It was then able to redesign them.
+
+Get your content into the right languages and cultural context....Translators Without Borders are available to help with translation into and out of Nepali, Newari and Hindi. Find them on Twitter: @translatorswb
+
+Be ready to explain who you are and what you are doing. Face-to-face communication is always essential: make sure local staff are equipped to answer questions about your agency, projects and mandate. And give local staff ways to feed back what they are hearing to their managers..."
+</text>

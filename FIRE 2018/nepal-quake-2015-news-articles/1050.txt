@@ -1,0 +1,15 @@
+<url>
+http://www.sacbee.com/news/local/article19663902.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Sacramento family hears fearful tales from relatives in quake-stricken Nepal | The Sacramento Bee
+</headline>
+
+<text>
+Volunteers work to remove debris at the historic Dharahara Tower, a city landmark, after an earthquake in Kathmandu, Nepal, Saturday, April 25, 2015. A Sacramento resident was relived to find that relatives in Nepal survived the quake, though a brother’s home was destroyed. Niranjan Shrestha AP
+</text>

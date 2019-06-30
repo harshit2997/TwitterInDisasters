@@ -1,0 +1,39 @@
+<url>
+http://wlrn.org/post/how-maps-are-saving-lives-nepal-recovers-its-earthquake
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+How maps are saving lives as Nepal recovers from its earthquake
+</headline>
+
+<text>
+Nama Budhathoki was working on his Ph.D. in the US when a huge earthquake hit Haiti in 2010.
+
+A student of mapping, he quickly noticed that initial recovery efforts in Haiti lacked good, detailed maps of the island. Budhathoki is from Nepal, and he couldn't help but think about his own country. Nepal was also at great risk for a big earthquake, and the country also lacked decent maps.
+
+So when he returned home in 2013, Budhathoki started Kathmandu Living Labs, an attempt to get better maps for Nepals. He recruited volunteers to help map out the Kathmandu Valley using OpenStreetMap, a crowd-sourced tool that allows many people to add details to a map and share it.
+
+“One of the first things we wanted to map was the road networks," he says, "and then slowly we wanted to put other information like restaurants, hospitals, temples — essentially anything."
+
+That's far from easy: Even in the capital city of Kathmandu, there are often no street names or building numbers. “You won’t see that when you walk down the street, and that makes navigation extremely difficult, even in normal situations,” Budhathoki says.
+
+Imagine trying to navigate the unmarked roads during an emergency — or after an earthquake, when many of the landmarks might have been severely altered or even destroyed completely.
+
+That's why Budhathoki’s work has been crucial for relief efforts following last month's earthquake. Many foreign and local NGOs delivering aid have relied on the crowd-sourced maps to navigate in Kathmandu. And, thanks to their previous work, Budhathoki's team was able to focus its current efforts on rural areas where aid is badly needed.
+
+“Since cities were already mapped, the OpenStreetMap community could start mapping the villages," he says. "We didn’t have to focus a lot of the core of the cities, so all 11 districts that were badly hit by the earthquake were quickly mapped."
+
+Because of the crowd-sourced nature of OpenStreetMaps, the maps are continually updated with the latest details to aid recovery efforts.
+
+“I think a lot of people have started to understand the value of a map from this earthquakes," Budhathoki says. "It’s not really a map culture here, but now, for rescue operations to distribute the needed materials — even to plan the recovery process — a lot of people have started talking about the map."
+
+
+
+
+
+From PRI's The World ©2015 Public Radio International
+</text>

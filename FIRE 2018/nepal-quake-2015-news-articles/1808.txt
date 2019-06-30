@@ -1,0 +1,33 @@
+<url>
+http://www.business-standard.com/article/news-ians/weather-traffic-delay-indian-flights-to-kathmandu-115042700467_1.html
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Weather, traffic delay Indian flights to Kathmandu
+</headline>
+
+<text>
+Two days after the devastating earthquake in Nepal, Indian carriers continued to face air traffic congestion and parking constraints at Kathmandu's Tribhuvan International Airport, leading to delayed departures and arrivals, airline officials said on Monday.
+
+SpiceJet flight SG 041, scheduled to depart for Kathmandu from Delhi at 12:30 p.m., took off at 1:13 p.m. So was the case with Air India flight AI 213 -- it was scheduled to depart at 7:20 a.m. but took off at 1:02 p.m., officials at Indira Gandhi International Airport here said.
+
+"Our first flight AI 1213 from Delhi has landed in Kathmandu today after holding in the air for over an hour for air traffic control (ATC) clearance," the airline tweeted.
+
+Most Indian airlines are also making efforts to operate additional flights to bolster rescue and evacuations operations in Nepal. But like on Saturday and Sunday, inclement weather and logistical constraints continued to disrupt operations.
+
+"Six flights are guaranteed by SpiceJet today. We are trying for two more flights," Ajay Jasra, general manager for corporate communications for SpiceJet, told IANS. "We are also operating a special relief flight -- a 186-seater Boeing 767-800 to fly back early morning."
+
+The special relief flight SG 8451 will leave at 11:00 p.m. and return at 3:25 a.m. on Tuesday. "Yesterday we flew back 584 passengers from Kathmandu and in the morning another 186 passengers have been brought back from Nepal," said Jasra.
+
+The carrier also notified an email address so that accredited non-government and relief-related organizations could fly relief material, doctors and rescue personnel to Kathmandu for free.
+
+Similarly, Indigo airline is operating an extra flight today in addition to the usual single and return flight it operates to Nepal. Indigo is only charging the applicable taxes of Rs.1,656. "We are not charging anything ourselves for the ticket."
+
+Air India extended a concession. It had scheduled four additional flights on Monday. In total, the flag carrier was slated to operate seven flights from India to Kathmandu on Monday -- four from New Delhi, two from Kolkata and one from Varanasi.
+
+The national carrier has also cut the airfare to Rs.4,700, inclusive of taxes, from Rs.14,000 it was charging for a one-way ticket originating from Delhi, Kolkata and Varanasi to Nepal.
+</text>

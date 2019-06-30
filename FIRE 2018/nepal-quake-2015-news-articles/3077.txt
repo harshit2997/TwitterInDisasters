@@ -1,0 +1,35 @@
+<url>
+http://www.euronews.com/2015/04/28/nepal-death-toll-rises-un-announces-8-million-affected-by-earthquake/
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Nepal death toll rises: UN announces 8 million affected by earthquake
+</headline>
+
+<text>
+Rescue teams have been searching for survivors in the historic city of Bhaktapur, near the Nepali capital Kathmandu.
+
+The 7.9 magnitude earthquake was the biggest disaster to hit Nepal in over 80 years… and the government has yet to assess the full scale of the damage.
+
+Four days on from disaster, Prime Minister Sushil Koirala announced the death toll could reach 10,000. It currently stands at more than 4,500.
+
+With the rain forecast to continue, many have been forced to take refuge in makeshift tents after their houses were either destroyed or threatened by aftershocks. The tremors are also hampering search and rescue efforts in the Himalayan country.
+
+Anil Razssrdes is now staying in one such tent with 12 family members, after his home was severely damaged.
+
+“We don’t have food, water supplies, everything,” he said. “We are sitting here from (the) first day to now (April 28) and nothing is coming from government, so we wait out.”
+
+Namrata Adsikron is also residing in a tent. She said:
+
+“Even little children and old women have to stay outside,” she added. “Nobody has taken care of us. We have to stay like this outside with little space and a lot of dust. We have to stay in fear, without knowing where to move to. The question now is, what do we do and where do we go?”
+
+While crowds are fighting to leave Kathmandu, international rescue teams are touching down in the capital’s airport.
+
+From Wednesday (April 29), The World Food Programme will begin an emergency operation providing food for 1.4 million people over the next three months,
+
+The United Nations estimates the quake has affected up to eight million people – over a quarter of Nepal’s population. Its refugee agency UNICEF says one million children are in need of help.
+</text>

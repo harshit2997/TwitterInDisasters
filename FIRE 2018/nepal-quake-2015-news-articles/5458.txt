@@ -1,0 +1,27 @@
+<url>
+http://news.xinhuanet.com/english/2015-05/07/c_134219203.htm
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+IFRC urges fast delivery of aid in Nepal's remote communities - Xinhua
+</headline>
+
+<text>
+GENEVA, May 7 (Xinhua) -- The International Federation of Red Cross and Red Crescent Societies (IFRC) on Thursday called for distributions of relief and emergency shelter supplies to meet the needs of survivors living in Nepal's isolated areas, 11 days after the devastating earthquake killed 7,500 people and left hundreds of thousands homeless.
+
+"The monsoon arrives in June and people in remote hilltop villages and mountainous areas are extremely vulnerable. Reaching these communities with emergency shelter materials such as tents and tarpaulins is our number one priority", said Dev Ratna Dhakwa, Secretary General of the Nepal Red Cross Society.
+
+IFRC has mobilized a major airlift of relief items from its logistics hub in Kuala Lumpur, Malaysia, with flights arriving almost daily in Kathmandu.
+
+IFRC noted three quarters of the affected population in the worst-hit areas are in districts outside of the Kathmandu Valley where access can be extremely difficult due to poor road infrastructure.
+
+IFRC's international humanitarian response to the earthquake has scaled up significantly in recent days. Every day, trucks laden with relief leave Kathmandu destined for the 14 worst affected districts where the Nepal Red Cross is distributing relief.
+
+"Shelter is pivotal, we have distributed tents and tarpaulins to shelter 130,000 people and another 30,000 tarpaulins will arrive in the coming week", said Martin Faller, head of the IFRC's earthquake response operation in Nepal.
+
+"As we meet emergency shelter needs we are also looking at options to help people build back their homes quickly and safely. Cash distributions will most likely be an important part of the package of support that we will be providing affected families," Faller added.
+</text>

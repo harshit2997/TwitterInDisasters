@@ -1,0 +1,17 @@
+<url>
+http://www.bloomberg.com/news/articles/2015-04-26/google-explorer-killed-on-everest-raised-awareness-about-climate
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Google Explorer Killed on Everest Raised Awareness About Climate
+</headline>
+
+<text>
+Google Inc. executive Dan Fredinburg was pursuing his latest environmental passion -- and a challenge from the late author Jack Kerouac -- when he lost his life in an earthquake on Mount Everest.
+
+To continue reading this article you must be a Bloomberg Professional Service Subscriber. If you believe that you may have received this message in error please let us know.
+</text>

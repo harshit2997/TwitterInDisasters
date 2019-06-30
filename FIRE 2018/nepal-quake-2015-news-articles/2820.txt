@@ -1,0 +1,25 @@
+<url>
+http://ottawacitizen.com/news/world/editorial-how-to-help-nepal
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Editorial: How to help Nepal
+</headline>
+
+<text>
+More than five years after the 2010 earthquake in Haiti, many survivors are still living in damaged buildings or tent camps. That earthquake recovery effort stands as perhaps the most famous recent example of good intentions thwarted by poor planning and institutional failures. Nepal is not Haiti, but it has challenges of its own that have hampered the relief effort these last few days and must factor in to the reconstruction effort in the years to come.
+
+Now is the time for Canadians to help quickly and generously in the best way they can: by donating money, either to proven local agencies on the ground in Nepal, or to large international organizations. The United Nations estimates that eight million people are in need of humanitarian assistance. It feels satisfying to send money specifically to Nepal earthquake efforts, and the Canadian government is only matching donations sent to earmarked funds within Canadian charities. This emphasis on earmarking helps us to understand how much we’ve responded to a given crisis but it is not always the most efficient way to give. That’s why some big international charities, such as Doctors Without Borders, encourage unrestricted donations, especially in the early days when it is difficult to know the scope of the need.
+
+Now is definitely not the time for pet projects, grassroots volunteers or shipments of supplies that will clog the transportation network and could interfere with the economic recovery. Nepal’s airport is already a bottleneck. It is more helpful for Canadians who want to muster community support to gather money from friends and neighbours than to gather sleeping bags or shoes.
+
+As the relief effort turns to reconstruction, one of the most useful ways Canada’s government can help is in support for Nepal’s institutions. The country has been struggling to unite its factions and reform its constitution in recent years, and the structures of government have suffered. It will be an enormous task to rebuild – and ideally, to rebuild better, with safer buildings that might be able to keep more people safe in the next earthquake. That will require not only money and coordination but a transparent, effective bureaucracy and a stable political culture. International humanitarian reconstruction projects are notorious for their unintended consequences and coordination problems; the more local capacity a country like Nepal has to make use of foreign help under local direction, the better.
+
+And once the crisis is over, Canadians who want to help might consider travelling to Nepal as tourists. Tourism is key to Nepal’s economy.
+
+In the meantime, we can support the agencies and institutions best placed to help the people suffering now, before monsoon season arrives.
+</text>

@@ -1,0 +1,37 @@
+<url>
+http://reliefweb.int/report/nepal/earthquake-nepal-may-10-14-2015
+</url>
+
+<date>
+20150515
+</date>
+
+<headline>
+Earthquake in Nepal (May 10 - 14, 2015)
+</headline>
+
+<text>
+May 14
+
+GlobalMedic has supported the Grande International Hospital - one of largest hospitals in Kathmandu housing 240 beds. Despite being one of the most modern hospitals in the capital, it suffered debilitating internal damage. The top floors have been rendered unusable, forcing the main floor cafeteria to be converted into an acute care operating room. The earthquake damaged the water purification system within the hospital, rendering the water non-potable. In response, GlobalMedic has been providing safe, clean drinking water through the operation of two Trekker units.
+
+In addition, we have supported the military hospital which is the primary receiving area for new earthquake patients who have been transferred from rural areas, by providing critical tenting. The Nepalese military hospital suffered condemning damage, and is now completely unusable. The patient load is still high. The desperate need for these tents was evident as patients were ushered into the units for medical attention even before the GlobalMedic team had them entirely assembled.
+
+GlobalMedic is continuously assessing rural areas - some of which contain communities that have not been reached since the first earthquake struck on April 25th. The main focus is to provide clean drinking water for the purpose of supporting family health, while installing strong shelter systems to provide a home as immense rains are imminent. As monsoon season approaches, fears of serious downpours causing more landslides eliminating all access to many remote areas increase.
+
+May 12
+
+A 7.3 magnitude earthquake struck in the afternoon during our aid distribution and multiple strong aftershocks followed. Our teams reported collapsed buildings and general chaos as people ran into the streets for safety. Several members of our team were meeting with DART and captured this video:
+
+Our team members are safe. We were forced to delay a distribution of household water purification units that was being conducted as thousands of people poured onto the streets. We have rescheduled it for tomorrow. We are moving our point of use water purification systems to provide clean drinking water for families that have been moved back onto the streets.
+
+Our focus is to continue providing families with access to clean drinking water and to keep setting up tents to replace damaged critical infrastructure like schools and clinics.
+
+May 10
+
+GlobalMedic team members in Nepal have had a busy weekend; going through rough terrain to deploy tents in mountain villages and repair essential water systems in hospitals and homes.
+
+A Eureka tent was put up by the team at the Sheer Memorial Hospital in Banepa, Kavre. This will be used as shelter by patients whose houses were destroyed by the earthquake. We were also able to repair Kathmandu Hospital's reverse osmosis water system and clean algae out of the water storage tanks. The Hospital has 350 beds and its patients now will have access to clean drinking water. The team also trained the hospital staff on proper chlorinating techniques for their water system.
+
+Many distributions occurred at children’s hospitals and homes during the weekend. P&G purifier of sachets were distributed at the Dada Guan Children’s home, and Aquatab water purification tablets were distributed in Sanukagi Thapa.
+</text>

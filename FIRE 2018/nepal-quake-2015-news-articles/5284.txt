@@ -1,0 +1,21 @@
+<url>
+http://www.pbs.org/newshour/bb/destruction-nepals-temples-puts-spiritual-culture-risk/
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+Destruction of Nepal’s temples puts spiritual culture at risk
+</headline>
+
+<text>
+Gwen Ifill:
+
+Thousands of Nepalese gathered today for prayer, ritual and ceremony, marking the end of a traditional Hindu mourning period held after the massive earthquake.
+
+The death toll has grown to more than 7,800 people. Another 15,000 have been injured. Engineers are continuing to inspect thousands of damaged houses around Kathmandu. The earthquake also wrought considerable destruction and damage to religious, cultural and heritage sites throughout the region.
+
+Jeffrey Brown reports on that, part of his ongoing work on Culture at Risk.
+</text>

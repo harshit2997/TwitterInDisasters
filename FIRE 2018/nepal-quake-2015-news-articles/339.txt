@@ -1,0 +1,25 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/26/c_134184418.htm
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Venezuela conveys sorrow for quake victims in Nepal - Xinhua
+</headline>
+
+<text>
+CARACAS, April 25 (Xinhua) -- The Venezuelan government on Saturday expressed its "deep sorrow" to victims in the powerful earthquake in Nepal and offered its expertise in rescue operations to the Asian nation.
+
+A Foreign Ministry statement said President Nicolas Maduro, on behalf of the Venezuelan people, stated Venezuela's solidarity with the families of the thousands of victims of the earthquake.
+
+"The Government of the Bolivarian Republic of Venezuela reiterates its solidarity in this hour of grief with the Nepali people and expresses its deep sorrow after the tragedy that has happened in Nepal," the statement quoted Maduro as saying.
+
+Caracas also offered Nepali President Ram Baran Yadav its rescue teams of Civil Protection, "to provide all cooperation that these situations require."
+
+An 8.1-magnitude earthquake jolted large parts of Nepal Saturday, with the epicenter being monitored at about 80 kilometers northwest of the Nepali capital, Kathmandu. The massive quake also struck areas of eastern India and Bangladesh, as well as China's Tibet Autonomous Region. The deaths toll from the earthquake is increasing and so far authorities have reported more than 900 deaths.
+
+The Nepalese authorities have declared a state of emergency and appealed for humanitarian assistance from international organizations.
+</text>

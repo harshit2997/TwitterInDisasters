@@ -1,0 +1,39 @@
+<url>
+http://news.yahoo.com/nepal-earthquake-radar-saves-lives-heartbeat-115727888.html
+</url>
+
+<date>
+20150511
+</date>
+
+<headline>
+After Nepal Earthquake, Radar Saves Lives in a Heartbeat
+</headline>
+
+<text>
+Radar waves helped search and rescue teams detect the heartbeats of survivors trapped in collapsed buildings after the Nepal earthquake, according to NASA.
+
+Four men were found under as much as 10 feet (3 meters) of bricks, mud and other debris in the town of Chautara, in the Sindupalchowk district, the NASA statement said. The April 25 Nepal earthquake destroyed more than 90 percent of homes in Chautara, and the town's hospital collapsed, according to the Red Cross.
+
+Rescuers used a suitcase-size device that detects human breathing and heartbeats with microwave radar signals. The prototype device, called FINDER (Finding Individuals for Disaster and Emergency Response), was first tested in the aftermath of the 2010 Haiti earthquake.
+
+Using FINDER, the team identified two heartbeats beneath each of two different collapsed structures, allowing rescue workers to find and save the men. [Nepal Earthquake Photos: Odd Effects of Kathmandu Temblor]
+
+Researchers with the Jet Propulsion Laboratory (JPL) in Pasadena, California, created FINDER to help search and rescue teams quickly find people buried under piles of debris. The instrument uses low-power microwave radar to sense movement, such as breathing and heartbeats, through concrete and rubble. JPL engineers have tuned the technology to discern the difference between humans and other animals.
+
+"FINDER exemplifies how technology designed for space exploration has profound impacts to life on Earth," David Miller, NASA's chief technologist, said in the statement.
+
+JPL's researchers used their data-processing prowess to build software that can isolate the weak signal of a heartbeat. A person's chest moves about 0.4 inches (1 centimeter) from breathing and 0.04 inches (1 millimeter) from a heartbeat — tiny movements similar to detecting the very small changes of motion in a spacecraft.
+
+Here's how the FINDER device works. An operator sets up the instrument in front of a rubble pile and hooks it up to a rugged laptop. It takes about 30 seconds to scan the area with microwaves. FINDER sends a low-powered signal equal to about one-thousandth of a cell phone's microwave output, NASA said. Any movement "reflects" back in the signal. Humans are identified by their unique heartbeat and breathing signals. The longer it takes for the signal to return, the farther away the body is. The system works whether people are awake or unconscious, NASA said.
+
+NASA announced Thursday (May 7) that it has licensed the FINDER technology to a private manufacturing company, R4 Inc., in Edgewood, Maryland. It was R4 Inc. President David Lewis who traveled to Nepal on April 29 and helped rescuers with two prototype devices, NASA said.
+
+Microwave search technology has been around for decades, but was only recently available as small, portable devices. The familiar microwave radar that zaps frozen meals for dinner comes in many different wavelengths. Some wavelengths can "see" through concrete, while others are used for heating food, weather forecasting or monitoring sea-level changes.
+
+People in Nepal also hunted for survivors using listening devices and search dogs. "FINDER is a tool that complements the other search methods used by first responders," said James Lux, task manager for the FINDER project at JPL. "It's very gratifying to have a piece of technology that we developed at JPL out in the field helping to save lives."
+
+Follow Becky Oskin @beckyoskin. Follow Live Science @livescience, Facebook & Google+. Originally published on Live Science.
+
+Copyright 2015 LiveScience, a Purch company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</text>

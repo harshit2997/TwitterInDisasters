@@ -1,0 +1,47 @@
+<url>
+http://www.deccanherald.com/content/474509/ham-radio-operators-rescue.html
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Ham radio operators to the rescue
+</headline>
+
+<text>
+Ham radio operators to the rescue
+
+Ahmedabad, Apr 28, 2015, DHNS: 0:54 IST
+
+A team of amateur ham radio operators from Gujarat is on its way to Nepal to help re-establish communication links from its remotest corners to the outside world.
+
+
+
+“Initially a four-member team of ham radio operators will set up two ham radio stations in Nepal’s capital Kathmandu where two relief centres have been started,” said Gujarat Institute of Amateur Radio (GIAR) joint secretary Pravin Valera. The team members include Dharmendra Trivedi and Parimal Purohit from Gandhinagar and Narendrasinh Jhala and Ganubha Parmar from Rajkot, who will help set up the stations.
+
+
+
+These operators have headed for Nepal based on a request from the National Disaster Management Authority (NDMA). It is not without reason that NDMA approached these ham radio operators.
+
+
+
+This group of operators had played a key role in establishing communication links during the killer quake that struck Kutch in Gujarat on Republic Day in 2001 when nearly 20,000 people had died across Gujarat, including more than 12,000 in Kutch. The state was then completely disconnected from the world and it took the state administration over 24 hours to just come to terms with the scale of destruction.
+
+
+
+At that time the telecommunications network, including satellite and cell phones, became defunct. It was the ham radio operators who proved to be a great help to the people of Kutch. Ham radio operators don’t require infrastructure like poles, wire, towers, etc.
+
+
+
+Ham radio simply taps in to shortwave frequencies and traverses long distances. It is compact and can be set up easily. The most important feature during natural calamities like earthquake is that ham radio services can be run for days using car batteries.
+
+
+
+And when one uses the word ‘amateur’ when referring to these ham radio operators, it has nothing to do with their skill or knowledge. It just means that ham radio cannot be used for commercial or revenue generating purposes.
+
+
+
+“It is truly a hobby but often one that makes a difference especially in emergency or disaster situations,” according to the website of Gujarat Institute of Amateur Radio.
+</text>

@@ -1,0 +1,71 @@
+<url>
+http://www.dailycamera.com/science_environment/ci_28102726/boulder-researchers-continue-monitoring-nepals-volatile-terrain
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+Boulder researchers continue monitoring Nepal's volatile terrain
+</headline>
+
+<text>
+UNAVCO Inc. measuring shifts in landscape of earthquake-torn region
+
+A Mexican rescue worker stands at the site of a building that collapsed in an earthquake in Kathmandu, Nepal, on Tuesday. A major earthquake has hit Nepal near the Chinese border between the capital of Kathmandu and Mount Everest less than three weeks after the country was devastated by another quake. ( Niranjan Shrestha / Associated Press )
+
+How to help The International Committee for the Red Cross is working with the Nepal Red Cross Society and is collecting donations online at redcross.org. The Rocky Mountain Friends of Nepal is accepting money, too, at rmfn.org, but all of its collected donations will be forwarded to the Red Cross.
+
+The latest upheaval of the Earth in Nepal, an earthquake near the Chinese border between Kathmandu and Mount Everest, has sent reverberations all the way to Boulder.
+
+Boulder has substantial cultural ties to Nepal, and there are scientific ties as well.
+
+UNAVCO Inc., a Boulder-based, university-governed consortium that measures millimeter changes in the Earth's surface, had dispatched two of its staff to Nepal after the catastrophic 7.8-magnitude April 25 earthquake to collect data from about 23 measuring stations across the ravaged country.
+
+Those two employees, identified as field engineers John Galetzka and Mike Fend, are working in association with University of Colorado geologic sciences professor Roger Bilham. They were still in Kathmandu, as was Bilham, when a 7.3-magnitude earthquake struck on Tuesday.
+
+Reports late Tuesday from Nepal's Home Ministry raised the death toll from Tuesday's event to at least 42, with at least another 1,117 people injured.
+
+Advertisement
+
+Both Galetzka and Fend are currently in Kathmandu, and reported early Tuesday morning to their colleagues in Colorado that they remain unharmed.
+
+"They have all reported they are safe and OK and are continuing to try to move forward, both with the data acquisition and any aid that they can bring," said Glen Mattioli, director of geodetic infrastructure for UNAVCO.
+
+"I'm in constant contact with those guys," said UNAVCO projects manager Jim Normandeau. "This happened during their nighttime, so when I woke up this morning and heard about this, I was like, 'Oh...' But I got notifications from Mike saying that they're OK.
+
+"Right now, they are in Kathmandu. That's where they are basing their operations out of. They either drive to or take a helicopter to the remote sites to try to download the data from the GPS receivers."
+
+Normandeau said that Galetzka was dispatched immediately after the first earthquake, and that Fend, a former CU graduate student, only left Boulder a few days ago. He took with him 25 water filters donated by his Boulder colleagues, to be distributed when their research took them to affected areas.
+
+Trying to reach receivers
+
+The Boulder consortium maintains the Geodesy Advancing Geosciences and EarthScope, through a cooperative agreement with the National Science Foundation that includes funding for its Plate Boundary Observatory, a network of 1,100 permanent GPS receivers across the western United States.
+
+Additionally, UNAVCO provides resources to other investigators and researchers for complementary work in locations across the world.
+
+In the case of Nepal, they are supporting the work of the California Institute of Technology's Tectonics Observatory, and a network of monitoring sites built by Caltech professor Jean-Phillip Avouac.
+
+That network of receivers, once numbering 29, through attrition, was down to about 23 functioning units before the quake. But of those, only eight had currently functioning cellular modems, proving data feeds once a day.
+
+As the crisis conditions in Nepal have permitted, the Boulder-based researchers are trying to reach each one to download both their high-rate and normal-rate data. Often, they're going by Jeep. On occasion, they can get space on a relief helicopter, but none of those aircraft are being diverted, or delayed, for their work.
+
+They have so far also been able to repair the modems on two of the defective units.
+
+"Some of these stations are located at very very high elevations — over 4,000 meters and are only accessible by helicopter," Mattioli said. "Then, of course, helicopters can only fly when the weather allows them to fly. Initially, when John (Galetzka) first got there, helicopters were only used for search and rescue and humanitarian aid — and now resources are sometimes available to others, like our team."
+
+'A somewhat challenging environment'
+
+Normandeau said UNAVCO has not deployed its researchers into such a volatile region casually.
+
+"I don't send people into dangerous areas," he said. "In this in case, I asked Mike (Fend) if he wanted to go. We don't force our employees to go to places where the don't feel comfortable.
+
+"Mike has had experience working in Nepal, and he is with Roger and John. After the earthquake, the second one, occurred, you kind of pause. But he still wants to continue on."
+
+Mattioli admitted to some concern about his personnel in Nepal.
+
+"They know the lay of the land, but I imagine it's a somewhat challenging environment to be in," he said. "They have a lot of local contacts in the region and I feel pretty confident that they know what they are doing and they are going to stay safe."
+
+Charlie Brennan: 303-473-1327, brennanc@dailycamera.com or twitter.com/chasbrennan
+</text>

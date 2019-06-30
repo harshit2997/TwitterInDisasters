@@ -1,0 +1,19 @@
+<url>
+http://reliefweb.int/report/nepal/nepal-earthquake-gentiloni-extends-solidarity-and-orders-emergency-aid
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Nepal earthquake: Gentiloni extends solidarity and orders emergency aid
+</headline>
+
+<text>
+Minister for Foreign Affairs and International Cooperation Paolo Gentiloni extended his solidarity to Nepal, tragically struck last night by a devastating earthquake, while continuing to monitor developments there.
+
+As a contribution to alleviating the dramatic situation, the minister ordered the immediate dispatch of 300,000 EUR in emergency aid, which will be channelled through the International Red Cross to the Nepalese Red Cross for rescue operations.
+
+The funds will be used, in particular, to recover and treat the wounded, distribute food, water and blankets and provide temporary shelter to civilians evacuated from damaged homes.
+</text>

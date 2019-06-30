@@ -1,0 +1,25 @@
+<url>
+http://www.straitstimes.com/news/world/united-states/story/obama-offers-deep-condolences-nepal-20150430
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Nepal earthquake: Obama offers 'deep condolences' to Nepal
+</headline>
+
+<text>
+WASHINGTON (AFP) - US President Barack Obama called Nepal's Prime Minister on Wednesday to express his "deep condolences" for the loss of life in a massive earthquake that has devastated the Himalayan nation.
+
+The White House said Obama and Sushil Koirala discussed "ongoing efforts" to respond to the 7.8 magnitude quake, which shattered the capital Kathmandu and killed more than 5,000.
+
+White House spokesman Josh Earnest said Obama had pledged that the United States will do "all it can" to aid that effort.
+
+The earthquake has been followed by rioting as desperate survivors clash with a government struggling to provide basic services.
+
+The United States has sent US$10 million (S$13 million) in relief and ordered about 24 US Army Green Beret commandos, who were already in Nepal on training missions to join in rescue efforts.
+
+With fears rising of food and water shortages, US Secretary of State John Kerry and Pentagon chief Ashton Carter announced the latest details of the American aid effort, including a second military cargo flight to ferry rescue workers to Nepal.
+</text>

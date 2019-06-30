@@ -1,0 +1,21 @@
+<url>
+https://in.news.yahoo.com/nepal-quake-toll-rises-nearly-900-140803312.html
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Nepal quake: Toll rises to nearly 900
+</headline>
+
+<text>
+Kathmandu, April 25 (IANS) Nearly 900 people were killed in the massive earthquake that struck Nepal on Saturday, officials said.
+
+According to the Nepal police headquarters, 888 people were killed across the nation. Many people were still trapped under rubble.
+
+As many as 268 people were killed in capital Kathmandu, 144 in Bhaktapur and 68 in Lalitpur, police said.
+
+The quake measured 7.9 on the Richter scale. Its epicentre was in Nepal's Lamjung district, some 75 km from capital Kathmandu.
+</text>

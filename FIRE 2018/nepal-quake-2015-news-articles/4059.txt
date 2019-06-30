@@ -1,0 +1,25 @@
+<url>
+http://theweek.com/speedreads/552657/nepalese-official-to15000-may-have-died-earthquake
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Nepalese official: Up to 15,000 may have died in earthquake
+</headline>
+
+<text>
+Silicon Valley's diversity problem is no secret — and now, there are damning statistics to prove it.
+
+A new investigation from Reveal broke down 23 top tech companies' employees by race, gender, and job categories. The results were illuminating: Apple employs the highest percentage of underrepresented minority women ... at 9 percent. And that was the highest percentage.
+
+TechCrunch pointed out that Apple's data includes its retail employees, not just corporate workers, which likely boosts the company's numbers. When the data is filtered to just include professionals, Apple drops to almost the bottom of the list; underrepresented minority women make up just 3 percent of Apple professional employees.
+
+That's not too far from Lyft's 5 percent — which was, you may have guessed, the highest percentage of underrepresented minority women in professional roles. Meanwhile, not a single company had a majority of female employees, though 23andMe came closest with a 50-50 male-female split.
+
+It's important to note that only 23 of the world's leading tech companies are represented in this data, though not for lack of trying. Reveal requested government-mandated diversity reports from 211 top companies.
+
+So until those 188 other companies decide to be transparent, there's no telling just how homogenous things are in the tech world. Read more about the investigation's findings at Reveal. Kathryn Krawczyk
+</text>

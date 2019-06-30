@@ -1,0 +1,23 @@
+<url>
+http://www.mobiletor.com/131695/nepal-earthquake-bsnl-mtnl-airtel-offer-local-free-calls/
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Major Indian telecom companies cut calling rates to quake-hit Nepal
+</headline>
+
+<text>
+Following the Nepal earthquake that occurred at 06:11:26 UTC on April 25, state-owned BSNL, MTNL and even Airtel announced local and free calls to the calamity-struck region. The earthquake which measured 7.9 on Richter scale, claimed the lives of almost 700 people. Apart from bringing down many buildings and houses, it triggered an avalanche on Mount Everest and destroyed the famous Dharhara tower.
+
+In a statement on Twitter, Bharti Airtel said that it was saddened by the terrible impact caused by the earthquake in Nepal. It decided to lend a helping hand to those affected by this crisis by enabling free calls from India to Nepal on Airtel networks, for the next 48 hours.
+
+Communications and IT Minister, Ravi Shankar Prasad, also tweeted about local charges instead of ISD rates being applicable to all phone calls from India to Nepal made by from BSNL or MTNL numbers. BSNL’s Anupam Shrivastava reportedly told PTI that the offer would last for three days. The regular cost of an ISD call to Nepal via BSNL is supposed to be Rs 10 per minute.
+
+BSNL reduced its call charges following approval by Prasad, after a meeting headed by the Cabinet Secretary. The telecom operator offers various types of billing plans. There’s one which charges customers for each second, while another is based on per minute of calls. Users will find that they’ve been billed according to the scheme they’ve chosen and no special fees will apply.
+
+Prasad instructed the Department of Telecommunications (DoT) to quickly restore network services in Bihar and Uttar Pradesh which were also hit by the earthquake. As noted above, Airtel will be offering free calls from India to Nepal for the next two days. It’s not clear if MTNL will take cues from BSNL and deliver local calls at ISD rates for three whole days or not.
+</text>

@@ -1,0 +1,33 @@
+<url>
+http://europa.eu/rapid/press-release_STATEMENT-15-4983_en.htm
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+Statement by Commissioner for Humanitarian Aid and Crisis Management Christos Stylianides on the latest earthquake in Nepal
+</headline>
+
+<text>
+"I reaffirm the European Union's solidarity with the people and the Government of Nepal after a second massive earthquake hit the country yesterday, claiming new lives and causing further destruction. My thoughts are also with India and China, where lives were also lost.
+
+Today I spoke with the Prime Minister of Nepal, Sushil Koirala. I expressed my condolences to him and his fellow citizens. The Prime Minister and I discussed further ways in which the EU could help his country in this difficult time. I asked him to facilitate the swift delivery of foreign assistance where it is most needed within Nepal.
+
+All resources of the European Commission for emergency response to this disaster have been mobilized. Our experts and rescue teams from EU Member States remain in the affected areas and are engaged in the ongoing rescue operations and assistance. The European Union remains committed to help for as long as it takes."
+
+
+
+
+
+For more information
+
+Press release: The EU's assistance to Nepal: http://europa.eu/rapid/press-release_IP-15-4907_en.htm
+
+
+
+Factsheet: EU humanitarian aid in Nepal: http://ec.europa.eu/echo/files/aid/countries/factsheets/nepal_earthquake_en.pdf
+
+
+</text>

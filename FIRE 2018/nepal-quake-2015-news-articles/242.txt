@@ -1,0 +1,15 @@
+<url>
+http://www.mcclatchydc.com/2015/04/25/264426/quake-in-nepal-kills-more-than.html
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Death toll surpasses 1000 in Nepal quake as thousands prepare to sleep outdoors | McClatchy Washington Bureau
+</headline>
+
+<text>
+Volunteers run with a stretcher to carry a dead body recovered from the debris of a building that collapsed after an earthquake in Kathmandu, Nepal, Saturday, April 25, 2015. A strong magnitude-7.8 earthquake shook Nepal's capital and the densely populated Kathmandu Valley before noon Saturday, causing extensive damage and more than 800 deaths. AP
+</text>

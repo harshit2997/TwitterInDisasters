@@ -1,0 +1,15 @@
+<url>
+http://www.aol.co.uk/article/2015/04/27/urgent-appeal-for-help-after-nepal-quake-horror/21176756/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Urgent appeal after Nepal quake horror
+</headline>
+
+<text>
+A plea for funds to help survivors of the Nepal earthquake has been issued by the Disasters Emergency Committee The 7.8-magnitude earthquake has left more than 4,000 people dead and a million potentially displaced. Many residents in Kathmandu have been left without shelter for a fourth night as hospitals struggle to cope with the injured and dead.The DEC is providing live updates showing how its members, including Oxfam, Save the Children, the British Red Cross and Christian Aid, are responding to the crisis.You can donate here More on this story from The Huffington Post
+</text>

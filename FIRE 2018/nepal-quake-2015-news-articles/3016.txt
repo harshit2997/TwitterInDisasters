@@ -1,0 +1,31 @@
+<url>
+http://www.rferl.org/content/nepal-earthquake-death-toll-relief-rescue-aid/26982299.html
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Death Toll From Nepal Quake Over 4,300
+</headline>
+
+<text>
+The death toll from the earthquake in Nepal has climbed above 4,300.
+
+Authorities on April 28 said that 8,000 people had been injured.
+
+International aid has finally begun arriving in the Himalayan nation of 28 million people after the major quake that struck at about midday on April 25.
+
+In Kathmandu, as elsewhere, thousands are sleeping on pavements, roads, and in parks, many under makeshift tents.
+
+Hospitals are full to overflowing, while water, food and power are scarce, raising fears of waterborne diseases.
+
+India and China were among the first contributors to an international effort to support Nepal's stretched resources.
+
+On April 27, the United States announced an additional $9 million in aid for Nepal, bringing total U.S. disaster funding to $10 million.
+
+U.S. Defense Secretary Ashton Carter said two C-17 U.S. Air Force transport planes carrying search-and-rescue personnel and supplies were headed to Nepal.
+
+Based on reporting by AP and Reuters
+</text>

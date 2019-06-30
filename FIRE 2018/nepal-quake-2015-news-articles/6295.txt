@@ -1,0 +1,25 @@
+<url>
+http://www.bbc.co.uk/newsround/32723943
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+Philippine kids send message to Nepal
+</headline>
+
+<text>
+Children that survived a typhoon in the Philippines in 2013 have sent a message of hope to Nepal.
+
+A second quake hit Nepal on Tuesday, two weeks after a massive earthquake devastated the country and rescue work is continuing to find survivors.
+
+The kids in the video were affected by a natural disaster when Typhoon Haiyan, one of the most powerful typhoons ever recorded, tore into the Philippines in south-east Asia in November 2013.
+
+It left some parts of the country completely flattened. Over 6,000 people died and millions were left homeless.
+
+Watch Leah's special report from the Philippines all about Typhoon Haiyan
+
+Footage provided by Plan International.
+</text>

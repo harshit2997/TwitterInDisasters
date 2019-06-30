@@ -1,0 +1,19 @@
+<url>
+http://www.democracynow.org/2015/4/27/headlines/nepal_toll_from_worst_earthquake_in_80_years_nears_4_000
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal: Toll from Worst Earthquake in 80 Years Nears 4,000
+</headline>
+
+<text>
+In Baltimore, Maryland, hundreds of people paid respects to Freddie Gray, the 25-year-old African-American man who died of neck injuries in police custody. Gray’s wake took place Sunday ahead of the funeral today. On Saturday, a peaceful protest of over 1,000 people later turned violent, when some protesters smashed windows and clashed with police. Police arrested at least 35 people and acknowledged “inadvertently detain[ing]” two journalists. A photo editor for Baltimore City Paper was beaten by police in an incident caught on video. Baltimore Police Commissioner Anthony Batts acknowledged police made mistakes when they detained Gray, who died last Sunday, a week after his arrest.
+
+Anthony Batts: “We know he (Freddie Gray) was not buckled in the transportation wagon as he should have been. No excuses for that, period. We know our police employees failed to get him medical attention in a timely manner multiple times.”
+
+Gray was apparently arrested after making eye contact with a lieutenant, then running away. Six officers involved in his arrest have been suspended with pay. His family has said his spine was “80 percent severed” at the neck.
+</text>

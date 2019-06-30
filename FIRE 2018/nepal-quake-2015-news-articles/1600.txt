@@ -1,0 +1,25 @@
+<url>
+http://www.thehindu.com/news/national/telecom-firms-offer-concessions-for-calls-to-nepal/article7145646.ece
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Telecom firms offer concessions for calls to Nepal
+</headline>
+
+<text>
+more-in
+
+Indian telecom companies have announced special call rates to assist rescue and relief work in quake-hit Nepal.
+
+While Bharti Airtel has offered calls made to Nepal free of cost on its network till April 27 midnight, Tata Docomo has announced calls at one paise per second till April 28.
+
+Aircel has offered free calls to Nepal for all its customers till April 28.
+
+“Additionally, those customers travelling to Nepal will also get free incoming while roaming for the next 48 hours” Aircel said. It has also waived International Roaming Rental Deduction for its prepaid customers. Idea Cellular and Vodafone India have offered call rates at Re. 1 per minute compared to Rs. 12 per minute charged under normal circumstances.
+
+While Idea’s offer is valid till the morning of April 28, Vodafone customers can avail this facility till 10 a.m. on April 28.
+</text>

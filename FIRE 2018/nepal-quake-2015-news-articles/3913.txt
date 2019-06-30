@@ -1,0 +1,27 @@
+<url>
+http://www.ibtimes.com/nepal-earthquake-update-protesters-block-traffic-clash-police-kathmandu-1901161
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Nepal Earthquake Update: Protesters Block Traffic, Clash With Police In Kathmandu
+</headline>
+
+<text>
+Protests over lack of aid to earthquake-affected areas in Nepal intensified in Kathmandu on Wednesday, where about 200 people blocked traffic on city roads. Protesters, demanding that aid delivery be speeded up, also confronted Nepal’s Prime Minister Sushil Koirala during his visit to a hospital in the capital city, according to media reports.
+
+“We are hungry, we haven't had anything to drink. We haven't been able to sleep. I have a 7-year-old child who is sleeping in the open. It's getting cold and people are getting pneumonia,” a protester in the streets of Kathmandu reportedly said, accusing the government of not doing enough.
+
+The protests reportedly started when free buses, promised by the government to those wanting to leave Kathmandu, failed to appear. Following Saturday’s disaster, which has killed more than 5,000 people according to the latest casualty count, hundreds of thousands of people have fled the capital, crippling the region’s fragile transport infrastructure.
+
+Earlier on Tuesday, Nepal’s government acknowledged that “some weaknesses” had been found in managing relief operations in the country. Meanwhile, international aid agencies have warned of impending disease outbreaks in the affected districts.
+
+“Even people who have relatively minor injuries, unless they are treated they are at risk of infection,” Sean Casey, who is heading the earthquake response effort for the International Medical Corps in Kathmandu, told the Guardian. “Water and sanitation is also a serious concern for people who are isolated. This area is prone to cholera and we could see disease outbreak.”
+
+Another factor that could severely crimp search, rescue and rehabilitation efforts in remote regions is the threat of landslides and mudslides. According to a new risk assessment carried out by researchers from the University of Michigan, tens of thousands of locations are currently at high risk.
+
+“There will still be slopes that have not yet failed but were weakened. So there will be a continued risk during aftershocks and with the recent rainfall, and again when the monsoon rains arrive this summer,” Marin Clark, a geomorphologist at the university, reportedly said, adding that the region at highest risk for landslides and mudslides is the mountainous area along the Nepal-Tibet border, west of Mount Everest.
+</text>

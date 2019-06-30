@@ -1,0 +1,17 @@
+<url>
+http://www.itv.com/news/story/2015-04-26/nepal-earthquake-over-2-500-dead-as-rescue-efforts-continue/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Three people found alive days after Nepal earthquake
+</headline>
+
+<text>
+Three people have been pulled out alive from the rubble of their home days after Nepal's devastating earthquake, an official has said.
+
+Other developments include:
+</text>

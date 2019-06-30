@@ -1,0 +1,17 @@
+<url>
+http://www.bloomberg.com/news/articles/2015-04-28/nobody-knows-just-how-bad-things-are-in-nepal
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Nobody Knows Just How Bad Things Are in Nepal
+</headline>
+
+<text>
+Down a side street in Kathmandu, Sumit Balang watched a bulldozer rummage through bricks, concrete chunks and other pieces of a four-story apartment building left in ruins after an earthquake on Saturday.
+
+To continue reading this article you must be a Bloomberg Professional Service Subscriber. If you believe that you may have received this message in error please let us know.
+</text>

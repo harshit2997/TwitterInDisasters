@@ -1,0 +1,107 @@
+<url>
+http://www.latimes.com/local/lanow/la-me-ln-nepal-quake-california-risk-20150426-story.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal-size earthquake in California could kill 1,800, study found
+</headline>
+
+<text>
+Both Nepal and California sit at the intersections of huge pieces of the Earth's crust. For Nepal, it is the Indian tectonic plate pushing into the Eurasian plate. For California, it is the Pacific plate sliding along the North American plate.
+
+The locations make regions susceptible to catastrophic earthquakes.
+
+Q: Can a massive earthquake like the one in Nepal this weekend occur in California?
+
+Yes. There have been quakes in California larger than Saturday's 7.8-magnitude temblor that killed thousands. Most notably, the 1906 San Francisco quake is thought to have killed 3,000 people and was estimated to have been 7.9 magnitude.
+
+Significantly smaller quakes in highly populated areas have resulted in major loss of life. Three modern quakes — the Sylmar in 1971, the Loma Prieta in 1989 and the Northridge in 1994 — each were less than 7.0 magnitude but each killed more than 60 people.
+
+The 1933 Long Beach quake was 6.4 magnitude and killed 115 people.
+
+Q: What would such a large earthquake in Southern California look like?
+
+According to estimates by the U.S. Geological Survey and Southern California Earthquake Center, a massive quake on the Puente Hills fault, which runs directly beneath downtown L.A. and the San Gabriel Valley, could kill 3,000 to 18,000 people. Experts consider this one of southern California’s worst-case quake scenarios.
+
+The USGS created a simulation of another potentially destructive scenario: a 7.8 earthquake on the San Andreas Fault with an epicenter at the Salton Sea, which is about 150 miles from downtown L.A..
+
+The earthquake would be so severe that shaking would last as long as two minutes in some areas. About 200 miles of earthquake fault — from the Salton Sea and passing through Palm Springs, San Bernardino and the San Gabriel Mountains — would rupture. The model predicted 1,800 deaths and $213 billion in economic losses.
+
+Among the estimates made by the model:
+
+About 1,600 fires would be expected, with lamps overturning, electrical wires shorting and natural gas lines bursting. Many fires would grow out of control as firefighters struggled to get fire engines across damaged roads and water stopped coming out of their hoses. Officials estimated that fire alone could cause 900 deaths.
+
+Water and electronic supplies could be seriously compromised or cut off for weeks. It probably would take about 10 days to restore power to 90% of customers. It is possible that all three major aqueducts supplying water to Southern California would be severely damaged or destroyed.
+
+Major roads would be closed, and Internet service could face widespread outages.
+
+“These numbers are as low as they are because of aggressive retrofitting programs that have increased the seismic resistance of buildings, highways and lifelines, and economic resiliency,” the report said. “These numbers are as large as they are because much more retrofitting could still be done.”
+
+USGS seismologist Lucy Jones, who is working with L.A. Mayor Eric Garcetti on his earthquake safety campaign, was tweeting during the weekend about the Nepal quake and answering questions posed to her.
+
+She noted that the Nepal quake caused 50 seconds of strong shaking. A quake the same size on the San Andreas fault would cause 50 seconds of shaking in Los Angeles, she said.
+
+Q: Have we learned from previous earthquakes?
+
+The Long Beach quake sparked a serious effort to make buildings that better withstand temblors.
+
+Building code changes over the decades have significantly strengthened structures. In Nepal, experts had long feared weak buildings would result in massive casualties in the event of a major quake. A study by GeoHazards International found that two-thirds of the structures built in the area did not meet the country's own seismic code standards. Buildings in California are better equipped to survive a huge temblor.
+
+There are now efforts in California to retrofit buildings that experts say are at greatest threat of collapse in a big quake. San Francisco is now requiring owners of wood apartments with weak first stories to strengthen them. Los Angeles is moving to follow suit.
+
+Garcetti has also proposed requiring retrofitting of brittle concrete buildings as well as various pieces of the city's infrastructure. Experts have said these concrete buildings — a prominent part of the L.A. skyline — pose the greatest risk of loss of life in a major quake.
+
+Q: What is the history of quakes in California?
+
+Seismic danger has always been part of the California experience. In 1812, a 6.9-magnitude quake centered in the Wrightwood area rumbled across a sparsely populated Southern California. When the shaking hit Mission San Juan Capistrano, the brick church collapsed, killing 40 people inside.
+
+Here is a list of some of the biggest quakes in California, according to the California Geological Survey:
+
+Fort Tejon: 7.9 magnitude on Jan. 9, 1857
+
+Effect: two killed, 220-mile surface scar
+
+San Francisco: 7.9 on April 18, 1906
+
+Effect: 3,000 killed, $524 million in property damage, including fire damage
+
+Owens Valley: 7.8 on March 26, 1872
+
+Effect: 27 killed, three aftershocks of 6.25 or greater
+
+Kern County: 7.5 on July 21, 1952
+
+Effect: 12 killed, three aftershocks of 6 or greater
+
+West of Eureka: 7.3 on Jan. 31, 1922
+
+Effect: Minor; hit 37 miles offshore
+
+Southwest of Lompoc: 7.3 on Nov. 4, 1927
+
+Effect: No major injuries, slight damage; hit offshore
+
+Landers: 7.3 on June 28, 1992
+
+Effect: one killed, 400 injured, 6.5 aftershock
+
+Mendocino: 7.2 on Jan. 22, 1923
+
+Effect: Damaged houses in several towns
+
+West of Eureka: 7.2 on Nov. 8, 1980
+
+Effect: Six injured, $1.75 million in damage; hit offshore
+
+Cape Mendocino: 7.2 on April 25, 1992
+
+Effect: 6.5 and 6.6 aftershocks; hit offshore
+
+shelby.grad@latimes.com
+
+ron.lin@latimes.com
+</text>

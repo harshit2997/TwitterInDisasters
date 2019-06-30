@@ -1,0 +1,37 @@
+<url>
+http://www.bostonmagazine.com/health/blog/2015/05/13/beth-israel-deaconess-boston-nepal-earthquake/
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+Beth Israel's Disaster Medicine Team Was Working In Nepal
+</headline>
+
+<text>
+Beth Israel Deaconess Team Encountered Unexpected Needs in Nepal
+
+Another earthquake struck Tuesday.
+
+A small team of disaster medicine experts from Beth Israel Deaconess Medical Center (BIDMC) returned from a 12-day stint in Nepal this week. But less than 24 hours after touching down in the U.S., another powerful earthquake rocked the small southeast Asian country.
+
+Meg Femino, who was among the BIDMC members to make the trip, tells Boston that their original plan to work at a hospital about 30 kilometers outside of Kathmandu quickly changed due to the substantial presence of international relief personnel and nongovernmental organizations already on the ground. A United Nations’ health cluster dispatched Femino and her team to Jiri, a remote village seven hours east of Kathmandu by way of mountainous dirt roads.
+
+In Jiri, the team worked with a local hospital and sent mobile clinics to nearby villages nestled among the steep passes of the Himalayan Mountains.
+
+“We saw some earthquake injuries, but mostly it was people with chronic illnesses. I was kind of surprised,” Femino says, adding that some of the patients had walked four hours to the hospital for care.
+
+The BIDMC team provided care to about 500 patients during those 12 days, and left behind stockpiles of antibiotics and other essential medicines.
+
+Dan Schwarz, a global health resident at Brigham and Women’s Hospital who has worked in Nepal for years with a nonprofit called Possible, says that he is concerned that the international response is failing to sufficiently coordinate with local health authorities.
+
+“Obviously, these earthquakes have caused many injuries and deaths, but the true tragedy in Nepal is not the earthquake. The earthquake was just an acute tragedy on top of the chronic tragedy of a country that, despite its best efforts as a young democracy, does not have sufficient resources to provide high quality healthcare to its population,” Schwarz said in an email to Boston. “Without question, the most concerning attributes of the international response have been witnessing so many international partners trying to develop their own, parallel relief or reconstruction programs, outside of the central government mechanisms. We have watched as countless well-intentioned groups from NGOs and governments around the world, arrive in Kathmandu with their own plans and priorities, having never consulted local Nepali communities or authorities.”
+
+The death toll from the 7.8 magnitude earthquake that struck April 25 now exceeds 8,000. The 7.3 magnitude earthquake that hit on Tuesday has killed at least 48 people and injured at least 1,000 more.
+
+Femino says that the BIDMC team doesn’t have immediate plans to return to Nepal. Their specialty is disaster medicine, and the needs emerging now are long-term systems issues.
+
+“The biggest vulnerability right now isn’t medical care or food—they have food—it’s shelter,” she says. “Our report to the U.N. and WHO highlights that the need for temporary housing is a real priority.”
+</text>

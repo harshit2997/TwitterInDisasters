@@ -1,0 +1,23 @@
+<url>
+http://www.nltimes.nl/2015/04/28/dutch-team-finds-no-survivors-on-first-nepal-search-day/
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Dutch team finds no survivors on first Nepal search day
+</headline>
+
+<text>
+The Dutch team did not find any survivors of the massive earthquake in the Nepalese capital Kathmandu on Monday, the Urban Search and Rescue team announced in a press release on Tuesday morning.
+
+The USAR arrived in Kathmandu on Monday. They were deployed to search a collapsed hotel and a house. The team consists of 62 search and rescue experts and 8 sniffer dogs. The USAR specializes in search and rescue of people buried under rubble and wreckage. The team is working in shifts so that the search can be continued 24 hours a day.
+
+The team's doctor provided medical assistance. Among other things, the doctor treated a cut on a member of a different searching team. The doctor also visited a injured Dutch tourist in a hospital.
+
+On Tuesday different locations will be assigned to the USAR to search. This is done in consultation with the authorities in Nepal. The coordination for the search and rescue is being done at the USAR base camp close to the Kathmandu airport. The team is also providing assistance at the airport in receiving and distributing newly arrived supplies and aid workers.
+
+According to the United Nations, the earthquake that hit Nepal on Saturday disrupted the lives of possibly 8 million people. On Monday the death toll already stood at more than 4,350, with at least 7,600 people injured.
+</text>

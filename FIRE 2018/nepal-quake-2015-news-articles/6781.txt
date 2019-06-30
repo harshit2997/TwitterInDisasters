@@ -1,0 +1,33 @@
+<url>
+http://abcnews.go.com/International/bodies-found-marine-helicopter-wreckage-site/story?id=31089341
+</url>
+
+<date>
+20150516
+</date>
+
+<headline>
+8 Bodies Found At Marine Helicopter Wreckage Site
+</headline>
+
+<text>
+Eight bodies have been recovered from the site of a downed U.S. Marine helicopter, after wreckage was discovered in a dense forest north of Charikot was identified as the missing aircraft.
+
+The Nepal Army said in a press release that eight bodies had been recovered and they were all unrecognizable.
+
+While the bodies are not identifiable, the helicopter was believed to have been carrying eight passengers in total - six U.S. Marines and two Nepalese Army personnel. Authorities said that both the Nepalese Army and U.S. Military was on site and the investigation was underway.
+
+There has been no indication as to a potential cause for the crash, a U.S. official has said.
+
+The UH-1 Huey helicopter went missing Tuesday, hours after a 7.3-magnitude earthquake struck the country. The helicopter had been delivering humanitarian aid in Charikot - an area 50 miles east of Nepal's capital of Kathmandu.
+
+“The wreckage was found at approximately 11,000 feet in extremely dense forest and exceptionally rugged terrain,” Marine Lt. Gen. John Wissler, the commander of Joint Task Force 505, said at a news conference.
+
+U.S. Air Force pararescuemen and a combat rescue officer who arrived at the wreckage site confirmed that the wreckage spotted by the Nepalese military was the missing helicopter, according to a statement from Joint Task Force 505.
+
+"The wreckage of the helicopter was found in pieces and there are no chances of any survivors," said Nepal's defense secretary, Iswori Poudyal.
+
+After the wreckage was discovered, President Obama offered condolences to the families of the Marines and Nepalese soldiers who were on board the helicopter.
+
+"They went to that remote land to help people who suffered devastating losses in the terrible earthquake," Obama said. "They represent a truth that guides our work around the world: When our friends are in need America helps. Sometimes those in uniform get attention only when there is a battle, but they do so much more than that, looking out for folks who are vulnerable, or having a tough time if [they've] experienced a disaster, and it can involve great risk and great sacrifice. ... The world is better for them."
+</text>

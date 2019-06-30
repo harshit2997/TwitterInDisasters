@@ -1,0 +1,41 @@
+<url>
+http://www.business-standard.com/article/news-ians/nepal-earthquake-over-1-800-dead-115042600075_1.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal earthquake: Over 1,800 dead
+</headline>
+
+<text>
+The earthquake that hit Nepal on Saturday has killed at least 1,805 people, an official statement said on Sunday.
+
+The earthquake, measuring 7.9 on the Richter scale, had its epicentre in Lamjung district, around 75 km northwest of capital Kathmandu.
+
+Following the massive quake, over 50 aftershocks were also felt.
+
+The statement issued by the Nepal home ministry states that the quake has killed 500 people in Kathmandu alone while 164 people, mostly women and children, died in Bhaktapur and 66 in Lalitpur, Kantipur News reported.
+
+The number of casualties may rise, the statement said.
+
+The maximum deaths have been reported in Sindhupalchowk district where 80 people lost their lives.
+
+The quake has killed 70 in Rasuwa, 57 in Kavre, 40 in Gorkha, 35 in Dhading, 10 in Okhaldhunga, nine in Makwanpur, six in Sunsari and two each in Bhojpur and Solukhumbu.
+
+Historical monuments such as Dharhara and Basantapur Durbar Square and Patan Durbar Square have been completely destroyed by the tremors.
+
+In the wake of the disaster, the government has declared national crisis and established a fund of 500 million Nepali rupees (about $4 million) for the reconstruction of the damaged infrastructures.
+
+The tremor also shook India, Tibet, Bangladesh and Pakistan.
+
+At least 36 people -- 25 in Bihar, eight in Uttar Pradesh and three in West Bengal -- were killed and more than 100 injured in India.
+
+The impact was felt in many states in India, particularly in Bihar, Uttar Pradesh, Sikkim, West Bengal and Delhi.
+
+At least two Indians have died in Nepal.
+
+The powerful earthquake also affected Tibet and led to the death of 17 people and injured 53.
+</text>

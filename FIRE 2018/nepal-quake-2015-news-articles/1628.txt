@@ -1,0 +1,15 @@
+<url>
+http://telecom.economictimes.indiatimes.com/news/3g-4g/vodafone-slashes-call-rates-to-quake-hit-nepal/47065149
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Vodafone slashes call rates to quake-hit Nepal, Telecom News, ET Telecom
+</headline>
+
+<text>
+NEW DELHI, Vodafone India on Sunday announced it was cutting down its call rates as part of its efforts to help people reach out to their friends and families in earthquake-hit areas of Nepal.All calls to Nepal would be charged at Re.1 per minute against the regular call rate of Rs.12 per minute with immediate effect till 10 a.m. on April 28."Vodafone India, in its efforts to support the local community and brothers of Nepal along with other disaster relief initiatives has announced that all calls made from its network from anywhere in India to Nepal will be charged as per local rate," an official statement from the telecom company said."This move will enable people to reach out to their friends and family members in the earthquake impacted areas," it said.On Sunday, the state-run Bharat Sanchar Nigam Limited (BSNL) and Bharti Airtel also slashed their call rates or made them free to lend a helping hand to the people affected by the massive earthquake.
+</text>

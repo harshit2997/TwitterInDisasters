@@ -1,0 +1,19 @@
+<url>
+http://www.newindianexpress.com/states/odisha/Govt-Extends-Rs-5-crore-Aid-to-Nepal/2015/05/01/article2791985.ece
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Govt Extends Rs 5 crore Aid to Nepal
+</headline>
+
+<text>
+BHUBANESWAR: Chief Minister Naveen Patnaik on Thursday announced `5 crore assistance for the earthquake victims of Nepal.
+
+Besides, the State Government has also deputed three senior officers of Odisha State Disaster Mitigation Authority (OSDMA) to help in relief and restoration work in quake-ravaged Nepal.
+
+The Chief Minister, who had earlier proposed to send a team of Odisha Disaster Rapid Action Force (ODRAF) to Nepal, hoped that the situation would return to normalcy in the Himalayan kingdom very soon, a release from the Chief Minister’s Office (CMO) said.
+</text>

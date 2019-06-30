@@ -1,0 +1,45 @@
+<url>
+http://asia.nikkei.com/Politics-Economy/Economy/Massive-7.9-magnitude-quake-rocks-Nepal
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Nepal earthquake: Massive 7.8 magnitude temblor kills more than 1,100- Nikkei Asian Review
+</headline>
+
+<text>
+NEW DELHI -- A magnitude-7.8 earthquake hit Nepal Saturday morning, causing widespread damage in the landlocked country and sending tremors into neighboring India, Bangladesh, Pakistan and China.
+
+Nepal's worst quake in 81 years struck at 11:56 a.m., trapping hundreds of people under the debris of collapsed buildings. Reuters put the number of dead in Nepal at 1,170.
+
+Reuters had earlier reported that injured survivors were flooding into Kathmandu's main hospital.
+
+In addition, the earthquake triggered an avalanche on Mt. Everest, killing at least eight people.
+
+Indian TV showed footage of dead bodies, injured survivors being treated in hospitals and collapsed buildings, including the Dharara Tower, a landmark built in 1832 and recognized by UNESCO for its architecture.
+
+Indian TV also showed huge craters on roads from Kathmandu.
+
+Mobile services in the Nepalese capital have been hit, and the international airport was shut down after the quake. Incoming flights were diverted to airports in neighboring countries. The airport reopened late in the afternoon, according to a tweet from the editor of the Nepali Times.
+
+Strong tremors were felt in India, especially in the country's north and east. TV channels reported 23 deaths in the Indian state of Bihar, bordering Nepal, and buildings collapsed in the states of West Bengal and Uttar Pradesh. The total death toll in India is up to 34.
+
+In the Indian capital of New Delhi, panic-stricken people ran out of their houses after experiencing the tremors, which lasted over a minute.
+
+The quake also rolled under parts of Bangladesh. The Daily Star newspaper reported that two women died. It also said an injury count had reached 100.
+
+The U.S. Geological Survey had originally put the quake's magnitude at 7.5 before later revising it. The epicenter was about 80km northwest of Kathmandu.
+
+Indian Prime Minister Narendra Modi is monitoring the situation. He said his government is in the process of gathering information and reaching out to those affected, both in India and Nepal. He has spoken to Nepalese President Ram Baran Yadav, Prime Minister Sushil Koirala and the chief ministers of affected states in India.
+
+Sushma Swaraj, India's external affairs minister, tweeted that a house in the Indian embassy in Kathmandu collapsed, killing the daughter of an employee.
+
+Nepal's government has declared state of emergency. Authorities said the damage has been extensive and that they are focusing on rescue efforts. Aftershocks continued to jolt the region at least into the afternoon.
+
+According to Disaster Preparedness Network Nepal, major earthquakes rarely hit the country but are more likely to cause greater damage than the floods, landslides, epidemics and fires that wrack Nepal every year.
+
+"Past records have shown that Nepal can expect two earthquakes of magnitude 7.5-8 ... every 40 years and one earthquake of magnitude of 8+ ... every 80 years," the network says on its website. "The last great earthquake to strike Nepal was in 1934. [It] had a magnitude of 8.3 [and] caused considerable damage to buildings along with great loss of lives. Since then, the population in Nepal has skyrocketed [and] construction practices have deteriorated."
+</text>

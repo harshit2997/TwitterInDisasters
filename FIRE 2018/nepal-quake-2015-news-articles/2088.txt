@@ -1,0 +1,23 @@
+<url>
+http://www.dawn.com/news/1178516/nepal-quake-217-missing-in-everest
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal quake: 217 missing in Everest
+</headline>
+
+<text>
+Two hundred seventeen people are missing in Mount Everest region, according to ministry officials. Twenty-two bodies have been recovered from the quake triggered avalanche site in Lukla, Mount Everest base camp.
+
+Thirty-two people have been rescued from the region, while 29 are being treated in Lukla Hospital.
+
+Suresh Acharya, joint secretary at the Tourism Ministry, said they were airlifted by five rescue helicopters.
+
+The avalanche swept through a resting point of climbers, guides and porters during the climbing season. Last year 13 people were killed due to an avalanche .
+
+— By arrangement with The Kathmandu Post/ANN
+</text>

@@ -1,0 +1,21 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/26/c_134185423.htm
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+New Zealand offers assistance, condolences after Nepal earthquake - Xinhua
+</headline>
+
+<text>
+WELLINGTON, April 26 (Xinhua) -- New Zealand stands ready with financial and practical assistance as Nepal responds to the devastating earthquake that has left more than 1,800 dead, Foreign Minister Murray McCully said Sunday.
+
+"Although it will take some days to learn the full extent of the tragedy, the casualty toll in dead and injured and the damage to Nepal's infrastructure and economy are clearly massive," McCully said in a statement.
+
+"New Zealand is considering options and is keen to provide help as soon as the Nepali authorities indicate what would be most useful in the context of the wider international response," he said.
+
+"New Zealand expresses its deepest condolences to the people of Nepal. We know from recent experience the suffering an earthquake of this magnitude can bring," McCully said, referring to the February 2011 quake that killed 185 people in Christchurch.
+</text>

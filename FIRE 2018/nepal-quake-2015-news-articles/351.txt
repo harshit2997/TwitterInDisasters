@@ -1,0 +1,23 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/25/c_134184267.htm
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+France ready to provide assistance to Nepal: Elysee - Xinhua
+</headline>
+
+<text>
+PARIS, April 25 (Xinhua) -- France is ready to provide rescue assistance to Nepal after a major earthquake hit the country, said French president Francois Hollande Saturday.
+
+In a press release of his presidential office the Elysee, Hollande expressed France's solidarity with the people and the government of Nepal after the earthquake in the Kathmandu area.
+
+A 8.1-magnitude earthquake struck Nepal early Saturday morning, the China Earthquake Networks Center said.
+
+The epicenter was monitored at 28.2 degrees north latitude and 84.7 degrees east longitude, and the focus of the quake is 20 km deep, according to the center.
+
+More than 700 people were killed so far by the deadly earthquake, according to local authorities.
+</text>

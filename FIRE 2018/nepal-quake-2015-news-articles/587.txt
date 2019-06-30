@@ -1,0 +1,21 @@
+<url>
+https://sg.news.yahoo.com/singapore-will-send-search-and-rescue-team-to-nepal-013249909.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Singapore will send search-and-rescue team to Nepal
+</headline>
+
+<text>
+The Singapore Armed Forces (SAF) will deploy a medical team of about 15 medical personnel, as well as personnel from the Changi Regional Humanitarian Assistance and Disaster Relief (HADR) Coordination Centre, to assist in relief efforts in Nepal after a 7.8 magnitude earthquake struck on 25 April.
+
+The Singapore Civil Defence Force is also preparing to send a 55-man search-and-rescue team to assist in Nepal's post-disaster operations.
+
+Republic of Singapore Air Force C-130 aircraft will provide airlift support to transport the Singapore relief contingent, which includes Singapore Civil Defence Force and Singapore Police Force personnel and their equipment, into the affected area.
+
+On Saturday evening, Prime Minister Lee Hsien Loong also conveyed his condolences to those affected by the earthquake.
+</text>

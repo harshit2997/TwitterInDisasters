@@ -1,0 +1,17 @@
+<url>
+http://www.nwaonline.com/news/2015/apr/27/aftershocks-rain-hamper-aid-to-nepal-20/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Aftershocks, rain hamper aid to Nepal
+</headline>
+
+<text>
+KATMANDU, Nepal -- Dozens of aftershocks in Nepal on Sunday hampered efforts to find survivors of a more powerful earthquake the day before that killed more than 2,500 people and injured as many as 5,900, with the toll still mounting.
+
+This story is only available from our archives.
+</text>

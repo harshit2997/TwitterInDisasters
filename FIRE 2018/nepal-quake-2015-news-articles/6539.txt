@@ -1,0 +1,23 @@
+<url>
+http://darkroom.baltimoresun.com/2015/05/second-earthquake-hits-nepal/
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Second earthquake hits Nepal
+</headline>
+
+<text>
+Second earthquake hits Nepal
+
+15 Photos
+
+A major earthquake hit a remote mountain region of Nepal on Tuesday, killing at least 42 people, triggering landslides and toppling buildings less than three weeks after the Himalayan nation was ravaged by its worst quake in decades.
+
+The magnitude-7.3 quake hit hardest in districts northeast of the capital and terrified a nation already shell-shocked and struggling after a more powerful quake on April 25 killed more than 8,150 and flattened entire villages, leaving hundreds of thousands homeless.
+
+Read the full story
+</text>

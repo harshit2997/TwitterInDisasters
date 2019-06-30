@@ -1,0 +1,37 @@
+<url>
+http://www.3news.co.nz/nznews/kiwi-engineers-headed-to-nepal-2015051111
+</url>
+
+<date>
+20150510
+</date>
+
+<headline>
+Kiwi engineers headed to Nepal
+</headline>
+
+<text>
+Earthquake-devastated Nepal has now asked for New Zealand help and four engineers with expertise in strengthening buildings are on their way to Kathmandu, the Government says.
+
+The Nepalese government had asked for experts to help with damage assessments of critical public infrastructure, including government buildings and hospitals, Foreign Minister Murray McCully said today.
+
+"Four New Zealand engineers, with considerable experience in earthquake strengthening, have volunteered their time and they are en route to Nepal."
+
+They will spend a week in Kathmandu where they will assess damage and decide whether more engineers, up to a dozen, are needed, Mr McCully said.
+
+"This later deployment would be for three months and would focus on assisting with stabilisation and retrofitting of damaged buildings."
+
+Nepal's April 25 earthquake killed more than 8000 people and left thousands more homeless and in desperate need of food, clean water and shelter.
+
+New Zealand's initial offer of an urban search and rescue teams was declined.
+
+However, following the devastating 2010 and 2011 Canterbury earthquakes New Zealand has developed considerable expertise in quake-strengthening buildings.
+
+To date New Zealand has provided $2 million in financial assistance to Nepal, which has gone to the New Zealand Red Cross operating there and the Himalayan Trust.
+
+Read more:
+
+NZN
+
+source: newshub archive
+</text>

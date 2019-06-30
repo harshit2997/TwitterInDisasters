@@ -1,0 +1,83 @@
+<url>
+http://fijione.tv/nepal-earthquake-expected-but-infrastructure-not-ready/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal earthquake expected, but infrastructure not ready
+</headline>
+
+<text>
+Saturday’s deadly earthquake in Nepal was the “big one” experts have been expecting, based on the region’s history and geology.
+
+The magnitude-7.8 earthquake centered less than 50 miles from the Nepalese capital, Kathmandu, toppled homes and historic buildings, and killed more than 2,500 people in Nepal, India and Tibet, authorities said.
+
+Earthquakes are a fact of life in the South Asian country, with tremors of magnitude 4 or 5 occurring several times each year, geologist and science journalist Kate Ravilious said.
+
+With the last major earthquake in 1934, the concern was not if, but when the next “great” earthquake would hit, said Ravilious, author of the 2014 Cosmos article “Kathmandu’s earthquake nightmare.”
+
+In a landlocked country like Nepal, where infrastructure is fragile to begin with, the consequences of such an earthquake had the potential to be “much more serious,” Ravilious told CNN.
+
+While the numbers of deaths and injuries so far are staggering, they don’t begin to match the worst-case scenario envisioned by Santosh Gyawali, senior disaster specialist in Nepal for the U.S. Agency for International Development.
+
+In a 2013 article for USAID, “Implementing Building Codes to Save Lives,” Gyawali wrote: “Based on an estimated current population of three million inhabitants in Kathmandu, experts believe that a large earthquake would result in at least 100,000 deaths, 300,000 injuries, and 1.6 million displaced in the capital city alone.”
+
+Updating building codes
+
+The 2001 Global Earthquake Safety Initiative report trumpeted the dangers facing Kathmandu. Researchers compared 21 at-risk cities around the world, and found that Kathmandu, by far, had the highest lethality potential from earthquakes.
+
+Nepal has been trying to improve its safety and infrastructure by updating building codes for more than two decades. According to Engineers Without Borders UK, 80% of new buildings in Nepal are built informally, without engineering expertise.
+
+Collapsed buildings caused about three-quarters of all earthquake fatalities during the 20th century and they continue to post the most serious earthquake risk in most cities, according to the GESI report.
+
+After a magnitude-6.8 quake in 1988 near the Indian border killed nearly 1,000 people on both sides of the border and damaged nearly 65,000 buildings in Nepal, the country realized it needed to require stronger building stability. Working with the United Nations Development Programme, Nepal devised a recommended national building code, which took effect in 1994. However, Gyawali wrote, “its actual implementation at the municipality level has been progressing very slowly, putting lives at risk.”
+
+“Building codes in Kathmandu itself have not been well upheld in recent years,” said Denis McClean, spokesman for the U.N. Office for Disaster Risk Reduction. “Efforts have been made over the last few years to strengthen these building codes but, unfortunately, this comes too late for the many thousands of buildings that have gone up across the Kathmandu Valley over the last 20 years that did not adhere to the building codes.”
+
+Nepal created a new government agency to try to deal with the dangerous combination of earthquakes and ramshackle buildings. The National Society for Earthquake Technology was born in 1993. NSET-Nepal’s Twitter page touts its vision of “Earthquake Safe Communities in Nepal by 2020.”
+
+Since October 2012, USAID has been working with NSET-Nepal on implementing the building code in 24 Nepalese municipalities with a total population of more than 2 million people. The project will also train at least 400 engineers and 1,800 masons on seismically sound construction, Gyawali wrote.
+
+But money is clearly an issue when it comes to retrofitting or rebuilding structures in Nepal. According to the CIA’s World Factbook, Nepal is among the poorest and least developed countries in the world. The per capita income is around $1,350.
+
+Many more people live in Kathmandu than in 1934
+
+While the 1988 earthquake was fairly strong, it’s been 81 years since the last “big one,” measuring magnitude 8.3, struck Nepal.
+
+What’s different this time from 1934 is the size and density of Kathmandu, which suffered severe damage both then and on Saturday.
+
+“The population has exploded in several decades,” USGS spokesman Gavin Hayes told CNN. “When you get a vast population in the kind of building infrastructure that isn’t equipped to handle shaking of an earthquake this size, that’s when you see the scale of disaster we’re seeing now.”
+
+The big unknown is what happens next, now that the initial rumbles of the quake have passed, Ravilious said.
+
+How will emergency response teams get into the ravaged country? How will transports carrying aid move through the country if roads are destroyed? If and when landslides start, how will mountain villages in the Himalayas fare?
+
+And will it all be resolved before monsoon season starts?
+
+“The worry now is to get Nepal up and running again on feet,” Ravilious said. “The monsoons in a couple of months could make things worse if we don’t sort things out before then.”
+
+Worries mount over landslides
+
+An earthquake is the ground shaking caused by a sudden slip on a fault, according to the USGS. Stresses in the earth’s outer layer push the sides of the fault together, releasing energy in waves that travel through the earth’s crust and cause the shaking felt during an earthquake.
+
+Nepal is located on a major plate boundary between India and Eurasia, where collisions have been in progress for about 50 million years. Those collisions are responsible for the creation of the Himalayas, which include the tallest and some of the fastest-growing mountains in the world, said Chris Goldfinger, director of Oregon State University’s Active Tectonics and Seafloor Mapping Laboratory.
+
+India is moving northward into Eurasia at a rate of about 45 millimeters (1.8 inches) per year, with earthquakes of a magnitude from 8 to 9 occurring on average in the Himalayas every 500 to 1,000 years, said Marin K. Clark, associate professor of geological sciences with the University of Michigan’s Department of Earth and Environmental Sciences.
+
+But two earthquakes that strong have struck in the past 81 years. Besides the magnitude-8.3 quake in 1934, a magnitude-8.6 quake rumbled through Assam, India, and Tibet in 1950.
+
+“This event, while large and tragic, is not unusual for that region of the world as the whole mountain range stretching from Tibet almost to the Caspian Sea is an area of major collision between continental plates,” said geological engineer Nicholas Sitar with the University of California-Berkeley’s Department of Civil and Environmental Engineering.
+
+A major concern about this most recent earthquake is damage from landslides generated by the strong shaking, Clark said. The entire area that experienced shaking was in steep, mountainous topography where landsliding is a significant hazard.
+
+Clark compared the circumstances to the 2008 earthquake in Sichuan Province, China. The magnitude-7.9 earthquake generated more 200,000 landslides, many of which blocked roads, slowing response and recovery efforts. The landslides also blocked river valleys, which created a significant flood hazard.
+
+“We might anticipate a similar situation for Nepal.”
+
+And that could provide yet another tough test for the structures that remain standing.
+
+Source:CNN
+</text>

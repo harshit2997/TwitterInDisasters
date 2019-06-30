@@ -1,0 +1,59 @@
+<url>
+http://www.bu.edu/today/2015/earthquake-tragedy-in-nepal/
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Picking Up the Pieces
+</headline>
+
+<text>
+Sandro Galea was in Manila at a World Health Organization (WHO) conference when he heard the news. A magnitude 7.8 earthquake had struck Nepal, flattening centuries-old buildings in the historic city of Kathmandu and killing thousands. The death toll now stands at over 5,500, although at least one estimate says that number may rise to more than 50,000.
+
+Galea, dean of the School of Public Health, is an expert on the aftermath of mass trauma, having studied how groups behave after disasters like Hurricane Katrina and the 9/11 terrorist attack on New York’s World Trade Center. His work examines why some survivors are more susceptible to post-traumatic stress disorder (PTSD), anxiety, and depression after a disaster, and what can be done to rebuild their mental health.
+
+Galea spoke to BU Today about the earthquake in Nepal on his way home from Manila.
+
+BU Today: You just came from a WHO conference in Manila. Were people discussing Nepal there?
+
+Galea: Yes, it came up quite a bit. The meeting was about urban health. And in the context of cities and health, everybody was quite interested in the consequences of trauma. Manila sits on a large fault, so they’re always worried about earthquakes. So I think the Nepal event was quite resonant for them. I also met with WHO staff from the Western Pacific Region who were in the process of deploying to Nepal.
+
+Were they asking you for advice?
+
+Well, they wanted to hear what one would expect, what the lay of the land is. The WHO gets deployed when there is need. It doesn’t mean that the people who are deployed have particular disaster expertise.
+
+What did you tell them? Are there common patterns that emerge after a mass trauma?
+
+Yes. You have the short-term physical health consequences—obviously you have death at the beginning, then you have disability, but that tends to be a relatively minor part of it. You sometimes have ongoing public health consequences, like we saw with cholera after Haiti, but that’s relatively unusual. And then you have the long-term consequences in the form of mental health, where we end up seeing either post-traumatic stress disorder or depression, and substance use in the long term.
+
+Does the cause of the disaster—say, an earthquake versus a terrorist attack—lead to a difference in the emergence of PTSD or other mental health issues?
+
+It’s a good question. Are there different consequences with a terrorist attack versus a factory explosion versus a flood? And probably there are not. What really matters is the extent of the exposure that an individual has.
+
+Extent of exposure means?
+
+How personally involved you were. Were you in a building that collapsed? Did a loved one die? Were you injured? We know that people who are injured, for example, have much greater risk of mental health consequences than people who are not injured.
+
+Do you see a difference in individual trauma versus mass trauma? For instance, if you lost your leg in a car accident versus losing your leg in a building collapse, would the long-term effects be different?
+
+When the mass trauma hits, it’s not just the individual who’s affected; it’s also her entire community. And that changes the network of supports that normally mitigates the individual trauma. So you end up with a much broader set of consequences from the mass trauma, because it’s not only about the individual’s experience, but also about changing the entire social dynamic.
+
+One might think that because the government would come in and help in a mass trauma and there’d be more widespread recognition of it, it might actually be helpful and there might be some positive aspects to it?
+
+Well, it’s an interesting idea in theory. If there were more services, that could be the case. But experience teaches that the government response—and any response, really—fails to keep up with the disruption caused by the trauma. So it’s a net negative.
+
+Usually when we think about disaster relief, we think about sanitation and immediate medical care. What should be offered in terms of mental health care?
+
+Well, mental health care is obviously needed for people who develop disorders. But the biggest, most important thing that a mental health provider can do after these events is work to reestablish the social and economic services that restore a community to functioning: things like social supports, helping people to have a home and send their kids to school, allowing people to return to jobs. In many respects, these are nonhealth policies that improve health.
+
+I would not have thought going back to work would help.
+
+Oh, it certainly does. It certainly does.
+
+A version of this article originally appeared on the BU Research website.
+
+Barbara Moran can be reached at bmoran@bu.edu.
+</text>

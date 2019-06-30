@@ -1,0 +1,19 @@
+<url>
+http://www.mindef.gov.sg/imindef/press_room/official_releases/nr/2015/apr/28apr15_nr.html
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+The SAF evacuates Singaporeans from Nepal
+</headline>
+
+<text>
+Three Republic of Singapore Air Force (RSAF) C-130 aircraft arrived in Nepal this afternoon at about 4pm. Two departed that evening for Singapore and on their return journey from Nepal, evacuated 89 Singaporeans and Singapore Permanent Residents.
+
+The Singapore relief contingent consists of 22 personnel from the Singapore Armed Forces (SAF) medical team, six personnel from Changi Regional Humanitarian Assistance and Disaster Relief (HADR) Coordination Centre (RHCC), as well as personnel from the Singapore Civil Defence Force and the Singapore Police Force.
+
+The SAF medical team will provide medical aid to victims of the earthquake, while the Changi RHCC team will be assisting Nepalese national disaster management authorities and military with their efforts to coordinate the relief efforts.
+</text>

@@ -1,0 +1,19 @@
+<url>
+http://www.straitstimes.com:80/news/asia/south-asia/story/nepali-troops-told-missing-us-marines-copter-might-have-come-down-river-2
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+Nepali troops told missing US Marines copter might have come down in river
+</headline>
+
+<text>
+CHARIKOT, Nepal (Reuters) - The Nepali army has been told a missing United States Marines helicopter with eight on board may have come down in a river in the Charikot area hit hard by an earthquake and 400 soldiers are engaged in the hunt, a senior officer said on Wednesday.
+
+"The info we have is that it is down in one of the rivers, but none of the choppers has seen it yet," Major Rajan Dahal, second-in-command of the Barda Bahadur Batallion, told Reuters in Charikot. "There are 400-plus of our ground troops looking for it also, by this evening, we might get it."
+
+The Marine Corps UH-1Y Huey helicopter participating in earthquake relief operations lost radio contact on Tuesday after its crew was heard talking about fuel problems.
+</text>

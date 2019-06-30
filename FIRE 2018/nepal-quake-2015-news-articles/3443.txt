@@ -1,0 +1,17 @@
+<url>
+http://www.bloomberg.com/news/articles/2015-04-28/hopes-fade-to-find-nepal-survivors-among-thousands-buried
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Hopes Fade to Find Nepal Survivors Among Thousands Buried
+</headline>
+
+<text>
+Hospital workers struggled to treat thousands of wounded after Nepal’s worst earthquake in decades, as the search for survivors entered its fourth day and hopes faded for finding those trapped under rubble.
+
+To continue reading this article you must be a Bloomberg Professional Service Subscriber. If you believe that you may have received this message in error please let us know.
+</text>

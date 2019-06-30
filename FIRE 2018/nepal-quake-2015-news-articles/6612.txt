@@ -1,0 +1,17 @@
+<url>
+http://www.sleepreviewmag.com/2015/05/nepal-grapples-mental-upheaval/
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Nepal Grapples with Mental Upheaval
+</headline>
+
+<text>
+Doctors have found that acute sleep disorders are common among Nepalese survivors of the devastating earthquake on April 25, reports The Times of India.
+
+“Around 60% of the patients who came to us had symptoms of insomnia. The spate of aftershocks, which still continue, has resulted in sleep deprivation among many residents,” said Dr Vishal Sawant, head of the psychiatry department of civic-run Cooper Hospital in Juhu, who has just returned from Nepal.
+</text>

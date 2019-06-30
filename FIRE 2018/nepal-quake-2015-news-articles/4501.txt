@@ -1,0 +1,43 @@
+<url>
+http://www.csmonitor.com/Technology/2015/0428/How-tech-giants-are-aiding-Nepal-video
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+How tech giants are aiding Nepal
+</headline>
+
+<text>
+After Nepal was rocked by a 7.8-magnitude earthquake, the technology industry is finding ways to come to the country's aid.
+
+Along with the humanitarian aid pouring in from around the world, tech giants have joined in the efforts to assist Nepal after it was hit by a 7.8-magnitude earthquake.
+
+To support relief efforts, Apple has partnered with the American Red Cross to encourage people to donate through the iTunes store, with the pledge that 100 percent of donations will go to the humanitarian organization as it lends a hand to victims. Twitter, for its part, has turned to UNICEF to assist those in Nepal.
+
+Collaborating with the Digital Humanitarian Network, which uses digital networks for humanitarian response, Linkedin is searching its business social network for drone experts in the vicinity, hoping that skilled pilots can use unmanned aerial vehicles to retrieve better information about the most affected areas for relief workers.
+
+Facebook launched a campaign Monday encouraging its users to donate to the International Medical Corps, a nonprofit providing medical care to the region. The company said it would match user donations up to $2 million.
+
+Additionally, the social network activated Safety Check, a feature that allows individuals to check in with friends and family to let them know they are okay. If a user is in one of the areas hit by the earthquake, a notification will appear asking if you are safe, and whether you would like to check in on your friends.
+
+“When disasters happen, people need to know their loved ones are safe. It's moments like this that being able to connect really matters,” said Facebook chief executive officer Mark Zuckerberg on the site. “My thoughts are with everyone who's been caught up in this tragedy.”
+
+Since establishing the feature, Facebook said that millions of users in Nepal, India, Bhutan, and Bangladesh have now been labeled as safe, with their statuses being spread to tens of millions of users.
+
+Google is working with the Red Cross to create a searchable database of those in the affected regions. Google’s Person Finder allows anyone to go to the site and enter a person’s name, biographical information, and photograph into Google’s database. Individuals can specify if you are that person, seeking information on the person, or if you have reason to believe the individual is alive or dead. Google does not, however, verify the data, the New York Times reports.
+
+The database can be searched online or by texting a name to a specific number. The system was designed to streamline information so those looking for loved ones don’t have to rely on multiple sources.
+
+Google was also directly impacted by the tragedy. Dan Fredinburg, a Google engineer, died while attempting to climb up Mt. Everest with three other Google employees when the quake set off an avalanche.
+
+Some telecommunications giants are looking to connect loved ones as well. Time Warner, Verizon, and AT&T are all offering customers free calls to Nepal. Time Warner extended the offer to India and China through May 25; and Verizon and AT&T are offering free texting for customers.
+
+In the aftermath of the Saturday's earthquake, Nepal's largest in 81 years, these acts of kindness could be considered essential to the search and recovery process.
+
+The tech industry’s response to disasters has become more fluid over the years. Much like the response to Haiti’s earthquake in 2010, Japan’s 2011 tsunami, and when Hurricane Sandy caused extensive damage in New York City and northern New Jersey in 2012, technology has become vital to natural catastrophes.
+
+While the most remote regions of Nepal offer limitations to how much these tech giants can help (only one third of Nepal's population of nearly 30 million population has access to the Internet), their assistance could become the lifeline for any region affected by a natural disaster.
+</text>

@@ -1,0 +1,47 @@
+<url>
+http://www.vancouverobserver.com/opinion/requiem-nepal-after-earthquake
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Requiem for Nepal after the earthquake
+</headline>
+
+<text>
+Just before noon on April 25, a 7.8-magnitude earthquake ripped through the heart of Nepal, shattering buildings and bodies and lives.
+
+The images and stories slowly emerging are as heart-wrenching as they are awful. At the time of writing, the death toll has surpassed 5,000 and is sure to rise over the coming days and weeks.
+
+Some of the poorest people in the world, where everyday life is itself a precarious balancing act, now find their fragile infrastructure overwhelmed or destroyed.
+
+Yet one more reminder of the habitual unfairness of the world.
+
+My family and I recently returned to Canada after spending a year in Nepal, where I worked in a medical school dedicated to training physicians for practice in Nepal's shockingly underserviced countryside. At least one of the rural hospitals where I helped train students has reportedly been levelled. We await news on the well-being of friends and colleagues.
+
+As one of our Nepali friends wrote in an email, "We are OK, but Nepal is ruined."
+
+Many people were not so lucky. The village of Langtang near the Tibetan border was destroyed and reports suggest that most of the inhabitants are dead. Like much of the country, other than by helicopter, Langtang valley can only be reached on foot after a harrowing eight-hour drive from Kathmandu, and so any help—if there is anyone left to help—will likely be days in arriving. The same grim picture is unfolding throughout Nepal. Some villages require days of walking to access—when the trail is not obliterated by slides, as many of them now are.
+
+Nepalis had been expecting this disaster for some time. The geological record shows that the Kathmandu valley has been hit by a major quake approximately every 75 years. The last one was in 1934, when the city was all but destroyed.
+
+Reminders were everywhere in the capital and the countryside of the risk posed by the imminent catastrophe. Many of the buildings appeared to be on the verge of collapsing even without a tremor. Roads were often unusable due to slides and very rough when not entirely blocked. Despite valiant efforts on the part of health care workers, the system regularly failed to meet the needs of many of Nepal's vulnerable citizens.
+
+Earthquakes themselves may be apolitical. Absence of infrastructure and widespread poverty, however, are not. Rumination over the politics of underdevelopment are of little value in the immediacy of the tragedy. But it is worth at least bearing in mind how development—or lack thereof—plays into such a disaster.
+
+Just over five years ago, a 7.0-magnitude quake hit the Haitian capitol of Port-au-Prince, eventually killing over 200,000 people. Less than two months later, an 8.8-magnitude earthquake hit off the coast of Chile, but in Chile's case, 525 people died and the nation recovered relatively quickly.
+
+What causes such drastically disparate outcomes? There were obvious geological and geographical differences between the events in Haiti and Chile. These cannot be controlled. But Chile was additionally far more prepared to withstand such a calamity and so damage was minimized while the response was rapid and effective. The Haitian people had no such luxuries.
+
+So it is with Nepal.
+
+Food security is a fantasy. Electrical power is absent for hours on a daily basis. Now without access to fuel which must be trucked from India, the generators that weren't ruined in the quake are falling silent. Heavy equipment—where it exists—also requires scarce resources to operate, and so much of the digging is being done by hand. This makes rescue efforts and provision of emergency health care that much more difficult. Even water is in critical shortage at the best of times.
+
+As aftershocks continue to rattle the country, the people now are facing the additional threat of hunger and soon, of disease outbreak. Sanitation is lacking, leaving the region ripe for deadly outbreaks that additionally overwhelm the tattered health care system. Recovery will not be a matter days, weeks, or even months—it will take years and possibly decades to overcome the setbacks visited upon the already desperately poor country.
+
+If hope is to be found amidst the suffering, it lies in the tremendous resilience of the Nepali people. For many there, the struggle for survival is a quotidian battle. Those in remote regions function virtually without any state support and have learned to make do.
+
+The earthquake makes all of this much much worse, but if anyone can rise to meet such a seemingly insurmountable challenge, it is the people of this proud and gentle country.
+</text>

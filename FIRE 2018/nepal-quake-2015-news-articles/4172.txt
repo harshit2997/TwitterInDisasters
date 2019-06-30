@@ -1,0 +1,25 @@
+<url>
+http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=401005
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Quake victims mourned
+</headline>
+
+<text>
+PEOPLE gathered in Bahrain last night for a candlelit vigil in memory of thousands of people who died in Saturday's earthquake in Nepal.
+
+It was held at the Bahrain Keraleeya Samajam (BKS), in Segaiya, under the patronage of the Royal Charity Organisation (RCO). RCO secretary general Dr Mustafa Al Sayed was the chief guest. Several members of the Nepalese community attended the event, including its Ambassador Mani Prasad Bhattarai.
+
+Dr Al Sayed received a donation of around BD5,300 from Indian Ladies Association, American Women's Association, Bahrain Keraleeya Samajam and Awali Ladies Hospitality Group, in addition to cash donations from the attendees.
+
+More than 5,000 are confirmed to have lost their lives in the 7.9-magnitude quake, which has prompted a global relief effort.
+
+A newly-formed Bahrain-Nepal Support Committee will deliver more than 40 tonnes of humanitarian aid to the country on May 4.
+
+The Bahrain Financing Company yesterday announced all money transfer services through EzRemit to Nepal will be free of charge until the end of next month, maximising the amount of money people can remit to help those in need.
+</text>

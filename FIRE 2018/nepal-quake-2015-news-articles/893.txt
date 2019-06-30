@@ -1,0 +1,23 @@
+<url>
+http://www.salon.com/2015/04/25/powerful_earthquake_strikes_nepal_killing_at_least_718_people/
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Powerful earthquake strikes Nepal, killing at least 718 people
+</headline>
+
+<text>
+KATHMANDU, Nepal (AP) -- A powerful earthquake struck Nepal Saturday, killing at least 718 people across a swath of four countries as the violently shaking earth collapsed houses, leveled centuries-old temples and triggered avalanches on Mt. Everest. It was the worst tremor to hit the poor South Asian nation in over 80 years.
+
+At least 688 people were confirmed dead in Nepal, according to the police. Another 20 were killed in India, six in Tibet and two in Bangladesh. Two Chinese citizens died at the Nepal-China border. Given the scale of the destruction, the death toll is almost certain to rise, said Home Ministry official Laxmi Dhakal.
+
+It was a few minutes before noon when the quake, with a preliminary magnitude of 7.8, began to rumble across the densely populated Kathmandu Valley, rippling through the capital Kathmandu and spreading in all directions -- north toward the Himalayas and Tibet, south to the Indo-Gangetic plains, east toward the Brahmaputra delta of Bangladesh and west toward the historical city of Lahore in Pakistan.
+
+A magnitude-6.6 aftershock hit about an hour later, and smaller aftershocks continued to jolt the region for hours. Residents ran out of homes and buildings in panic. Walls tumbled, large cracks opened up on streets and walls. Towers collapsed and clouds of dust began to swirl all around.
+
+Within hours, hospitals began to fill up with dozens of injured people. Many came to the main hospital in central Kathmandu. Among them was Pushpa Das, a laborer, ran from the house when the first quake struck but could not escape a collapsing wall that injured his arm.
+</text>

@@ -1,0 +1,23 @@
+<url>
+http://news.xinhuanet.com/english/2015-05/04/c_134208510.htm
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+Russian team checking quake-hit buildings in Nepal - Xinhua
+</headline>
+
+<text>
+KATHMANDU, May 4 (Xinhua) -- A Russian group of specialists has started assessing the condition of buildings in Nepal affected by the April 25 deadly earthquake, which has claimed lives of more than 7,000.
+
+Local English newspaper the Kathmandu Post reported on Monday that the team, assigned by the Ministry of Emergency Situation of Russia (EMERCOM), has so far checked six buildings in Sitapaila village of the Kathmandu district. "We use four sensors in various parts of a building to collect data," Vladislav Shchagrekavich, press officer of the EMERCOM, was quoted by the newspaper as saying.
+
+The sensors produce information regarding the level of earthquake jolt and if a particular building can withstand it, the official elaborated.
+
+It takes one day for testing and a few more for concluding a detailed report on recommendations of a building' s future, said the official.
+
+The Russian team grouping some 100 specialists arrived in Kathmandu on April 29, bringing with them four specialized vehicles, a fire brigade and six trained dogs.
+</text>

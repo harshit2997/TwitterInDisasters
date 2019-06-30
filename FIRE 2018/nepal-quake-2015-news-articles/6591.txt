@@ -1,0 +1,19 @@
+<url>
+http://www.womansday.com.au/real-life/news-stories/nepal-struck-by-second-major-earthquake-12539
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Second major earthquake strikes in Nepal
+</headline>
+
+<text>
+Just two weeks after more than 8,000 people were killed in a devastating earthquake in Nepal, a second major quake with a magnitude of 7.3 on the Richter scale has hit the east of the nation, near Mount Everest.
+
+Hundreds were sent fleeing to the streets in the nation’s capital of Kathmandu as the quake struck at 12:35 Nepali time. Tremors were felt in neighbouring nations Tibet, Bangladesh, as far away as the Indian capital of New Delhi, although the epicentre of the quake lay in a rural area close to the Chinese border and approximately 76-kilometers from the Nepalese capital of Tibet.
+
+Police spokesman Kamal Singh Bam told CNN that at least 50 people have died in Nepal, while Nepalese government spokesman Minendra Rijal earlier said that another 1,261 people have been injured.
+</text>

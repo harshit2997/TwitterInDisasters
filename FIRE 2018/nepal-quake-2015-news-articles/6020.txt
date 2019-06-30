@@ -1,0 +1,15 @@
+<url>
+http://www.fark.com/comments/8692477/The-recent-major-earthquake-in-Nepal-just-made-it-a-bit-easier-to-get-to-top-of-Everest
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+FARK.com: (8692477) The recent major earthquake in Nepal just made it a bit easier to get to the top of Everest
+</headline>
+
+<text>
+If you can read this, either the style sheet didn't load or you have an older browser that doesn't support style sheets. Try clearing your browser cache and refreshing the page.
+</text>

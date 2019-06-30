@@ -1,0 +1,119 @@
+<url>
+http://space.io9.com/this-is-whats-happening-in-the-aftermath-of-nepals-eart-1700524262
+</url>
+
+<date>
+20150514
+</date>
+
+<headline>
+This Is What's Happening In The Aftermath Of Nepal's Earthquake
+</headline>
+
+<text>
+Severe shaking from Saturday’s earthquake in Nepal lasted less than two minutes, but the true impact of this disaster is still getting worse. In some ways, it isn’t as bad as scientists expected. In others, it’s far worse.
+
+Residential buildings in Trishuli Bazar were severely damaged by Saturday’s earthquake, while damage to the road network make them difficult to access even days later. Image credit: AP/Altaf Qadri
+
+Just before noon on Saturday, a magnitude 7.8 earthquake shook Nepal. The earthquake’s epicenter was near the small village of Lamjung, but with a 100-kilometer long shallow fault rupture zone, 8 million people were impacted including those in the capital city of Kathmandu.
+
+Geology of the M7.8 Earthquake On 25 April 2015 In Nepal
+
+Nepal is located in a convergent zone where two chunks of continental crust are slowly colliding over millions of years.
+
+The result is crustal thickening and uplift, forming the Himalayan mountain range. It also results in long reverse-thrust faults that build up stress as they lock. When the stress is too much, the fault slips catastrophically, generating a shallow but intense earthquake. Major earthquakes hit Nepal about every 70 to 80 years.
+
+Each earthquake inevitably shares a few common, heartbreaking characteristics:
+
+
+
+The shallowly-dipping faults produce severe shaking over a large area. Convergent boundaries like these continental collision zones or subduction zones are capable of producing the largest, most damaging earthquakes in the world. The earthquakes trigger countless landslides in the steep mountain slopes. These landslides can easily block the few transportation routes through the rugged terrain, or temporarily block rivers with landslide-dams that then break and cause outburst floods downstream. The earthquakes regularly wreck havoc on the building stock. The poverty in Nepal has resulted in poorly-constructed buildings that can’t meet seismic stresses, leading to widespread collapse in the wake of disaster.
+
+This particular earthquake had an epicenter near Lamjung, 81 kilometers northwest of Kathmandu, and unfortunately hit all the expected characteristics: massive shaking over a large area, lots of landslides, and a whole lot of damage.
+
+
+
+The epicenter is the surface projection of the hypocener, the three-dimensional point where an earthquake originates. But an earthquake isn’t just a point: a fault ruptures along a surface. In this earthquake, over 100 kilometers of the fault slipped The fault rupture propagated southwest towards Kathmandu, with up to 3 meters displacement along the fault.
+
+Slip along the fault rupture. Image credit: IRIS
+
+In earthquakes, not all geology is created equal. Some geology can make a bad situation worse.
+
+GIF
+
+The capital city of Kathmandu is located in a sedimentary basin that amplifies seismic waves from earthquakes, making any disaster a little worse than it would’ve otherwise been. The transition between hard rock and soft sediment can also cause the seismic waves to reflect, extending duration of shaking.
+
+Sedimentary basins like the prehistoric lake underlaying Kathmandu, Nepal, amplify seismic waves and increase the damage from earthquakes. Image credit: Geoscience Australia
+
+The result is that while the epicenter of the earthquake was just over 80 kilometers away, the shaking was actually felt more intensely in Kathmandu than anywhere else.
+
+Both loss of homes and fear of more building collapses during the aftershocks is leading many Nepalese to camp instead of sheltering indoors. Image credit: AP/Niranjan Shrestha
+
+In the aftermath of the primary earthquake, Nepal has been shaken by near-constant aftershocks, some substantial earthquakes in their own right. The aftershocks will continue to drop off in both magnitude and frequency over time.
+
+Although the timing and magnitude of aftershocks cannot be directly predicted, the general trend follows a well-established pattern. Image credit: USGS
+
+While the seismic risk in Nepal isn’t instantly resolved by this earthquake, rumoured predictions of a M9.0 aftershock are completely nonsensical. Other areas of the fault will slip at some point in the future, but it certainly isn’t an immediate concern.
+
+Advertisement
+
+Overnight rain added to the misery for people sleeping outside for fear of compromised building stability and additional aftershocks. The rain also triggered additional landslides, further complicating transportation. This situation is only going to get worse as monsoon season arrives in a few weeks.
+
+Read a more detailed geological context here.
+
+How Bad Is It?
+
+The latest official numbers list 5,057 confirmed dead,10,915 injured, and 454,769 internally displaced fro within the country away from their homes. These numbers are going to keep climbing. Given the large amount of rubble and landslides, we will probably never have a complete count as far too many people remain on the missing list. While this is distressing, the places that have gone silent are likely even more damaged.
+
+Villagers airlifted from Trishuli Bazar to Kathmandu by an Indian air force helicopter on Monday, April 27, 2015. Image credit: AP/Altaf Qadri
+
+Here’s a map of the latest videos coming out of the disaster area, with additional drone footage here. This one is from Basantapur, a village even farther away from the epicenter than Kathmandu, catches the scenery before the earthquake through the shaking into the aftermath of dust, collapse chaos:
+
+An avalanche ran out down a major hiking path and into the Everest base camp. By the latest reports, the avalanche killed 17 and injured 61 others. International Mountain Guides have been writing detailed updates from the mountain, including about the avalanche. Poor weather at the mountain has reduced the capacity to evacuate by helicopter. Here’s a video from the camp:
+
+Damage reports from the more remote villages are slowly coming in. After an army helicopter surveyed Barpak village, the estimates are that around 1,200 homes were destroyed, and only 4 survived. At least 120 people were evacuated; up to 700 villagers may be dead although that has yet to be confirmed. We don’t yet have specific reports on many of the other villages, but this story is likely to be far too common.
+
+Rescue efforts are still underway. International Search and Rescue teams have been flying in to help search the rubble and supplement teams going out into the countryside. International relations are causing a few tense moments — China isn’t fond of India’s relief planes flying too close to the border.
+
+
+
+The devastation of historical buildings is iconic and photogenic, so keep making the media circuit, but are also not unprecedented. A few scattered reports of looting have been countered by equally scattered reports of volunteers taking action to cover and protect cultural artifacts.
+
+Why Was The Damage So Severe?
+
+
+
+This earthquake was expected, and its impact was well-known in the disaster research and risk reduction community. For years, academic articles, policy advocacy briefs, and even popular news stories have outlined the potential for utter devastation in the wake of a major earthquake.
+
+Advertisement
+
+No matter how bad an earthquake is, or even the geology that makes it worse, it takes how people prepare and respond to it to make it a true disaster. Nepal is a poor country with few opportunities, which severely limits how much preparing they can do through structural upgrades and seismic codes. This is particularly heartbreaking because of the high return on preemptive spending: every $1 of investment in preparation reduces future losses by $5.
+
+To make it worse, the country’s chronic political turbulence undercuts the ability to build capacity. On Monday, the chairperson of the Constituent Assembly directed all members to donate a month’s salary to earthquake relief funds. That seems like such small compensation for decades of political bickering preventing meaningful adoption of risk reduction efforts.
+
+The only silver lining is that it’s also a country of creative and wide-spread community-based seismic risk reduction and earthquake education projects. Neighbours helping neighbours are one of the most effective contributions to resiliency in both the immediate aftermath and the long-term recovery.
+
+Challenges to Emergency Response
+
+Along with building collapses, infrastructure has been hugely damaged. The road network was already limited with far too many critical pinch-points; now those roads are damaged by surface ruptures, liquefaction, and landslides, getting around is challenging.
+
+Helicopters are being used to get out to the more remote locations, but then rescue efforts are complicated by the heaviest, largest helicopters being too big to land in the steep mountainside villages.
+
+Communications infrastructure is still overloaded.
+
+Keeping cellphones charged is a challenge even in Kathmandu. Image credit: AP/Bernat Armangue
+
+Displaced residents are camping in the streets or at a few designated camps. Unfortunately, those are camps in name only: they lack even access to water, and certainly don’t have sufficient quantities of more sophisticated infrastructure and medical supplies to ward off rapid spread of disease. It’s likely that epidemics will be sweeping through the inadequate camps in the coming weeks and months.
+
+A vacant field lacks structures that will collapse and endanger survivors, but also lack infrastructure like access to water. Image credit: UNICEF
+
+Hospitals were just as damaged as residential buildings, with some hospitals reduced to just a few pillars. The ones that are still standing were quickly overwhelmed, and even basic supplies like body bags ran out. Medical staff are now operating out of tents, but even so still don’t have the space to treat everyone.
+
+Kathmandu’s tiny airport is being overwhelmed by relief flights backing up on the tarmac. Image credit: AP/Altaf Qadri
+
+In a tiny glimmer of good news, the airport didn’t liquefy as expected. Liquefaction happens when loose, saturated soils are shaken, reducing the material to the geological equivalent of oatmeal. Unfortunately, the airport logistics were quickly overwhelmed, leading to incoming aid-flights either circling for hours waiting for a landing spot, or even turning back without landing. You can check the current distribution of flights here.
+
+How Can You Help?
+
+If you have questions, please ask!
+</text>

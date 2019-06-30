@@ -1,0 +1,15 @@
+<url>
+http://www.mankatofreepress.com/news/state_national_news/the-latest-on-nepal/article_bafc5665-e147-59e6-ba9d-98f72c5c6e54.html
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+The Latest on Nepal
+</headline>
+
+<text>
+A veiled Nepalese Hindu bride, background, arrives at a temple for her wedding in Kathmandu, Nepal, Monday. Life has been slowly returning to normal in Kathmandu after the April 25 devastating earthquake that has already killed thousands of people, flattened mountain villages and destroyed building and archaeological sites. AP Photo/Bernat Amangue
+</text>

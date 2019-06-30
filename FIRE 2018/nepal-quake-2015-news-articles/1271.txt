@@ -1,0 +1,69 @@
+<url>
+http://www.scientificamerican.com/article/major-earthquake-hits-nepal/
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Major Earthquake Hits Nepal
+</headline>
+
+<text>
+A magnitude 7.8 earthquake hit just 80 kilometers northwest of Kathmandu on April 25, crumbling buildings and devastating much of the city. The ground shook well beyond Nepal’s borders, into Tibet and northern India, in one of the worst natural disasters to strike the Himalayas in years; thousands of people are feared dead. Here, Nature takes a look at the geological and social circumstances that combined to make the Nepal quake so deadly.
+
+
+
+Why did the quake happen?
+
+The ground ruptured along one of the planet’s biggest geological collision zones, where the crustal plate carrying India slams into and dives beneath the crust of central Asia at the rate of 4 to 5 centimeters a year. That smash-up raises the Himalayas to their great height and makes the region one of the most seismically dangerous in the world. Geological stress builds up along the Himalayas and releases itself periodically in earthquakes.
+
+
+
+The April 25 quake was relatively shallow—just 15 kilometers deep, according to the U.S. Geological Survey (USGS). Preliminary data suggest that the Himalayan fault broke a chunk of crust some 150 to 200 kilometers long, says Susan Hough, a seismologist at the USGS offices in Pasadena, Calif., who has worked in Nepal.
+
+
+
+Were scientists expecting it?
+
+To a large extent, yes. Seismologists including Roger Bilham, of the University of Colorado in Boulder, and Jean-Philippe Avouac, of the California Institute of Technology in Pasadena, have long warned that crustal stresses are building up in Nepal. “This is not an oddball earthquake,” says Hough.
+
+
+
+Even so, the April 25 earthquake was a little smaller and farther east of what some had expected. It occurred close to the site of a magnitude-8.1 earthquake in 1934 that killed more than 10,000 people and sent buildings in northern India sinking more than a meter deep into the ground.
+
+
+
+How bad is the damage?
+
+Stone temples in Kathmandu crumbled, including the iconic Dharahara tower. Other buildings there slumped sideways or pancaked to the ground. Damage assessments are underway, but Hough says she was relatively heartened to see buildings standing in the background of photographs that focused on collapsed temples.
+
+
+
+Officials in Nepal estimate that at least 1,400 people are dead, and that number is likely to rise in the days to come. On Mount Everest, the earthquake triggered an avalanche that swept into the base camp. At least 10 people are thought to have been killed on the mountain.
+
+
+
+Why weren’t people more prepared?
+
+Nepal has a small but experienced community of earthquake professionals, and a national network of seismic and geodetic monitoring stations. Several organizations that focus on risk reduction have been working actively in Kathmandu in recent years. On April 12, two of them—the National Society for Earthquake Technology-Nepal in Sainbu and GeoHazards International of Menlo Park, Calif.—updated their earthquake scenario for the Kathmandu Valley. That long-running project envisioned a quake similar to the 1934 disaster and laid out what to do in the aftermath.
+
+
+
+In Kathmandu, older buildings were often constructed from unreinforced masonry, which cannot withstand the ground shaking from a quake so nearby. The area is also growing more urban, and many newer buildings have been built together in dense neighborhoods without structural reinforcements.
+
+
+
+“It’s not a problem of ignorance, it’s a problem of resources,” Hough says. “People are building houses to live in with the resources that they have. They can’t afford rebar and engineering.”
+
+
+
+What happens next?
+
+Assuming this earthquake was the largest that will come, Nepal can expect more than 30 aftershocks greater than magnitude 5 over the next month. One magnitude-6.6 aftershock has already hit.
+
+
+
+This article is reproduced with permission and was first published on April 25, 2015.
+</text>

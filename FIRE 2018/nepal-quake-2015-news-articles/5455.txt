@@ -1,0 +1,19 @@
+<url>
+http://www.startribune.com/engineers-assess-damaged-nepal-houses/302846161/
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+Engineers assess damaged Nepal houses
+</headline>
+
+<text>
+engineers assess damaged houses
+
+More than a thousand engineers were checking damaged houses in Nepal's capital Wednesday and advising people about whether they are safe. About 13,000 families have requested inspections of their homes since the massive magnitude-7.8 earthquake near Kathmandu on April 25, Nepal Engineers Association General Secretary Kishore Kumar Jha said. The association, which has 2,000 civil and structural engineers, has set up phone lines for people to request inspections.
+
+Associated Press
+</text>

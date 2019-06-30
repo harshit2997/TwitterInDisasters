@@ -1,0 +1,21 @@
+<url>
+http://www.bostonherald.com/unknown/2015/04/nepal_earthquake_triggers_deadly_avalanche_on_mount_everest
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+On social media, survivors describe terror of quake-generated avalanches
+</headline>
+
+<text>
+He thought it was a joke.
+
+Lying down at his camp on one of the approaches to Mount Everest, Dutch mountaineer Eric Arnold assumed his friend was shaking the tent. A prank. But then the ground trembled.
+
+“When I zip open my tent, I see avalanches coming down on three sides,” Arnold would write later on his blog.
+
+A cloud stirred by the racing debris rose and caught Arnold as he ran for cover. “I am completely disoriented and run against Moulay’s tent,” he wrote. His ears filled with snow.
+</text>

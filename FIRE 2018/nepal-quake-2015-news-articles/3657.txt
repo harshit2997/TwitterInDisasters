@@ -1,0 +1,15 @@
+<url>
+http://www.radio.cz/en/section/news/czech-plane-carrying-rescue-teams-and-aid-to-nepal-diverted-to-delhi
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Czech plane carrying rescue teams and aid to Nepal diverted to Delhi
+</headline>
+
+<text>
+A Czech plane carrying a trauma team and ten tonnes of material aid to Nepal, which left Prague for Kathmandu in the early hours of Wednesday, was diverted to Delhi. According to Foreign Minister Lubomír Zaorálek, the overloaded airport in Kathmandu will be ready to take the flight at around midnight on Wednesday. The team, which includes nine doctors, 10 nurses and 14 fire officers, is expected to spend two weeks in Nepal, which was struck by a devastating earthquake on Saturday. Czech citizens who were in the country when the disaster struck are due to fly back to Prague on the return flight.
+</text>

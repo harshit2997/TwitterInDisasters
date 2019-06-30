@@ -1,0 +1,15 @@
+<url>
+http://www.aikenstandard.com/article/20150512/AIK0106/150519875/1004/nepal-home-ministry-raises-death-toll-in-latest-quake-to-42
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Nepal Home Ministry raises death toll in latest quake to 42
+</headline>
+
+<text>
+A Nepalese rescue team inspects the site of a building that collapsed in an earthquake in Kathmandu, Nepal, Tuesday, May 12, 2015. A major earthquake has hit Nepal near the Chinese border between the capital of Kathmandu and Mount Everest less than three weeks after the country was devastated by a quake. (AP Photo/Niranjan Shrestha)
+</text>

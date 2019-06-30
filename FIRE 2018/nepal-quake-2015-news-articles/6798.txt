@@ -1,0 +1,23 @@
+<url>
+http://www.denverpost.com/nationworld/ci_28126810/three-bodies-found-near-crashed-u-s-marine
+</url>
+
+<date>
+20150516
+</date>
+
+<headline>
+Three bodies found near crashed U.S. Marine helicopter in Nepal
+</headline>
+
+<text>
+KATHMANDU, Nepal — Nepalese rescuers on Friday found three bodies near the wreckage of a U.S. Marine helicopter that disappeared this week during a relief mission in the earthquake-hit Himalayan nation.
+
+“The wreckage of the helicopter was found in pieces, and there are no chances of any survivors,” said Nepal’s defense secretary, Iswari Poudel. He did not give the nationalities of the three victims, only saying their remains were charred.
+
+The helicopter was carrying six Marines and two Nepalese army soldiers.
+
+Lt. Gen. John Wissler, commander of the Marine-led joint task force, said in Kathmandu that his team could not immediately identify the cause of the crash or identify the bodies.
+
+Speaking in Washington, President Barack Obama expressed condolences to the families of all the victims and said the Marines “represent a truth that guides our work around the world: When our friends are in need, America helps.”
+</text>

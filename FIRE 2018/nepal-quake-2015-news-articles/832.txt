@@ -1,0 +1,37 @@
+<url>
+http://zeenews.india.com/business/news/technology/telecom-operators-slash-call-rates-to-quake-hit-nepal_124534.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Telecom operators slash call rates to quake-hit Nepal
+</headline>
+
+<text>
+New Delhi: Telecom operators MTS India and Tata Teleservices Sunday said they have slashed charges for calls made to earthquake-hit Nepal to support disaster relief efforts.
+
+State-run telecom firms BSNL and MTNL, and private companies like Airtel and Idea Cellular have already announced reduction in charges or made free calls to Nepal, where over 2,000 people were killed after a devastating earthquake yesterday.
+
+"Starting 11 pm, 25th April , MTS India is treating all calls made from its network to Nepal as local calls i.E Rs1/minute. This is being done for the next 48 hours to support disaster relief efforts and to enable concerned callers to reach out to their friends and family," MTS India said in a statement.
+
+In a statement, Tata Teleservices Ltd said, "... To support disaster relief measures, charges for all calls to Nepal on the Tata Docomo network are reduced to 1p/s between 26th to 28th April."
+
+Normal call rates to Nepal from India varies in the range of Rs 7 to 12 per minute.
+
+Besides, instant messaging app Viber said it has "switched off 'Viber Out' billing so users in Nepal can make free calls to mobile and land line numbers anywhere for the next 48 hours".
+
+In Nepal, the massive 7.9-magnitude earthquake and the aftershocks left behind a trail of death and destruction, flattening houses and buildings, including the iconic Dharhara tower and the landmark Darbar Square in the heart of the capital, trapping scores of people.
+
+Airtel has announced free calls to Nepal on its network, state-run BSNL and MTNL decided to charge local rates for calls made to the Himalayan nation.
+
+Private player Idea Cellular has also announced that it would charge calls made to Nepal from its network equal as per local call rates up to morning hours of April 28.
+
+Videocon Telecom in a statement said that it will offer ISD calls to Nepal at local call rates for the next two days starting midnight tonight.
+
+Videocon Telecom shall charge all ISD made from its network to Nepal at local calling rate of 90p/min against the ISD rate of Rs 9.2 per minute.
+
+The special tariffs shall be applicable for the next 48 hours i.E. Starting midnight tonight till end of day of April 28, 2015 to enable callers from India to reach out to their friends and family in Nepal, the statement said.
+</text>

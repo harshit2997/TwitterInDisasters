@@ -1,0 +1,33 @@
+<url>
+http://www.rte.ie/news/2015/0516/701625-nepal/
+</url>
+
+<date>
+20150516
+</date>
+
+<headline>
+Red Cross raises Nepal aid appeal
+</headline>
+
+<text>
+The Red Cross has ramped up its appeal for aid to disaster-hit Nepal, requesting $93 million in assistance.
+
+It comes after two earthquakes in less than three weeks killed nearly 8,500 and left thousands homeless.
+
+Relief teams have been working for weeks to provide water, food, shelter and medical assistance after the first, 7.8-magnitude quake hit on 25 April.
+
+The quake flattened whole villages and leaving thousands without shelter with just weeks to go until the monsoon rains.
+
+"We are still in full emergency mode, the task at hand remains expanding our response while also adapting to meet emerging needs," said Elhadj As Sy, secretary general of the International Federation of Red Cross and Red Crescent Societies.
+
+"What we are doing, no matter how appreciated it is, it is not yet matching the scale and magnitude of the problem that we face," Mr Sy told reporters in Kathmandu.
+
+The humanitarian agency revised its initial request for $35 million after a second, 7.3-magnitude quake struck on Tuesday.
+
+The quake triggered panic in Kathmandu and devastated remote villages in the country's mountainous northeastern region.
+
+Aid agencies have warned of a race against time to provide shelter and bring relief to victims before the approaching monsoon triggers landslides and blocks access to quake-hit villages located along the Himalayan nation's hills and mountains.
+
+The Nepalese government, which has faced criticism over the speed of its response to the disaster, has said it was overwhelmed by the scale of the 25 April earthquake, the deadliest to hit the country in more than 80 years.
+</text>

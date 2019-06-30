@@ -1,0 +1,55 @@
+<url>
+http://www.channel4.com/news/nepal-earthquake-death-toll-2000-everest-avalanche
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal quake: death toll tops 2,000 amid hunt for survivors
+</headline>
+
+<text>
+Kathmandu residents survey the damage after an earthquake devastated the heavily crowded Kathmandu valley, killing at least 2,000 people.
+
+A big aftershock between Kathmandu and Everest unleashed more avalanches in the Himalayas. In the capital, hospital workers stretchered patients out onto the street to treat them as it was too dangerous to keep them indoors.
+
+The tremor, measured at 6.7, was the most powerful since Saturday’s 7.9 quake – itself the strongest since Nepal’s worst earthquake disaster of 1934 that killed 8,500 people.
+
+The aftershock rocked buildings in the Indian capital New Delhi and halted the city metro.
+
+“There is no way one can forecast the intensity of aftershocks so people need to be alert for the next few days,” said L.S. Rathore, chief of India’s state-run weather office.
+
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = “//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3”; fjs.parentNode.insertBefore(js, fjs);}(document, ‘script’, ‘facebook-jssdk’));
+
+Rescuers dig with their bare hands and bodies pile up in Nepal after an earthquake killed more than 2,200 people, and triggered a deadly avalanche on Mount Everest.Read more: http://bit.ly/1DoQp5G Posted by Channel 4 News on Sunday, April 26, 2015
+
+In Everest’s worst disaster, the bodies of 17 climbers were recovered from the mountain on Sunday after being caught in avalanches. A plane carrying the first 15 injured climbers landed in Kathmandu at around noon local time.
+
+“There is a lot of confusion on the mountain. The toll will rise,” said Gelu Sherpa, one of the walking wounded among the first 15 injured climbers flown to Kathmandu. “Tents have been blown away,” said Sherpa, his head in bandages.
+
+Dan Fredinburg, a Google Inc executive based in California, was among those killed in the avalanche, the company said.
+
+Fredinburg was climbing the world’s tallest peak with three other Google employees when the avalanche struck. None of his colleagues were injured, Lawrence You, a company official, said in a statement.
+
+Fredinburg suffered a major head injury during an avalanche, his sister Megan said on social media:
+
+This is Dans little sister Megan. I regret to inform all who loved him that during the avalanche on Everest early this morning our Dan suffered from a major head injury and didn’t make it. We appreciate all of the love that has been sent our way thus far and know his soul and his spirit will live on in so many of us. All our love and thanks to those who shared this life with our favorite hilarious strong willed man. He was and is everything to us. Thank you. A photo posted by Dan Fredinburg (@danfredinburg) on Apr 25, 2015 at 11:27am PDT
+
+Desperate friends and relatives have turned to social media and an emergency search tool to find their loved ones in the aftermath.
+
+Google fired up its Person Finder tool which aims to reconnect people after natural disasters.
+
+More than 100 UK citizens were believed to be sheltering last night at the British embassy compound. Others sought refuge at the American embassy.
+
+There were no immediate reports of British casualties, but families of people missing logged their details on websites and on social media.
+
+Please help find my cousin Jacqueline Toal! She was at a festival in Kathmandu #earthquake #Kathmandu #Nepal pic.twitter.com/BhFX6RQUWL — Brian Monteith (@B_monteith) April 25, 2015
+
+With Nepal’s government overwhelmed by the scale of the disaster, India flew in medical supplies and relief crews, while China sent in a 60-strong emergency team. Relief agencies said hospitals in the Kathmandu Valley were overflowing and running out of medical supplies.
+
+Jamie McGoldrick, the head of the UN Development Programme in Nepal, told Channel 4 News that many locals in the country are staying outside following the aftershocks:
+
+Britain has offered support, including search and rescue, to authorities in Nepal, which is one of the world’s poorest countries and is heavily dependent on tourism.
+</text>

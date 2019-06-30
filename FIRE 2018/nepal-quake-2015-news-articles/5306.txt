@@ -1,0 +1,23 @@
+<url>
+http://www.nationmultimedia.com/breakingnews/Nepal-villages-still-without-quake-relief-as-UN-sa-30259597.html
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+Nepal villages still without quake relief, as UN says flash fund low
+</headline>
+
+<text>
+"Even after two weeks, we have not received government assistance," said Rajesh Katuwal, a resident of Sindupalchowk province north of Kathmandu, where 3,000 died of the estimated 7,800 nationwide in the quake on April 25.
+
+Many other villages cut off by the 7.8-magnitude earthquake have reported a similar lack of official help, while some others have reportedly received duplicate aid.
+
+The government said it would dispatch five-member teams to 500affected villages to improve relief allocation.
+
+The United Nations said that its appeal for flash funding for the Nepal crisis had only received 6 per cent of the requested 423million dollars.
+
+Another 93 million dollars had been made available for longer-term funding of development and reconstruction in the country.
+</text>

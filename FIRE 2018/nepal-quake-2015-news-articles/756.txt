@@ -1,0 +1,27 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/26/c_134185378.htm
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+China's medical team to join Nepal search - Xinhua
+</headline>
+
+<text>
+BEIJING, April 26 (Xinhua) -- A Chinese medical team stationed in Nepal, will join earthquake rescue and relief work, said China's health department Sunday.
+
+The National Health and Family Planning Commission has contacted the team in Nepal and instructed them to "take an active part in medical relief work".
+
+An 8.1-magnitude earthquake struck Nepal at 2:11 p.m. Beijing time, followed by a 7.0-magnitude aftershock at 2:45 p.m. The death toll has passed 1,800.
+
+In addition, the 62 members of a specialist search & rescue team left Beijing Sunday morning to join the rescue in Nepal. According to the team's Sina microblog account, they just landed there.
+
+The earthquake caused 17 deaths in China's Tibet, which borders on Nepal, and two moderate quakes shook the region Saturday evening and early Sunday morning.
+
+Three medical teams from neighboring Sichuan, Chongqing and Yunnan have gone to Tibet, the commission statement said.
+
+Tibet's health department has sent about 60 medical staff and ten ambulances to the affected areas.
+</text>

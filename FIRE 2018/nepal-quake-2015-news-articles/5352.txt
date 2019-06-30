@@ -1,0 +1,33 @@
+<url>
+http://www.sciencetimes.com/articles/6165/20150508/finding-signs-of-life-from-space-nasa-rescues-few-in-nepal.htm
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+Finding Signs of Life From Space—NASA Rescues Few in Nepal
+</headline>
+
+<text>
+After days of being pinned beneath up to 10 feet of rubble, four men were rescued in Nepal thanks to NASA search-and-rescue technology. The device used in the rescue is called Finding Individuals for Disaster and Emergency Response, or FINDER, and detects the heartbeats of victims even far beneath layers of wreckage using microwave-radar technology. This marks the first real-world use of NASA's advanced sensing technology.
+
+A FINDER unit is around the same size as a carry-on bag. It emits low-power microwaves using a lithium battery and can detect even faint patterns of movement, including the flutter of a heartbeat. Before this rescue, testers used FINDER to detect people beyond 20 feet of solid concrete, up to 30 feet of debris, and from 100 feet away without obstructions.
+
+This latest prototype features a "locator" which can confirm heartbeats detected and hone in on their approximate origin within approximately five feet. It represents an important search-and-rescue advance since it doesn't require that victims be conscious to be located.
+
+The FINDER technology was originally created to sense new planets. Now two companies so far are selling devices for about $15,000 and licensing them for use in search and rescues. Jim Lux, the project manager from NASA's Jet Propulsion Laboratory (JPL), says the team is still tweaking the design; they intend to add the capability to screen out rescue personnel by adding a calibration scale to the device.
+
+"For me as the developer of the technology, it was like sending a child off to college," says Lux.
+
+NASA's JPL developed FINDER in partnership with the Science and Technology Directorate (S&T) of the Department of Homeland Security (DHS). Officials deployed two FINDER devices, still prototypes, to the beleaguered village of Chautara after the massive earthquake of April 25th in Nepal.
+
+"The true test of any technology is how well it works in a real-life operational setting," said DHS Under Secretary for Science and Technology Dr. Reginald Brothers. "Of course, no one wants disasters to occur, but tools like this are designed to help when our worst nightmares do happen. I am proud that we were able to provide the tools to help rescue these four men."
+
+David Lewis of R4 Inc., a partner of S&T, arrived in Chautara on April 29th with the FINDER devices. Using the devices, rescuers from Belgium, the Netherlands, and China, assisted Nepali Army soldiers in locating two heartbeats. A demonstration of the device for members of the media took place in Virginia on May 7th.
+
+"NASA technology plays many roles: driving exploration, protecting the lives of our astronauts and improving-even saving-the lives of people on Earth," NASA's chief technologist in Washington, Dr. David Miller says. "FINDER exemplifies how technology designed for space exploration has profound impacts to life on Earth."
+
+Another possible use for the technology has been proposed by anti-poaching forces in southern Africa; their goal would be to use the device to count rhinos in the wild. Meanwhile, at least one writer has voiced concerns about what kinds of domestic uses agencies like the NSA might conceive of given their reported privacy violations. Until more information comes to light, however, FINDER technology appears to be a life-saver.
+</text>

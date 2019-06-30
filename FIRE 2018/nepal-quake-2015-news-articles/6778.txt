@@ -1,0 +1,25 @@
+<url>
+http://www.dailystar.com.lb/News/World/2015/May-16/298232-red-cross-raises-nepal-aid-appeal-to-93-million.ashx
+</url>
+
+<date>
+20150516
+</date>
+
+<headline>
+Red Cross raises Nepal aid appeal to $93 million
+</headline>
+
+<text>
+The Red Cross Saturday ramped up its appeal for aid to disaster-hit Nepal, requesting $93 million in assistance after two earthquakes in less than three weeks killed nearly 8,500 and left thousands homeless.
+
+
+
+Relief teams have been working for weeks to provide water, food, shelter and medical assistance after the first, 7.8-magnitude quake hit on April 25, flattening whole villages and leaving thousands without shelter with just weeks to go until the monsoon rains.
+
+
+
+The humanitarian agency revised its initial request for $35 million after a second, 7.3-magnitude quake struck on Tuesday, triggering panic in Kathmandu and devastating remote villages in the country's mountainous northeastern region.
+
+...
+</text>

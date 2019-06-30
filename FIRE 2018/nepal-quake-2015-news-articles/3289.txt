@@ -1,0 +1,29 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/28/c_134193275.htm
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Bahrain to send relief aid to quake-hit Nepal - Xinhua
+</headline>
+
+<text>
+MANAMA, April 28 (Xinhua) -- Bahrain said on Tuesday that it will send humanitarian aid to earthquake-hit Nepal.
+
+The Bahrain-Nepal Support Committee was formed by the Royal Charity Organization(RCO) to collect aid and send medical teams and evacuation experts to Nepal.
+
+Bahraini King Hamad bin Isa Al Khalifa has ordered that the first consignment of at least 40 tons of food be delivered to Kathmandu by May 4, head of the committee Mustafa Al Sayed said in a statement.
+
+The RCO is working with the Health Ministry to fly out a 25-member team of doctors, nurses and evacuation experts who can help in search and rescue missions, it added.
+
+"The Bahrain medical team will help relieve the overworked Nepali and foreign doctors who have been working almost non-stop in very challenging circumstances.
+
+A spokesperson for the Nepalese Embassy in Manama on Tuesday said they urgently required orthopedic surgeons, anesthesiologists, neurologists and paramedics to help rescue teams.
+
+According to estimates by the United Nations eight million people have been affected by the quake, more than a quarter of Nepal's population.
+
+The death toll from Saturday's 7.8-magnitude quake has reached more than 4,300 but Nepalese officials say it could be as high as 10,000.
+</text>

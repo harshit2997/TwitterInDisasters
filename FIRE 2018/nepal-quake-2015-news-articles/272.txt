@@ -1,0 +1,17 @@
+<url>
+http://www.kuna.net.kw/ArticleDetails.aspx?id=2437830&language=en
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+KUNA : Over 600 feared dead in Nepal's massive earthquake
+</headline>
+
+<text>
+NEW DELHI, April 25 (KUNA) -- Media reported on Saturday that the powerful earthquake that hit Nepal and parts of India and Bangladesh before noon today have claimed more than 600 lives in Nepal alone.
+
+Reports also emerged from India that the death toll has gone up in various quake hit states......
+</text>

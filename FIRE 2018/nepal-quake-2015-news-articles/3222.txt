@@ -1,0 +1,15 @@
+<url>
+http://www.lagazzettadelmezzogiorno.it/english/italy-declares-state-of-emergency-to-join-in-eu-nepal-aid-no813174
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Italy declares state of emergency to join in EU Nepal aid
+</headline>
+
+<text>
+(ANSA) - Rome, April 28 - Cabinet on Tuesday voted to declare a state of emergency, a formal act required in order for Italy to participate in a European Union intervention in support of Nepal in the aftermath of a devastating April 25 earthquake in which over 5,000 people are so far confirmed to have died. Calling a state of emergency allows the government to field its entire Civil Protection operational support and medical aid task force.
+</text>

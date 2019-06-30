@@ -1,0 +1,17 @@
+<url>
+http://www.wsj.com/articles/u-n-presses-nepal-to-expedite-entry-of-aid-supplies-1430650997
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+U.N. Presses Nepal to Expedite Entry of Aid Supplies
+</headline>
+
+<text>
+KATMANDU, Nepal—The United Nations pressed Nepal to make it easier to bring aid into the quake-stricken country as international relief organizations and Nepalese authorities struggled Sunday to get enough tents and medical supplies to remote areas.
+
+The death toll from the magnitude-7.8 earthquake on April 25 crossed 7,200, according to the official count on Sunday evening. More than three million Nepalese need food aid and hundreds...
+</text>

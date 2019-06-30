@@ -1,0 +1,21 @@
+<url>
+http://www.thedailystar.net/country/bangladesh-sends-humanitarian-assistance-nepal-79273
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Bangladesh sends humanitarian assistance to Nepal
+</headline>
+
+<text>
+The Government of Bangladesh is sending humanitarian assistance including medical teams and medicine to Nepal in the wake of the devastation caused in Nepal by a major earthquake today.
+
+The medical teams will be working with the Nepalese Government in assisting the affected people there, says a press release issued by the Ministry of Foreign Affairs today.
+
+Prime Minister Sheikh Hasina has conveyed her deep condolence and sympathy to her Nepalese counterpart on this tragedy.
+
+The government and people of Bangladesh stand firmly beside the government and people of Nepal in this trying time, the press release added.
+</text>

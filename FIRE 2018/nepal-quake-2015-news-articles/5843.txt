@@ -1,0 +1,27 @@
+<url>
+http://news.xinhuanet.com/english/2015-05/02/c_134202806.htm
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+U.S. helicopters to join relief efforts in Nepal - Xinhua
+</headline>
+
+<text>
+WASHINGTON, May 1 (Xinhua) -- The U.S. military is preparing to deploy helicopters to Nepal in support of the ongoing relief efforts in the quake-jolted Himalayan country, the State Department said on Friday.
+
+The Pentagon's move is aiming at supporting U.S. efforts to conduct humanitarian assessments and delivering "critical supplies " to hart-hit areas outside of Kathmandu, Nepal's capital, State Department spokesman Jeffrey Rathke said at a daily news briefing.
+
+In addition, the U.S. military is "preparing to assist with airfield and logistics operations at Kathmandu's airport" to expedite cargo off-loading operations, Rathke said.
+
+"This will be done in support of the Nepalese government in order to increase the flow of emergency supplies into the country and ensure that it reaches remote areas," he added.
+
+President Barack Obama told Nepali Prime Minister Sushil Koirala over the phone on Wednesday that his administration would do "all that it can" to help Nepal recover from the 7.9-magnitude quake that hit on April 25 and has killed 6,250 people and injured 14,357 others.
+
+Washington had pledged 12.5 million U.S. dollars in humanitarian aid and a nearly 130-person disaster-assistance response team along with 45 tons of cargo.
+
+The devastating quake has razed most of Nepal's treasured historical sites located in the Kathmandu Valley.
+</text>

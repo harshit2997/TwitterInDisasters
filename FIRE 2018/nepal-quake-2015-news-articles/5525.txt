@@ -1,0 +1,21 @@
+<url>
+http://blogs.wsj.com/indiarealtime/2015/05/06/from-the-wsj-archive-after-years-of-protecting-others-gurkhas-ask-whos-looking-after-us/
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+From The WSJ Archive: After Years of Protecting Others, Gurkhas Ask: Who’s Looking After Us?
+</headline>
+
+<text>
+Gurkha fighters on firing range at end of 36-hour nonstop endurance exercise in Hong Kong, March 1973. Associated Press
+
+The disastrous earthquake that struck Nepal has focused the world’s attention on the Gurkhas—a community of famously staunch warriors who hail from one of Nepal’s most quake-damaged regions.
+
+Gurkhas have fought for generations in the British armed services and elsewhere. Today, Gurkhas serving in the British military have begun rushing to the aid of the community in the Himalayan foothills.
+
+The Gurkhas’ relationship with the British hasn’t always been smooth, however. Some 14 years ago, The Wall Street Journal wrote in depth about a conflict over Gurkhas’ military pensions — a dispute driving a wedge between the soldiers and the nation they served. The pension dispute, while focused on Nepal, also speaks volumes about the economic and social changes that have swept Southeast Asia in recent decades. After long campaigns, Gurkhas in 2007 won the right to receive pensions equal to other servicemen in the British army. The change, however, didn’t apply to those who retired before July 1997. Until 2007, Gurkhas’ pensions were based on the cost of living in Nepal.
+</text>

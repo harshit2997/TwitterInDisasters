@@ -1,0 +1,23 @@
+<url>
+http://english.cntv.cn/2015/05/12/VIDE1431430819437274.shtml
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Aftershocks cause landslide in Zham town, Tibet
+</headline>
+
+<text>
+CCTV.com
+
+05-12-2015 19:42 BJT
+
+Two major aftershocks have rocked Nepal once again. The China Earthquake Networks Center revealed that a massive 7.5-magnitude quake took place at 12:50p.m, 83 kilometers east of the capital Kathmandu, and only 68 kilometers west of the town of Namche Bazar, near the Himalayas.
+
+The Center also reported a second, 6.2-magnitude quake in the area. Nepalese authorities immediately ordered the closure of Kathmandu airport. Aid agencies confirmed that at least 16 people were killed, with as many as 300 injured. The 7.5 tremor was also felt across northern and eastern India, and in the Bangladesh capital, Dhaka.
+
+Meanwhile, in China's Tibetan town of Zham -- which borders Nepal -- the aftershocks triggered more landslides and damaged roads and houses. Chinese Armed forces and public security officers -- who had been on duty following the April 25th quake -- have evacuated to a safer environment. No casualties have been reported in the town.
+</text>

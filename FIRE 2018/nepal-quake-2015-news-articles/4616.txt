@@ -1,0 +1,31 @@
+<url>
+http://news.xinhuanet.com/english/2015-05/03/c_134206052.htm
+</url>
+
+<date>
+20150503
+</date>
+
+<headline>
+Dead toll from Nepal earthquake climbs to 7,240 - Xinhua
+</headline>
+
+<text>
+KATHMANDU, May 3 (Xinhua) -- Death toll from the powerful earthquake in Nepal has climbed to 7, 240 on Sunday, the Ministry of Home Affairs said.
+
+A total of 14,122 others have been injured in the quake which rattles the country on April 25.
+
+The earthquake has also done great harm to Nepal's tourism industry as at least 14 historic buildings have been destroyed or severely damaged, including 12 on the list of UNESCO World Heritage.
+
+Related:
+
+China's armed police enter Nepal to aid quake relief
+
+LHASA, May 3 (Xinhua) -- China's armed police officers left southwestern Tibet Autonomous Region and entered Nepal on Sunday to aid earthquake relief there for the first time.
+
+The operation, approved by China's central authorities, was launched after a bilateral meeting on the Chinese side of Tibet-Nepal border at the urgent request of Nepal. Full Story
+
+Spotlight: More int'l aid pours into quake-jolted Nepal
+
+BEIJING, May 2 (Xinhua) -- The international community has sent more aid to earthquake-hit Nepal, where millions of people are in desperate need of disaster relief as rescue and relief efforts continue into the 7th day in the Himalayan country.
+</text>

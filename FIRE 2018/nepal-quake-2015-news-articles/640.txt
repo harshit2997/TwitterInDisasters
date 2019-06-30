@@ -1,0 +1,23 @@
+<url>
+http://www.mindef.gov.sg/imindef/press_room/official_releases/nr/2015/apr/26apr15_nr2.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Singapore Armed Forces Deploys Changi RHCC Team to Nepal as part of Relief Efforts
+</headline>
+
+<text>
+The Singapore Armed Forces (SAF) deployed two Republic of Singapore Air Force C-130 aircraft with an advance team of six personnel from the Changi Regional Humanitarian Assistance and Disaster Relief (HADR) Coordination Centre onboard to Nepal this evening. The Changi RHCC will assist the Nepalese national disaster management authorities and military with their efforts to coordinate the relief efforts. Also on board the C-130 aircraft are a search and rescue team from the Singapore Civil Defence Force and a contingent from the Singapore Police Force.
+
+
+
+Standing ready to be deployed is the SAF medical team of about 16 medical personnel, who will provide medical aid to victims of the earthquake.
+
+
+
+Chief of Defence Force Lieutenant-General Ng Chee Meng was at Paya Lebar Air Base to send off the Singapore relief contingent.
+</text>

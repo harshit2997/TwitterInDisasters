@@ -1,0 +1,19 @@
+<url>
+http://www.indiatvnews.com/news/world/tibet-quake-death-toll-17-china-sends-rescue-team-to-nepal-24085.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Tibet quake death toll 17; China sends rescue team to Nepal
+</headline>
+
+<text>
+17 killed following tibet quake china sends rescue team to nepal
+
+Beijing: Death toll in southwest China's Tibet Autonomous Region has risen to 17 in the wake of the devastating earthquake that hit neighbouring Nepal yesterday, while the Communist giant today dispatched a 62-member search and rescue team to help the Himalayan nation.
+
+Nearly 1,500 people, including two Indians, have died in Nepal and hundreds are feared missing, after a 7.9-magnitude earthquake tore through that country flattening houses and buildings including the iconic Dharhara tower and landmark Darbar Square in the heart of its capital. The death toll in Tibet has climbed to 17 after the powerful earthquake struck neighbouring Nepal, local authorities said today.
+</text>

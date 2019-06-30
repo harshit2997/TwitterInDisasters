@@ -1,0 +1,15 @@
+<url>
+http://abc7news.com/news/us-marine-helicopter-with-8-aboard-missing-in-nepal-/716927/
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+US Marine Helicopter With 8 Aboard Missing in Nepal
+</headline>
+
+<text>
+An American chopper flying above Nepal today has been declared missing, a defense official confirmed to ABC News.The UH1 "Huey" helicopter had two Nepalese soldiers and six U.S. Marines on board when it went missing at approximately 10 p.m. local time, Army Maj. Dave Eastburn told ABC News.Eastburn, the spokesman for U.S. Pacific Command, said that the incident occurred near Charikot, Nepal as the aircraft was conducting humanitarian assistance and disaster relief operations in support of the recent Nepal earthquakes.The helicopter was transporting rice, tarps and other humanitarian relief, Pentagon spokesman Col. Steve Warren said. It had already made one stop to drop off supplies and was en route to a second location when communication was lost.There have been no signals received from an emergency beacon but that may be a result of the terrain in the area.Warren said that there were initial reports that the aircraft was spotted on the ground by the Nepalese Air Brigade but three Marine Osprey tilt-rotor aircraft searched the area and did not find anything.He said that the search will continue at daylight.Joint Task Force 505 personnel are responding to the emergency and the investigation is under investigation, Eastburn said.Three days ago, the Department of Defense shared a photo on their official Twitter account from the same model helicopter near the same city during a surveillance mission.Earlier today, USAID spokeswoman Natalie Hawwa told ABC News that their Disaster Assistance Response Team was sending two Hueys and one Osprey helicopter to Charikot.There was a major 7.3-magnitude earthquake in Nepal today, less than three weeks after another earthquake devastated the country.The epicenter in today's quake was located near the town of Namche Bazaar, close to Mount Everest.
+</text>

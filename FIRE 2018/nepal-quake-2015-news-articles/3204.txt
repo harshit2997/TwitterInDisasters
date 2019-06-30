@@ -1,0 +1,37 @@
+<url>
+http://www.japantimes.co.jp/news/2015/04/28/national/japan-send-110-troops-nepal-join-quake-relief-operations/
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Japan to dispatch SDF to Nepal, part of multifaceted aid effort
+</headline>
+
+<text>
+The government said Tuesday it is sending 110 Self-Defense Forces troops to Nepal to carry out medical work as part of a multifaceted aid effort to the nation struck by a devastating earthquake on Saturday.
+
+An initial party of around 20 personnel was due to leave Japan for Kathmandu late on Tuesday evening.
+
+Other specialists already dispatched include around 70 personnel from the National Police Agency and the Fire and Disaster Management Agency, who tried but failed to reach Kathmandu Monday.
+
+Separately, around 45 doctors, nurses and pharmacists were also due to depart Japan on Tuesday.
+
+Meanwhle, in Tokyo, the Foreign Ministry announced a grant of ¥1 billion yen in emergency aid.
+
+On Monday, a plane carrying the team of first responders tried twice to reach Kathmandu but failed to secure permission to land because of congestion.
+
+On both occasions, it returned to the eastern Indian city of Kolkata, the Japanese embassy in Kathmandu said. Officials say they hope the team will be successful Tuesday.
+
+The congestion was the result of aircraft heading to Kathmandu from around the world. The Japanese team’s aircraft had to circle in a holding pattern for some time, and when fuel became a concern it returned to India.
+
+There are signs that Nepal’s government is having difficulty carrying out certain functions. This creates obstacles to foreign rescue teams setting up and carrying out their work.
+
+Monday’s team of roughly 70 individuals is Japan’s first large-scale rescue mission abroad since February 2011, when Tokyo dispatched personnel to help after a powerful quake in Christchurch, New Zealand.
+
+Meanwhile, the death toll in Saturday’s magnitude-7.8 quake continues to climb, with at least 3,500 casualties reported so far. There was a strong aftershock on Sunday.
+
+Japan’s Embassy in Nepal said it has so far confirmed the safety of fewer than half of some 1,100 Japanese nationals living in the country.
+</text>

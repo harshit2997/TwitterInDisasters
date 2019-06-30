@@ -1,0 +1,43 @@
+<url>
+http://www.buffalo.edu/news/releases/2015/05/001.html
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Masonry structures common in Nepal prone to ‘sudden and brittle failure,’ UB expert says
+</headline>
+
+<text>
+Masonry structures common in Nepal prone to ‘sudden and brittle failure,’ UB expert says
+
+UB professor considers trip to Nepal with research team to study performance of building structures
+
+“Masonry structures without reinforcement have a very poor behavior when it comes to earthquakes. They just collapse.”
+
+BUFFALO, N.Y. – After an earthquake hit California in 1933, unreinforced masonry structures were banned.
+
+These types of structures, according to Andreas Stavridis, University at Buffalo assistant professor of civil, structural and environmental engineering, can have a very ‘sudden and brittle failure.’ They also make up about 60 percent of the buildings in Nepal where the earthquake hit.
+
+“Masonry structures don’t give us much of a warning, they just collapse,” he said. “Modern structures contain steel reinforcement that prevents such catastrophic collapses and are designed to stay standing despite damage so we can evacuate safely. Masonry structures without reinforcement have a very poor behavior when it comes to earthquakes. They just collapse.”
+
+Stavridis has never traveled to Nepal, but his research focuses on masonry structures. When he heard about the earthquake on Saturday, he started looking into previous studies and papers on the area to find out about the building inventory, design and construction practices.
+
+He quickly learned that about 60 percent of Nepal’s buildings are masonry, or made of adobe, bricks, or stone for example. Roughly 25 percent are concrete frames infilled with masonry panels, he said.
+
+“That is why they struggle,” Stavridis said. “This type of construction has been banned in California for a reason – they said forget about it after their earthquake because there is no warning, they just collapse.”
+
+Stavridis has tested large-scale specimens in the lab. Last year, he also tested two actual buildings in Utica, New York, and El Centro, California.
+
+Now, he hopes to take his research from the lab to Nepal.
+
+He has been in discussions with colleagues from Oregon State University and the Sapienza University of Rome about potentially traveling there this summer to study the behavior of these structures to see why some failed and why others did not.
+
+“We want to see what works and what doesn’t work in terms of preventing damage and destruction,” he said. “There is only so much you can simulate. What you get in real life is way more complex and way more informative.”
+
+Discussions and plans are still in the very early stages, Stavridis said, as the group explores the possibility of traveling to Nepal. The group plans to speak with the National Science Foundation next week about funding a potential trip.
+
+“The more people study the seismic performance of these structures and give ideas, the better it usually is,” he said. “One more opinion can always help and that is what we hope to do.”
+</text>

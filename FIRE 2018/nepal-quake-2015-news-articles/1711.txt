@@ -1,0 +1,35 @@
+<url>
+https://www.yahoo.com/tech/as-nepal-grapples-with-tragedy-tech-companies-117514951634.html
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+As Nepal Grapples With Tragedy, Tech Companies Pitch In
+</headline>
+
+<text>
+A house destroyed by Saturday’s earthquake at Paslang village in Gorkha municipality, Nepal. (Via Associated Press).
+
+Following the 7.8-magnitude quake that hit Nepal on Saturday, tech behemoths like Facebook, Google, Apple, and more are using their wide-reaching Web presences to help people locate their loved ones and donate money to the recovery.
+
+The effort demonstrates a truth about our increasingly connected modern world: Previous natural disasters have established an unofficial emergency infrastructure on the Internet.
+
+Facebook, for instance, enabled Safety Check, which allows people within a certain radius of a disaster zone to indicate whether they’re OK. The feature, which was created after the 2011 earthquake and tsunami in Japan, will then post a status and send notifications to the user’s friends, alerting them that the person is OK.
+
+
+
+(Via Facebook)
+
+“When disasters happen, people need to know their loved ones are safe,” Facebook CEO and founder Mark Zuckerberg wrote on his Facebook page on Saturday. “It’s moments like this that being able to connect really matters.”
+
+A Facebook spokesperson told the Wall Street Journal that millions of people have been marked as safe within the 310-mile radius of the earthquake’s center. But Nepal’s already limited access to Internet may stand in the way of corporations’ efforts to help. According to a 2013 study by the World Bank, only 13 percent of Nepal’s 27.8-million person population had regular access to the Internet.
+
+(Via Google).
+
+Google’s Person Finder, on the other hand, allows you to search for loved ones in Nepal or India via SMS texts. This simple tool, which was launched during Haiti’s catastrophic earthquake in 2010, allows you to search for someone by name, or enter information about an individual into a master database. As of Monday morning, records for around 5,300 people had accumulated.
+
+Story Continues
+</text>

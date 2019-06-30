@@ -1,0 +1,65 @@
+<url>
+http://news.stanford.edu/news/2015/may/nepal-relief-efforts-050115.html
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Stanford community contributes to Nepal's earthquake relief efforts
+</headline>
+
+<text>
+The devastating 7.8 earthquake that rocked Nepal last weekend has touched all corners of the Stanford campus and beyond, but none more than those who have loved ones in the ravaged country.
+
+“It has been a really emotional and challenging time for all of us,” said Paurakh Rajbhandary, a fourth-year doctoral student in electrical engineering whose family in Nepal slept outdoors for several days, until their home was cleared for re-entry. “It’s so hard to be here, and not with our families, while our country is going through such a crisis.”
+
+Rajbhandary is one of about a dozen Nepalese students who currently attend Stanford. But members of the larger campus community – from students to doctors and mapping experts – are organizing a range of efforts to help with rescue and recovery efforts in Nepal.
+
+Sanskriti, Stanford’s South Asian undergraduate student organization, will host an awareness and fundraising booth at Mela, their annual spring festival. The event, which will take place Sunday, May 3, from 2 to 4 p.m. outside Dinkelspiel Auditorium, will feature the Curry Up Now food truck, which will contribute a portion of its sales to relief efforts in Nepal.
+
+Sanskriti is recommending four well-regarded charities to members of the campus community that wish to donate: Global Giving, America Nepal Medical Foundation, UNICEF and Direct Relief.
+
+Sanskriti Chair Kunal Sangani said he hopes that with the community’s input and assistance “we can best support those affected by the recent disaster.” He added that those wishing to assist with Sanskriti’s activities should contact him by email at ksangani@stanford.edu.
+
+Another way to help: mapping
+
+Mappers at Stanford and around the world are checking roads, buildings and open spaces to assist with the rescue and recovery effort.
+
+These volunteer mappers are working with OpenStreetMap, an open source and open data sharing tool, to assist in disaster relief by mapping Nepal’s roads, buildings and residential areas. Anyone with a laptop and spare time can help out.
+
+The Stanford Geospatial Center in the Branner Earth Sciences Library has been hosting introductory relief mapping sessions to help train people to use OpenStreetMap.
+
+Stacey Maples, the geospatial manager at the center, said he’s conducted several workshops already for volunteers and has been working with experienced mappers, using post-earthquake imagery donated by several organizations to identify camps of “displaced people” by comparing those images to pre-quake imagery.
+
+Maples said since the earthquake struck, 2,200 OpenStreetMap volunteers have made 250,000 edits to the map of Nepal, “most of them building footprints for population estimates and prioritization as well as road and path edits for relief logistics management.”
+
+Maples also is coordinating the efforts of several agencies and researchers at Yale University to put imagery sources together to create landslide risk assessments of particularly vulnerable areas. Finally, he and others are working on a “cholera app” for use in case there are cholera outbreaks in the camps.
+
+“I may be sitting at my desk for 12-hour stretches, but I’m literally running in six different directions,” he said. For more information on how to volunteer, email stacemaples@stanford.edu or visit Branner Library.
+
+Medical assistance
+
+Paul Auerbach, professor and chief of emergency medicine at Stanford, is part of an International Medical Corps team that arrived in Kathmandu earlier this week to assist with the earthquake relief efforts.
+
+His on-the-ground experiences are chronicled on the Medical School’s SCOPE blog.
+
+“We have heard tales of miraculous survival, sadly posed against the grief of many lost family members and friends,” Auerbach wrote in a post published on April 29. “Driving through the city past enormous mounds of rubble that last week were sacred temples and monuments, it is striking to think about how much there is to be done worldwide to prepare for cataclysmic natural events. There will be many lessons learned from this catastrophe, and we should take them to heart. One of them is how much better is a world focused on mutual aid and skillful compassion than upon dominance and conflict.”
+
+Michele Barry, senior associate dean for global health and director of the Center for Innovation in Global Health, has posted a letter on her website that includes her recommendations for organizations to which to contribute.
+
+Meanwhile, other members of the Stanford community also are working on the effort.
+
+“It has been a difficult time for many of us from Nepal, hearing about the losses that people back home have suffered,” said Aditya Todi, ’14, who earned his bachelor’s degree in international relations.
+
+Todi and his cousin, who is on the ground in Kathmandu, have organized a crowdfunding campaign to provide support to relief agencies and first-responders.
+
+“We know it will be an uphill battle to restore any sense of normalcy, though at a time when the world’s eyes are still glued to Nepal, we are hoping to gather as much support as we can,” Todi said.
+
+Finding comfort
+
+On Monday, May 4, the side chapel in Memorial Church will be open from 1 to 5 p.m. for prayer, reflection and candle lighting. All are welcome to come to pray for and remember those who have died. In addition to candles, there will be a memory book for members of the community to record personal thoughts.
+
+On Sunday, May 10, the offering during University Public Worship will be dedicated to Global Giving and the America Nepal Medical Foundation.
+</text>

@@ -1,0 +1,21 @@
+<url>
+http://www.pattayamail.com/news/defense-minister-considers-sending-donations-to-nepal-by-sea-46664
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Defense Minister considers sending donations to Nepal by sea
+</headline>
+
+<text>
+BANGKOK, 29 April 2015 – Defense Minister General Prawit Wongsuwan has instructed the armed forces to increase their relief efforts for quake survivors in Nepal.
+
+General Prawit said the Royal Thai Armed Forces are currently in the process prioritizing donations. Donations are expected to transit through India before being transported to Nepal.
+
+He said that a large amount of donated items have prompted the authorities to consider sea transport, due to the logistics cost of airlifting them.
+
+The Royal Thai Navy has been instructed to decide whether a commercial ship should be contracted to deliver the donations.
+</text>

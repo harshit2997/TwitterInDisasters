@@ -1,0 +1,27 @@
+<url>
+http://www.thesundaytimes.co.uk/sto/news/world_news/Asia/article1548933.ece
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Quake rocks Everest and ravages Nepal
+</headline>
+
+<text>
+A man is freed from the rubble of a destroyed building after the earthquake hit Kathmandu (EPA) Narendra Shrestha
+
+At least 1,500 people were killed when a powerful earthquake hit Nepal yesterday.
+
+The quake, which had a magnitude of 7.9, devastated the centre of Kathmandu, the capital, and triggered an avalanche on Mount Everest that killed at least 18 people and trapped another 1,000, many of them foreigners.
+
+There were no immediate reports of British casualties from the quake, but at least 10 Britons were missing.
+
+Among the dead was Dan Fredinburg, an American senior Google executive who survived a deadly avalanche on Everest last year.
+
+The Nepalese government declared a state of emergency in the devastated areas and appealed for international assistance. It was feared the final death toll could reach the thousands.
+
+The avalanche on Everest buried part of the base camp…
+</text>

@@ -1,0 +1,21 @@
+<url>
+http://www.chch.com/nepal-dealing-with-aftermath-of-yesterdays-earthquake/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal dealing with aftermath of earthquake
+</headline>
+
+<text>
+More than 25 hundred people have died in the earthquake that rocked the Himalayan country of Nepal over the weekend.
+
+Survivors dealt with at least 30 aftershocks as they tried to rescue people from the rubble of fallen buildings.
+
+And as scenes of the disaster reached Canada, Nepalese communities here met to plan a way to help.
+
+So far the government has pledged $5 million and the help of the Disaster Assistance Response Team, which was deployed after disasters in the Philippines and Haiti.
+</text>

@@ -1,0 +1,33 @@
+<url>
+http://www.techweekeurope.co.uk/mobility/4g/vodafone-foundation-sends-network-backpack-aid-nepal-relief-efforts-167216
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Vodafone Sends ‘Network In A Backpack’ To Aid Nepal Earthquake Victims
+</headline>
+
+<text>
+The Vodafone Foundation, the Newbury-based operator’s philanthropic arm, has dispatched a team of volunteers to Nepal to deploy instant network equipment in areas affected by an earthquake last week.
+
+The team, made up of volunteers from Vodafone’s workforce, has arrived in the Kathmandu Valley, equipped with an Instant Network Mini ‘network in a backpack’. This the first time the 11kg system has been deployed in the field and can be set up in just ten minutes, even by non-technical users.
+
+Instant Network Mini can connect up to five mobile phones within a radius of 100 metres to local telecoms networks and can send text messages providing emergency information to thousands of people.
+
+Response
+
+Vodafone is working with Télécoms Sans Frontières, and is awaiting further instructions on where and when the system should be deployed. The team will also help local operators re-establish communications to aid the relief effort and contact friends and family that may have been caught up in the disaster.
+
+“Establishing communications in the aftermath of a natural disaster is crucial, both for the coordination of aid and to enable those affected to reconnect with family and friends,” said Andre Dunnett, Vodafone Foundation director. “Through our Instant Network programme, we are able to deploy our people and our technology to provide communications support at a critical time.”
+
+The larger 100kg Instant Network, which consists of an antenna, foldable mast, industrial computer and base transceiver station, could also be deployed in Nepal, providing coverage to a radius of up to 1 kilometre.
+
+This system was used in the aftermath of Typhoon Haiyan in the Philippines in 2013, facilitating 443,000 calls and 1.4 million text messages in 29 days. The Vodafone Foundation also sent volunteers to Vanutatu last month to help the relief effort following Cyclone Pam.
+
+The Foundation has donated £100,000 to the UK Disaster Emergency Appeal (DEC) to assist the relief effort in Nepal, which has also received support from Skype and Viber, which have waived call charges to the affected regions, and Google.
+
+What do you know about UK mobile operators? Find out with our quiz
+</text>

@@ -1,0 +1,29 @@
+<url>
+http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=123910
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+The Island
+</headline>
+
+<text>
+By Maheesha Mudugamuwa
+
+The Disaster Management Centre (DMC) yesterday announced that it had received more than five million rupees in donations to the Disaster Management Nepal Earthquake Fund at the People’s Bank during two days.
+
+DMC Deputy Director (Media) Sarath Lal Kumara told The Island that the centre had launched the programme on a request made by the Disaster Management Ministry and the monetary donations would be handed over to Prime Minister Ranil Wickremesinghe. The government would donate all donations to the Nepal government, he said.
+
+An Emergency Operations Counter had been established for the purpose and money could be sent to the Disaster Management Nepal Earthquake Fund Account Number 204100140008896 at the People’s Bank.
+
+The centre asked the public to assist the humanitarian programme to help the people affected by the earthquake in Nepal.
+
+Meanwhile, the armed forces and the Police as well as the ministries of Health, Foreign Affairs and Defence are also extending support to the earthquake victims.
+
+The government dispatched its first emergency supplies and support personnel to Nepal the day after the devastating earthquake and there will be further airlifting of assistance and relief personnel from Sri Lanka to that country in the coming days.
+
+According to media reports the death toll there has risen to more than 4,800 with more than 9,200 injured while eight million were affected across Nepal by the Saturday’s devastating quake and its aftershocks.
+</text>

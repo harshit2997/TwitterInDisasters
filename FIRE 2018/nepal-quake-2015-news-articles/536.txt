@@ -1,0 +1,29 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/27/c_134186206.htm
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Russia sends rescue team to quake-hit Nepal - Xinhua
+</headline>
+
+<text>
+MOSCOW, April 26 (Xinhua) -- Russia sent two planes carrying rescue team and humanitarian aid to quake-hit Nepal, the Emergency Situations Ministry said Sunday.
+
+"Two Ilyushin Il-76 aircraft, carrying rescue crews and equipment to help in the aftermath of the earthquake in Nepal, have taken off from the Ramenskoye airport near Moscow," a spokesman for the ministry said.
+
+The two planes departed for Nepal at separate times, Interfax news agency quoted the ministry as saying.
+
+The two planes are also carrying humanitarian aid for victims, including food and daily necessities.
+
+The rescue team onboard includes more than 90 specialists from the ministry's special troops of Tsentrospas and Lider, including doctors and psychologists.
+
+A staggering 7.9-magnitude quake, the worst to hit the nation in over 80 years, shook central, western, mid-western and far- western parts of Nepal at midday on Saturday, leaving tens and hundreds of people injured and causing damage to properties worth over billion U.S. dollars.
+
+Nepal authorities said Sunday that more than 2,430 people died in the country and the number of injured nationwide climbed to 5, 900, while death toll would rise further as search and rescue efforts were hampered by damaged roads, ineffective communication lines and landslides.
+
+Countries including China, Japan, India, Pakistan and Sri Lanka have confirmed sending their rescue teams, while relief funds have been pledged by the United States, South Korea, Australia and New Zealand.
+</text>

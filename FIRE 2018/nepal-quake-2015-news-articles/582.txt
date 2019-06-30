@@ -1,0 +1,23 @@
+<url>
+http://english.cntv.cn/2015/04/26/VIDE1430024761344128.shtml
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+51 reported to have died in India quake
+</headline>
+
+<text>
+CCTV.com
+
+04-26-2015 13:08 BJT
+
+Indian media is reporting that 51 people have been killed and 237 injured, after tremors from the Nepal earthquake shook northern India.
+
+India has also dispatched air force planes to evacuate stranded nationals in Nepal. Indian media say over 550 Indian nationals were brought back late on Saturday, with more expected to be evacuated on Sunday.
+
+The defense ministry says 10 special flights have been laid on for Sunday, to send disaster response forces, medical personnel and equipment, and relief supplies into Nepal.
+</text>

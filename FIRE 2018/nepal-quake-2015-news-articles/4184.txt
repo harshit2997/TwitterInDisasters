@@ -1,0 +1,23 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/30/c_134200551.htm
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Finnish rescue team sends rescue team to Nepal - Xinhua
+</headline>
+
+<text>
+HELSINKI, April 30 (Xinhua) -- The Finnish Red Cross said it would dispatch a rescue team on Thursday to assist in the post-earthquake recovery operations there, local media reported.
+
+In addition to rescue workers, the team also includes some X-ray technicians and an aid worker from the Red Cross. The team is to transport an X-ray machine, 140 tents and nearly 1,000 sets of kitchenware.
+
+The rescue group had planned to travel to Nepal on Wednesday, but the flight was postponed as the aircraft had to wait for permission to land at Nepal's single international airport in Kathmandu.
+
+The Finnish foreign affairs ministry announced Tuesday it would provide two million euros (about 2.24 million U.S. dollars) in humanitarian aid to Nepal.
+
+A 7.8-magnitude earthquake devastated Nepal on Saturday last week, killing more than 5,400 people and leaving tens of thousands of people homeless.
+</text>

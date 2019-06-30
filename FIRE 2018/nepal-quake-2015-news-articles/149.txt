@@ -1,0 +1,15 @@
+<url>
+http://www.ndtv.com/india-news/earthquake-damages-indian-embassy-in-nepal-kills-wife-of-an-official-758127
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Nepal Earthquake: Daughter of Embassy Employee Killed as House Collapses
+</headline>
+
+<text>
+An Indian embassy employee's daughter died and wife suffered serious injuries when a house in the mission complex in Kathmandu collapsed during the powerful earthquake that struck Nepal.The nationality of the contract-based mission staff was not immediately known."A house in our Embassy complex collapsed. Unfortunately, the daughter of our employee Madan has died. His wife's condition is serious," External Affairs Minister Sushma Swaraj said.Hundreds of people were killed after a powerful earthquake measuring 7.9 on Richter scale hit Nepal today flattening houses and buildings including the centuries-old Dharhara tower and triggering an avalanche on Mt Everest.The earthquake with epicentre at Lamjung, around 80 kilometres northwest of Kathmandu, had its impact in several cities in Bihar, West Bengal and Uttar Pradesh and tremors were felt across vast stretches of east and northeast India. It was also felt in China, Bhutan and as far as Pakistan and Bangladesh.
+</text>

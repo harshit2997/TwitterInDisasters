@@ -1,0 +1,173 @@
+<url>
+http://www.huffingtonpost.com/2015/04/30/nepal-schools-destroyed_n_7175122.html
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Nearly 5,000 Schools Have Been Destroyed In Nepal. Here's Who's Helping
+</headline>
+
+<text>
+ADVERTISEMENT
+
+Nearly 5,000 schools have been destroyed by the earthquake in Nepal, which could have an immeasurable effect on children's long-term futures, aid groups say.
+
+The magnitude-7.8 earthquake has left more than 5,500 people dead and while humanitarian groups are scrambling to bring basic aid and medical care to survivors, they’re already gravely concerned about how they’ll begin to tackle the issue of rebuilding the devastated school system.
+
+In Gorkha alone, Save the Children staff estimates that 90 percent of the district’s 500 schools have been destroyed or badly damaged.
+
+Currently, aid workers are focusing their efforts on children’s basic needs.
+
+According to UNICEF, about 1.7 million kids are in need of urgent aid in the worst-hit areas.
+
+To give kids a temporary place to heal, World Vision is setting up six child-friendly places for youngsters to play.
+
+Due to a lack of access to clean water, children are at a greater risk of contracting waterborne diseases, which could potentially be fatal.
+
+In addition to providing tents, hygiene kits and water purification tablets, UNICEF is also addressing kids’ emotional needs.
+
+The organization is bringing psychological support to kids living in informal camps and is working to reunite separated families.
+
+In the Gorkha district, Save the Children brought more than 400 shelter kits and over 600 baby packs to survivors.
+
+In the coming weeks, the organization will begin working with the affected children to make sure they get the psychological support they need and access to learning opportunities.
+
+“A routine school environment is one of the best ways to return children to a sense of normality and to talk about their experiences with their peers, helping them to recover from the trauma of the disaster,” Roger Hodgson, deputy country director for Save the Children in Nepal, said in a statement.
+
+The button below indicates how much has been raised on Crowdrise's "Nepal Earthquake Relief" page. Click to visit the site and donate.
+
+#custom_crowdrise_widget div.crDonateWidget {
+
+width: 298px !important;
+
+margin-left: 0 !important;
+
+margin-right: 0 !important;
+
+padding: 0 !important;
+
+height:78px;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget h4 { display: none; }
+
+#custom_crowdrise_widget .crDonateTriangle { display: none !important;}
+
+#custom_crowdrise_widget .crImageAndTitleOuter { display: none !important;}
+
+#custom_crowdrise_widget .CRShadowImage { display: none !important;}
+
+#custom_crowdrise_widget .crDonateWidgetOuter {
+
+border:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+margin-top: 0 !important;
+
+margin-right: 0 !important;
+
+margin-bottom: 0 !important;
+
+margin-left: 0 !important;
+
+background: url("https://www.crowdrise.com/media/cdncustom/huffpost_donate_widget.png") 0 0 no-repeat !important;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget {
+
+margin:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+background-color: inherit !important;
+
+padding: 0 10px !important;
+
+}
+
+#custom_crowdrise_widget .startFundraiser { display: none !important;}
+
+#custom_crowdrise_widget .gradientButton {
+
+width: inherit !important;
+
+margin-bottom: 0 !important;
+
+}
+
+#custom_crowdrise_widget .crDonated {
+
+margin: 0 !important;
+
+font: bold 14px/16px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+width: 185px;
+
+padding-top: 9px !important;
+
+}
+
+#custom_crowdrise_widget .crLogo img { display: none !important;}
+
+#custom_crowdrise_widget .crDonatedLabel { display: none !important; }
+
+#custom_crowdrise_widget .gradientButton {
+
+background: none !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)" !important;
+
+filter: alpha(opacity=0) !important;
+
+opacity: 0 !important;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 21px !important;
+
+margin-top:15px !important;
+
+}
+
+#custom_crowdrise_widget .donateNow {
+
+font: normal 9px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+filter: alpha(opacity=0);
+
+opacity: 0;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 36px !important;
+
+margin-top:0 !important;
+
+padding-top: 0 !important;
+
+}
+
+
+
+
+
+Like Us On Facebook
+
+Follow Us On Twitter
+</text>

@@ -1,0 +1,59 @@
+<url>
+http://www.scientificamerican.com/article/experts-calculate-new-loss-predictions-for-nepal-quake/
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Experts Calculate New Loss Predictions for Nepal Quake
+</headline>
+
+<text>
+When calamities like the Nepal earthquake hit, people look for numbers to help calculate the toll of destruction. That puts the spotlight on operations like earthquake-report.com, which is world’s largest independent Web site for earthquake data. The site has a rapid earthquake-loss estimation model, so that within 30 minutes of an event, anywhere in the world, they can offer a prediction about fatalities and economic loss. The U.S. Geological Survey (USGS) also has a prediction Web site; the models differ in how they determine an event’s impact, the economic inputs used and the databases they draw from. Earthquake-report.com has a narrower estimate of deaths, up to 10,000, whereas the USGS gives a much broader spread, estimating that between 10,000 and 100,000 fatalities are most likely.
+
+Earthquake-report co-founder James Daniell, a civil and structural engineer at Karlsruhe Institute of Technology’s Center for Disaster Management and Risk Reduction Technologyin Germany, began collecting earthquake damage statistics as a childhood hobby. "I used to read the Guinness book of records back to front. I was then naturally inquisitive why all the books didn't have the same values for a particular event, and that is why I got into it," he says. The database he has since built is now the backbone of his loss model. The report relies on intensity data collected from many different sources whereas the USGS uses its own data. Daniell also says his model tracks local changes in capital stock and GDP values through time whereas the USGS makes a comparison based on past temblors in each country or region of the world.
+
+Daniell and his small team rely on sources that include national and provincial government Web sites, Twitter feeds from official and local sources as well as information from people and colleagues they know in the area. The database includes sources that use 90 different languages. Daniell can read earthquake data in Hindi, Chinese, Japanese, Vietnamese, Tagalog and Bassa as well as English, German, French and Italian. The data is presented on the continually updated site, which has in-depth articles on major events, including video, images and tweets from people in affected regions.
+
+The worldwide data has pointed to several long-term trends, Daniell says. One is that buildings are better, overall. Between 1900 and 2014 quake damage has decreased as a percentage of total damaged buildings. But the number of fatalities from earthquakes compared with worldwide deaths is a flat line. In this regard, "we're not doing better at all," Daniell says. He spoke to Scientific American about the aftermath of the April 25 Nepal quake and about what his numbers show about worldwide readiness for dangerous temblors.
+
+[An edited transcript of the interview follows.]
+
+What were you expecting when you heard of the event, prior to running your first analysis?
+
+All the scenario analyses that researchers have done over the years always put very high ground motions under Kathmandu and destroyed it a lot. In this one, this was not the case. When I heard of the event, I was expecting around 5,000 deaths, and around 10 percent loss of capital. But our first theoretical model came out a bit lower at 1,400 to 7,500 fatalities.
+
+At the moment, our models have a median of around 8,000 to 9,000 deaths, with 10,000 not out of the question. The latest official death toll [on Wednesday afternoon] is 6,101: 6,000 in Nepal, 25 in China, 72 in India and four in Bangladesh. Injured Nepal: 10,348. Internally displaced: 454,769. It is the ninth-deadliest of the 21st century currently—and probably will end up being the eighth-deadliest, since 1999.
+
+Are you seeing any surprising statistics?
+
+There was a lot less destruction in Kathmandu that had been expected from studies before the event. These did not model exactly the magnitude and makeup of this event but it is still surprising. The economic loss is very low—not because of the damage, which is high—but because Nepal is such a poor land with very little infrastructure, around $40 billion in total infrastructure value.
+
+You put monetary value on human lives lost. How do you do that?
+
+We use human capital methods: age distribution, gross domestic product to the community, family involvement—meaning the number of dependents and income. Each fatality is around $120,000 to $160,000 in terms of work, family and GDP output from Nepal. However, it must be noted that it is impossible to put an exact value on a life, and that age and other factors play a role.
+
+What are the economic losses to the region?
+
+Based on historical earthquakes in and around Nepal and then using the change in values of buildings and intensities seen in this event we can expect around a $3 billion to $3.5 billion loss and around a $5 billion to $5.5 billion replacement cost. That will probably increase if they rebuild with better structures. The additional indirect effects are not yet accounted for, like indirect losses to the tourism industry and the value of cultural icons. It is very difficult to put a price on this—tourism brings in about $1 [billion] to $1.5 billion per year directly and indirectly to Nepal. So it will be interesting to see how this is affected in the coming years.
+
+Tourists to Nepal often come to see temples. How many temples have been lost?
+
+At the moment there are still no complete accounts but many of the stone temples in Kathmandu and other places—Kasthamandap, Panchtale temple, the Dasa Avtar temple, Krishna Mandir—have been destroyed or heavily damaged. Also the Dharahara, or Bhimsen, tower—but this was also damaged in a very powerful 1934 quake in Bihar.
+
+The temples were mostly unreinforced. However, one internationally funded temple had earthquake retrofitting, I don't know how the temple went and if it survived. Newer buildings in Kathmandu, however, survived the earthquake very well.
+
+What has been the most important story coming out of Nepal for you?
+
+The relatively low death toll—influenced because of the time of the event, the type of roofs of buildings and the fact that Kathmandu was not hit straight on by the earthquake.
+
+Where else in the world are huge populations still at risk because they are living in cities where the primary building construction is unreinforced concrete and there is a likelihood of a major earthquake like this?
+
+Many places: Indian cities, Chinese cities and a lot through South America, such as Bogota, Quito and Lima.
+
+Do you think such countries will learn from this event and work to improve their own cities?
+
+I hope so! It should be a wake-up call for all nations that build out of unreinforced masonry to do something about it. But unfortunately, the countries generally only change once a big disaster occurs.
+</text>

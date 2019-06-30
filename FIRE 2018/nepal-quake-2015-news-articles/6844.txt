@@ -1,0 +1,41 @@
+<url>
+http://www.9news.com.au/world/2015/05/14/19/00/nepal-government-runs-quake-relief
+</url>
+
+<date>
+20150514
+</date>
+
+<headline>
+Nepal government runs quake relief
+</headline>
+
+<text>
+Ministries in Nepal have battled to get aid to some of the remotest terrain on Earth, working from tents and makeshift shelters after an earthquake severely damaged government buildings in the capital.
+
+Tuesday's deadly 7.3-magnitude quake triggered landslides and brought down buildings weakened by an even larger tremor on April 25 that killed more than 8000 people and destroyed nearly half a million homes.
+
+Nepal's government, which admits to being overwhelmed by the scale of the April 25 disaster, is now racing to deliver relief to remote mountainous areas in the east of the country worst hit by the latest quake.
+
+The difficulties have been compounded by extensive damage to the Singha Durbar government complex in Kathmandu, parts of which are now so unstable they can no longer be used.
+
+The prime minister's spokesman Uttar Kumar Khatri said on Thursday even his team was now operating out of a tent, calling it a "difficult situation".
+
+"Our operations right now are all focused on disaster management," he said.
+
+"We are now trying to see where everyone can be accommodated in buildings that are safe."
+
+In Kathmandu, where 11 people died on Tuesday, many traumatised survivors spent another night outdoors, afraid to return to their houses.
+
+Meanwhile, a major search operation resumed Thursday for a US military helicopter that disappeared with eight people on board while delivering aid to earthquake victims.
+
+With many of the worst-hit areas inaccessible by road, more than 1400 people have been airlifted from quake-hit areas, most of them by Nepalese troops.
+
+Home ministry spokesman Laxmi Prasad Dhakal said the death toll from Tuesday's quake, which was centred 76 kilometres east of Kathmandu, had risen to 96 overnight with more than 2500 injured.
+
+Many of the victims were in Dolakha and in neighbouring Sindhupalchowk, and the quake also killed 17 people in northern India and one in Tibet.
+
+The tremor added to the huge challenge of getting relief to victims of the 7.8-magnitude quake of April 25, the biggest to hit Nepal in 80 years, with landslides reported to be blocking several roads.
+
+© AFP 2017
+</text>

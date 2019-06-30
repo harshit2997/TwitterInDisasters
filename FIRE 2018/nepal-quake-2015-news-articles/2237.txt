@@ -1,0 +1,19 @@
+<url>
+http://www.heraldsun.com.au/news/breaking-news/australian-among-everest-dead/story-fni0xqll-1227322321876?nk=38e750e9e4a429d91011cf0900ef5a4f
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal Aust death still to be confirmed
+</headline>
+
+<text>
+AUSTRALIAN officials are trying to confirm reports a citizen is among 19 people killed at Mount Everest's base camp in an earthquake-triggered avalanche.
+
+"THE Australian embassy in Kathmandu is urgently seeking to confirm these reports," Foreign Affairs Minister Julie Bishop told ABC radio on Monday.
+
+Originally published as Nepal Aust death still to be confirmed
+</text>

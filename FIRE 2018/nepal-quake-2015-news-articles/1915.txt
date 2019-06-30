@@ -1,0 +1,33 @@
+<url>
+http://www.cntraveler.com/stories/2015-04-27/morning-news-after-nepal-earthquake-travel-advisories
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Morning News: After Nepal Earthquake, Travel Advisories
+</headline>
+
+<text>
+Aftershocks continue to hit Nepal, where more than 3,700 people have died after “the worst earthquake to hit the country in more than 80 years,” according to The Guardian. ( The Guardian )
+
+The U.S. Department of State “ recommends that U.S. citizens in Nepal exercise caution when traveling in or planning departure from the country following the 7.9 magnitude earthquake on April 25. The possibility for aftershocks of significant magnitude persists.” The U.K. Foreign and Commonwealth Office advises “against all but essential travel to the whole country.”
+
+“Within 40 seconds on Saturday, everything changed,” writes Donatella Lorch in the Times. “The Durbar Squares in Katmandu and Patan where tourists thronged — ancient plazas graced with temples and fountains opposite the old royal palaces — had been reduced to rubble, with only a few structures left standing.” Many of the country’s major landmarks were destroyed or damaged, CNN reports. ( NYT and CNN )
+
+At least 18 Mount Everest climbers were killed, and that toll could rise, The Guardian reports, as evacuations slowly progress. ( ESPN and The Guardian )
+
+Cuba could be getting new ferry service from the U.S. “At least five shipping companies have applied for special licenses from the U.S. State Department to relaunch overnight ferry service from ports in Florida,” Costas Paris reports. The service will likely hinge on whether restrictions on tourism to the island are loosened. ( WSJ )
+
+Capital One is partnering with Uber to offer cardholders free introductory rides and 20% cash back on rides through at least April 2016, according to an email from the company.
+
+Orbitz will launch mobile-only last-minute discounts of up to 15 percent for rental cars, the company says. The booking site already has last-minute deals on hotels.
+
+Chateaux Margaux will open its new Norman Foster-designed winemaking facility to visitors in June. ( WSJ )
+
+A new Kimpton, The Buchanan Hotel, will open in San Francisco’s Pacific Heights neighborhood in June, replacing the Hotel Tomo. Nicole Hollis Interior Design dreamed up the kimono-inspired robes that will stand in for the more traditional Kimpton leopard-print numbers. ( Kimpton )
+
+Frankfurt Airport will build a new $3.2-billion terminal to keep up with global demand for air travel. It could open by 2022. ( Skift )
+</text>

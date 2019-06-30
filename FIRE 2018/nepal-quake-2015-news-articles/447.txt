@@ -1,0 +1,17 @@
+<url>
+http://www.modbee.com/news/nation-world/world/article19451910.html
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Aid starts coming to Nepal after quake kills nearly 2,000 | The Modesto Bee
+</headline>
+
+<text>
+Police officer yells at mother for leaving children in hot car
+
+A Vancouver police officer scolded a mother for leaving her children, ages 3 and 6, in a hot car while she grocery shopped on the afternoon of July 3. Police said they received multiple emergency calls about two children, who were said to be in distress while alone inside the locked car as the alarm also went off. The mother was reportedly inside the grocery store for 20 minutes.
+</text>

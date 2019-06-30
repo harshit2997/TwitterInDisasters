@@ -1,0 +1,19 @@
+<url>
+http://blogs.wsj.com/japanrealtime/2015/04/27/nepal-earthquake-japan-rescue-team-dispatched-to-katmandu/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal Earthquake: Japan Rescue Team Dispatched to Katmandu
+</headline>
+
+<text>
+European Pressphoto Agency
+
+A team of about 70 rescue experts from Japan was set to arrive in the Nepalese capital on Monday afternoon to provide rescue and assistance following the devastating earthquake which has killed over 3,200 people.
+
+Members of the rescue team include officials from the foreign ministry, the police, Japan International Cooperation Agency and the Japan Coast Guard. Four sniffing dogs were also dispatched for the mission, a foreign ministry spokesman said.
+</text>

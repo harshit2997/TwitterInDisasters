@@ -1,0 +1,99 @@
+<url>
+http://www.thehindu.com/opinion/interview/south-asia-suffers-more-during-quakes-due-to-poor-infrastructure-geologist-michael-p-searle/article7177622.ece
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+‘South Asia suffers more during quakes due to poor infrastructure’
+</headline>
+
+<text>
+“Kathmandu is a disaster waiting to happen. We don’t know when, but an earthquake will definitely happen at some stage. It might be tomorrow, it might be 10 years, it might be 100 years; but when it happens, it will be devastating,” Michael P. Searle, Professor of Earth Sciences at Oxford University, had stated in 2013 in an interview with the interviewer.
+
+One of the leading geologists working in the Himalayas, Professor Searle is the author of Colliding Continents: A Geological Exploration of the Himalaya, Karakoram and Tibet . The book documents over 30 years of field experience ranging from Oman and Indonesia to various other seismically unstable regions. In the aftermath of the earthquake that hit Nepal on April 25, 2015, Professor Searle explains the nature of the quake and its relevance in a larger narrative of continents, oceans and an ever restless earth that fuels it all. Excerpts:
+
+
+
+
+
+Could the earthquake in Nepal have been predicted?
+
+Geologists can map the structures on the Earth’s surface and determine the distribution of earthquakes at depth. They can then predict where future earthquakes are likely to go off, but cannot predict exactly when. Before the Nepal earthquake, there was a big seismic gap (roughly centred around Kathmandu) that had not experienced a big earthquake for 80 years since the devastating one in 1934 in eastern Nepal-Bihar. Kathmandu is built on an old lake bed that runs across the entire Valley. Seismic waves would transform the sediment into a liquid-like substance, which would cause intense shaking by surface waves, similar to the earthquake that devastated Mexico City in 1985.
+
+
+
+
+
+In Colliding Continents, you write that the Himalayan range came into being through a series of earthquakes.
+
+As continental plates collide, the rocks are shortened by folding and thrusting. When the rocks break along a fault, earthquakes release the built-up stress. During large earthquakes, the rocks can move 5 or even 10 meters instantly. The Himalayas were formed by a series of earthquakes such as these.
+
+
+
+
+
+Has the height of the mountains altered after this earthquake?
+
+The mountains may have risen above the thrust fault, but it is not possible to accurately quantify this. After 25 years of continuous GPS, we know the horizontal motions very accurately, but vertical motions are more difficult to quantify. Satellite radar interferometry data suggests that the land surface rose one meter to the north of Kathmandu.
+
+
+
+
+
+Has this earthquake impacted the flow of rivers?
+
+No, the course of rivers takes longer to change. Rivers started flowing south as soon as the Himalayas started rising, probably over 40 million years ago. As the Himalayas rise, the rivers will cut back by headwall erosion. Some larger rivers like the Arun have cut a long way north beyond the main Himalayan axis.
+
+
+
+
+
+Although a majority of the earthquakes occur on the fault line, the Bhuj and Latur earthquakes were far away from any active fault lines. Can you explain?
+
+As the Indian plate flexes down beneath the Himalayas, it forms the great arch and the adjacent Siwalik basin, along which the Ganges flows. The Bhuj earthquake may have been related to this large-scale flexure, but it is not certain.
+
+
+
+
+
+Please explain the geological blueprint of this earthquake.
+
+The Indian Plate collided with Asia about 50 million years ago, closing the Tethys Ocean that lay between. India has since continued to push north into Asia, under-thrusting the Himalayas and pushing the mountains up. The Nepal earthquake is the latest in a series of such events that are caused by thrust faulting on the interface between the down-going Indian plate and the rising Himalayas. The active thrust fault dips about 5-10 degrees to the north of the Himalayan front. The earthquake depth, about 15 km beneath the Gorkha region, was on this rupture. The earthquake ruptured about 120 km length of the fault from the Gorkha region eastward. The maximum amount of slip along the fault that ruptured may have been 4-5 meters but the fault did not break to the surface.
+
+
+
+
+
+The region is still experiencing tremors.
+
+Big earthquakes will have many aftershocks; some of extremely large magnitude, even 6, can be expected. Small aftershocks are likely to continue for weeks, months, even a year afterwards, as the plates readjust. It is possible that about 5 meters of slip may have resulted at 15 km depth on this earthquake. The fault does not seem to have ruptured the surface, so the strain may still be greater at depth. There is potential for an increased number of smaller earthquakes in the region to the south of Pokhara and Kathmandu, where the fault rises towards the surface and also to the west of the epicentre from Gorkha to Pokhara along the axis of the Himalayas.
+
+
+
+
+
+Geographically how far and wide were the consequences of the earthquake felt?
+
+The earthquake epicentre was beneath Gorkha-Lamjung. The fault appears to have ruptured eastwards for nearly 120 km. The damage was worse in the regions of the quake, in the Gorkha-Lamjung region, the Burhi Gandaki valley and Ganesh Himal. Kathmandu was badly hit because it is built on old lake sediments that are highly susceptible to shaking. Videos of the time the earthquake went off show waves passing over the surface almost like an ocean wave. The devastating rockfalls and avalanches in Langtang and Everest were caused by the earthquake shaking loose rocks high up on very steep slopes.
+
+
+
+
+
+Are you aware of potentially dangerous activities taking place over geologically unstable areas connected to the fault lines in Asia?
+
+Certainly. Two years ago I visited a valley in eastern Tibet in Sichuan province where Kangding was devastated by an earthquake. At Kangding, the Chinese have rebuilt an entire city with 20-storey buildings right along the same active fault (Xianshui-he fault). Kangding is another disaster waiting to happen.
+
+
+
+
+
+Will an earthquake always be viewed as a natural disaster by society at large?
+
+The quote geodesists like to use is “earthquakes don’t kill people, buildings do”. We have to learn to live with earthquakes. People in countries like Japan, California and Taiwan already do. Buildings are built to sway and can withstand magnitude 5 or 6 quakes without damage. Nepal, Pakistan and other countries always have far more deaths during earthquakes mainly due to poor infrastructure.
+
+(Shubhangi Swarup is a freelance journalist based in Mumbai.)
+</text>

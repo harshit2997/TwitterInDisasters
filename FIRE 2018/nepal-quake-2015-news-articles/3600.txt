@@ -1,0 +1,21 @@
+<url>
+https://in.news.yahoo.com/government-reviews-rescue-relief-operation-nepal-153006028.html
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Government reviews rescue and relief operation in Nepal
+</headline>
+
+<text>
+New Delhi, April 29 (IANS) The central government on Wednesday reviewed the rescue and relief operations in the quake affected areas of India and Nepal.
+
+"The National Crisis Management Committee (NCMC) under the chairmanship of the cabinet secretary Ajit Seth met here today (Wednesday) and reviewed the rescue and relief operations," an official statement said.
+
+Disaster relief operations were reviewed by the secretaries of ministries of external affairs, home affairs, defence, health, petroleum and natural gas, agriculture, member secretary of the National Disaster Management Authority and director general of the India Meteorological Department.
+
+The chief secretaries of Bihar, Uttar Pradesh, Uttarakhand, Punjab and Haryana also reported about the status of relief supplies being sent to Nepal through the land route, it said.
+</text>

@@ -1,0 +1,23 @@
+<url>
+http://www.thechronicle.com.au/news/everest-trekkers-contact-sherpas-central-queenslan/2635623/
+</url>
+
+<date>
+20150511
+</date>
+
+<headline>
+CQ trekkers contact Everest Sherpas after earthquake
+</headline>
+
+<text>
+THE Sherpas who guided the CQ trekkers up the base of Mt Everest last month have survived the earthquake that struck Nepal, killing more than 7000 people.
+
+Central Queensland Hospital and Health Service CEO Len Richards told The Morning Bulletin yesterday that he had been in contact with the guides after hearing of the devastation in Kathmandu.
+
+"We arrived back in Australia just days before the earthquake hit so it was really concerning to think that we just got out in time," Mr Richards said.
+
+"When we heard we were all worried about the Sherpas but we got in contact with them through the company we organised the trip through and were informed that they were okay and their families were unharmed, which was great news. They're currently living in the devastation that is there which is horrible to think about but I'm just glad their families are alive.
+
+"It's just such a sad experience overall, thinking about what they must be going through in Nepal, and I'm pleased there has been a huge response from parts of the world who can lend a helping hand."
+</text>

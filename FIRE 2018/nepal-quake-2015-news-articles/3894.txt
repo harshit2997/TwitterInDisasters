@@ -1,0 +1,29 @@
+<url>
+http://www.euronews.com/2015/04/29/nepal-s-pm-calls-for-more-aid-in-time-of-crisis/
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Nepal's PM calls for more aid 'in time of crisis'
+</headline>
+
+<text>
+As the days pass the death toll mounts after Nepal’s worst earthquake in decades.
+
+The search of collapsed buildings goes on but few believe anyone will be found alive.
+
+More than 5,000 have died but that number could top 10,000 when the more remote villages are reached.
+
+Although the government says it needs no more foreign rescue teams it is relying on humanitarian aid and other foreign personnel.
+
+“We hope all our friendly countries will provide assistance to us in this hour of crisis. We have been given assurances in this regard. The government and its people express their gratitude to all these nations who are supporting us,” said Nepal’s Prime Minister Sushil Koirala.
+
+With hospitals full to over flowing, Nepal is crying out for medicines and temporary field hospitals.
+
+Doctors say they are nearing the end of their resources and yet the inured keep coming.
+
+The UN says nearly eight million people have been affected by the quake and that 1.4 million are in need of food and water.
+</text>

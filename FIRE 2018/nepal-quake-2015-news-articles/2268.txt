@@ -1,0 +1,15 @@
+<url>
+http://www.newsobserver.com/news/local/counties/wake-county/article19757637.html
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal earthquake shocks Triangle Nepalese community | News & Observer
+</headline>
+
+<text>
+A man sits with a child on his lap as victims of Saturday’s earthquake, wait for ambulances after being evacuated at the airport in Kathmandu, Nepal, Monday, April 27, 2015. The death toll from Nepal's earthquake is expected to rise depended largely on the condition of vulnerable mountain villages that rescue workers were still struggling to reach two days after the disaster. Altaf Qadri AP
+</text>

@@ -1,0 +1,61 @@
+<url>
+http://www.thestar.com.my/Tech/Tech-News/2015/05/07/Nepali-netizens-drive-quake-relief-effort-online/
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+Nepali netizens drive quake relief effort online - Tech News
+</headline>
+
+<text>
+KATHMANDU: Just hours after a monster earthquake devastated Nepal, doctor Bishal Dhakal posted a rallying cry on Facebook calling for friends to mobilise quickly to help the relief effort.
+
+“Ten people showed up the next morning. Now we have thousands of people supporting us and over 500 volunteers working on the ground,” Dhakal told AFP.
+
+The doctor was one of dozens of netizens in the Himalayan nation to use social media accounts to coordinate volunteers in the immediate aftermath of Nepal’s deadliest quake in 80 years.
+
+They took charge of operations in rural areas where the government was slow to reach, using mapping tools and information portals, and have raised millions of dollars through crowd-funding websites.
+
+Dhakal’s “Operation Relief” – mounted with a group of fellow citizens who wanted to do something for their country – has already collected more than 100mil Nepalese rupees (RM3.51mil) since the 7.8-magnitude quake on April 25 and its success has seen it join hands with Nepal’s chamber of commerce.
+
+“The response has been overwhelming,” said the cardiac surgeon, who runs a private service taking healthcare to patients in their homes in Kathmandu.
+
+The mood on Twitter and Facebook was one of panic, fear and sadness in the moments after the terrifying quake struck, flattening homes and centuries-old monuments, and killing more than 7,600 people.
+
+But quickly it changed, with users springing into action to come up with ways to help fellow Nepalis, many of whom were cut off in far-flung remote areas and required urgent food, supplies and medical care.
+
+With the government taking several days to get aid to some of the worst-hit villages, netizens rushed to identify the locations of those most in need.
+
+“Help needed in Sindhuli jilla, Dhumja VDC, Odrekot gaun. Contact Mohan dai,” read a post on Nepal Earthquake Relief Volunteer Coordination, a Facebook group with 6,000 members.
+
+Despite Internet penetration being at just 39%, mainly in urban areas, users tapped into Google’s “Person Finder” and Facebook’s “Safety Check“ tool to search for people who may have been lost in the disaster.
+
+‘Strangers working together’
+
+Google’s “Crisis Map” shows up-to-the-minute satellite imagery of the disaster zone and the Internet giant said in a blog that it hoped it would “help those responding in their work to identify impacted areas, locations most in need of aid and evacuation routes”.
+
+Online volunteers also created and shared Google Docs to better organise information.
+
+“Everyone is eager to help, but coordination is a problem. That is where social media comes in,” said Bibhav Acharya, co-founder of “Possible”, an American-Nepalese healthcare organisation which is coordinating medical personnel and supplies online.
+
+“I have connected with hundreds of people. We are all strangers, but we are working together,” he added.
+
+Acharya said that social media had helped Nepal’s large diaspora to find out what was happening on the ground and is mobilising communities to raise funds for their home country.
+
+Millions have been pledged through funding sites including CrowdRise, Indiegogo and GoFundMe.
+
+And even the Nepalese government got in on the social media act. Viewed as bureaucratic and far from website friendly, it pushed communications online, tweeting updates and creating its own online portal.
+
+But it is citizen-led mapping tools, such as www.quakemap.org, and information portals like www.iamnepal.org, which are the key one-stop shops for the latest earthquake-related information.
+
+www.iamnepal.org shares data on damage, casualties and also connects those who are looking for help with people who are ready to help.
+
+It offers services ranging from medical advice, to health and safety tips to transportation, and is receiving thousands of hits every day.
+
+The portals provided a cohesive way of structuring and streamlining the various relief efforts that sprang up on social networks, 36-year-old US-based management consultant Miton Adhikari, who set up www.iamnepal.org, told AFP.
+
+“People struggled to absorb and process the flood of information on Facebook and needed something well organised,” he said. – AFP
+</text>

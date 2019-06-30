@@ -1,0 +1,21 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/26/c_134184503.htm
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+China Int'l search & rescue team leaves for Nepal - Xinhua
+</headline>
+
+<text>
+BEIJING, April 26 (Xinhua) -- The 62-strong China International Search & Rescue Team left for Nepal at around 6 a.m. Sunday Beijing time to carry out humanitarian rescue following a massive 8.1-magnitude earthquake on Saturday.
+
+With 6 sniffer dogs and relevant rescue and medical equipment, the team is expected to arrive in Katmandu midday Sunday on a chartered plane, according to the China Earthquake Administration.
+
+Of the rescuers, 40 are from the 38th Group Army of the People's Liberation Army, Beijing Military Area Command. 20 percent of the experienced rescuers have participated in international rescue missions.
+
+A massive 8.1-magnitude earthquake struck Nepal at 2:11 p.m. Beijing time, followed by a second 7.0-magnitude quake at 2:45 p.m..
+</text>

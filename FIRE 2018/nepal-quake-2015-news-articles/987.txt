@@ -1,0 +1,33 @@
+<url>
+http://www.southgatearc.org/news/2015/april/earthquake_hits_nepal.htm
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Earthquake hits Nepal
+</headline>
+
+<text>
+Page last updated on: Sunday, April 26, 2015 Earthquake hits Nepal On Saturday, April 25 a 7.8 magnitude quake struck an area of central Nepal between the capital, Kathmandu, and the city of Pokhara
+
+
+
+Watch NEPAL Emergency - Amateur Radio Stations helping at earthquake zone
+
+
+
+
+
+
+
+In April 2012 Nepal’s first amateur radio repeater was established by the National Society for Earthquake Technology (NSET). The 9N1KS repeater is located atop the NSET building on the southern outskirts of Kathmandu. Output is 145.000 MHz and input is 434.500 MHz with no tone.
+
+
+
+A drill conducted in 2012 at several hospitals around the city suggested that coverage of the Kathmandu Valley was very good. It is reported there was regular evening activity by NSET staff, who had been using eight Yaesu FT-60s donated by CAN-USA.
+
+https://9n7ak.wordpress.com/2012/05/08/nepals-first-repeater-9n1ks-145-000434-500/ Share this page Follow us Advertisement
+</text>

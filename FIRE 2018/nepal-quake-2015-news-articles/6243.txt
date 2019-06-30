@@ -1,0 +1,35 @@
+<url>
+http://news.usni.org/2015/05/13/marine-helicopter-still-missing-extensive-search-includes-hueys-ospreys-nepalese-battalion
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+Marine Helicopter Still Missing; Extensive Search Includes Hueys, Ospreys, Nepalese Battalion
+</headline>
+
+<text>
+American and Nepalese forces are still searching for a missing Marine Corps UH-1Y helicopter with six Marines and two Nepalese soldiers onboard.
+
+The helicopter was declared missing on Tuesday while on a mission to deliver humanitarian aide to earthquake victims about 85 miles east of the capital Kathmandu. The Marines onboard were part of Joint Task Force 505, set up after a 7.8-magnitude earthquake hit on April 25.
+
+U.S. Pacific Command (PACOM) spokesman Army Maj. Dave Eastburn said in a statement that two additional Hueys and two MV-22 Ospreys were participating in the search effort, along with a battalion-sized Nepalese ground force. Each Huey carried a Nepalese soldier, two U.S. Air Force pararescuemen and several Marines, he said, and additional Osprey crews are on standby.
+
+Eastburn said told USNI News that, contrary to some reports, the helicopter had still not been located despite ground crews searching last night and aircraft searching since daybreak.
+
+The missing Huey had been delivering aid and evacuating casualties from the spate of earthquakes that have shaken the region since late April. A 7.3-magnitude earthquake hit on Tuesday near Mount Everest, and the Marines were operating in Charikot, about halfway between the earthquake’s epicenter and Nepal’s capital, Kathmandu.
+
+The following is the full statement from PACOM spokesman Maj. Dave Eastburn:
+
+Rigorous aerial searching resumed early this morning with two UH-1 Huey helicopters departing from Kathmandu, each carrying one Nepalese soldier, two USAF pararescuemen and several Marines.
+
+Also, one Huey was fitted with hoist prior to departure enabling the aircraft to reach locations where the terrain prohibits landing.
+
+Once the pair of Hueys completed their search, they returned to Kathmandu where two MV-22 Osprey tilt-rotor aircraft took off and continued the efforts. This pattern will continue all day.
+
+JTF-505 has multiple aircrews available to ensure they can maximize the time in the air searching for the missing Huey.
+
+We remain optimistic in our efforts.
+</text>

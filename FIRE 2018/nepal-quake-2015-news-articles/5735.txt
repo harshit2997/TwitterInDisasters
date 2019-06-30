@@ -1,0 +1,25 @@
+<url>
+http://www.nbcbayarea.com/on-air/community/Support-the-Victims-of-the-Nepal-Earthquake-302024281.html
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Support the Victims of the Nepal Earthquake
+</headline>
+
+<text>
+The people of Nepal are enduring unimaginable suffering and tragedy from the earthquake that shook the country on April 25, 2015. The death toll is still rising, with hundreds of thousands injured, misplaced, and in need of help.
+
+Almost 20,000 Nepalese Americans call the Bay Area their home, many in Sunnyvale, El Cerrito and Berkeley communities. Many of them are trying to desperately reach their families and loved ones in Nepal.
+
+Right now, Asian Pacific Fund has identified trusted groups that are sending life-saving supplies and teams into Nepal. Direct Relief is deploying emergency medical personnel and equipment to the region. Oxfam has dispatched technical experts to Nepal and is preparing to provide clean water and food to thousands. These organizations are able to provide help to those in need from the support of our donations.
+
+Asian Pacific Fund thanks you for your support for the victims of this tragedy. Donations to any trusted organization helping the Nepal earthquake victims are greatly appreciated.
+
+To learn more and to donate to Direct Relief, click here
+
+To learn more and to donate to Oxfam, click here
+</text>

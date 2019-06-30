@@ -1,0 +1,25 @@
+<url>
+http://www.business-standard.com/article/news-ians/nepal-quake-toll-rises-above-3-000-115042700140_1.html
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal quake toll rises above 3,000
+</headline>
+
+<text>
+At least 3,218 people have been confirmed dead in the devastating earthquake which hit Nepal, authorities said on Monday.
+
+Rameshwor Dangal, head of Nepal's disaster management division, said around 6,500 people were injured.
+
+Thousands of people in Nepal spent the second consecutive day outside their homes, as a 6.7-magnitude quake hit Nepal on Sunday, which was followed by multiple aftershocks, Xinhua news agency reported.
+
+Rescue operations are underway and officials have warned that the number of casualties could rise.
+
+An emergency cabinet meeting has announced 29 districts in the country as crisis zones, the Nepal home ministry stated. The powerful quake also jolted India and Bangladesh.
+
+Amid the devastating tremors, the Nepal government has appealed for assistance from the international community.
+</text>

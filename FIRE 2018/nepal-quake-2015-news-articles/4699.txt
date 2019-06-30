@@ -1,0 +1,23 @@
+<url>
+http://www.theverge.com/2015/5/6/8560473/nepal-nasa-radar-technology-four-men-heartbeats
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+NASA’s new radar technology helped save four lives in Nepal
+</headline>
+
+<text>
+New technology developed by the Department of Homeland Security (DHS) and NASA was recently used to save the lives of four men buried under rubble in Nepal. Called FINDER (Finding Individuals for Disaster and Emergency Response), prototypes were brought to the country after last month's devastating earthquake, and were able to detect the heartbeats of the trapped men underneath collapsed structures.
+
+The rescues represent the first time the FINDER technology was used to save lives after a disaster. First developed in 2013, the tech, using microwave-radar, can detect human heartbeats beneath 30 feet of rubble, behind 20 feet of concrete, and up to 100 feet of open space. Devices have since been updated to provide search-and-rescue teams with the locations of trapped victims within 5 feet.
+
+"The true test of any technology is how well it works in real life."
+
+"The true test of any technology is how well it works in a real-life operational setting," said DHS under secretary Reginald Brothers in a statement. "Of course, no one wants disasters to occur, but tools like this are designed to help when our worst nightmares do happen."
+
+Nepal has struggled to cope with the devastation caused by the earthquake that hit on April 25th, with the death toll of 7,500 people only rising. With scant government aide, communities have largely been left to fend for themselves in the weeks since the disaster. Fortunately, it looks like serious efforts are being made to save lives as the country tries to rebuild.
+</text>

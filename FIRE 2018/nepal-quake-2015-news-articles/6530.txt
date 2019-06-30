@@ -1,0 +1,35 @@
+<url>
+http://www.cbn.com/cbnnews/world/2015/May/Earthquake-Strikes-Nepal-near-Everest-Base-Camp/
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Dozens Believed Dead in Second Nepal Quake
+</headline>
+
+<text>
+Another major earthquake has struck Nepal less than three weeks after a quake killed more than 8,100 people. This time the epicenter was near the border with China.
+
+Dozens more are believed dead and about 1,000 are known injured this time.
+
+A lawmaker was addressing parliament in the afternoon when the camera started to shake and terrified lawmakers fled the auditorium.
+
+The magnitude 7.3 quake hit a remote region near the Chinese border between the capital of Kathmandu and Mount Everest.
+
+"This was a jolt just like the big one last month, though it was not that long," resident Avinav Shrestha said. "I was very scared -- thought anything can happen to me."
+
+The government said several buildings collapsed in an isolated town that has become a hub for humanitarian aid after the April 25 quake. A rescue team from the agency has begun searching through the wreckage in the town.
+
+The death toll from the first quake more than two weeks ago is now more than 8,100 people and still climbing. It also injured nearly 18,000 and it flattened mountain villages and destroyed buildings.
+
+At 7.8 on the Richter scale, it was Nepal's worst recorded earthquake since 1934. And there have been more than 150 aftershocks.
+
+Today's 7.3 quake was two miles deeper in the earth, making it not as strong. It was followed by at least six strong aftershocks.
+
+Video from Operation Blessing shows patients at one of the big hospitals in Kathmandu. They had to be moved outside after Tuesday's quake.
+
+Operation Blessing has been on the scene since the first quake, providing clean water and food, often in remote, unreached villages.
+</text>

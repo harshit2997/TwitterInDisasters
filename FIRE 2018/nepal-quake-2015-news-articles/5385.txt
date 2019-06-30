@@ -1,0 +1,25 @@
+<url>
+http://www.japantimes.co.jp/news/2015/05/08/national/politics-diplomacy/japan-eyes-donors-meeting-adb-support-quake-hit-nepal/
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+Japan arranging donors’ meeting with ADB to support quake-hit Nepal
+</headline>
+
+<text>
+Foreign Minister Fumio Kishida conveyed to his Nepalese counterpart that Tokyo is ready to cosponsor a donors’ meeting with the Asian Development Bank to provide new assistance to quake-hit Nepal, ministry officials said.
+
+The initiative is apparently part of an effort by Tokyo to compete with China as Beijing looks to increase its clout in international finance by establishing the Asian Infrastructure Investment Bank.
+
+During a telephone conversation Thursday with Nepalese Foreign Minister Mahendra Bahadur Pandey, Kishida said Japan will extend “seamless assistance” to the Himalayan nation to the extent possible as a “true friend of Nepal,” the officials said.
+
+Pandey expressed his gratitude to Kishida for Japan’s readiness to cohost a donors’ meeting, the officials said.
+
+A major earthquake struck Nepal last month, killing thousands and causing a humanitarian crisis and extensive damage to the nation’s infrastructure.
+
+Japan is the largest contributor to the Manila-based ADB, which is led by a Japanese.
+</text>

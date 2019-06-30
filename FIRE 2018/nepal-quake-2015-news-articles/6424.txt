@@ -1,0 +1,33 @@
+<url>
+http://dailystar.com.lb/News/World/2015/May-12/297656-another-strong-earthquake-hits-nepal-close-to-everest.ashx
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+42 killed as new quake hits shattered Nepal
+</headline>
+
+<text>
+Nepal's Home Ministry has raised the death toll from the latest quake to at least 42, while saying another 1,117 people had been injured.
+
+
+
+The magnitude-7.3 quake hit hardest in remote mountain districts northeast of the capital of Nepal, terrifying a nation already shell-shocked by a more powerful quake on April 25 that killed more than 8,000 and flattened entire villages.
+
+
+
+Although the latest quake did not appear to be as severe as the April 25 one, residents were terrified that buildings which were already badly damaged could come crashing down.
+
+
+
+The quake was also felt some 1,000 kilometers away in the Indian capital New Delhi where buildings shook and office workers evacuated.
+
+
+
+While nearly all of those killed by the April 25 quake were in Nepal, around 100 victims also died in India and China.
+
+...
+</text>

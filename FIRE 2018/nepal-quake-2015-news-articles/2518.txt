@@ -1,0 +1,15 @@
+<url>
+http://enr.construction.com/infrastructure/environment/2015/0427-teams-mobilize-to-assess-damage-in-nepal.asp
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Global Teams Mobilize to Assess Damage in Nepal
+</headline>
+
+<text>
+Since the devastating April 25 earthquake in Nepal that killed 7,500 people, the U.S. has provided more than $14.2 million in humanitarian aid. Federal disaster teams were reaching areas made inaccessible by landslides and debris triggered by the tremor that registered a magnitude-7.9. The federal military teams began aerial assessments of the stricken areas, while U.S. representatives met with Nepal government officials and others involved in the disaster response, a State Dept. spokesman said on May 4.
+</text>

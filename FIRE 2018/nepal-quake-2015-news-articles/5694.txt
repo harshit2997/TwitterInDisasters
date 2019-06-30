@@ -1,0 +1,35 @@
+<url>
+http://www.cbc.ca/news/world/nepal-earthquake-un-says-funds-for-battered-country-falling-well-short-1.3066131
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Nepal earthquake: UN says funds for battered country falling well short
+</headline>
+
+<text>
+The international response has been slow to an appeal for emergency funds to help the millions of people hit by last month's earthquake in Nepal, a UN official said Friday.
+
+Jamie McGoldrick, the UN's chief official in Nepal, said the agency had received $22 million US so far against an appeal last week for $ 415 million to support relief efforts for the first three months in the Himalayan nation.
+
+"This needs to be dramatically ramped up," McGoldrick told reporters in the Nepalese capital.
+
+The April 25 earthquake killed more than 7,800 people and injured thousands more. The government figures show that tens of thousands of houses have been demolished and assistance is immediately needed for 400,000 families.
+
+The UN estimates that as many as eight million people have been affected by the 7.8 magnitude earthquake.
+
+McGoldrick said his agency's main focus now was to reach the many affected people in remote, hard-to-reach areas.
+
+"And we need to do so urgently, so that people have roofs over their heads and their other urgent needs are addressed before the monsoon season starts," he said.
+
+The monsoon rains generally start in the second week of June and often trigger landslides in the mountains and flooding in the southern plains.
+
+But roads are already blocked the landslides triggered by last month's earthquake and there are fears that rain hitting soil loosened by the earthquake could easily trigger more landslides.
+
+On Thursday, a UN health official said there have been no epidemics in areas hit by the earthquake or in camps where homeless people are sheltered.
+
+Some cases of diarrhea have been reported, but that is normal for this time of year, said Poonam Singh, the World Health Organization's deputy regional director for Southeast Asia.
+</text>

@@ -1,0 +1,27 @@
+<url>
+http://www.sbs.com.au/news/article/2015/04/27/nepal-aust-death-still-be-confirmed
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal Aust death still to be confirmed
+</headline>
+
+<text>
+Officials are trying to confirm reports an Australian is among those killed at Everest's base camp. (AAP)
+
+The Department of Foreign Affairs and Trade is yet to confirm the death of an Australian among 19 people killed at Mount Everest's base camp.
+
+Australian officials are trying to confirm reports a citizen is among 19 people killed at Mount Everest's base camp in an earthquake-triggered avalanche.
+
+"The Australian embassy in Kathmandu is urgently seeking to confirm these reports," Foreign Affairs Minister Julie Bishop told ABC radio on Monday.
+
+Temba Tsheri, a sherpa from the Dreamers' Destination Treks and Expeditions, says an Australian was part of his group on the mountain.
+
+"I have lost four team members in the avalanche - two Nepalis, one Chinese and Australian," he said on Sunday.
+
+A DFAT crisis response team has been deployed to Nepal to help establish the welfare of Australians unaccounted for.
+</text>

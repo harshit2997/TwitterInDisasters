@@ -1,0 +1,19 @@
+<url>
+http://www.wsj.com/articles/aftermath-of-nepal-earthquake-widens-the-countrys-political-divisions-1430320936
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Aftermath of Nepal Earthquake Widens the Country’s Political Divisions
+</headline>
+
+<text>
+Drone footage shows damage in Katmandu after Saturday's 7.8-magnitude earthquake that damaged thousands of homes and schools. Photo: Facebook/Kishor Rana
+
+KATMANDU, Nepal—The earthquake that jolted Nepal last week also sent shock waves through the country’s unstable political order, widening divisions between the government and an opposition led by Maoist former rebels.
+
+The authorities in Nepal, one of the world’s least developed countries, have struggled to cope with the scale of the devastation wrought by the 7.8-magnitude quake, which severely damaged parts of the capital, flattened...
+</text>

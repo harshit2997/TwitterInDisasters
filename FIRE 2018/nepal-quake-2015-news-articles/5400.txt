@@ -1,0 +1,67 @@
+<url>
+http://www.thedailystar.net/op-ed/prepare-and-survive-81011
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+Prepare and survive
+</headline>
+
+<text>
+IT is impossible to remain unmoved by the humanitarian disaster unfolding in Nepal after last week's earthquake of magnitude 7.9. The death-toll has already crossed 5,000 as rescue operations are being wound down.
+
+This is a grim reminder of how vulnerable all of South Asia is to earthquakes, tsunamis, cyclones, flash-floods and other natural catastrophes. It also shows how its governments fail to mitigate their effects on the plea that these events cannot be predicted.
+
+The plea is specious. Nobody can forecast earthquakes precisely, but scientists know enough about region-specific seismic hazards and can say that an earthquake of high or medium magnitude is likely within a few decades. This furnishes an adequate basis to take disaster-preparedness measures.
+
+Natural disasters become social
+
+catastrophes when governments fail to recognise risks and to take the necessary measures. Earthquakes are natural only in their causation. Their effects are socially determined and transmitted through arrangements created by
+
+societies/governments. Consider this:
+
+The United States and Western Europe are earthquake-prone. Yet, quakes killing over 10,000 people haven't occurred there for a century. They have only occurred in Third World countries (except for super-vulnerable Japan).
+
+In 2010, a magnitude-7 earthquake killed 300,000 in Haiti, history's highest earthquake toll. That year, a magnitude-8.8 earthquake hit Chile. It released 500 times more energy, but killed 525.
+
+In Hurricane Elena in the US (1985), five died. But when a cyclone slammed Bangladesh in 1991, 500,000 perished.
+
+Around the same time as the 1993 Latur (India) earthquake, California was hit by a quake 50 times more powerful. Three persons died in California; 8,000 perished in Latur.
+
+Destruction is primarily determined by social factors. This is the first lesson about disasters. As wisely said, earthquakes don't kill; falling buildings do.
+
+A second lesson is that disasters pick on the poor and weak who live in congested and unsafe conditions, or in remote, badly-connected areas. More than one-third of people who live in Nepal's hills are four hours away from a tarred road.
+
+Typically, the rescue-and-relief infrastructure in developing countries is hopelessly inadequate. In Nepal, hardly any earthmovers and cranes were available for rescue operations.
+
+Third, governance has great bearing on coping with natural disasters. The toll is low if there's transparency and responsiveness in official decision-making, and early warnings and accurate information are delivered about rescue and relief. This doesn't happen in many, typically hierarchical, Third World societies, whose rulers feel no obligation towards citizens.
+
+Fourth, many developing societies are severely under-regulated for safety. Most don't have or enforce sound building-codes. This is true of Kathmandu. But India and Bangladesh are even worse off. Four-fifths of urban buildings in India are not built or retrofitted to be earthquake-resistant.
+
+These lapses are unforgiveable. Much of South Asia lies in seismically active zones. This is because the Indian and Tibetan tectonic plates are thrusting into each other at 20 millimetres a year along the Himalayas, creating enormous stress that can only be periodically released through earthquakes.
+
+Great earthquakes (magnitude greater than 8) have frequently occurred in the Himalayas, e.g. 1803, 1833, 1897, 1905, 1934 and 1950. The region includes other major faults. The areas most at risk are Uttarakhand, Himachal, Jammu and Kashmir, North Bihar and Kutch.
+
+A peer-reviewed paper in Science (2001) argued: “About 50 million people are at risk from great Himalayan earthquakes…” The capitals of Bangladesh, Bhutan, India, Nepal, and Pakistan and many other million-plus cities are “vulnerable”. Areas where stresses weren't released recently are especially vulnerable.
+
+Regional governments should have done serious earthquake planning, including making constructions seismicity-resistant, and launching disaster-management programmes. But they seem to have learnt little from the recent Uttarkashi (1991), Chamoli (1998), Bhuj (2001) and Muzaffarabad (2005) quakes.
+
+Worse, India, China and Nepal have rushed headlong into hydroelectricity projects in seismically unstable Himalayan areas. Even more deplorably, India built the Tehri dam on a Ganga tributary bang in the middle of the 600-km Central Himalayan Seismic Gap. No major earthquake has occurred there for 500 years, and therefore a Big One is due anytime.
+
+Among those who publicly warned of this hazard was Vinod Gaur, a distinguished geophysicist and co-author (with Roger Bilham and Peter Molnar) of the above-mentioned Science paper. The Tehri dam is under-designed for a maximum credible earthquake. If it breaks, the consequences for the millions who live downstream will be utterly catastrophic.
+
+The government also ignored a Current Science article by Gaur and Bilham, which argued that the Jaitapur nuclear power project in Maharashtra was declared safe without considering its potential seismic vulnerabilities, including ancient faultlines buried under sediments.
+
+The absence of seismicity in Jaitapur for a century was wrongly interpreted to infer that no seismicity would occur in the future—although the nearby Koyna and Latur regions experienced major earthquakes (magnitude 6+).
+
+The paper should have been scientifically debated, but Indian nuclear lobbyists ridiculed it and prevented Bilham from entering India in 2012!
+
+Such “shoot the messenger” attitudes to dissenting scientists speak of authoritarianism—and worse, contempt for public safety.
+
+
+
+The writer is an eminent Indian columnist.
+</text>

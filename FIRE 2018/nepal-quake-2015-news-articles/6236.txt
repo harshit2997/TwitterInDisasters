@@ -1,0 +1,33 @@
+<url>
+http://www.thespec.com/news-story/5614612-nepal-shaken-again-by-quake/
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+Nepal shaken again by quake
+</headline>
+
+<text>
+KATHMANDU, Nepal — A new earthquake killed dozens of people Tuesday and spread more fear and misery in Nepal, which is still struggling to recover from a devastating quake nearly three weeks ago that left more than 8,000 dead.
+
+A U.S. Marine Corps helicopter carrying six Marines and two Nepalese soldiers was reported missing while delivering disaster aid in northeastern Nepal, U.S. officials said, although there have been no indications the aircraft crashed.
+
+Tuesday's magnitude-7.3 quake, centred midway between Kathmandu and Mount Everest, struck hardest in the foothills of the Himalayas, triggering some landslides, but it also shook the capital badly, sending thousands of terrified people into the streets.
+
+Nepal's Parliament was in session when the quake hit, and frightened lawmakers ran for the exits as the building shook and the lights flickered out.
+
+At least 37 people were killed in the quake and more than 1,100 were injured, according to the Home Ministry. But that toll was expected to rise as reports began reaching Kathmandu of people in isolated Himalayan towns and villages being buried under rubble, according to the UN's Office for the Coordination of Humanitarian Affairs.
+
+Tremors radiated across parts of Asia. In neighbouring India, at least 16 people were confirmed dead after rooftops or walls collapsed onto them, according to India's Home Ministry. Chinese media reported one death in Tibet.
+
+The magnitude-7.8 earthquake that hit April 25 killed more than 8,150 and flattened entire villages, leaving hundreds of thousands homeless in the country's worst-recorded quake since 1934. The U.S. Geological Survey said Tuesday's earthquake was the largest aftershock to date of that destructive quake.
+
+Tuesday's temblor was deeper, however, coming from a depth of 18.5 kilometres versus the earlier one at 15 kilometres. Shallow earthquakes tend to cause more damage.
+
+At least three people were rescued Tuesday in Kathmandu, while another nine pulled to safety in the district of Dolkha, the government said.
+
+Rescue helicopters were sent to mountain districts where landslides and collapsed buildings may have buried people, the government said. Home Ministry official Laxmi Dhakal said the Sindhupalchowk and Dolkha districts were the worst hit.
+</text>

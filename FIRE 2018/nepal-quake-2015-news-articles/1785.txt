@@ -1,0 +1,21 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/27/c_134189514.htm
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Germany provides aid for relief efforts in quake-hit Nepal - Xinhua
+</headline>
+
+<text>
+BERLIN, April 27 (Xinhua) -- Germany has provided 2.5 million euros (2.73 million U.S. dollars) for meeting the basic needs of victims of the Nepal earthquake, the German government said in a statement Monday.
+
+Staff members of German Red Cross and German technical relief agency THW are expected to bring relief items to Nepal on Monday, including tents, blankets, hygiene kits and a system for processing potable water.
+
+In addition, a number of aid organizations in Germany have sent medical care personnel and rescue experts to the quake-hit country.
+
+Nepal was devastated by a massive 7.8-magnitude earthquake on Saturday. The death toll from the quake has so far climbed to 3,815, with 7,046 sustaining injuries, according to Nepal's Ministry of Foreign Affairs Monday.
+</text>

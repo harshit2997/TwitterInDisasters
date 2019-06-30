@@ -1,0 +1,25 @@
+<url>
+http://www.bgr.in/news/googles-before-and-after-maps-reveal-the-extent-of-devastation-after-nepal-earthquake/
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Google’s before and after maps reveal the extent of devastation after Nepal earthquake
+</headline>
+
+<text>
+As Google does with most natural disasters, it has opened up its Crisis Map in the aftermath of the deadly earthquake in Nepal. Google has shared before-after images, which show the impact of the earthquake.
+
+Google is hoping its Crisis Map will aid in the rescue efforts. Those involved in relief operations in Nepal can make use of these satellite images to see the kind of destruction caused by the earthquake, as well as look for evacuation routes and more.
+
+Over the weekend, an earthquake measuring 7.8 on the Ritcher scale hit Nepal and at last count more than 4,000 people are feared dead. The aftershocks have been felt in neighboring countries like India and Bangladesh as well, which has left many people injured.
+
+RELATED: How tech companies are helping in rescue and relief operations after deadly Nepal earthquake
+
+In addition to the Crisis Map, Google has also launched its People Finder tool. This tool essentially helps look for missing person. It features two buttons on the homepage — one to find a missing person and the other to share information on some person. If you need to search for someone, you click on the green box and any information relating to that person will show up on the results.
+
+Furthermore, Google has pledged $1 million to the relief efforts in Nepal, as well as an additional “$500,000 in employee gift-matching.” It has also dropped Google Voice call rates from 19 cents to only a cent.
+</text>

@@ -1,0 +1,25 @@
+<url>
+http://www.therakyatpost.com/world/2015/05/06/israel-sends-medical-clowns-to-nepal/
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+Israel sends medical clowns to Nepal - The Rakyat Post
+</headline>
+
+<text>
+KATHMANDU, May 6, 2015:
+
+Israel has sent a team of five medical clowns to treat people traumatised by tremors in the aftermath of Nepal’s April 25 earthquake, Press Trust of India (PTI) reported.
+
+The Israel embassy said in a press release on Tuesday the team would attempt to ease trauma effects and reduce pain and anxiety among children and adults in communities and hospitals.
+
+“Therapeutic clowning” is used as an integrated component of care for adult and paediatric patients and their families.
+
+Medical clowns also help to lighten the mood of healthcare providers and staff.
+
+Studies have shown that having clowns in the operating room can ease anxiety among young patients.
+</text>

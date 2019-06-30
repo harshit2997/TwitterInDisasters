@@ -1,0 +1,15 @@
+<url>
+http://www.ndtv.com/world-news/china-holds-mock-drill-after-nepal-earthquake-761324
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+China Holds Mock Drill After Nepal Earthquake
+</headline>
+
+<text>
+China today held its biggest-ever mock drill in the northern Hebei Province with relief and rescue workers simulating a 6.6-magnitude earthquake to check their preparedness following Nepal's devastating temblor.The China International Search & Rescue Team (CISAR), whose members get deployed in operations at home and abroad, organised the drill.The mock drill, which the CISAR said is its most comprehensive since the organisation's founding in 2001, involves a fictional 6.6-magnitude quake in Baoding City of north China's Hebei Province.Some 480 regular and reserve members and 18 sniffer dogs were dispatched early today from the CISAR's base in Beijing for the epicentre, according to a CISAR statement.The drill will test the abilities of a command group and nine rescue divisions in preparation, mobilisation, communication, data collection, maintenance, search and rescue and retreat, state-run Xinhua news agency reported.CISAR head Wang Wei said the operation will hone the team's efficiency."When the chips are down, we need to be able to lend real help," Mr Wang said.The CISAR has been engaged in multiple search and rescue missions including the ones after the Wenchuan quake in 2008 and the Haiti quake in 2010.China had dispatched 62 members of CISAR to conduct rescue operations following the 7.9 magnitude quake in Nepal on April 25.
+</text>

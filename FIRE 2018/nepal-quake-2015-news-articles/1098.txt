@@ -1,0 +1,25 @@
+<url>
+http://www.thejakartapost.com/news/2015/04/26/indonesia-help-quake-victims-nepal.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Indonesia to help quake victims in Nepal
+</headline>
+
+<text>
+President Joko 'Jokowi' Widodo said Indonesia was ready to help Nepal, which was hit with a strong earthquake on Saturday that has claimed more than 1,800 lives.
+
+'I just informed our ministers that Indonesia was ready to help,' he said before boarding the presidential aircraft to attend the 26th ASEAN Summit in Malaysia on Sunday.
+
+The President, however, has yet to mention what kind of relief would be dispatched to the Nepalese government and people.
+
+'It is being prepared, processed, but it won't be done in a hurry, the President said as quoted by Antara news agency.
+
+The 7.9 on the Richter scale earthquake had an epicenter located 80 kilometers east of Pokhara, the second-largest city in Nepal. A number of buildings in Kathmandu were destroyed in the quake while many people are feared to be buried under rubble in the capital city.
+
+The Nepalese Home Affairs Ministry said that the death toll has reached 1,805 while more than 4,700 have been left injured. The Nepalese government has urged the world to help the country handle its worst natural disaster in 80 years. (rms)(++++)
+</text>

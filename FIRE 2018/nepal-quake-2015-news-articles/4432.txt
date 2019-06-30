@@ -1,0 +1,29 @@
+<url>
+http://www.australiandefence.com.au/news/adf-ramps-up-nepal-relief
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+ADF ramps up Nepal relief
+</headline>
+
+<text>
+Philip Smart | Adelaide
+
+The Australian Defence Force has ramped up support for the victims of the Nepal earthquake with a second Royal Australian Air Force C-17A strategic airlift aircraft supporting the delivery of aid assistance.
+
+Two C-17As departed RAAF Base Amberley yesterday carrying nearly 15 tonnes of Australian aid including tarpaulins, wool blankets, water purification tablets and more than six tonnes of health supplies.
+
+A RAAF Aero Medical Evacuation team will deploy on each aircraft to assist any injured evacuees if required.
+
+Specialist Defence logistic staff will also assist with the transportation of evacuees on the C-17s. Evacuation flights will continue between Kathmandu and Bangkok until they are no longer required.
+
+Additional specialist Defence personnel will provide support to embassy staff in Kathmandu.
+
+The two aircraft overnighted in Bangkok last night and are planned to fly in to Nepal today (Thursday), once the Australian aircraft has been granted access to Kathmandu International Airport.
+
+More than 4600 people have lost their lives as a result of the 7.9 magnitude earthquake, which occurred on April 25.
+</text>

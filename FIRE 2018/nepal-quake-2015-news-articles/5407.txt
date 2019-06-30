@@ -1,0 +1,23 @@
+<url>
+http://www.nydailynews.com/news/world/cuba-send-medical-team-aid-nepal-quake-aftermath-article-1.2213513
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+Cuba to send medical team to aid Nepal in quake aftermath
+</headline>
+
+<text>
+Cuba will send a 48-member medical team to Nepal to help recovery efforts after last month’s earthquake that killed more than 7,600 people, official Cuban media said Wednesday.
+
+The group will include 22 doctors, Health Ministry officials said.
+
+The death toll from the April 25 quake has reached 7,675, with more than 16,300 people injured, Nepalese officials said.
+
+Scenes from Nepal after earthquake
+
+With News Wire Services
+</text>

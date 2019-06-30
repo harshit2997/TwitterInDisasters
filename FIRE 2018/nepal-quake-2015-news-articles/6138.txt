@@ -1,0 +1,21 @@
+<url>
+http://english.cntv.cn/2015/05/13/VIDE1431491882586262.shtml
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+US helicopter offering quake relief declared missing
+</headline>
+
+<text>
+CCTV.com
+
+05-13-2015 12:40 BJT
+
+The US Pacific Command has said an American Marine Corps helicopter offering quake relief in Nepal was declared missing with eight people on board.
+
+Six US Marines and two Nepalese soldiers were on board. The helicopter was last seen after another helicopter in the vicinity "picked up some (radio) chatter about a fuel problem". A Pentagon spokesman said a 90-minute search by three US military aircraft failed to locate the aircraft before nightfall and a ground search by Nepalese troops was underway.
+</text>

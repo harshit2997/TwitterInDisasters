@@ -1,0 +1,51 @@
+<url>
+http://www.4-traders.com/news/igot-com-Launches-Nepal-Earthquake-Bitcoin-Appeal--20271048/
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+igot :.com Launches Nepal Earthquake Bitcoin Appeal
+</headline>
+
+<text>
+KATHMANDU, NEPAL and NEW YORK, NY--(Marketwired - Apr 28, 2015) - [InsideBitcoins New York] igot (www.igot.com), the fastest-growing Bitcoin exchange in the world targeting the international remittance market, today announced the launch of its appeal for Bitcoin donations from the public to boost Red Cross emergency relief efforts urgently needed in Nepal after a 7.8 magnitude earthquake struck the country on Saturday, April 25.
+
+Nepal's worst earthquake in almost 100 years has killed over 3,300 people and damaged buildings, infrastructure and ancient monuments. Many thousands are injured or may have lost their livelihoods and homes as a result of the disaster.
+
+The International Federation of Red Cross and Red Crescent Societies is currently seeking to raise 33.4 million Swiss francs (about $34 million US) to bring rapid relief, assistance and support to a total of 75,000 people over a total timeframe of 18 months. It will focus on emergency health and care, emergency shelter and settlements (including basic household items), livelihoods, restoring family links, safe and dignified burials, National Society institutional preparedness and capacity development, community preparedness and risk reduction.
+
+igot guarantees that 100 percent of donations it receives will be passed on to help the victims of the earthquake via the Nepal Red Cross Society. To donate in Bitcoin, donors can go to the dedicated webpage at https://www.igot.com/nepal/help_earthquake_victims/. In addition to providing a platform for Bitcoin donations, igot will be donating 50 percent of its buy/sell commissions for one month.
+
+"Like many individuals in the Bitcoin community, I have been truly shocked by the tragic consequences of this earthquake," said igot founder Rick Day. "At igot, we really want to do something to make a difference in the lives of the people affected by the disaster. Bitcoin is a great way to donate to this cause because 100 percent of the funds donated will go straight to where they are needed most."
+
+igot will pay out donations made in Bitcoin to the Nepal Red Cross every seven days for the four weeks of the appeal. To ensure complete transparency, the Nepal appeal Bitcoin address can be viewed on the blockchain here.
+
+"The bitcoin community has a history of supporting charitable efforts, such as US-based homeless outreach Sean's Outpost, and we believe there will be a tremendous show of support for the people of Nepal," said Day.
+
+Bitcoin is a digital currency that can be sent anywhere in the world within minutes without the need to pass through a bank or payment institution.
+
+The cost per transaction is minuscule (around 4 US cents per transaction regardless of dollar value) compared with the fees levied by the credit card companies (2 percent to 3 percent or more). For example, if all of the targeted $34 million donated to the Red Cross were made via credit cards charging a 3 percent fee, the organization would lose $1,020,000 in fees.
+
+Those wishing to donate by other payment methods can visit the Red Cross donation page here.
+
+Advantages of bitcoin:
+
+International transactions take only minutes
+
+Negligible fees compared with credit cards or bank wires
+
+Transparency: donations to a bitcoin address can be viewed publicly
+
+ABOUT IGOT
+
+Founded in 2013, igot is a rapidly expanding digital currency exchange and payments startup with a truly global reach. Its presence in almost 40 countries provides customers with an easy and affordable way to buy and sell Bitcoin; quickly exchange funds with family, friends or clients around the world; and pay bills -- all from one account.
+
+igot's market-leading compliance process and strong emphasis on transparency and security make it one of the most trustworthy brands in the digital currency space.
+
+Our mission is to bring the advantages and freedoms of digital currency technology to individuals and companies in all countries -- transforming finances and putting control firmly back in the hands of the user.
+
+All product and company names mentioned herein may be trademarks of their registered owners.
+</text>

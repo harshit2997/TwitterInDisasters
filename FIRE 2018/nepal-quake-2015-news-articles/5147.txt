@@ -1,0 +1,23 @@
+<url>
+http://english.cntv.cn/2015/05/01/ARTI1430444742655717.shtml
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+Nepal quake death toll climbs to 5,844
+</headline>
+
+<text>
+Editor: Zhang Hao 丨Xinhua
+
+05-01-2015 09:47 BJT
+
+KATHMANDU, April 30 (Xinhua) -- The death toll from a powerful earthquake in Nepal climbed to 5,844, said the country's Ministry of Home affairs in its latest update on Thursday.
+
+Earlier, the National Emergency Operation Center under the ministry said that Sindhupalchowk is the worst-hit district with 1, 587 people killed after the 7.9-magnitude hit Nepal on Saturday.
+
+Some 134,864 houses were destroyed and 92,971 were damaged, said the Home Ministry.
+</text>

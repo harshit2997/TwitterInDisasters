@@ -1,0 +1,17 @@
+<url>
+http://time.com/3835855/nepal-earthquake-aftermath/
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Death Toll Climbs as Nepal Digs Out After Massive Quake
+</headline>
+
+<text>
+A series of aftershocks rattled Nepal on Sunday as the South Asian nation was reeling from a massive earthquake that struck one day earlier outside the capital, Kathmandu, killing at least 2,200 people as search and rescue teams dug through the rubble for survivors and bodies. Saturday's quake was the country's worst in more than 80 years and reverberated throughout the Himalayan region, triggering an avalanche on Mount Everest that the Associated Press reports had killed at least 17 people and injured dozens more as of Sunday.
+
+Read next: Aftershocks Rattle Nepal as Quake Toll Passes 2,200
+</text>

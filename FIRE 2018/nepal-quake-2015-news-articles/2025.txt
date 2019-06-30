@@ -1,0 +1,25 @@
+<url>
+http://bnn-news.com/number-victims-nepals-disastrous-earthquake-increases-128318
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Number of victims in Nepal’s disastrous earthquake increases
+</headline>
+
+<text>
+The death toll of the disastrous earthquake that shook Nepal on Saturday, April 25, at least 3 218 people have died.
+
+Nepal’s disaster management centre has stated another 6,500 people have been injured, while dozens of people are also reported to have been killed in neighbouring China and India.
+
+Thousands have spent a second night outside after the 7.8-magnitude quake, which also triggered massive avalanches on Mount Everest.
+
+Many tent cities have sprung up in Nepal’s capital, Kathmandu, for those displaced or afraid to return to their homes as strong aftershocks continue, BBC reports.
+
+The quake is said to have been the worst to hit Nepal for more than 80 years.
+
+Ref: 111.111.111.1411
+</text>

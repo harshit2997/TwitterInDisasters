@@ -1,0 +1,35 @@
+<url>
+http://phys.org/news/2015-04-efforts-nepal-aided-real-time-landslide.html
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Rescue efforts in Nepal aided by real-time assessment of landslide risk
+</headline>
+
+<text>
+Cardiff University experts are aiding the immediate rescue efforts in Nepal by providing a real-time assessment of further landslide risks following Saturday's devastating earthquake.
+
+Dr Robert Parker and his team from the University's School of Earth and Ocean Sciences have developed a unique program, known as ShakeSlide.
+
+The computer program provides disaster assessment teams with invaluable information in providing post-earthquake assessments.
+
+Organisations like The World Bank and MapAction are now collaborating with Dr Parker directly, working alongside the disaster assessment teams.
+
+Dr Parker said: "Saturday's earthquake in Nepal occurred in one of the world's most landslide-prone regions.
+
+"Landslide hazards are expected to account for a substantial proportion of losses and damage produced by this event. ShakeSlide provides a first-order prediction of the probability of landsliding across regions affected by seismic shaking, using ground motion data published by the United States Geological Survey.
+
+"The predictions are based on a statistical analysis of spatial patterns of landslides triggered by a sample of large earthquakes in the USA, New Zealand, Taiwan and China.
+
+"The model predictions provide a rapid, first-order assessment of earthquake-triggered landslide hazards, and are currently being used to guide efforts to map landslide damage caused by Saturday's earthquake in Nepal."
+
+Dr Parker's preliminary predictions are being used on the ground to assist the post-disaster response.
+
+The information is helping relief agencies assess the extent of damage across tens of thousands of square kilometres affected by this earthquake.
+
+Explore further: Facebook collecting Nepal quake aid donations
+</text>

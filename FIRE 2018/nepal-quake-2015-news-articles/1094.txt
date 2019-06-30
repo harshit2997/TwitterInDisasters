@@ -1,0 +1,25 @@
+<url>
+http://www.digitaltrends.com/web/google-and-facebook-help-you-connect-with-people-in-areas-hit-by-the-nepal-earthquake/
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Google and Facebook launch tools to help find people affected by the Nepal earthquake
+</headline>
+
+<text>
+Google and Facebook have launched tools to help people find and track friends and relatives in the areas affected by Saturday’s tragic magnitude 7.8 earthquake in Nepal, which killed more than 2,200 people.
+
+Google has relaunched its People Finder tool, where visitors can either look for someone or share information about someone in the affected areas. The tool can also be accessed via SMS by texting “search <name>” to +91-9773300000 in Nepal or India, or to +1 650-800-3978 in the U.S. As of Sunday morning, about 3,800 records were collected.
+
+The People Finder tool, which Google first introduced in January 2010 after an earthquake hit Haiti, uses a database of missing persons fueled by crowdsourced information from individuals and organizations to help people check the status of friends or relatives after a disaster.
+
+Facebook has launched its Safety Check tool to help users in the affected areas let friends and loved ones know they’re OK. “If you’re in one of the areas affected by the earthquake, you’ll get a notification asking if you’re safe, and whether you want to check on any of your friends,” Facebook co-founder and CEO Mark Zuckerberg wrote in a post. The social network first announced its Safety Check tool in October.
+
+Dan Fredinburg, a Google executive, was among those killed in the Nepal earthquake. A self-proclaimed “Google Adventurer” and head of privacy for Google X, Fredinburg was in Nepal to climb Mount Everest. He was caught in an avalanche and suffered a “major head injury,” according to his sister.
+
+A magnitude 6.7 aftershock hit Kathmandu early Sunday afternoon.
+</text>

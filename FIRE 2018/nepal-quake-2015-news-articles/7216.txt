@@ -1,0 +1,25 @@
+<url>
+http://www.cbsnews.com/news/obama-tells-police-we-must-heal-the-rifts-between-police-and-communities/
+</url>
+
+<date>
+20150515
+</date>
+
+<headline>
+Obama tells police: We must "heal the rifts" between police and communities
+</headline>
+
+<text>
+Following months of headlines about tension between police and minority communities, President Obama on Friday honored police officers killed in the line of duty and said the nation must do more to ease those tensions.
+
+"We cannot erase every darkness or danger from the duty you've chosen," Mr. Obama said at the National Peace Officers' Memorial Service in Washington, D.C., hosted by the National Fraternal Order of Police. However, he said, "We can offer the support to make you safer."
+
+"We can make sure you have the resources you need to do your job," the president continued. "We can do everything we have to do to combat the poverty that plagues too many communities you serve.... We can work harder as a nation to heal the rifts that still exist between law enforcement and the people you risk your lives to protect."
+
+President Obama attended the event alongside attorney general Loretta Lynch and several other federal officials. He began his remarks by offering his condolences for deaths of the U.S. Marines who were killed in a helicopter crash in Nepal during an earthquake-relief mission.
+
+While Americans in uniform typically receive attention during conflict, Mr. Obama said their mission in Nepal illustrated "a truth that guides our work around the world: when our friends are in need, America helps."
+
+The president reflected on a few stories of individual police officers killed in the line of duty and said the nation is grateful to the "men and women who put themselves in the way of danger so the rest of us could live in safety."
+</text>

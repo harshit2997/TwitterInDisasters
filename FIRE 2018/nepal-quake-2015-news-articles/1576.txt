@@ -1,0 +1,21 @@
+<url>
+http://www.thedrum.com/news/2015/04/27/facebook-and-google-aid-nepal-survivor-search-people-finder-tools
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Facebook and Google aid Nepal survivor search with people finder tools
+</headline>
+
+<text>
+Facebook and Google are channelling their respective strengths in the fields of social networking and search in a bid to eliminate survivors from an ongoing hunt for victims following a devastating weekend earthquake in Nepal.
+
+Facebook was able to put its recently launched Safety Check feature to the test by allowing survivors to log-in and confirm that they were alive and well, putting the minds at rest of all their contacts.
+
+Similarly Google has also joined the hunt, re-launching its Person Finder tool to assist people in locating others, as well as sharing current news.
+
+Whilst such services can be useful they are by no means a substitute for official channels and families and friends of loved ones in the area are still being urged to contact the Foreign Office directly if they have concerns.
+</text>

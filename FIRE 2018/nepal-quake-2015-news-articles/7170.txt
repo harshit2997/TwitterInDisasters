@@ -1,0 +1,25 @@
+<url>
+http://www.popsci.com/after-earthquake-himalayas-drop-three-feet
+</url>
+
+<date>
+20150511
+</date>
+
+<headline>
+After Major Nepal Earthquake, Himalayas Drop Several Feet
+</headline>
+
+<text>
+Moving a mountain is considered about as possible as emptying an ocean with a teaspoon. Sure, over time, the rocky peaks of a mountain can be worn down and moved by millions of years of weathering and erosion, but moving it in one fell swoop? Impossible.
+
+Or not. In the aftermath of the Nepal earthquake, scientists at the German Aerospace Center looked through data collected by the Sentinel-1a satellite, finding that part of the Himalayas dropped close to 5 feet. It's an interesting discovery, because in the broadest terms, the tectonic plate containing India is pushing into Eurasia, and the collision is slowly pushing the Himalayas higher.
+
+So, why the sinking feeling? Tim Wright, a professor of satellite geodesy or the science of measuring the earth, told the BBC that usually, part of the Indian plate containing Kathmandu is being pulled underneath the Eurasian plate, while the Himalayas are getting "squashed" upwards between the two.
+
+"Now, during the earthquake itself, what happens is the opposite," Wright said. When the pressure between the plates gets to be too much, there is dramatic movement along cracks in the Earth's crust called fault lines. That movement creates an earthquake, like what happened a few weeks ago. When all that energy was released, the portion of land getting dragged down sprang back up, and the part getting squashed upwards relaxed, kind of like a rubber band snapping after being pulled too taut.
+
+In addition to the Himalayas dropping, the area of Nepal near Kathmandu rose by about the same amount (roughly 5 feet). But the adjustment isn't likely to last too long. The dragging and squishing processes that Wright mentioned haven't stopped because of the earthquake. They're still being driven by the slow convection current of the deformable rock (think soft butter) that makes up the Earth's mantle. Hot material rising and cooler material falling inside the mantle pushes the tectonic plates against each other, like bits of flotsam on the top of a boiling pot of soup. As the process continues, the area of the Himalayas that sank will get squashed back into place, and Kathmandu will settle back down.
+
+More data is still being gathered, so researchers still aren't sure how other areas (including Everest) might have changed in the aftermath of the quake. Sensors on the ground indicate that the area near Kathmandu might have tilted to the south, but collecting that information is incredibly difficult, as many of those sensors can't be accessed remotely. In a disaster zone where infrastructure is scarce or damaged, getting to those remote outposts before the information is overwritten (something that occurs every few weeks) will be a challenge.
+</text>

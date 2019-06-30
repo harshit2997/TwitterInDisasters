@@ -1,0 +1,51 @@
+<url>
+http://www.weather.com/news/news/nepal-earthquake-may122015
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+Powerful Aftershock Hits Nepal; Officials Tell Residents To Evacuate Damaged Buildings
+</headline>
+
+<text>
+A magnitude 7.3 earthquake shook parts of Nepal Tuesday, collapsing buildings and killing at least 79 in an area still struggling to recover from last month's destructive temblor. It brought fresh fears to a people that have been terrified since the initial quake, a 7.8-magnitude tremor on April 25.
+
+<img class="styles-A54tP4F3__noscript__12c_l" src="https://atl.weather.com/truvu/NEPAL_2_QUAKES_LOCATOR.png" srcset="https://atl.weather.com/truvu/NEPAL_2_QUAKES_LOCATOR.png 400w, https://atl.weather.com/truvu/NEPAL_2_QUAKES_LOCATOR.png 800w" >
+
+The quake was centered about 47 miles east-northeast of the Nepalese capital of Kathmandu near the border with Tibet and much closer to the Mt. Everest base camp, where an avalanche triggered by the April 25 quake claimed 18 lives . The temblor was felt as far away New Delhi, India, and Dhaka, Bangladesh. Tuesday's quake has been labeled as an aftershock by the U.S. Geological Survey.
+
+Outside of Nepal, the earthquake killed at least one person in Tibet and 16 people in India , according to the Associated Press, meaning the most recent temblor has killed a total of 54 people. Nearly 2,000 people have been reported injured.
+
+A U.S. Marine Corps helicopter providing aid in Nepal has gone missing , military officials say. The Huey was near Charikot, Nepal, when it disappeared, but officials say there are no indications that it crashed. Six U.S. Marines and two Nepalese soldiers were on the missing aircraft.
+
+(MORE: Before and After Images of April's Nepal Quake | How to Help Victims )
+
+The threat hasn't passed, either. The USGS issued an aftershock advisory, predicting more tremors in the coming months . Officials demanded residents leave damaged buildings, fearing more catastrophe could occur in another large aftershock, the AP also reported.
+
+"I think we could expect six months to a year or more of aftershocks," USGS research geophysicist Dan McNamara told The Weather Channel. "It's a very large earthquake, so it's not unexpected to have a very active aftershock sequence."
+
+Officials expect the death toll to climb and have sent medics to surrounding areas to help the injured. The International Organization for Migration reported several buildings had collapsed in the town and that bodies were being pulled out of the rubble.
+
+Sitanshu Kar, the spokesperson for India's Ministry of Defense, says that military helicopters are retrieving casualities from cities outside Nepal's capital.
+
+The AP said rescue helicopters were sent to districts northeast of Kathmandu to aid those trapped in collapsed buildings or landslide rubble.
+
+"The shaking seemed to go on and on," Rose Foley, a UNICEF official based in Kathmandu, said. "It felt like being on a boat in rough seas."
+
+At least three major landslides were triggered in Sindhupalchowk, a district which suffered the highest death toll from last month's 7.8-magnitude quake, according to Reuters quoting a district spokesman. At least 8,000 were killed by the April 25 earthquake, which was centered near the town of Gorkha.
+
+"I thought I was going to die this time," Sulav Singh, who rushed out into the street after the temblor, said. "Things were just getting back to normal, and we get this one."
+
+Residents were sent scurrying into the streets in Kathmandu and flights out of Kathmandu Airport were temporarily suspended.
+
+Tuesday's quake was followed by at least 10 aftershocks, the strongest of which was magnitude 6.3 just over a half hour after the 7.3-magnitude temblor hit.
+
+"We are all scared, we are terrified. I would rather deal with mosquitoes and the rain than sleep in the house," produce vendor Ram Hari Sah told the Associated Press.
+
+On average, 15 earthquakes of magnitude 7 or stronger are recorded across the globe each year, according to the U.S. Geological Survey. Nepal has now seen two of these in 17 days.
+
+While Tuesday's magnitude 7.3 earthquake released about 5-6 times less energy than April's quake, it is still capable of significant damage over a large area. Its depth of 11.5 miles, according to the USGS, is still shallow enough to produce significant damage.
+</text>

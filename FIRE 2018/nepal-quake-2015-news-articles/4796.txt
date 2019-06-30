@@ -1,0 +1,43 @@
+<url>
+http://csfilm.org/2015/05/haiti-how-not-to-report-on-an-earthquake/
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+Haiti: How Not to Report on an Earthquake
+</headline>
+
+<text>
+A police officer looking on as an excavator digs through rubble in search of bodies in Katmandu, Nepal, on April 27. Credit: Danish Siddiqui/Reuters As of Tuesday morning, exactly three days have passed since a 7.8-magnitude earthquake shook Nepal, killing thousands and leaving millions in need of help. In disaster response, the end of the first 72 hours is often considered an inflection point: the unofficial moment when the most acute phase passes, the odds of finding trapped survivors plunge and the relief effort tends to really pick up steam.
+
+Three days into a crisis, roads and airports are often reopening, and outside responders and journalists are arriving in droves. The decisions made at this time can determine the course of the response. A misstep now can have ramifications lasting years, even decades.
+
+I know this because I lived through a moment of just this sort five years ago, in Haiti. I was in Port-au-Prince on Jan. 12, 2010, when a powerful quake rippled outward from an epicenter 15 miles from the capital. In 40 seconds, the shock waves, according to some estimates, literally decimated the population, killing 100,000 to 316,000 people in an overcrowded, overbuilt metropolitan area that was home to more than three million. Governments and aid groups mobilized cargo planes and ships, deploying thousands of soldiers, search-and-rescue teams and medical responders. I was the lone correspondent in the country’s lone full-time foreign news bureau when the quake hit, but I wasn’t on my own for long. By the 72-hour mark, hundreds of reporters — if not more — had joined me in town, beaming images and accounts of the destruction around the world.
+
+Time seemed to stop during the earthquake, and only gradually picked up speed in the days that followed. The first night felt as if it would never end. Aftershocks roiled the ground. People were scouring the rubble for loved ones and neighbors, but the quake had hit in the late afternoon, and in a country with little infrastructure and electricity, it was impossible to continue the search once darkness fell. Nearly everyone who could be was outdoors that night, many of them singing and praying, waiting to see if help would come from outside.
+
+It did, though slowly at first. A trickle of aid convoys arrived overland from the Dominican Republic the next morning. A United States military advance team landed at the damaged airport and took over its operations, setting up an emergency air-traffic-control system.
+
+Then, on the third day, the skies filled with planes and the harbor with ships. Soon United Nations peacekeepers and American soldiers were scrambling to hand out food and water. My editors at The Associated Press made sure that my colleagues and I traded shifts covering the search-and-rescue efforts; they wanted to be certain we did not miss out on images of survivors being pulled from the rubble.
+
+The old standby narratives of disaster coverage picked up from there. We watched for panic and desperation to turn to looting and violence. When aid groups began issuing warnings of impending post-disaster disease outbreaks, we repeated them.
+
+Similar story lines are now emerging from Nepal (although, as of this writing, rumors of looting and violence have been confined mainly to social media). But in Haiti, as is often the case, those story lines turned out to be dead wrong. Most embarrassing for a journalist, they were wrong in ways that would have immediately been made clear had we taken the time to ask some basic questions.
+
+Food and water, for example. When I was in Haiti two years later, to research the relief effort for a book, I was shocked to discover that no one could tell me with any precision if there was ever a food or water shortage in the first place. No one among the responders had even contacted the Coordination Nationale de la Sécurité Alimentaire — the Haitian government agency overseeing food security — to find out what might be needed. Indeed, earthquakes tend to inflict the worst damage on cities, not farms — especially in countries that already have limited infrastructure — and Haiti’s urban areas didn’t have any sewers or piped drinking water to begin with.
+
+People indeed lost their homes and incomes, and markets closed. But theWorld Food Program had enough supplies in its Port-au-Prince warehouses — which survived the quake — to feed 300,000 people one full meal for three weeks. There was no acute food or malnutrition crisis after the quake; that much we know. But it seems very likely that the city could have avoided one even without the frenzied aid push.
+
+Our focus on the organized rescue efforts was similarly misplaced. The constant media coverage and well-financed, specialized rescue teams created the impression in many viewers’ minds that large numbers of people were being saved by outside responders. In fact, according to a report by the French Defense Ministry’s Haiti mission, no more than 211 people were saved by all of the international search-and-rescue efforts combined, in a disaster in which hundreds of thousands were trapped.
+
+This isn’t the responders’ fault; they worked as hard and as fast as they could. But disaster experts routinely note that a vast majority of rescues after an earthquake take place within the first 24 hours, and are almost always done by people from the area using their hands or simple tools. By contrast, the first American search-and-rescue team didn’t arrive in Haiti until nearly a full day after the disaster.
+
+As for the notion of post-disaster disease outbreaks, epidemiologists have gone looking for evidence of epidemics resulting from calamities like earthquakes, and they have generally concluded that they don’t happen. (“The news industry is prone to emphasizing more dramatic and simplistic messages, and unjustified warnings will likely continue to be spread on the basis of an approximate assessment of risks,” the authors of a 2006 study wrote in the journal Emerging Infectious Diseases, published by the Centers for Disease Control and Prevention.) If you look closely, news reports tend to cite unspecified “fears” or “threats” of disease, often sourced to nongovernmental organizations like the Red Cross. But those sources are rarely asked to produce any actual evidence.
+
+There is violence after disasters, just as there is violence every day wherever humans live. But taking a hard look back puts the lie to the idea that societies somehow become less cohesive after a natural shock, at a moment when most people are busy trying to put their lives back in order. After Hurricane Sandy, in 2012, crime fell in nearly every category in New York City. (The murder rate in Nepal’s capital, Katmandu, when it was last measured nearly a decade ago, was higher than New York’s but comparable to Chicago’s in recent years.)
+
+There is no way to know for sure if that was true in Port-au-Prince; crime statistics were unreliable before the quake and nonexistent after. The escape of prisoners from the city’s national penitentiary did lead to a series of murders over turf in the slum Cité Soleil, and there were reports of increased sexual violence in the months after the disaster. But there was no widespread civil unrest of the magnitude that would justify keeping 20,000 United States troops on call. Having been there at the time, I recognized the sentiment expressed by Donatella Lorch, a Katmandu-based writer, in The Times this week: “I am buoyed by the generous spirit of [Nepal’s] people. My son and I know that life here will get worse in the days and weeks ahead as fuel and water run low. But we also know we are in this together.”
+</text>

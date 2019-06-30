@@ -1,0 +1,25 @@
+<url>
+http://www.business-standard.com/article/news-ians/nepal-quake-teenager-rescued-after-five-days-115043000204_1.html
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Nepal quake: Teenager rescued after five days
+</headline>
+
+<text>
+A teenager was rescued alive from the rubble of a hotel here, five days after a major quake shook the country, authorities said on Thursday.
+
+Armed Police Force of Nepal successfully rescued the 15-year old youth on Thursday morning from Gongabu area in capital Kathmandu.
+
+Pemba Lama, who hails from Nuwakot district, was trapped in the hotel, the police said in a statement.
+
+He was being given medicine through a pipe to keep him alive, said Superintendent of Nepal Police, Narayan Khadka.
+
+He is fine and speaking a little.
+
+Earlier, the Nepal Army had rescued an 11-year old girl from Bhaktapur alive.
+</text>

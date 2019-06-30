@@ -1,0 +1,23 @@
+<url>
+http://www.dailydot.com/technology/chill-pope-drone/
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Pope Francis just got a sweet drone
+</headline>
+
+<text>
+Pope Francis will now be able to capture bird’s eye views of the Vatican thanks to a drone given to him by students in Rome.
+
+Students presented the pope with the gift on Thursday, and customized the unmanned aerial vehicle with the colors of the Vatican flag—yellow and white. In a statement, organizers of the robotic gift-giving said the drone “represented… the values of technology in the service of man.”
+
+Organizers said drones were helpful in documenting the aftermath of a 7.9 earthquake that struck Nepal and surrounding areas last Saturday. For instance, Kishor Rana flew a drone over Kathmandu, the capital of Nepal, to document the homes, businesses, and cultural heritage sites that were destroyed because of the quake.
+
+The drone provided by the students is hardly the most unique thing the leader of the Catholic Church has received. In March, the pope was hand-delivered a pizza while he drove through Naples, Italy, in a motorcade.
+
+H/T Washington Post | Photo via Global Panorama/Flickr (CC BY SA 2.0)
+</text>

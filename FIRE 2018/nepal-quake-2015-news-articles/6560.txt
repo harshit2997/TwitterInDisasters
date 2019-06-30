@@ -1,0 +1,27 @@
+<url>
+http://www.ekantipur.com/2015/05/12/capital/nt-red-cross-to-send-early-warning-sms/405113.html
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+NT, Red Cross to send early warning SMS
+</headline>
+
+<text>
+May 12, 2015-
+
+Nepal Telecom and Nepal Red Cross signed an agreement on Monday to roll out a potentially life-saving text message service.
+
+Using an innovative location-targeted SMS system called Trilogy Emergency Relief Application (Tera), texts containing flood and hazard warnings, health advice and updates on earthquake aid provision will be transmitted to mobiles in Nepal. The Koshi River basin, which regularly faces major flooding, will be among the areas to be covered by Tera.
+
+“This life-saving service provides real-time information and warnings on flood risks, disease outbreaks and health advice at the touch of a button,” saidDevRatnaDhakhwa, secretary general of the Nepal Red Cross.
+
+“As earthquake survivors battle to recover from this disaster, they are now faced with prospect of monsoon which is just weeks away. Tera can help people prepare for this and make plans that could help keep them and their families safe,” he added.
+
+According to Nepal’s Telecom Authority, 86 percent of the population use mobile phones, making it one of the most effective means to communicate with large numbers of people. It is estimated that the Red Cross-Tera partnership with Nepal Telecom will reach more than 1.1 million users. The messages will also contain information on relief distribution and protection issues such as gender-based violence and child welfare.
+
+Published: 12-05-2015 02:00
+</text>

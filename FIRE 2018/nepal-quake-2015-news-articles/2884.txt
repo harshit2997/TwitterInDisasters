@@ -1,0 +1,43 @@
+<url>
+http://www.preventionweb.net/english/professional/news/v.php?id=43897
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Scientists warned of ageing risk maps before Nepal quake
+</headline>
+
+<text>
+Source(s): Thomson Reuters Foundation, trust.org (TRF)
+
+
+
+By Bhrikuti Rai, SciDev.Net
+
+Just weeks before the 7.8 magnitude earthquake that devastated the Kathmandu area of Nepal last weekend (25-26 April), scientists had warned that the city’s earthquake risk maps were 20 years out of date.
+
+On Sunday, as aftershocks continued to shake Nepal for a second day, interior ministry officials confirmed that more than 2,000 had died, and more than were 5,000 injured.
+
+“We have already mobilised rescue teams and helicopters in the affected villages in Gorkha [the epicentre of the tremor] and neighbouring districts,” Laxmi Dhakal, a ministry spokesman tells SciDev.Net.
+
+Only a week earlier, Kathmandu had hosted an international meeting of seismologists and social scientists who pointed to the possibility of a repeat of the 1934 quake that flattened the city and killed thousands of people.
+
+A study published this month (12 April) in Natural Hazards investigated the structural vulnerability, seismic risk and economic losses owing to future earthquakes in Nepal using the OpenQuake software curated by the Global Earthquake Model initiative.
+
+The study says that despite the availability of new data and methodological improvements, the available map showing the probability of tremors happening across Nepal is about two decades old. It says an update to this seismic hazard map is “imperative” — such a tool can be an important for framingpolicies on building regulations, insurance, and emergency preparedness.
+
+Geohazards International (GHI), a US-based non-profit that works to prevent deaths and suffering from natural disasters, had published a warning on 12 April that “the 1.5 million people living in the Kathmandu Valley were clearly facing a serious and growing earthquake risk.”
+
+According to GHI, in the absence of any building code, nearly all construction had taken place without consideration of seismic force concerns; and technical information about earthquake risk in the Kathmandu Valley was incomplete and dispersed among several governmental agencies.
+
+But Nepal had in March inaugurated a humanitarian staging area at Tribhuvan International Airport near Kathmandu, which is now playing its intended role as a main logistics hub for airlifted and overland humanitarian assistance entering the Kathmandu Valley.
+
+The area is designed to store food supplies for more than 250,000 people for 30 days and has hygiene and sanitation equipment. It can shelter more than 94,000 people and is supported with logistic equipment, mobile storage units, generators, fuel tanks and VSAT connections for satellite phones and internet.
+
+But Rameshwor Dangal, chief of the disaster management department at the home ministry, had admitted to SciDev.Net two weeks ago that authorities were under-resourced to deal with disasters. “We still have a long way to go before we have hi-tech systems in place for risk assessment and sufficient human resources in the aftermath of large-scale disasters,” Dangal said.
+
+“Having only one international airport is another challenge, so we are also looking at options of implementing contingency plans in regional airports in the future,” Dangal said. In March Kathmandu’s airport was closed for several days after an airliner skidded off the single runway and prevented other planes from taking off or landing.
+</text>

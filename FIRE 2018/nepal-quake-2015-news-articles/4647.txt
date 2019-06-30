@@ -1,0 +1,27 @@
+<url>
+http://rt.com/news/255213-mount-everest-shrinks-quake/
+</url>
+
+<date>
+20150503
+</date>
+
+<headline>
+Everest shrinking: World’s highest mountain is a bit smaller after Nepal quake
+</headline>
+
+<text>
+The deadly quake in Nepal not only devastated the country killing thousands but also changed its landscape. Mount Everest shrank a little bit after the disaster, satellite data shows.
+
+According to Europe's Sentinel-1A radar satellite, which passed over the affected area on Wednesday, a day after the 7.8-magnitude quake, Earth’s highest mountain is now 2.8 centimeters smaller than it used to be, reports LiveScience.
+
+The lowering is explained by a relief of strain in the Earth’s crust, it said citing UNAVCO, a nonprofit geoscience research consortium.
+
+READ MORE: New video of Nepal earthquake shows building collapsing on motorists
+
+At the same time a region about 120 kilometers long and 50 kilometers wide near Nepal’s capital Kathmandu lifted about 1 meter, which partially explains the extensive damage the city suffered. The uplift peaked just 17 kilometers from the city.
+
+The satellite data is still raw and will be analyzed by teams of scientists over the next few weeks. Roger Bilham, a professor in geological sciences at the University of Colorado Boulder, told the Huffington Post that the shrinking of Mount Everest is probably just about one or two millimeters.
+
+The April 25 quake struck 83 kilometers northwest of Kathmandu at a depth of 15 kilometers. As of Sunday, rescue authorities say there is no hope of recovering anyone alive from under the rubble. The death toll has passed the 7,000 mark.
+</text>

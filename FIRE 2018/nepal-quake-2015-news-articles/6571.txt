@@ -1,0 +1,33 @@
+<url>
+http://www.mfa.gov.lv/en/news/latest-news/46368-announcement-from-the-foreign-ministry-concerning-a-new-earthquake-in-nepal
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Announcement from the Foreign Ministry concerning a new earthquake in Nepal
+</headline>
+
+<text>
+On 12 May, an additional 7.3-magnitude earthquake has struck Nepal in the area of Namche Bazaar. A significant number of deaths were reported. No exact estimate on the damage caused is available; however, aftershocks continue, and the danger of avalanches and landslides still exists.
+
+This is the strongest earthquake since the devastating 7.8 magnitude earthquake on 25 April, which claimed the lives of more than 8,000 people and left 25,000 others injured, while causing huge damage to the country’s infrastructure, housing, buildings, including to historical monuments.
+
+The Latvian Ministry of Foreign Affairs continues to maintain contact with all people from Latvia currently staying in Nepal – directly or via friends or relatives in Latvia. According to information at the Foreign Ministry’s disposal, nine people from Latvia are currently in Nepal. None of them has been injured. The majority of Latvian nationals who were in Nepal at the time of the 25 April earthquake have left the country.
+
+The Foreign Ministry requests travellers to carefully consider the necessity of going to Nepal. Those in Nepal are urged to strictly follow the instructions given by Nepalese authorities.
+
+The Foreign Ministry has an agreement with the Foreign Ministry of Finland that Latvian nationals can receive consular assistance at the Embassy of Finland in Nepal.
+
+Consular assistance can also be received at the Embassies of other EU Member States in Kathmandu:
+
+Embassy of Denmark
+
+Embassy of Germany
+
+Embassy of the United Kingdom
+
+Embassy of France
+</text>

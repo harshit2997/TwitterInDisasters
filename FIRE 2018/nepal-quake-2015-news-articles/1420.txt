@@ -1,0 +1,17 @@
+<url>
+http://www.bbc.co.uk/news/world-asia-32476820
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+In pictures: Nepal earthquake aftermath
+</headline>
+
+<text>
+Image caption
+
+Tens of thousands of people in Nepal have been forced to live and sleep outside for fear of further aftershocks following Saturday's earthquake, which killed more than 3,000 people
+</text>

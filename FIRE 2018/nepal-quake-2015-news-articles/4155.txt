@@ -1,0 +1,45 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/30/c_134199379.htm
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Spotlight: Experts say high construction seismic reliability might minimize casualties in quakes - Xinhua
+</headline>
+
+<text>
+LOS ANGELES, April 30 (Xinhua) -- The massive earthquake that struck Nepal on Saturday has claimed more than 5,000 lives and injured over 10,000 others so far. When reflecting on the disaster, experts said buildings of high seismic reliability could have reduced casualties.
+
+The huge losses caused by the magnitude-7.9 quake may be contributed to the quake itself, a shallow one that occurred on a "thrust fault," Randy Baldwin, geophysicist with the U.S. Geological Survey told Xinhua on Monday.
+
+Besides that, poor seismic reliability of buildings in Nepal, one of the least developed countries, could add to the tragedy, he said.
+
+Nepal is located along a fault where the India and Eurasian plates meet. "So you have a plate boundary and India is diving beneath the Eurasian plate," Baldwin said.
+
+"And this particular zone generates large earthquakes so that's why this quake is a large one," he explained.
+
+It is a very seismically active area that set a history of producing large earthquakes in the past, he said.
+
+Over the past century, there have been approximately five large damaging quakes along this particular fault zone, he said, adding the one that claimed over 8,000 lives in 1934 was the worst in the past 100 years.
+
+Moreover, the shallow sediment under the capital of Kathmandu helps to amplify the motion, Peng Zhigang, associate professor of the Georgia Institute of Technology in United States, told Xinhua recently.
+
+He also emphasized that the poor quake-resistance capacity of the buildings in Nepal contribute to heavy damage to life and property.
+
+So far, more than 400,000 buildings have collapsed. At least 14 historic buildings have been destroyed or severely damaged, including 12 on the list of UNESCO World Heritages.
+
+The massive quake has flattened at least 90 percent of public squares, Buddhist stupas and Hindu temples in the valley, the state-run Nepal TV reported.
+
+Some villages outside Kathmandu have been completely flattened, and roads have been damaged to many remote areas, according to local police.
+
+Baldwin said "it's hard to" estimate the damage, as a lot of constructions throughout the region that were damaged or weakened in the main shock are susceptible to significant aftershocks, which could cause huge losses.
+
+As for earthquake forecasting, Peng said the quake was a foregone conclusion, as Nepal's location on the boundary of Indian and Eurasian plates is well known, and the former is diving beneath the latter by four to five centimeters every year.
+
+However, to accurately forecast the timing of the magnitude-7.9 quake or other major earthquakes is yet an impossible task for now, he said.
+
+So before precise forecast comes true, to lift quake resistance capacity of constructions, strengthen science education among the public and set up a real-time warning system among other measures, he said, could help minimize casualties and property losses.
+</text>

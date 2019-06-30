@@ -1,0 +1,35 @@
+<url>
+http://www.pcworld.co.nz/article/573777/ham-radio-attempts-fill-communication-gaps-nepal-rescue-effort/
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Ham radio attempts to fill communication gaps in Nepal rescue effort
+</headline>
+
+<text>
+Ham operator Jayu Bhide
+
+Amateur radio has stepped in to fill communication gaps in Nepal, which is struggling with power outages and a flaky Internet after a devastating earthquake on Saturday killed over 5,000 people.
+
+The hobbyist radio operators, also known as ham radio operators or hams, are working round-the-clock to help people get in touch with relatives, pass on information and alert about developing crises ever since the 7.8 magnitude earthquake hit about 80 kilometers from Nepal's capital city of Kathmandu.
+
+Ham radio sends voice or morse code messages across radio frequencies and has often helped in emergencies. It can work off solar power or low-voltage batteries, which means that the radios can continue to work even after smartphones and laptops are discharged, said Jayu Bhide, National Coordinator for Disaster Communication at the Amateur Radio Society of India, on Wednesday.
+
+The electricity supply has improved in many parts of Kathmandu, but when there were power outages, ham operators resorted to transmitting at low power, an operation known as QRP, which requires as little as 15 to 20W, said Satish Kharel, a lawyer in Kathmandu, who uses the ham call signal 9N1AA. "When the power was out, I used to plug into my car battery," he said.
+
+Ham operators in Nepal and India are working in shifts to keep communications going between them and hams in other parts of the world like Turkey, Australia and New Zealand, Bhide said.
+
+Though 99 persons have ham licenses in Kathmandu, about eight use high-frequency (HF) radios that can transmit long distances, while another 30 have very high frequency and ultra high frequency sets for local traffic, Kharel said. In India, over 50 ham operators are helping out with the relief, according to Bhide.
+
+The hams have been getting frequent requests from abroad to trace relatives and friends in the earthquake zone. The operators in Nepal then try to get information on the missing persons and transmit it back. "In many cases, visitors didn't know which local numbers to call," said Kharel. Many visitors to Nepal, who were affected by the earthquake, called up relatives abroad who got in touch with rescue groups through hams in Kathmandu, he added.
+
+Many of Nepal's large Internet service providers, including Nepal Telecom, were able to maintain the country's connectivity to the Internet despite the earthquake, but the ability of the average person in Nepal to connect to the Internet depends on conditions affecting last-mile connectivity, said Internet performance monitoring company Dyn.
+
+"With downed mobile towers, severed overhead fiber cables and spotty electricity, connecting to the outside world will be challenging for weeks to come as the nation recovers from the devastation," wrote Doug Madory, Dyn's director of Internet analysis on Tuesday.
+
+John Ribeiro covers outsourcing and general technology breaking news from India for The IDG News Service. Follow John on Twitter at @Johnribeiro. John's e-mail address is john_ribeiro@idg.com
+</text>

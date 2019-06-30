@@ -1,0 +1,35 @@
+<url>
+http://www.channelworld.in/news/everest-avalanche-kills-privacy-focused-google-engineer-dan-fredinburg
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Everest avalanche kills privacy-focused Google engineer Dan Fredinburg
+</headline>
+
+<text>
+An engineer who worked on many of Google's most exciting projects during his 8 years with the company, died in an avalanche on Mount Everest.
+
+Dan Fredinburg, an engineer who worked on many of Google's most exciting projects during his 8 years with the company, died over the weekend in an avalanche on Mount Everest triggered by Nepal's devastating earthquake.
+
+Fredinburg, who listed his title as Google Adventurer on his LinkedIn profile, died from a major head injury, according to a post by his sister Megan on Instagram in which she said "his soul and spirit will live on in so many of us."
+
+The 33-year-old Google engineer had been documenting his Mount Everest Climb on Twitter and Instagram.
+
+Fredinburg summed up his job responsibilities as "Entrepreneurial product and program management expert dedicated to using data science and connected devices like drones, smart appliances, and wearables to protect and improve the environment and human rights. At Google, I drive the creation of data protection and lifecycle management systems to defend the liberties of our users."
+
+He had most recently worked on Google [x], the company's semi-secret futuristic lab and his Instagram tagline reads: "I want everyone to think like Google [x] and have the heart of an adventurer."
+
+He worked on projects such as Google Loon, the company's balloon-based Internet access effort and self-driving car. He also was involved in Google Street View Everest, leading expeditions to gather imagery of the Khumbu region around Mt. Everest.
+
+Fredinburg's career, which also included stints at Boeing and various startups, began in a much less glamorous fashion as a "dock rat" and as a farm hand in Arkansas, in which he "Removed nails from pieces of wood, filled holes in with rocks, dreamed of a job with air conditioning."
+
+Lawrence You, Google's head of privacy, broke the news about Fredinburg's death to colleagues. "Sadly, we lost one of our own in this tragedy. +Dan Fredinburg a long-time member of the Privacy organization in Mountain View, was in Nepal with three other Googlers, hiking Mount Everest. He has passed away. The other three Googlers with him are safe and we are working to get them home quickly."
+
+Google.org is committing $1 million to the Nepal crisis response team, with employee gift-matching.
+
+RELATED:Notable deaths of 2014 in Tech, Science & Inventions
+</text>

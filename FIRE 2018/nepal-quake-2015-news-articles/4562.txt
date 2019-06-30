@@ -1,0 +1,33 @@
+<url>
+http://www.ibtimes.co.in/nepal-earthquake-death-toll-crosses-5000-feared-reach-10k-630811
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Nepal Earthquake Death Toll Crosses 5,000, Feared to Reach 10K
+</headline>
+
+<text>
+The toll in the massive earthquake that devastated Nepal on April 25 crossed 5,000 on Wednesday, Sindhupalchok being the worst affected district with 1,400 deaths, the government said.
+
+The home ministry said it has so far recorded 5,006 deaths across the country.
+
+The National Emergency Operation Centre - which operates under the home ministry - said 10,224 were injured in the 7.9-magnitude quake and its aftershocks.
+
+Kathmandu district recorded 1,039 deaths, Bhaktapur 250 and Lalitpur 159.
+
+Meanwhile, a joint rescue team of the Nepalese Army, the Armed Police Force and Nepal Police has rescued 1,600 tourists from Manang and Mustang and brought them to Pokhara.
+
+Ten tourists from various countries were killed in the earthquake. Four died in Kathmandu, five in Solukhumbu, and one in Makawanpur districts.
+
+The government said rescue operations were on in full swing in Sindhupalchok, Kathmandu, Nuwakot, Dhading, Bhaktapur, Lalitpur, Kavrepalanchowk, Gorkha and Rasuwa.
+
+Rescue teams from India, Sri Lanka, China, Turkey, the Netherlands, Poland, Germany, France, Israel, Malaysia and Japan have been deployed in various places of the Kathmandu Valley.
+
+A rescue team from Britain has been deployed in Sindhupalchowk district, while nine foreign medical teams are working in various affected areas.
+
+According to the home ministry, the Sri Lankan team rescued a youth alive from Balaju area.
+</text>

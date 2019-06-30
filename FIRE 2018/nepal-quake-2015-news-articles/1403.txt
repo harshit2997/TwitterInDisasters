@@ -1,0 +1,29 @@
+<url>
+http://www.marketplace.org/topics/world/situation-nepal
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+The situation in Nepal
+</headline>
+
+<text>
+A man stand near collapsed houses in Bhaktapur, on the outskirts of Kathmandu, on April 27, 2015, two days after a 7.8 magnitude earthquake hit Nepal. - PRAKASH MATHEMA/AFP/Getty Images
+
+Listen To The Story Marketplace Embed Code <iframe src="https://www.marketplace.org/2015/04/27/world/bbc-world-service/situation-nepal/popout" frameborder="0" width="100%" height="240px"></iframe>
+
+Aid workers have begun arriving in Nepal following Saturday's devastating 7.8 magnitude earthquake. The death toll is reported at almost 4,000; that number is expected to grow. This morning, we reached Sanjaya Dhakal, a reporter for the BBC in Nepal, on a line from Kathmandu.
+
+Click the media player above to hear Sanjaya Dhakal describe current conditions in Nepal.
+
+Powerful aftershocks were reported through the weekend. And as concerns grow over waterborne infections and diseases that could afflict survivors, aid workers are stressing the need for basic amenities from the ground. Here are some of the numbers coming out of Nepal:
+
+-Unicef is reporting that almost a million children in the area are in need of assistance.
+
+-A cargo plane carrying about 70 aid workers was dispatched by the Pentagon on Sunday.
+
+-China also sent a rescue team of 62. A similar offer from the Taiwanese government was turned down, raising questions about how the power dynamics between bordering countries may play out in this situation. Nepal has historically served as a mid-way haven for Tibetans fleeing China into India.
+</text>

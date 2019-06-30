@@ -1,0 +1,31 @@
+<url>
+http://reliefweb.int/report/nepal/situation-report-2-response-nepal-earthquake-humanitarian-forum-indonesia-11-may-2015
+</url>
+
+<date>
+20150511
+</date>
+
+<headline>
+Situation Report #2 - Response To Nepal Earthquake, Humanitarian Forum Indonesia (as of 11 May 2015 11:00 AM)
+</headline>
+
+<text>
+According to Situation Report Number 12 (launch at 8 May 2015) by UNOCHA (United Nations Office for Coordination of Humanitarian Affairs), as of 8 May, the Government confirmed an increase in the total numbers to 288,798 houses destroyed and 254,112 damaged. With the monsoon season beginning in June, providing emergency shelter to affected communities in remote and hard to reach areas is a priority. For the immediate response, high quality tarpaulins, tools and household items (including blankets) are needed.
+
+According to OCHA assessment cell’s initial estimates reported in the Situation Report Number 11 (launch at 6 May 2015), based on Government data, the highest rates of destruction and damage to housing are reported in Sindhupalchowk, Gorkha, Nuwakot, Ramechhap and Dhading. Estimates may increase as more areas are being reached. In Sindhupalchowk, the level of damage is said to significantly increase with altitude. Almost all houses made of stone and mud plaster, typical at higher altitudes, were destroyed and many families are still living outside their homes in makeshift shelters.
+
+In Gorkha District Headquartes, electricity and water supplies are available and the market is functional. However, access to rural areas in the district remains difficult. Aftershocks continue, with two strong quakes recorded on 6 May causing additional landslides in rural areas, including in Laprak, Gunda and Lapu. In Laprak, humanitarian partners reported a lack of shelter, food, water and medicines.
+
+Some villages in northern Gorkha are reachable only by foot trails; thus, the need to strengthen partnership with local trekking and porter associations to reach remote areas. During the initial days of the response, the Nepalese Army search and rescue teams evacuated over 2,400 people from remote areas to Kathmandu and Pokhara. To support logistics and the overall relief efforts, the army is also mobilizing some 10,000 troops to be deployed in all Village Development Committees (VDCs) in 16 districts. To date, over 13,500 patients have been treated and 98 surgeries were performed by foreign military teams.
+
+In Gorkha, there is now an increasing number of people seeking ways to return to their villages and looking for missing family members. Family tracing and reunification services are required.
+
+Villages in mountainous areas are also reporting an increase in the occurrence of respiratory infections, especially in children under age-5. In addition, dead animal management is crucial to avoid the spread of other illnesses.
+
+Humanitarian agencies recorded cases of psychosocial trauma in the affected communities. Additional mental health and psychosocial support services are needed.
+
+Coordination of debris management activities is reported to be an issue in all affected VDCs. This includes appropriate and safe demolition of destroyed or damaged structures. At the sub-national level, humanitarian partners are supporting the District Disaster Relief Committees and Chief District Offices to coordinate the local response.
+
+In Kathmandu Valley, the Camp Coordination and Camp Management (CCCM) Cluster assessed 103 sites, of which 58 open air sites remain and host some 37,500 internally displaced persons (IDPs). Provision of services in the sites is said to be uneven and primarily community-led.
+</text>

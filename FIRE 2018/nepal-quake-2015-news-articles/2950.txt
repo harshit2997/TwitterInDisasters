@@ -1,0 +1,29 @@
+<url>
+http://www.dailystar.com.lb/News/World/2015/Apr-28/296071-wfp-says-14-million-need-emergency-food-aid-in-nepal.ashx
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+WFP says 1.4 million need emergency food aid in Nepal
+</headline>
+
+<text>
+The World Food Program said Tuesday it will try to get emergency food aid to 1.4 million people in Nepal over the next three months following the country's devastating earthquake.
+
+
+
+WFP is also providing logistics, telecommunications and air transport support for the entire aid operation in Nepal and said this role would cost it $34 million over the next three months.
+
+
+
+The organisation hopes to have two helicopters operational in the coming days to transport humanitarian cargo and aid workers to the worst-affected areas.
+
+
+
+Initial estimates from WFP's assessment teams -- working with satellite imagery and existing data -- indicate that around 1.4 million people in priority areas urgently need food assistance.
+
+...
+</text>

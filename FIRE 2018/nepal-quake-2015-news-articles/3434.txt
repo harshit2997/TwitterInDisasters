@@ -1,0 +1,27 @@
+<url>
+http://www.theskichannel.com/news/featured/20150428/nepalese-quake-alters-regions-geography-slightly/
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Nepal Earthquake Alters Region’s Geography
+</headline>
+
+<text>
+The deadly quake that shook Nepal last Saturday has already claimed the lives of at least 4500 individuals, and the effects of this disaster reach even farther than human casualties.
+
+According to seismographic data analyzed by tectonics experts, Kathmandu alone has most likely shifted around 3 meters southward. The 3 meter shift is predicted to be the largest observable geological result of the quake, occurring just north of the capital city.
+
+In a statement to The Guardian, Sandy Steacy, head of physical sciences at University of Adelaide, describes the fault as: “Dip[ping] about 10 degrees to the north-northeast. The relative movement across the fault zone was on the order of three meters at its greatest, just north of Kathmandu.”
+
+Due to the shallow nature of the fault, most experts have theorized the elevation of the world’s tallest peak remains unchanged, although it is too soon to say with absolute certainty. Mark Allen of the department of earth sciences at the University of Durham describes that “There may have been three meters of slip on the fault at the earthquake nucleation point at 15 kilometers depth. But this dies out in all directions, including upwards to the surface.”
+
+More accurate measurements will be taken in the near future utilizing more sophisticated tools, but the more pressing priorities of the region and its people have taken precedence.
+
+However, due to the high risk of aftershocks in and around the area surrounding the deadly April 25th quake, there is no telling how much further the regions geography may be altered. Future quakes on different fault lines caused by the initial shift could potentially cause much more serious and tangible changes in the topography of various areas in the region, but accurate predictions of such events are essentially impossible.
+
+For now, travelers and locals alike should stay wary of the potential for future quakes and aftershocks, and do what they can to prepare and plan accordingly.
+</text>

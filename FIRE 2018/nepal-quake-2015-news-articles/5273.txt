@@ -1,0 +1,31 @@
+<url>
+http://www.foxnews.com/tech/2015/05/08/how-nasa-helped-rescue-4-nepal-victims/
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+How NASA helped rescue 4 Nepal victims
+</headline>
+
+<text>
+NASA's latest out-of-this-world feat happened on planet Earth: Thanks to the space agency's technology, four men trapped for days after the Nepal earthquake were rescued. The village of Chautara received two prototype FINDER devices four days after the disaster struck, Gizmodo reports.
+
+The development of the handheld gadgets—whose name is an acronym for Finding Individuals for Disaster and Emergency Response—was actually spurred by technology intended for studying the possibility of alien life, the site notes.
+
+The devices fire out what Quartz describes as a "continuous microwave signal," using radar to detect heartbeats or breathing, and can discern the presence of a human from the movement of an animal.
+
+They've been shown to work through 30 feet of rubble or 20 feet of solid concrete, NASA reports. In this case, the four men in two separate buildings were found buried below up to 10 feet of debris.
+
+The rescue marked the first time FINDER has been used in a real-life situation, Gizmodo notes. "FINDER exemplifies how technology designed for space exploration has profound impacts to life on Earth," says NASA's chief technologist, Dr.
+
+David Miller. Now the agency is looking to go commercial with the technology so more rescue teams can access it, notes Quartz, which flags other ways NASA has helped save lives: Its technology has bolstered everything from firefighting gear to land mine removal methods.
+
+(Another incredible rescue story saw a 101-year-old saved in Nepal.)
+
+This article originally appeared on Newser: How NASA Saved 4 Nepal Victims
+
+More From Newser
+</text>

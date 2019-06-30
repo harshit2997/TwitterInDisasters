@@ -1,0 +1,19 @@
+<url>
+http://www.dailytelegraph.com.au/news/breaking-news/nepal-earthquake-toll-tops-4100/story-fni0xqlk-1227323972371?nk=776bfd17585214c01acb9622cb92d844
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Quake survivors flee Nepali capital
+</headline>
+
+<text>
+THOUSANDS of people are departing Kathmandu or planning to do so, after an earthquake rocked Nepal on Saturday, leaving more than 4350 people dead and devastating the capital.
+
+RESIDENTS of Kathmandu are leaving in droves to get away from the collapsed, insanitary houses of the city and to check on homes and loved ones in the provinces.
+
+Originally published as Quake survivors flee Nepali capital
+</text>

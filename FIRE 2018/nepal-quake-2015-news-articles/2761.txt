@@ -1,0 +1,23 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/28/c_134193147.htm
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Chinese doctors treat 83 quake-injured locals in Nepal - Xinhua
+</headline>
+
+<text>
+CHENGDU, April 28 (Xinhua) -- A Chinese medical team has treated 83 people since arriving in Nepal on Monday, said Chinese health authorities.
+
+The 58-strong Chinese team set up a makeshift hospital in one of the worst-hit areas, said the Sichuan provincial health department.
+
+The health professionals are from hospitals, disease prevention centers and the provincial health department in Sichuan.
+
+China has also sent military personnel to Nepal to assist the rescue operations.
+
+Saturday's earthquake has killed at least 4,264 people and injured 7,000 in Nepal, according to the Nepal Home Ministry National Emergency Operation Center on Tuesday.
+</text>

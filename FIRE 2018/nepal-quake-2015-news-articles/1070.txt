@@ -1,0 +1,25 @@
+<url>
+http://tvnz.co.nz/national-news/kiwis-still-missing-in-earthquake-devastated-nepal-6302250
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Kiwis still missing in earthquake-devastated Nepal
+</headline>
+
+<text>
+Fourteen New Zealanders remain missing in Nepal after Saturday's devastating 7.8 magnitude earthquake.
+
+The Kiwis are listed on a Red Cross register where family and friends of New Zealanders not heard from can list their loved ones as missing.
+
+Today the Ministry of Foreign Affairs confirmed a New Zealander has died in Nepal but say the death was not related to the earthquake.
+
+The New Zealand Government has responded to the unfolding humanitarian crisis in the Himalayan nation by pledging $1million in aid.
+
+A New Zealand Red Cross team of three telecommunications specialists will head to Nepal today to help fix broken network infrastructure.
+
+Nepal's Home Ministry said today the country's death toll had risen to 4,010 people.
+</text>

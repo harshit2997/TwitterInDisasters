@@ -1,0 +1,33 @@
+<url>
+http://www.straitstimes.com:80/news/asia/south-asia/story/nepal-earthquake-101-year-old-man-pulled-alive-nepal-quake-rubble-2015050
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+Nepal earthquake: 101-year-old man pulled alive from rubble
+</headline>
+
+<text>
+KATHMANDU (AFP) - A 101-year-old man was pulled alive from the rubble of his house in Nepal seven days after it collapsed in a deadly earthquake, police said Sunday.
+
+Funchu Tamang was rescued on Saturday with only minor injuries and airlifted to a district hospital, local police officer Arun Kumar Singh told AFP.
+
+“He was brought to the district hospital in a helicopter. His condition is stable,” said Singh in Nuwakot district around 80 kilometres northwest of Kathmandu. “He has injuries on his left ankle and hand. His family is with him.”
+
+There were, however, conflicting reports about the man's age. Some media reports cited him as being 105 years old.
+
+Meanwhile, police also rescued three women from under rubble on Sunday in Sindupalchowk, one of the districts worst hit by the quake, although it was not immediately known how long they had been trapped.
+
+One had been buried by a landslide while the other two were under the rubble of a collapsed house.
+
+“They are being taken to hospital for treatment,” said Suraj Khadka, an officer with the Armed Police Force in Kathmandu.
+
+Nepal’s government had on Saturday ruled out finding more survivors buried in the ruins of Kathmandu.
+
+Multiple teams of rescuers from more than 20 countries have been using sniffer dogs and heat-seeking equipment to find survivors in the rubble of the capital. But outside the city search and rescue work has largely been carried out by local police and troops.
+
+The 7.8-magnitude quake wreaked a trail of death and destruction when it erupted last week, reducing much of the capital Kathmandu to rubble and triggering a deadly avalanche on Mount Everest. The quake has already claimed more than 7,000 lives.
+</text>

@@ -1,0 +1,23 @@
+<url>
+http://www.euronews.com/2015/04/30/disease-next-risk-for-nepal/
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Disease next risk for Nepal
+</headline>
+
+<text>
+More bodies are being brought out daily from beneath the piles of rubble where once homes stood in Kathmandu.
+
+So far the number of dead in Nepal has risen to about 5,000, but it could reach above 10,000 with information on casualties from far flung villages yet to come in.
+
+Government officials are describing last Saturday’s destructive earthquake as a disaster on an “unprecedented scale”.
+
+Experts from a polish NGO that has an 87-strong team in Nepal have said the chances of finding people alive in the ruins six days after the quake are next to zero.
+
+It means the focus is turning more to the survivors and doctors are now warning that an out break of epidemics is likely due to the collapse of Kathmandu’s sanitation system – it could cause even more casualties.
+</text>

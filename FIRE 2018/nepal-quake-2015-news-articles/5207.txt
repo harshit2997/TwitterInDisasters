@@ -1,0 +1,31 @@
+<url>
+http://northerncalifornian.com/content/5215-nasa%E2%80%99s-finder-technology-helps-save-four-lives-nepal
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+NASA’s FINDER technology helps save four lives in Nepal
+</headline>
+
+<text>
+Rescue efforts in earthquake-hit Nepal have been augmented recently, thanks to the use of NASA's new 'life-saving' technology dubbed FINDER - short for 'Finding Individuals for Disaster and Emergency Response.' Strengthening the ongoing search operations in quake-hit areas, the FINDER technology helped save the lives of four people buried under the debris.
+
+This new technology has the ability to detect heartbeats through microwave radar that can easily sense people and then help them.
+
+The technology is a result of the combined efforts done by NASA and the US Department of Homeland Security's Science and Technology Directorate. The device is of the same size as that of a suitcase.
+
+It is believed that the two of the devices that were sent to Nepal have made significant contributions in speeding up humanitarian efforts in the country.
+
+This device is capable of detecting a heartbeat within a maximum range of 100 feet in open air, within 20 feet of concrete, and 30 feet of debris. It can detect a live person from a five-foot range.
+
+FINDER can even distinguish between the heartbeats of humans and animals. It is very helpful as it can save time and efforts by telling people who has a chance of survival, so that their efforts do not go in vain.
+
+Presently, FINDER is at the prototype stage, though NASA has intentions to market it commercially in the future. NASA's satellites will also help in informing about areas that have catastrophic conditions, so that aid can be provided to them.
+
+According to the agencies, earlier FINDER has demonstrated capabilities to detect people buried under up to 30 feet of rubble, hidden behind 20 feet of solid concrete, and from a distant of 100 feet in open spaces.
+
+They mentioned, "A new 'locator' feature has since been added to not only provide search and rescue responders with confirmation of a heartbeat, but also the approximate location of trapped individuals within about five feet, depending on the type of rubble".
+</text>

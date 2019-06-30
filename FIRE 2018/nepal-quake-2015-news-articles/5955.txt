@@ -1,0 +1,31 @@
+<url>
+http://spaceref.com/asia/nasa-aids-response-to-nepal-quake.html
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+NASA Aids Response to Nepal Quake
+</headline>
+
+<text>
+NASA and its partners are gathering the best available science and information on the April 25, 2015, magnitude 7.8 earthquake in Nepal, referred to as the Gorkha earthquake, to assist in relief and humanitarian operations.
+
+Organizations using these NASA data products and analyses include the U.S. Geological Survey, United States Agency for International Development (USAID)/Office of U.S. Foreign Disaster Assistance, World Bank, American Red Cross, and the United Nations Children's Fund.
+
+NASA and its collaborators are pulling optical and radar satellite data from international and domestic partners and compiling them into a variety of products. The products include "vulnerability maps," used to determine risks that may be present; and "damage proxy maps," used to determine the type and extent of existing damage. Such products can be used to better direct response efforts.
+
+The satellite data will be used to compile maps of ground surface deformation and to create risk models. NASA and its partners are also contributing to assessments of damage to infrastructure. They are tracking remote areas that may be a challenge for relief workers to reach, as well as areas that could be at risk for landslides, river damming, floods and avalanches. The data will contribute to ongoing investigations of our restless Earth and its impacts on society.
+
+NASA is helping get satellite data into the hands of government officials in Nepal where Internet bandwidth is limited. The joint NASA-USAID SERVIR project is supporting disaster response mapping efforts through the SERVIR-Himalaya office at the International Centre for Integrated Mountain Development in Kathmandu. SERVIR staff at NASA's Marshall Space Flight Center, Huntsville, Alabama, are coordinating image tasking, processing, compression, and distribution efforts with colleagues from Goddard Space Flight Center in Greenbelt, Maryland, and the Jet Propulsion Laboratory in Pasadena, California.
+
+NASA technology that can locate people trapped beneath collapsed buildings is being deployed to Nepal. A remote-sensing radar technology called FINDER (Finding Individuals for Disaster and Emergency Response), developed by JPL in conjunction with the U.S. Department of Homeland Security's Science and Technology Directorate, can locate individuals buried as deep as 30 feet (9.1 meters) in crushed materials, hidden behind 20 feet (6 meters) of solid concrete, and from a distance of 100 feet (30.5 meters) in open spaces. This technology, licensed by the private entity R4 Incorporated of Edgewood, Maryland, has been taken to Nepal to assist with recovery efforts.
+
+NASA uses the vantage point of space to increase our understanding of our home planet, improve lives and safeguard our future. NASA develops new ways to observe and study Earth's interconnected natural systems with long-term data records. The agency freely shares this unique knowledge and works with institutions around the world to gain new insights into how our planet is changing.
+
+Data and images will be released as they become available at: http://www.nasa.gov/content/images-of-the-april-2015-nepal-earthquake
+
+Please follow SpaceRef on Twitter and Like us on Facebook.
+</text>

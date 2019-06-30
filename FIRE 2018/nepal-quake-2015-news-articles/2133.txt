@@ -1,0 +1,17 @@
+<url>
+http://www.kuna.net.kw/ArticleDetails.aspx?id=2438127&language=en
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+KUNA : Nepal death toll rises to 3,500 as int'l rescue, relief efforts intensify
+</headline>
+
+<text>
+NEW DELHI, April 27 (KUNA) -- International relief and rescue efforts in quake-devastated Nepal intensified on Monday amid fears of recurring aftershocks as Kathmandu felt latest tremors late night on Sunday and again this morning.
+
+After last Saturday's devastating 7.8-magnitude quake, there......
+</text>

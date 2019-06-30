@@ -1,0 +1,21 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/29/c_134195571.htm
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+New Zealand doubles quake relief fund for Nepal - Xinhua
+</headline>
+
+<text>
+WELLINGTON, April 29 (Xinhua) -- The New Zealand government Wednesday doubled its earthquake assistance for Nepal to 2 million NZ dollars (1.54 million U.S. dollars).
+
+The extra funding would support accredited New Zealand non- government organizations, with partners on the ground in Nepal, and would allow aid agencies to scale up the distribution of relief items and early recovery work, Foreign Minister Murray McCully said in a statement.
+
+"New Zealand's funding has already supported the deployment of an emergency response unit by the New Zealand Red Cross. This three-person team will help establish local communication networks to assist the relief operation," he said.
+
+"We remain committed to helping the people of Nepal in these difficult times and will continue to assess how we can assist further."
+</text>

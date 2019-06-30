@@ -1,0 +1,21 @@
+<url>
+http://ottawacitizen.com/news/world/81-dead-as-magnitude-7-9-quake-hits-nepal-heavy-damage-injuries-reported
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Nepal police say death toll from earthquake has reached at least 876
+</headline>
+
+<text>
+KATHMANDU, Nepal — A top Nepalese police official says at least 876 people are confirmed dead in the wake of the massive earthquake that struck outside Kathmandu.
+
+Deputy Inspector General of Police Komal Singh Bam says that the death toll is expected to rise following Saturday’s quake.
+
+The quake with a preliminary magnitude of 7.8 struck before noon and was most severely felt in the capital as well as the densely populated Kathmandu Valley. A magnitude-6.6 aftershock hit about an hour later, and smaller aftershocks continued to ripple through the region for hours.
+
+The Associated Press
+</text>

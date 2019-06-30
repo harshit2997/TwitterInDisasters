@@ -1,0 +1,35 @@
+<url>
+http://www.marketwatch.com/story/nepal-earthquake-rescuers-hunt-for-survivors-as-death-toll-rises-2015-04-26
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal earthquake: Rescuers hunt for survivors as death toll rises
+</headline>
+
+<text>
+NEW DELHI—Soldiers and police dug through debris Sunday across Nepal’s Katmandu Valley and other parts of the Himalayan country, authorities said, racing to find survivors of a massive 7.8-magnitude earthquake that killed more than 2,400 people.
+
+Saturday’s quake, which struck shortly before noon, local time, spread devastation across a broad swath of territory, severely damaging parts of the capital’s historic center, flattening remote villages and triggering a deadly avalanche on Mount Everest.
+
+Police spokesman Kamal Singh Bam. Bam said that in addition to 2,430 people confirmed dead, another 5,936 had been injured.
+
+The scale of the disaster poses a major challenge for the government of Nepal, one of the world’s poorest and least-developed countries. It also delivered a significant blow to the small nation’s already slow-growing economy.
+
+On Sunday, Nepali army and police teams focused on rescue operations in Katmandu and its surrounding valley, which are home to 2.5 million people. Authorities said their efforts were hindered by a lack of heavy equipment and engineering expertise.
+
+A large, 6.7-magnitude aftershock hit Sunday afternoon, according to the U.S. Geological Survey, and was strong enough to have been felt in New Delhi.
+
+The quakes also triggered an avalanche that killed 17 people and injured more than 60 on Mount Everest, according to Ang Tshering Sherpa, head of the Nepal Mountaineering Association. International mountaineers and local guides were at a base camp on the mountain preparing for ascents of the world’s highest peak.
+
+Authorities in neighboring India said more than 60 people had died there as a result of the quake. Across the border in China, 18 people died, according to government news agency Xinhua.
+
+The quake struck in what is known as the Indus-Yarlung suture zone, where the Indian subcontinent meets the Eurasian tectonic plate. The collision of the two, 40 million to 50 million years ago, gave rise to the Himalayas.
+
+It is an area that has been the site of some of the region’s deadliest earthquakes, including one in Kashmir in 2005 that killed more than 80,000 people. A massive earthquake also struck Nepal in 1934, causing mass casualties.
+
+An expanded version of this report appears at WSJ.com
+</text>

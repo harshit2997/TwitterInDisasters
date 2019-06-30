@@ -1,0 +1,25 @@
+<url>
+http://www.eturbonews.com/58433/us-state-department-issues-nepal-travel-warning
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+US State Department issues Nepal travel warning
+</headline>
+
+<text>
+WASHINGTON, DC – The US Department of State issued a travel warning Friday advising US citizens to avoid nonessential travel to Nepal. The government is also warning US travelers in the country to avoid nonessential travel within the country.
+
+The magnitude 7.8 earthquake last week has claimed 6,134 lives, and caused widespread destruction. The death toll is expected to rise as bodies are recovered from collapsed structures.
+
+“The possibility for aftershocks of significant magnitude persists,” the warning states. “Infrastructure is fragile and access to basic resources, including healthcare, could be limited. Cell phone and internet service are intermittent. In Kathmandu and elsewhere, some buildings are collapsed and some roads are impassable, making transportation difficult.”
+
+The international airport in Kathmandu has been overwhelmed by both the arrival of emergency crews and the number of travelers attempting to leave. Travelers have waited days for available flights out of the small airport, which has seen daily flights nearly double since the disaster.
+
+The recovery effort will be long and difficult, as Nepal’s infrastructure has been badly damaged by the initial earthquake and the many aftershocks.
+
+The State Department is maintaining a Nepal Earthquake crisis page to provide updates on the situation.
+</text>

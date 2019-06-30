@@ -1,0 +1,29 @@
+<url>
+http://www.nytimes.com/2015/05/07/world/asia/after-nepal-quake-searching-for-a-sister.html
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+After Nepal Quake, Searching for a Sister
+</headline>
+
+<text>
+Video
+
+Bishow Ram Shrestha was one of thousands of Nepalese struggling to find a friend or relative after the April 25 earthquake. His mission was to locate Sita, his 27-year-old sister, who was married and had a 2-year-old daughter.
+
+He knew she had been in Basantapur Durbar Square, a Kathmandu neighborhood popular with tourists, with dozens of ancient temples and shops. But that clue alone was not much help. Calling her cellphone drew no answer. She was missing.
+
+Photo
+
+Faced with the chaos of collapsed buildings and limited communications, Mr. Shrestha was left to search with little or no help, often just guessing where best to look. For almost a week, he and Sita’s husband, Niroj, visited more than a dozen hospitals around Kathmandu, searching lists, wards and makeshift morgues.
+
+The daily rhythm of search and disappointment continued until last Friday. That afternoon Mr. Shrestha received a call from the police confirming what he and his family had feared.
+
+Search and rescue teams had found a woman’s body in the rubble, bruised and bloated, lying next to a handbag. Inside was a cellphone, and the police were able to download the call history and identify a phone number that it had called the most. The number was her brother’s.
+
+Summoned to Tribhuvan University Teaching Hospital, he and his brother-in-law were led crying into a room and shown the body. It was hers. Sita Shrestha was gone, but no longer missing.
+</text>

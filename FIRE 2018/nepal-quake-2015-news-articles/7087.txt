@@ -1,0 +1,175 @@
+<url>
+http://www.huffingtonpost.com/2015/05/11/nepal-inflatable-hospital_n_7243422.html
+</url>
+
+<date>
+20150511
+</date>
+
+<headline>
+This Inflatable Hospital Is Helping Earthquake Victims In Rural Nepal
+</headline>
+
+<text>
+ADVERTISEMENT
+
+An inflatable hospital in rural Nepal is bringing much needed relief to earthquake victims.
+
+The 20-bed, 1,000-square-foot temporary structure has begun admitting patients, Doctors Without Borders told The Huffington Post, after the facility was erected last week.
+
+The humanitarian group -- which provides medical aid to those in regions affected by natural disasters, health emergencies and conflicts around the world -- set up the facility to replace a health center that had been destroyed by the earthquake, a doctor with the organization noted on the group's website. That center had provided medical attention to about 50,000 people in and around the town of Arughat in remote Nepal.
+
+"We’ll be treating all categories of patients," nurse anesthetist Hyppolite Kalala Kalala explained in the video above. "Children, adults, men and women, obstetrics cases, to maternity care."
+
+
+
+Via: TakePart.com
+
+
+
+
+
+Doctors Without Borders -- which developed the inflatable hospitals in 2005, according to Wired -- brought three such structures in total to Nepal. Their inflatable frames are supported by attached pumps, and it takes about 10 people to transport the tents when they're deflated and folded-up.
+
+Michel Olivier Lacharité, logistics director for Doctors Without Borders in Nepal, told Wired that inflatable facilities have previously been used by the organization to aid those in places like Pakistan, Indonesia, South Sudan, Nigeria and Haiti.
+
+Nepal is trying to recover after being rattled by the worst earthquake to hit the country in more than 80 years, CNN reported. It killed at least 7,759 people and destroyed more than 300,000 homes, Reuters noted on Thursday.
+
+There's been a "poor response" from international donors in terms of monetary gifts to alleviate the situation, according to Orla Fagan, a United Nations spokeswoman. Fagan pointed to "donor fatigue" as a possible reason for only $22.4 million in donations having been given toward efforts -- the U.N. and its partners requested $415 million.
+
+"There are so many other global emergencies [occurring] now," Rick Brennan, emergency director of the World Heath Organization told Reuters. "There is a lot of demand for the humanitarian dollar."
+
+The button below indicates how much has been raised on Crowdrise's "Nepal Earthquake Relief" page. Click to visit the site and donate.
+
+#custom_crowdrise_widget div.crDonateWidget {
+
+width: 298px !important;
+
+margin-left: 0 !important;
+
+margin-right: 0 !important;
+
+padding: 0 !important;
+
+height:78px;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget h4 { display: none; }
+
+#custom_crowdrise_widget .crDonateTriangle { display: none !important;}
+
+#custom_crowdrise_widget .crImageAndTitleOuter { display: none !important;}
+
+#custom_crowdrise_widget .CRShadowImage { display: none !important;}
+
+#custom_crowdrise_widget .crDonateWidgetOuter {
+
+border:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+margin-top: 0 !important;
+
+margin-right: 0 !important;
+
+margin-bottom: 0 !important;
+
+margin-left: 0 !important;
+
+background: url("https://www.crowdrise.com/media/cdncustom/huffpost_donate_widget.png") 0 0 no-repeat !important;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget {
+
+margin:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+background-color: inherit !important;
+
+padding: 0 10px !important;
+
+}
+
+#custom_crowdrise_widget .startFundraiser { display: none !important;}
+
+#custom_crowdrise_widget .gradientButton {
+
+width: inherit !important;
+
+margin-bottom: 0 !important;
+
+}
+
+#custom_crowdrise_widget .crDonated {
+
+margin: 0 !important;
+
+font: bold 14px/16px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+width: 185px;
+
+padding-top: 9px !important;
+
+}
+
+#custom_crowdrise_widget .crLogo img { display: none !important;}
+
+#custom_crowdrise_widget .crDonatedLabel { display: none !important; }
+
+#custom_crowdrise_widget .gradientButton {
+
+background: none !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)" !important;
+
+filter: alpha(opacity=0) !important;
+
+opacity: 0 !important;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 21px !important;
+
+margin-top:15px !important;
+
+}
+
+#custom_crowdrise_widget .donateNow {
+
+font: normal 9px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+filter: alpha(opacity=0);
+
+opacity: 0;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 36px !important;
+
+margin-top:0 !important;
+
+padding-top: 0 !important;
+
+}
+
+
+
+
+
+Like Us On Facebook
+
+Follow Us On Twitter
+</text>

@@ -1,0 +1,19 @@
+<url>
+http://us.india.com/news/india/major-earthquake-rattles-nepal-north-india-delhi-metro-services-shut-381258/
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Major earthquake rattles Nepal, North India; Delhi Metro services shut
+</headline>
+
+<text>
+No sooner than Nepal is recovering from the mega earthquake that rattled on April 26 than another tremor has affected the Himalayan nation and parts of North India. The latest quake’s epicentre is believed to be within a 100 km radius of Kathmandu and measuring 7.4 on Richter scale. The effects were felt in West Bengal, New Delhi and parts of Odisha and Bihar; causing panic among the masses.
+
+Metro services were halted in Delhi after strong tremors were felt in the capital city. Thousands of passengers across the Metro service felt the tremors. The India Meteorological Department official told IANS that the epicentre was in Nepal and the tremors were felt in north and east India, including Delhi, Guwahati, Lucknow and Jaipur.
+
+Hundreds of thousands of people across Nepal fled from their homes and offices after a strong earthquake shook buildings, reminding them of the horror of the April 25 temblor. “It felt worse than the April earthquake,” an eyewitness said.
+</text>

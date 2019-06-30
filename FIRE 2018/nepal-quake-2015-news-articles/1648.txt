@@ -1,0 +1,23 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/27/c_134187878.htm
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+4,000 Chinese stranded in quake-hit Nepal - Xinhua
+</headline>
+
+<text>
+BEIJING, April 27 (Xinhua) -- About 4,000 Chinese tourists remain in quake-hit Nepal as airlines race to evacuate them following Saturday's earthquake, according to the China National Tourism Administration.
+
+As of 4 p.m. on Sunday, Chinese airlines had evacuated more than 1,000 nationals from Nepal, where an 8.1-magnitude earthquake has killed at least 3,218 people, including four Chinese.
+
+Currently, Chinese carriers can bring about 1,200 people home every day.
+
+The Civil Aviation Administration of China asked airlines to prepare more flights to Nepal and prioritize the transport of passengers and humanitarian aid.
+
+The Chinese Ministry of Foreign Affairs advised people not to visit Nepal in the near future.
+</text>

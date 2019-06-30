@@ -1,0 +1,137 @@
+<url>
+http://www.preventionweb.net/english/professional/news/v.php?id=43889
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Why wasn't quake-prone Nepal better prepared?
+</headline>
+
+<text>
+Source(s): Integrated Regional Information Networks (IRIN)
+
+
+
+Nairobi - Addressing a major international conference on disaster risk reduction in Japan last month, Nepalese Foreign Minister Mahendra Bahadur Pandly warned that a major earthquake in the Kathmandu valley could lead to human losses “similar to those in Haiti in 2010.”
+
+While the fatality figures from Saturday’s earthquake will hopefully reach nowhere near the 100,000 to 160,000 who died in Haiti, earthquakes in Nepal are especially likely to cause high levels of destruction and human casualties. Here’s why:
+
+
+
+Geology and geography
+
+
+
+Nepal is particularly prone to earthquakes because it lies on the ridge between the Tibetan and Indian tectonic plates, which move closer to each other by two metres every century, creating pressure that can only be released by earthquakes. Those of a magnitude greater than eight occur about every 80 years.
+
+
+
+Rugged mountains in the north have made it very hard to build good transport and communication links and much of the country is inaccessible to cars and telecommunications, which are particularly important in times of disaster. Road density is one of the lowest in the region. According to the World Bank, more than a third of people who live in the hills are more than four hours away from a tarmacked road and the headquarters of 15 of the country’s 75 districts are not connected to a road at all.
+
+
+
+This lack of access is proving to be a major obstacle to the current humanitarian response in Nepal.
+
+
+
+Unplanned, poorly regulated urbanisation
+
+
+
+Some six million people live in areas affected by Saturday’s earthquake, one of the most seismically active regions in the world. This includes the densely populated capital, Kathmandu, which grows in size by some 6.5 percent a year.
+
+
+
+Recent decades have seen the Kathmandu valley transformed from farmland and open space into a densely built-up urban sprawl. Few of the new constructions, including schools, hospitals and other public buildings are earthquake resistant. Most buildings fail to comply with the 1994 National Building Code, which aimed to improve resistance to seismic events. According to some estimates, 6,000 concrete structures go up in Kathmandu every year.
+
+
+
+“Urbanisation without much thought to earthquake-resistant building methods leads to increased vulnerability,” the US humanitarian and disaster management agency’s 2012 country report on Nepal said.
+
+
+
+“The rapid growth along with limited disaster awareness and education and poor disaster response capacity leaves Nepal particularly vulnerable,” it said.
+
+
+
+In the wake of Saturday’s earthquake, 80 percent of houses in some parts of Gorkha district have been destroyed, although fewer buildings than expected were ruined in Kathmandu. Vast tent cities have sprung up in many open spaces across the capital – even people whose homes remain standing prefer to stay out of them for fear of further tremors.
+
+
+
+Nepal’s construction boom has been partly fuelled by money sent home by Nepalese migrants working abroad. Such remittances amount to more than $5billion per year. In a recent survey, almost 60 percent of households who receive remittances said they planned to build a new home in the next two to five years – about twice the proportion of those who did not receive remittances.
+
+
+
+Last year, a government-led framework, “The National Plan of Action on Safer Buildings,” was adopted to address these risks. The challenge now, according to Gail Marzetti, head of Britain’s Department for International Development (DfID) in Nepal, “will be to translate this framework into a set of time-bound and measurable actions. Only then can we transform building codes from something on paper to tangible results along the streets of all urbanising areas in Nepal.”
+
+
+
+Outdated disaster preparedness
+
+
+
+Disaster response in Nepal is still guided by the 1982 Natural Calamities Relief Act. More up-to-date legislation on how response should be coordinated was drafted in 2008, but because of Nepal’s political instability in the wake of a 1996 to 2006 conflict with Maoist rebels, parliament has not yet debated the bill, let alone passed it into law. The delay arose in part from resistance to the planned introduction of a National Disaster Management Authority, in line with international practice.
+
+
+
+“Home Ministry honchos, it appears, fear that transferring disaster management duties to an autonomous body would undercut their powers and possibly erode their 'extra income'; with the country receiving an average of US $1 billion in aid, there is indeed no shortage of funds flowing into emergency preparedness,” according to an editorial published on 22 April on the myrepublica website.
+
+
+
+Another effect of the political infighting in the capital is that there have been no local elections for almost two decades. This means that the grass roots committees responsible for disaster drills are transferred or appointed from outside every two years and so lack institutional memory and have less sense of obligation to the local population than if they had been elected.
+
+
+
+“Nepal’s politicians have been too busy battling each other, most recently over constitutional reform, to treat disaster preparedness as a priority,” Nepal Times editor Kunda Dixit wrote in the New York Times.
+
+
+
+“The committees that run local councils aren’t organised to coordinate emergency assistance,” he added.
+
+
+
+Weak public health capacity
+
+
+
+The decade-long civil war greatly weakened Nepal’s public health systems. “Emergency preparedness and response is not adequately addressed in government health policies and planning,” according to the 2012 US report on Nepal, which cited the World Health Organization (WHO).
+
+
+
+In early 2014, the WHO’s Damodar Adhiraki told IRIN that the Nepalese government had offered “no favourable responses needed to implement” the recommendations of a 2001 report on the vulnerability of health services.
+
+
+
+At the time, IRIN reported that of the country’s 130 hospitals, 71 are in the capital (51 private and 20 public), and experts say almost all need strengthening. Less than half of all facilities have a surgical capacity. Only a handful of the biggest hospitals have been retrofitted, or reinforced, to improve their ability to survive and continue providing services during a disaster.
+
+
+
+Response architecture
+
+
+
+Still, there have been several developments in Nepal with regard to disaster risk management in recent years. These include the creation in 2009 of the Nepal Risk Reduction Consortium, which brings together humanitarian and development agencies with financial institutions and the government of Nepal. A key objective of the consortium is to improve disaster preparedness and response, through measures such as prepositioning emergency stocks in earthquake-proof warehouses and ensuring all of Nepal’s 75 districts have action plans in place.
+
+
+
+Also in 2009, the government adopted a National Strategy for Disaster Risk Management, which outlines the roles of different ministries during an emergency.
+
+
+
+A National Emergency Operations Centre, set up in 2010, is responsible for drawing up search-and-rescue plans and coordinating humanitarian response and the restoration of infrastructure. It is now operational.
+
+
+
+Two years ago, more than 80 sites in high-risk areas were identified to be used for relocating victims, setting up temporary hospitals and storing logistics. Also in 2013, the government set up the National Disaster Response Framework. This outlined the responsibilities of different agencies and established targets for key actions triggered by disasters, such as time to reach affected sites and calling emergency meetings.
+
+
+
+Other recent developments include: the creation in 2011 by the paramilitary Armed Police Force of a disaster-training centre; the setting up of a police disaster division in 2013; and the launch last year of the army’s disaster directorate.
+
+
+
+For more on Nepal’s disaster risk reduction architecture visit the article at IRIN through the link below.
+</text>

@@ -1,0 +1,21 @@
+<url>
+http://www.foxnews.com/world/2015/05/15/un-general-assembly-calls-for-urgent-aid-for-nepal-quake-survivors-and-for/
+</url>
+
+<date>
+20150515
+</date>
+
+<headline>
+UN General Assembly calls for urgent aid for Nepal quake survivors and for rebuilding country
+</headline>
+
+<text>
+The U.N. General Assembly is calling for urgent assistance to help Nepal earthquake survivors and to rebuild the impoverished Himalayan nation so it can better survive future disasters.
+
+A resolution approved by the 193-member world body by consensus Friday urges the international community to support the U.N. appeal for $415 million for essential needs over the next three months.
+
+It stresses "the massive destruction" caused by the magnitude-7.8 quake that hit April 25, killing more than 8,200 people. That was followed by another magnitude-7.3 quake on Tuesday that killed 117 people and injured 2,800.
+
+Secretary-General Ban Ki-moon told the assembly that it is urgent to get aid, including shelter, clean water and sanitation supplies, to all those in need before the monsoon season starts in June.
+</text>

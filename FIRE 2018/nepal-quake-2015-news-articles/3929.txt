@@ -1,0 +1,35 @@
+<url>
+http://defensesystems.com/articles/2015/04/29/nga-nepal-earhtquake-mapping.aspx
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+NGA website supports Nepal relief efforts -- Defense Systems
+</headline>
+
+<text>
+Geospatial
+
+NGA website supports Nepal relief efforts
+
+A portion of NGA’s damage assessment map.
+
+The National Geospatial-Intelligence Agency has pitched in on relief efforts for earthquake-wracked Nepal by launching a public website containing maps, images and overlaid data to help rescuers and relief planners.
+
+The site contains maps with regularly updated damage assessments, search and rescue atlases of Kathmandu and six other areas in the country, and other data services, such as LandScan Global, a tool for risk assessment and emergency planning and management.
+
+The 7.8-magnitude earthquake that hit Nepal April 25 near the country’s capital of Kathmandu has resulted, as of this writing, in more than 5,000 deaths, thousands more injured and significant property destruction. Projections are that the death toll, including affected areas of India and Tibet, could eventually exceed 10,000.
+
+NGA launched its website the day after the earthquake, sharing the platform it used for its Ebola support site, launched in October 2014. Both use Esri’s ArcGIS hosted by Amazon Web Services. NGA has updated some of its maps since the launch, and said other services and data layers will be added as they become available.
+
+NGA also is providing direct support to disaster relief and humanitarian organizations through the All Partners Access Network, through which DOD shares unclassified information with non-military organizations around the world.
+
+Other Defense Department agencies also are contributing to the relief effort. The Air Force has sent two C-17 transport planes with aid personnel to Nepal. The first carried 70 people, including a USAID Disaster Assistance Response Team, the Fairfax County Urban Search and Rescue team, and 45 square tons of cargo, the Air Force said. The second aircraft delivered 50 personnel, including a Los Angeles urban search and rescue team, working dogs and more relief supplies.
+
+A DOD official said the department hasn’t so far been asked for more support, although the U.S. Pacific Command has told component commanders to be ready to respond if needed.
+
+One thing DOD might be able to help with is in using unmanned aerial vehicles to take detailed video footage of the damage and provide other services. Drones are being used to take imagery of the damage that can be processed into 3D point clouds, something that requires a coordinated effort. Also, Nepal has a shortage of manned helicopters, so the use of UAVs for imaging or supply deliveries would allow the country to focus its helicopters on rescue missions.
+</text>

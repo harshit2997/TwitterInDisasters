@@ -1,0 +1,33 @@
+<url>
+http://www.dailystar.com.lb/News/World/2015/May-14/297930-nepals-prime-minister-we-were-not-prepared-for-2nd-quake.ashx
+</url>
+
+<date>
+20150514
+</date>
+
+<headline>
+Nepal's prime minister: 'We were not prepared' for 2nd quake
+</headline>
+
+<text>
+Nepal has been overwhelmed by its second massive earthquake in less than three weeks, its prime minister said Thursday as he visited this normally placid foothills town, now a center for frightened villagers desperate for government help.
+
+
+
+Thousands of people now crowd the streets of Charikot, the administrative center of the isolated district hit hardest by Tuesday's magnitude-7.3
+
+
+
+A search continued Thursday for a U.S. Marine helicopter carrying six Marines and two Nepalese soldiers.
+
+
+
+Officials in Kathmandu said the search was focused on the Sunkhani area, nearly 80 kilometers (50 miles) northeast of the capital.
+
+
+
+The Tuesday quake, while strong, was significantly less powerful than the first one, and the most severe shaking occurred over a much smaller area. It was centered between Kathmandu and Mount Everest, and was southeast of last month's earthquake.
+
+...
+</text>

@@ -1,0 +1,21 @@
+<url>
+http://news.xinhuanet.com/english/2015-05/07/c_134218896.htm
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+Ukraine evacuates citizens from quake-hit Nepal - Xinhua
+</headline>
+
+<text>
+KIEV, May 7 (Xinhua) -- An aircraft IL-76 of the Ukrainian Armed Forces, carrying 87 people evacuated from quake-hit Nepal, arrived at the Boryspil International Airport early Thursday, authorities said.
+
+Among the passengers were 76 Ukrainians and 11 citizens from Russia, Poland, Georgia and France, the State Service for Emergencies said in a statement.
+
+According to the Ukrainian Foreign Ministry, a total of 196 Ukrainian citizens were in Nepal when a 7.9-magnitude earthquake hit Nepal on April 25, and 40 of them are still unaccounted for.
+
+The Ukrainian government has allocated around 350,000 U.S. dollars for the emergency evacuation of Ukrainian nationals from Nepal, where more than 7,600 people have been killed in the quake.
+</text>

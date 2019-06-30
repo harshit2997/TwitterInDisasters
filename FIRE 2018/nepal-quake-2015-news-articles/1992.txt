@@ -1,0 +1,39 @@
+<url>
+http://www.cnet.com/au/news/tech-companies-rally-behind-nepal-earthquake-survivors/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal quake survivors draw support from Apple, Google, Facebook and others
+</headline>
+
+<text>
+Facebook
+
+Apple, Google, Facebook and Twitter are pitching in to help survivors of the catastrophic Nepal earthquake that occurred over the weekend.
+
+Apple has launched a partnership with the American Red Cross, asking iTunes users to donate money through its iTunes Store for the relief efforts. Apple says that 100 percent of the donations will be made to the American Red Cross in its ongoing efforts to help survivors. Twitter is also helping to raise funds through not-for-profit organizations, including UNICEF.
+
+Google has launched its Person Finder to help people determine whether those who may have been in the area of the earthquake are safe. Person Finder users can say whether they're "looking for someone" or "have information about someone." The service is designed for victims or people who know victims to update their family and friends on their current status. For instance, the service can provide peace-of-mind to family members, telling them that a victim is safe and sound. Google has also reduced its international calls charge to Nepal via its phone service Google Voice to one cent per minute. The company previously charged 19 cents per minute to call Nepal.
+
+Google engineer Dan Fredinburg, who worked in the company's Project X division, was among at least 17 climbers killed when an avalanche set off by the 7.8-magnitude earthquake rolled into the climbers' base camp on Mount Everest. His death was confirmed by Google, which indicated that three other Google employees were on the mountain with Fredinburg at the time of the avalanche. "He has passed away," Lawrence You, Google's director of privacy, wrote in a blog post. "The other three Googlers with him are safe, and we are working to get them home quickly."
+
+Soon after the Nepal earthquake hit, Facebook CEO Mark Zuckerberg activated his company's Safety Check feature, allowing those who may have been in the area to let friends and family know they're fine. "When disasters happen, people need to know their loved ones are safe," Zuckerberg wrote on Saturday. "It's moments like this that being able to connect really matters. My thoughts are with everyone who's been caught up in this tragedy."
+
+Telecommunications companies are also helping out. Time Warner, Verizon and AT&T have all offered their customers free calls to Nepal. Time Warner is additionally offering free calls to India and China through May 25; and Verizon and AT&T are offering free texting.
+
+The technology companies' efforts could prove integral to helping people in Nepal in the wake of Saturday's 7.8-magnitude earthquake. The earthquake, the biggest to hit Nepal in 81 years, has so far left more than 3,700 people dead and is feared to have killed many more.
+
+The catastrophe has mobilized humanitarian aid from around the world and several prominent organizations, including the American Red Cross, are on the scene to help those in need. The exact extent of the damage and ultimate impact on the Himalayan nation is still being evaluated, but the earthquake was strong enough to severely damage Katmandu and caused an avalanche on Mount Everest.
+
+Nepal is seeking help in every way. Spokespeople for the country's government have said to reporters on the scene that the country lacks "the proper facilities" to properly address such a major natural disaster.
+
+The technology industry's response is similar to how it responded following Japan's own disaster in 2011 following a major earthquake and tsunami. Nearly all of the major companies in the industry provided relief efforts to help victims.
+
+Despite their best efforts, technology companies can only do so much to connect with people in Nepal. The country is one of the poorest in the world and just a third of its population of 30 million people is actually online. According to reports, the earthquake has taken down critical infrastructure, including Internet access, which could make efforts for victims to communicate even more difficult.
+
+Updated at 2:45 p.m. PT with information about Time Warner, Verizon and AT&T giving assistance with free calls.
+</text>

@@ -1,0 +1,27 @@
+<url>
+http://www.fastcompany.com/3045536/after-the-quake-nepal-needs-a-technology-upgrade-more-than-ever
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+After The Quake, Nepal Needs A Technology Upgrade More
+</headline>
+
+<text>
+After last Saturday’s devastating earthquake, locals and tourists here in Kathmandu–Nepal’s capital and largest city–hunger for news and the ability to communicate with friends and family. That means that the hunt for Internet access is almost as intense as the search for clean water and food. But it’s an often frustrating one–and connectivity issues threaten to stand in the way of Nepal’s recovery.
+
+advertisement
+
+I’m a former technology journalist who’s been traveling in India and Nepal for the past two months. It’s the tail end of an 18-month world tour, one of the best investments I’ve ever made. When I got to Nepal, I did what people do here. In Kathmandu, I toured the sites in Pashupatinath, and Durbar Square. I then traveled to Pokhara to hike a section of Annapurna. I was still in Pokhara when the earthquake hit, but my journalist’s instinct told me to return to Kathmandu. It was a six-hour bus ride on a two-lane highway, and the road was cluttered with boulders and debris. On Sunday, I began tracking down every lead about which coffee shops or hotels might have Wi-Fi. Most of the info was bogus. When I was able to get online, access was often fleeting or erratic: I gave up on using Gmail to upload the photographs at the top of this article, and sent them via Facebook. A Bad Situation Made Worse Even before the earthquake, it was painfully obvious that when it came to technology, Nepal is one of the have-not countries. Agriculture follows the tourism industry in terms of the nation’s overall revenue, and one of the main assets on many farms remains the water buffalo. During the two weeks I spent in Kathmandu earlier this month, hours-long power outages were daily occurrences. Internet connections around the city were spotty at best.
+
+One Way You Can Help Nepal Right Now: All You Need is a Computer and a Little Time Since the earthquake, scores of people are trying to flee the city, but systems that went online long ago in the United States, such as the sale of bus and train tickets, or obtaining government information via the web, have yet to arrive here in any significant way. Yesterday, I overheard a phone conversation in which one of the backpackers in my hotel said “You probably know more about what’s going on in Nepal than I do. We aren’t getting information.” With people still buried in the rubble and the number of dead expected to rise from the current 4,200, few people have turned their thoughts to Nepal’s technology, tourism, and business prospects. But the questions about how people will earn a living and how Nepal will recover economically from this disaster are very much on their minds.
+
+advertisement
+
+“I have no idea how we will rebuild [the country],” said Sijan Shrestha, 30, who owns a Kathmandu-based guest house and travel agency. “Nepal is very poor, and we don’t have the resources to handle an earthquake like this. We haven’t received any news or help from the government still. We’re not in good shape.” Efforts to locate loved ones could be thwarted by the lack of reliable Internet. By all accounts, Kathmandu’s government as well as its business community appears to be overwhelmed. Three days after the quake, the city is still largely without power. That means cooking food, heating water, and storing perishables is difficult (I’ve consumed a lot of omelettes and chai cooked on the street over coals). Most shops, restaurants, and other businesses remain shuttered due to fears about powerful aftershocks, and that means people aren’t working or getting paid. Vital products, such as bottled water, are becoming increasingly difficult to acquire. At night, on blacked-out streets, it’s a struggle for tourists to find food. I’ve watched people fill up plastic containers from water trucks normally used at construction sites. Rumors are that gasoline is running low and some stations have closed. At those that remain open, large lines of motorcycles and cars have begun forming. Some taxi and minibus drivers have jacked up rates and are being accused of gouging. The earthquake dealt Nepal’s tourism sector a severe blow when it destroyed large swaths of Kathmandu’s most popular tourist sites, including Durbar Square and Bhaktapur. The country, which is home to eight of the 10 tallest mountains, will likely remain a popular trekking and climbing destination, but it’s anybody’s guess how the losses will affect tourism to Kathmandu.
+
+advertisement
+</text>

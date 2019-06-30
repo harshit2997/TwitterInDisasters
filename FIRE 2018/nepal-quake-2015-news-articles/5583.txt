@@ -1,0 +1,35 @@
+<url>
+http://mashable.com/2015/05/07/uk-woman-vs-vodafone-nepal/
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+Vodafone apologizes for shutting down Nepal earthquake survivor's phone
+</headline>
+
+<text>
+A United Kingdom woman who was caught in the aftermath of the Nepal earthquake said she was hit with an expensive phone bill and a temporary block on service for calls she made in the wake of the disaster.
+
+Sarah Khadka-Lowe told The Guardian that Vodafone charged her £157, or about $239, for roaming charges she incurred while notifying relatives that she was safe and arranging emergency travel plans.
+
+Khadka-Lowe, who was staying with in-laws near Kathmandu when the quake struck, said the UK-based service provider informed her in a text message that it was aware she was in Nepal and promised coverage for the next 28 days. But the next day, the phone company cut her off from making calls and sending text messages because of soaring charges, she said.
+
+“This was not only ridiculous and not at all helpful, but also insensitive and inappropriate,” she told The Guardian. "We didn’t stop to think about the cost, we just did what we had to do while in survival and crisis mode."
+
+Following the lead of several other phone companies, Vodafone's Australia and New Zealand branches announced that calls would be free for their customers stuck in Nepal. When Khadka-Lowe contacted the company after a safe return home, she was told that the offer did not extend to customers in the UK.
+
+Instead, she was offered a £5 discount and a "payment plan" to help her pay off the bill.
+
+Vodafone spokesperson Patrick Toyne-Sewell told the newspaper that the free-calls policy was supposed to apply to the UK as well. In a statement to Mashable, he said the company is now crediting any phone charges that its customers in Nepal may have incurred since the earthquake. It did not say how many were affected.
+
+“We have already put in place measures to prevent any restrictions, within our control, for customers roaming in Nepal and waive any charges incurred by them since the earthquake," a spokesperson said.
+
+After being contacted by The Guardian, the company said it was apologizing to Khadka-Lowe and adjusting her bill to waive the fees.
+
+Last week, Vodafone deployed a portable phone network stuffed into a backpack to provide coverage to the areas where communications infrastructure was damaged by the quake.
+
+"Vodafone has information on their website about supporting Nepal, which is fantastic and I am so pleased they are doing this, but they are treating their customers who were actually in the earthquake appallingly," Khadka-Lowe told The Guardian.
+</text>

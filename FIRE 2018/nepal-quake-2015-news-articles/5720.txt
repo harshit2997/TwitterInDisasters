@@ -1,0 +1,23 @@
+<url>
+http://www.deccanchronicle.com/150501/nation-current-affairs/article/50-districts-uttar-pradesh-are-prone-earthquake
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+50 districts in Uttar Pradesh are prone to earthquake
+</headline>
+
+<text>
+Lucknow: In an alarming disclosure, more than 50 districts in Uttar Pradesh, out of the total 75, have been found to be quake-prone. Well-known seismic expert and former director of Geological Survey of India (GSI) V. K. Joshi told reporters that growing urbanisation in Uttar Pradesh could result in massive damage to life and property in future.
+
+Dr Joshi said that, this time, the impact of tremors from Nepal was not so aggressive in UP. However, the intensity of the tremors have led experts to rethink on how safe the state is from quakes. He said that it was the alluvium cover in the Indo-Gangetic Plain, which acted as a cushion and prevented large-scale damage in the state. In geological terms, the state falls in the ‘safe’ zone as the alluvium cover acts a ‘shock absorber’.
+
+He said that the National Institute of Disaster Management, under the Ministry of Home Affairs, has identified 29 districts under Zone-IV, considered to be the high seismic zone. The NIDM has divided the state into three zones, with areas bordering Nepal and Uttarkashi in Uttarakhand figuring in Zone-IV.
+
+According to Dr Joshi, the districts falling in Zone-IV are Meerut, Gonda, Baghpat, Saharanpur, Bijnore, Ghaziabad, Gautam Buddha Nagar, Amroha, Rampur, Moradabad, Bulandshahr, Shravasti, Balrampur, Siddhartha Nagar, Maharajganj, Kushinagar, and parts of Pilibhit, Muzaffarnagar, Shahjahanpur, Lakhimpur, Bahraich, Mathura, Aligarh, Badaun, Bareilly, Basti, Sant Kabir Nagar, Deoria and Ballia.
+
+Official sources said that over 26,000 buildings in the state had been identified as ‘weak and dangerous’ but no efforts were made to pull them down due to various pressures. These buildings were duly certified as unsafe and a course correction — either structural strengthening or razing them — was suggested. Meanwhile, the Akhilesh government in the state has evacuated nearly 7,000 people from the quake-hit Nepal through rescue and relief operations carried out by the Uttar Pradesh government.
+</text>

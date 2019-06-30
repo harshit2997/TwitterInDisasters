@@ -1,0 +1,21 @@
+<url>
+http://www.business-standard.com/article/news-ians/nepal-quake-toll-rises-to-4-680-over-9-000-injured-115042801202_1.html
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Nepal quake toll rises to 4,680; over 9,000 injured
+</headline>
+
+<text>
+The toll in the devastating earthquake in Nepal rose to 4,680 on Tuesday evening, while 9,000 were injured across the nation, police said.
+
+As many as 1,448 were killed in Kathmandu, Lalitpur and Bhaktapur, while 1,250 were killed in Sindhupalchowk district.
+
+They were followed by Gorkha and Nuwakot with 374 and 560 dead, respectively.
+
+Officials said search and rescue operations were on, and the number of casualties was likely to rise further.
+</text>

@@ -1,0 +1,39 @@
+<url>
+http://www.middaydaily.com/nasa-device-tracks-heartbeats-of-nepal-men-trapped-under-rubble/2866/
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+NASA Device Tracks Heartbeats Of Nepal Men Trapped Under Rubble • Mid Day Daily
+</headline>
+
+<text>
+A spacial device designed by NASA helped rescue teams from Nepal detect the heart beat of four men trapped under collapsed buildings.
+
+Two year ago, NASA together with DHS released a portable radar device which was designed according to the technology that is used to track down alien life on far away exoplanets.
+
+But researchers thought about using this device here on Earth, respectively to detect people buried under rubble. The radar was used for the first time, after the devastating earthquake from Nepal and helped rescuers to track down and save the life of four people.
+
+After the earthquake hit Nepal, rescue teams from the village of Chautara,one of the places where the earthquake hit the hardest, received two prototypes of the machine which was named FINDER wehich stands for Finding Individuals for Disaster and Emergency Response.
+
+At the base of the device stands a technology and a system that releases microwaves around that helps it see where the subjects are. Basically what it does, is being able to detect heartbeats and the breathing of people who got caught under several meters deep in rubble.
+
+In this situation, FINDER managed to locate and detect heartbeats coming from two men who were both located in different buildings that had collapsed. The men, had been trapped between the fallen walls for several days and were 3 meters deep in rubble.
+
+FINDER resembles physically to a brief case and its first step is to check for life signals such as breath or heartbeats, after which it determines the location of the person, if that person is within the operating area of the device, meaning a distance of five feet.
+
+The real test of how a device works is given through a real life situation. Disasters are something we all wish could be avoided, but designs like this are aimed to help us when we find ourselves living the worst nightmare, explained doctor Reginald Brothers the DHS Undersecretary of Science.He added that being able to help saving the lives of the four men is something to be proud of.
+
+Apart from the information that NASA released about the rescuing from Nepal, there is not more further data regarding the rescue process.
+
+It is expected for the producers of the device to confirm it will be released for commercial use and if it can be bought by rescue officials from all over the world.
+
+The good news is that FINDER is actually efficient and works in real life situations.
+
+The technology developed by NASA has many uses, starting from exploring the outer space, keeping astronauts safe and even managing to save human lives on Earth.FINDER is just an exemplification of how technology that was created to explore the outer space can have a serious impact to saving lives on Earth, explained David Miller the chief technologist of NASA.
+
+Image Source: CITYLAB
+</text>

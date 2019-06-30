@@ -1,0 +1,19 @@
+<url>
+http://english.cntv.cn/2015/04/25/ARTI1429961857686568.shtml
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+500 killed in quake in Nepal: diplomat in India
+</headline>
+
+<text>
+NEW DELHI, April 25 (Xinhua) -- As many as 500 people were known to have been killed so far in the strong earthquake that rocked Nepal on Saturday, said a Nepalese diplomat here.
+
+Deputy Chief of Mission of Nepal High Commission in New Delhi, Krishna Prasad Dhakal, told local media that according to reports reaching here, at least 500 people have been killed across the country.
+
+India has promised to provide emergency aid to Nepal and has sent two military planes to the disaster struck country hours after the quake took place.
+</text>

@@ -1,0 +1,23 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/27/c_134189489.htm
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Poland sends humanitarian aid to Nepal - Xinhua
+</headline>
+
+<text>
+WARSAW, April 27 (Xinhua) -- Two rescue teams from Poland, including firefighters and medics, were sent to Nepal in response to a devastating earthquake which has resulted in around 3,700 fatalities so far.
+
+A group of 81 firefighters who left Poland on Sunday have already reached their destination. According to the Polish Press Agency, they brought specialized equipment, such as endoscope cameras, geophones, hydraulic machinery, and a team of rescue dogs.
+
+Another group of six emergency medics have been sent by the Polish Center for International Aid.
+
+Polish Humanitarian Action, UNICEF Poland, Caritas, and other charity organizations announced fundraising to aid people who suffered from the earthquake.
+
+Saturday's quake is the worst to hit Nepal since 1934, reaching 7.8 on the Richter scale. Apart from the Polish rescue team, rescuers from China, the United States, and United Arab Emirates are already on the ground in Nepal.
+</text>

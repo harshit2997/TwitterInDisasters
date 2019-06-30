@@ -1,0 +1,19 @@
+<url>
+http://www.tweaktown.com/news/44825/relief-teams-drones-search-rescue-missions-nepal/
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Relief teams using drones for search and rescue missions in Nepal
+</headline>
+
+<text>
+The death toll continues to rise after a brutal 7.8-magnitude earthquake in Nepal last week, with international search and rescue efforts currently underway. Relief organizations are deploying small drones that can photograph quake damage and hunt for possible survivors.
+
+Some groups are equipping drones with thermal cameras so they can detect body heat of survivors buried under debris. In addition, the Aeryon drone has a high-powered digital zoom camera that can accurately pick up facial details of a person from 1,000 feet away.
+
+"You can send them into areas that are inaccessible," said Rajul Singh, executive director of GlobalMedic, in a statement published by Discovery. "If I can't get past the road I can put the UAV up there to see if anyone is there that needs my help. There are not enough helicopters in Nepal right now, and they shouldn't be taking pictures, they should be flying aid."
+</text>

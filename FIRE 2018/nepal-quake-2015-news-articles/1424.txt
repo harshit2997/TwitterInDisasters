@@ -1,0 +1,39 @@
+<url>
+http://www.huffingtonpost.com/2015/04/27/nepal-earthquake-science_n_7149692.html
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal Earthquake Happened Right On Schedule, Scientists Say
+</headline>
+
+<text>
+ADVERTISEMENT
+
+A devastating 7.8-magnitude earthquake in Nepal on Saturday was part of a pattern of major temblors that have become so predictable that many seismologists had been expecting this one -- and at least one team of researchers warned just weeks ago that a major quake was due in the exact location where this one struck.
+
+Nepal sits right where the Indo-Australian Plate is pushing itself beneath the Eurasian Plate, a collision that gave rise to the Himalayan Mountains. As the plates push, pressure builds, eventually resulting in a quake to relieve that pressure.
+
+And according to Nature, the Indo-Australian Plate is still pushing itself under the Eurasian Plate at a rate of nearly 2 inches per year.
+
+“Geologically speaking, that’s very fast," Lung S. Chan, a geophysicist at the University of Hong Kong, told the Wall Street Journal. “Earthquakes dissipate energy, like lifting the lid off a pot of boiling water... But it builds back up after you put the lid back on.”
+
+That immense and constant pressure has led to an unusually regular pattern of major quakes, making it "one of the most seismically hazardous regions on Earth," according to the U.S. Geological Survey.
+
+Major earthquakes in the region are so regular that they occur roughly every 75-80 years. With the last one hitting just east of Kathmandu 81 years ago in 1934, most seismologists believed the area was due for another.
+
+“We knew it was going to happen. We saw it in ’34,” USGS geologist Susan Hough told the Washington Post. “The earthquakes we expect to happen do happen.”
+
+One team of researchers not only expected this earthquake to happen, but even pinpointed the location.
+
+Laurent Bollinger of the CEA research agency in France told the BBC that his team had been digging trenches along the fault. Using carbon dating on charcoal samples found in the trenches, they discovered one segment that hadn't moved in nearly 700 years.
+
+The last time it did was in 1344, and it came 89 years after a segment of the fault east of Kathmandu moved -- the same segment of the fault that moved 81 years ago in 1934.
+
+As it's common for strain to transfer from one part of a fault to another, Bollinger's team warned at a Nepal Geological Society meeting in early April that the same pattern could occur again. And now that it has, Bollinger is warning that Saturday's quake may not have been enough to relieve all the pressure.
+
+"Early calculations suggest that Saturday's magnitude-7.8 earthquake is probably not big enough to rupture all the way to the surface, so there is still likely to be more strain stored, and we should probably expect another big earthquake to the west and south of this one in the coming decades," Bollinger told the BBC.
+</text>

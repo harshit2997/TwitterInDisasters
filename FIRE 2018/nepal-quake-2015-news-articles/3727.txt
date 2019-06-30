@@ -1,0 +1,57 @@
+<url>
+http://iowapublicradio.org/post/earthquake-nepal-sheds-light-its-volatile-political-history
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Earthquake In Nepal Sheds Light On Its Volatile Political History
+</headline>
+
+<text>
+Copyright 2017 NPR. To see more, visit http://www.npr.org/.
+
+ROBERT SIEGEL, HOST:
+
+Until Saturday's earthquake and the devastation that followed, Nepal was mostly known for its dramatic landscape and as the stepping stone for hikers on their way to scale Mount Everest. In fact, the landlocked Himalayan country has a volatile political history, including a long civil war that ended only recently. Jonah Blank is senior political scientist at the RAND Corporation and he joins us now to talk about Nepal beyond the events of the last few days.
+
+Welcome to the program.
+
+JONAH BLANK: Thanks for having me, Robert.
+
+SIEGEL: We've heard frequent allusions in reporting on the earthquake to that history of political instability I just mentioned. Who was fighting whom in Nepal and who won?
+
+BLANK: The rebels were a Maoist group called Maobadis and they were fighting for 10 years against a constitutional monarchy that was not very representative. It was sort of a draw, but the Maoists came into the political process, won the first election after the war ended and the monarchy was abolished.
+
+SIEGEL: Nepal has nearly 30 million people. It's about the size of Arkansas and it's very poor. It ranks just below Haiti in gross domestic product per capita. What's Nepal's economy based on? What do people do there?
+
+BLANK: It's based on three things, Robert. First is agriculture. About 30 percent or so - actually 40 percent is more likely - of the GDP comes from agriculture. And 70 percent of the population is involved in agricultural pursuits. The next is remittances. About 30 percent of GDP comes from Nepalis working overseas - typically in the Gulf, some of them in India - and sending their pay back home. The third element is tourism. About 4 percent of GDP, but most of the country is foreign exchange.
+
+SIEGEL: And that would be severely jeopardized, obviously, by the earthquake.
+
+BLANK: Yes, as with the remittances because many of these young men working abroad are going to have to come back home to rebuild their houses.
+
+SIEGEL: Obviously, an important concern to everyone after an earthquake is the condition of housing and other structures. How well-built is Nepal? How advanced is construction in Nepal?
+
+BLANK: Not advanced at all, and that's been responsible for a lot of the fatalities. Much of Nepal's tourist industry is based around beautiful, exquisite architecture, much of it dating back hundreds of years. But these buildings were not meant to withstand earthquakes. Other more modern buildings have been built with adulterated cement, without rebar, in a very cheap way rather than in a resilient way. And that's been responsible for a lot of the misery.
+
+SIEGEL: As we just heard from Kirk Siegler, Nepal needs money. In fact, the amount that it needs could equal somewhere between two to four years of the country's entire budget. Where can Nepal get that kind of money?
+
+BLANK: It's really got to come from external sources, the world community, if it comes from anywhere at all. Nepal has abundant hydroelectric power, which is an underused resource, but that will involve capital to get it flowing. So either the world is going to contribute or Nepal will not get back on its feet.
+
+SIEGEL: And what kind of effect do you think that the earthquake and the task of rebuilding could have on the government and on whatever degree of political stability exists these days?
+
+BLANK: Well, the government is already fairly unstable. However, there isn't much of an alternative. The Maoists and the mainstream parties don't really disagree on all that much and there's no alternative to either of them. So even if people are discontented, they don't really have much of an option.
+
+SIEGEL: But from what you hear from Nepalis, is there a sense that the government is capable of coping with this or that obviously this is beyond the capabilities of the government there?
+
+BLANK: Quite obviously far beyond the capabilities of the government. Prime Minister Koirala has even said as much. He's been very forthright that every contribution from the outside world is needed and welcome because Nepal can't do it on its own.
+
+SIEGEL: Jonah Blank thanks for talking with us.
+
+BLANK: Thank you, Robert.
+
+SIEGEL: Jonah Blank, senior political scientist at the Rand Corporation, talking with us about Nepal. Transcript provided by NPR, Copyright NPR.
+</text>

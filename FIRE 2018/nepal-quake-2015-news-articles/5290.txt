@@ -1,0 +1,21 @@
+<url>
+http://www.eham.net/articles/34556
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+Ham Radio Continues to Provide Reliable Post-Quake Communication In Nepal:
+</headline>
+
+<text>
+Ham Radio Continues to Provide Reliable Post-Quake Communication In Nepal: May 7, 2015
+
+Website:
+
+Add a comment about this article! from The ARRL Letter onWebsite: http://www.arrl.org/
+
+Amateur Radio Continues to Provide Reliable Post-Quake Communication In Nepal: Amateur Radio has continued to provide reliable communication in the aftermath of the devastating April 25 7.8 magnitude earthquake that struck an area in and around the capital of Kathmandu. The disaster has so far claimed more than 7300 lives, and aftershocks, on the order of magnitude 4, continued this week. Amateur Radio's role, now winding down, has been to provide communication for responders working in more remote regions as well as to help in locating missing people. It also has served to convey information about casualties. Jayu Bhide, VU2JAU, the Amateur Radio Society of India (ARSI) National Coordinator for Disaster Communication, said this week that rescue teams moved into highly devastated areas such as Pokhara and Sindupalchowk, where their work was hampered by rain and blocked roads. "Teams are unable to reach the remotest villages," he said on May 5. "The roads are cut off, and no communication is possible." The rain has since let up. While Nepal's cell telephone infrastructure has been functional, the batteries in most mobile telephones have discharged. On his own initiative, Bhide was able to secure funds from the Lions Club in Gwalior, where he lives, to buy 500 mobile chargers. "These will be shipped to Nepal soon," he said. No Nepali stations were on the air for all of May 4, Bhide reported. "Everyone was waiting to get some updates, but no one was there," he said. Satish Kharel, 9N1AA, who has been prominent among the hams in Nepal involved with the earthquake response, and Bhide now are maintaining contact every 2 hours. Nepal has only about 2 dozen Amateur Radio licensees, according to Nepali authorities last week arranged for hams from other countries to obtain 9N3-prefix call signs to assist in the earthquake relief effort, and several hams from India are in Nepal. Source: The ARRL Letter There are no comments on this article: Post One
+</text>

@@ -1,0 +1,61 @@
+<url>
+http://www.startribune.com/u-researcher-helps-nepal-recovery-efforts/303981471/
+</url>
+
+<date>
+20150516
+</date>
+
+<headline>
+University of Minnesota researcher helps Nepal recovery efforts
+</headline>
+
+<text>
+When Ohio State University Prof. Ian Howat looks at satellite images, he’s usually studying Antarctica, building maps of ice-covered terrain and monitoring changes as the ice melts into the sea.
+
+But after a magnitude 7.8 earthquake rocked Nepal on April 25, killing more than 8,000 people, injuring at least 14,000 and damaging hundreds of thousands of buildings nationwide, Howat and one of his colleagues, a researcher at the University of Minnesota, realized that the technology they use could help relief efforts.
+
+Howat, a glaciologist with Ohio State’s Byrd Polar and Climate Research Center, had helped to create software that builds highly detailed maps from satellite images to show, in near-real time, how landscapes are changing.
+
+“We can look for change, differentiate the new data from the old data,” Howat said. “You can see things like collapses in buildings or collapses in slopes. So you can get a map of the damage.”
+
+That could help emergency responders figure out where to go, said Howat’s Minnesota colleague, Paul Morin, even as Nepal deals with fresh aftershocks, including a magnitude 7.3 aftershock on Tuesday that killed scores of people and injured more than 2,400.
+
+For years, Morin, who directs the University of Minnesota’s Polar Geospatial Center, has been collecting satellite images of arctic ice to study changes in polar landscapes.
+
+Paul Morin of the University of Minnesota
+
+“We can see those changes with this data days after we get the pictures,” Morin said. “It used to be years after, or it used to be people on the ground surveying [the landscape].”
+
+He and Howat thought that same technique could be used to show areas in Nepal that are at risk for flooding because of a dammed river or at risk for landslides because of changes to the Himalayas.
+
+“You can use [the images] to look at slopes that are particularly unstable and then go target those for assessment,” Howat said. “We think it could save lives if you could evacuate villages in the way.”
+
+Howat and Morin knew they could build maps of Nepal, but doing so would require high-powered computers. The amount of data they’d be working with would be too big for a standard desktop computer.
+
+So they turned to Ohio Supercomputer Center, which offered its flagship supercomputer, the Oakley Cluster, to crunch the data in a matter of days.
+
+Normally, Howat and Morin would have had to apply for a grant to use the supercomputer, but Brian Guilfoos, high-performance computing client-services manager at the supercomputer center, said the process was bypassed because of the emergency in Nepal. “It was time-sensitive,” Guilfoos said.
+
+The images the team is using come from private satellites that contract with the National Geospatial Intelligence Agency, an arm of the U.S. military that analyzes satellite images to build intelligence about terrains.
+
+The agency has created a website that includes maps and satellite images of Nepal to help in the relief efforts. Howat and Morin’s are among them. The maps are also available through the University of Minnesota’s Polar Geospatial Center.
+
+Morin said a United Nations relief group has used the maps to identify potentially troubled areas across Nepal.
+
+The Los Angeles Times contributed to this report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text>

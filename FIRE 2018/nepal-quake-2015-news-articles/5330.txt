@@ -1,0 +1,23 @@
+<url>
+http://www.express.co.uk/news/uk/575899/76-year-old-Nora-Explorer-survived-Nepal-earthquake
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+How 76-year-old Nora the Explorer survived the Nepal earthquake
+</headline>
+
+<text>
+Nora Arscott, 76, known to friends as Nora the Explorer, had been a regular visitor in Nepal for 10 years.
+
+She was caught up near the epicentre of the disaster as she drank tea in a hotel courtyard in Kathmandu and had to survive days on the streets before she could return to her home in Chudleigh, Devon.
+
+Nora described the earthquake as “like a train underground”, and was left cowering in fear with nowhere to hide as the buildings around her began to shatter and fall.
+
+She said: “We realised the earthquake was a big one and we all clung to each other when the tremors came.
+
+“After the tremor I was still shaking, from the trauma.
+</text>

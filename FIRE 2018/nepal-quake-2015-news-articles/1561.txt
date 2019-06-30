@@ -1,0 +1,153 @@
+<url>
+http://www.huffingtonpost.com/2015/04/27/nepal-earthquake-prayers-healing_n_7153586.html
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Prayers And Meditations For Healing In Nepal
+</headline>
+
+<text>
+ADVERTISEMENT
+
+The devastating, magnitude-7.8 earthquake that hit Nepal on Saturday has left at least 4,000 dead with many more feared to have perished. People around the world have watched with horror as aid workers continue to search for casualties, assess the damage and bring relief to those injured and made homeless by the quake.
+
+We urge those who can to support the many relief organizations who are working in Nepal. Below, we offer these thoughts, prayers and meditations in support of the suffering people of Nepal from religious leaders, activists, and many others.
+
+Healing For Nepal Healing For Nepal
+
+1 of 7 Share this slide:
+
+
+
+Click here or visit Hindu charity Sewa International's website for information on how to help, or donate to Crowdrise's "Nepal Earthquake Relief" here.
+
+The button below indicates how much has been raised on Crowdrise's "Nepal Earthquake Relief" page. Click to visit the site and donate.
+
+#custom_crowdrise_widget div.crDonateWidget {
+
+width: 298px !important;
+
+margin-left: 0 !important;
+
+margin-right: 0 !important;
+
+padding: 0 !important;
+
+height:78px;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget h4 { display: none; }
+
+#custom_crowdrise_widget .crDonateTriangle { display: none !important;}
+
+#custom_crowdrise_widget .crImageAndTitleOuter { display: none !important;}
+
+#custom_crowdrise_widget .CRShadowImage { display: none !important;}
+
+#custom_crowdrise_widget .crDonateWidgetOuter {
+
+border:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+margin-top: 0 !important;
+
+margin-right: 0 !important;
+
+margin-bottom: 0 !important;
+
+margin-left: 0 !important;
+
+background: url("https://www.crowdrise.com/media/cdncustom/huffpost_donate_widget.png") 0 0 no-repeat !important;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget {
+
+margin:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+background-color: inherit !important;
+
+padding: 0 10px !important;
+
+}
+
+#custom_crowdrise_widget .startFundraiser { display: none !important;}
+
+#custom_crowdrise_widget .gradientButton {
+
+width: inherit !important;
+
+margin-bottom: 0 !important;
+
+}
+
+#custom_crowdrise_widget .crDonated {
+
+margin: 0 !important;
+
+font: bold 14px/16px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+width: 185px;
+
+padding-top: 9px !important;
+
+}
+
+#custom_crowdrise_widget .crLogo img { display: none !important;}
+
+#custom_crowdrise_widget .crDonatedLabel { display: none !important; }
+
+#custom_crowdrise_widget .gradientButton {
+
+background: none !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)" !important;
+
+filter: alpha(opacity=0) !important;
+
+opacity: 0 !important;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 21px !important;
+
+margin-top:15px !important;
+
+}
+
+#custom_crowdrise_widget .donateNow {
+
+font: normal 9px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+filter: alpha(opacity=0);
+
+opacity: 0;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 36px !important;
+
+margin-top:0 !important;
+
+padding-top: 0 !important;
+
+}
+</text>

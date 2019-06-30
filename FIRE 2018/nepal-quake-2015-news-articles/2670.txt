@@ -1,0 +1,21 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/28/c_134193209.htm
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Philippine president says ASEAN to extend "collective" assistance to Nepal - Xinhua
+</headline>
+
+<text>
+MANILA, April 28 (Xinhua) -- Philippine president said Tuesday that ASEAN countries have agreed to extend "collective" assistance to Nepal, instead of doing it one by one.
+
+Benigno S. Aquino III made the remark when he arrived in Manila Tuesday afternoon from Malaysia where he attended the Southeast Asian regional summit.
+
+Aquino described his attendance at the 26th Association of Southeast Asian Nations (ASEAN) Summit as "more meaningful" because this is the target year for the ASEAN Community -- an integration of the 10-member countries in Southeast Asia.
+
+Nepal was struck by 7.9-magnitude earthquake Saturday, which has killed 4,555 and more that 8,000 injured.
+</text>

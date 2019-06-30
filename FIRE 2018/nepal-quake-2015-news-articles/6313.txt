@@ -1,0 +1,45 @@
+<url>
+http://www.theguardian.com/world/2015/may/13/us-helicopter-missing-nepal-second-day
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+Still no sign of missing US helicopter in Nepal after second day of search
+</headline>
+
+<text>
+Spokesman for US Pacific Command confirms ‘there has been no sighting’ as aerial search for UH-1Y ‘Huey’ helicopter is suspended for night
+
+A second day of searching through the thick forests and the rocky, devastated countryside of Nepal has failed to find any sign of a US marine corps helicopter that vanished on Tuesday.
+
+The helicopter went missing while delivering aid near Charikot, a remote and mountainous city near the epicenter of a 7.3-magnitude earthquake that struck on Tuesday. The Nepalese army, already grappling with a humanitarian crisis from a 7.8-magnitude earthquake on 25 April, sent several about 400 ground troops into rocky, forested region to search for the aircraft and its crew of six US marines and two Nepalese soldiers.
+
+Major David Eastburn, a spokesman for US Pacific Command, denied reports that the military had heard or seen any evidence of the helicopter, crashed or intact. “There has been no sighting,” he said. “Aerial search has been suspended for the night due to visibility, but Nepalese forces will be searching on foot. At first light the search efforts will resume.”
+
+The first earthquake and subsequent landslides and aftershocks killed more than 8,000 people, injured almost 20,000 and left tens of thousands more homeless in ruined villages and cities. The second quake has killed at least 76 people and injured some 2,300 more.
+
+“We have sent four choppers to find the US helicopter but haven’t been
+
+able to locate yet,” the home ministry spokesman, Laxmi Prasad Dhakal, told the Guardian. “We don’t know the exact figure of people in the helicopter, as there might be some rescued people as well.”
+
+The UH-1Y “Huey” helicopter and the people on board were declared missing around sunset on Tuesday, after having last made contact near Charikot about two hours earlier.
+
+Four American helicopters searched for the lost aircraft from above, and included two agile marine corps Ospreys that have been supplying aid from Kathmandu to cities that were difficult to reach even before the earthquakes made them nearly inaccessible. The helicopters alternately evacuated people and searched for the aircraft for a total of 21 hours.
+
+Bala Nanda Sharma, a retired Nepalese army general visiting the base in Charikot, told reporters about the difficulties of a search for the helicopter: “If it just landed in that forest, it would be lost. Only helicopter pilots who have the eye will be able to find it. This terrain is very beautiful, but very difficult.”
+
+There are about 300 US military personnel assisting with earthquake relief in Nepal, where seemingly no district has escaped the earthquakes. In Solukhumbu district, chief officer Jhanka Nath Dhakal said that no human casualties had been reported “so far”, but that more than 80% of the houses, schools, health posts and other resources are impossible to use.
+
+“Khumjung, Namchebazar and Thame are among the most hit areas in the district,” he said. “The trekking route has several landslides obstructing the road. We need large numbers of tarpaulins and tents, but [relief teams] haven’t been able to deliver.”
+
+Landslides and avalanches continue to threaten relief efforts, forcing a Canadian Red Cross team to flee from Tatopani. “I heard the top of a mountain collapse while I was on the telephone with my team,” team leader Cyril Stein told Reuters, saying that large boulders could wipe out the medical station as they had homes in the area.
+
+Amid the ramshackle remains of homes, temples and government offices, many people are concerned that the cracked, fragile buildings that remain will not be able to survive the floods and mudslides of monsoon season.
+
+Thousands slept on the streets of Kathmandu and other cities for fear of collapsing buildings, and Nepalese officials are asking for more aid to help the injured and homeless living in open-air communities and tarpaulin hospitals.
+
+“It looks like a graveyard here,” said Aula Bahadur Ale, the assistant administrator of Charikot’s district, Dolakha.
+</text>

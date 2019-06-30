@@ -1,0 +1,27 @@
+<url>
+http://www.delhidailynews.com/news/Nepal-earthquake--Telecom-services-cut-call-rates-1430107565/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal earthquake: Telecom services cut call rates
+</headline>
+
+<text>
+In an apparent effort to help disaster relief efforts in quake-hit Nepal, telecom operators MTS India and Tata Teleservices on Sunday slashed charges for calls made to the country.
+
+State-run telecom firms BSNL and MTNL, and private companies like Airtel, Aircel, Vodafone and Idea Cellular have also reduced charges or made free calls to Nepal, where around 3,200 people died after a massive earthquake hit the nation on Saturday.
+
+"Starting 11 pm, 25th April , MTS India is treating all calls made from its network to Nepal as local calls i.e Rs1/minute. This is being done for the next 48 hours to support disaster relief efforts and to enable concerned callers to reach out to their friends and family," MTS India said in a statement.
+
+In a statement, Tata Teleservices Ltd said, "... to support disaster relief measures, charges for all calls to Nepal on the Tata Docomo network are reduced to 1p/s between 26th to 28th April." Normal call rates to Nepal from India is in the range of Rs 7 to 12 per minute.
+
+Instant messaging app Viber has also "switched off 'Viber Out' billing so users in Nepal can make free calls to mobile and land line numbers anywhere for the next 48 hours".
+
+Airtel has announced to make free all calls to Nepal on its network, state-run BSNL and MTNL decided to charge local rates for calls made to Nepal. Idea Cellular has also announced that it would charge calls made to Nepal from its network equal as per local call rates up to morning hours of April 28.
+
+Vodafone has announced that all calls to Nepal made from its network will be charged as per local rate. Aircel has also announced to offer free calls to Nepal for all its customers for the next two days. "The offer has been extended to all prepaid and postpaid customers of Aircel," the company said.
+</text>

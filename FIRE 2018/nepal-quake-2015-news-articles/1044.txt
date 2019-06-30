@@ -1,0 +1,43 @@
+<url>
+http://www.scmp.com/news/article/1777164/18-dead-tibet-himalayan-earthquake
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+18 dead in Tibet from Himalayan earthquake
+</headline>
+
+<text>
+Saturday's powerful Himalayan quake killed at least 18 people and injured 55 in Tibet, local authorities said on Sunday.
+
+More than 200,000 people were reported to have been affected by various levels of damage in Nyalam and Gyirong counties, which are about 40km from the border with Nepal, where the massive 7.8-magnitude quake killed more than 3,000 people.
+
+The authorities evacuated 7,000 people from Nyalam and 5,000 from Gyirong shortly after the disaster, Xinhua reported.
+
+In Gyirong, some 800km west of Lhasa , six people were killed and 17 injured in the quake, according to local rescue centres. At least four people, including a Nepalese national, were missing in Nyalam, Xinhua said.
+
+More than 400 mountain climbers on the Tibetan side of Mount Qomolangma, as Mount Everest is known in Tibet, were reported to be "largely safe", despite big avalanches, according to rescuers.
+
+"We were walking on a snowy slope when suddenly a crack opened, but fortunately we were able to skirt it," a mountain climber told Xinhua.
+
+"We almost rolled down from 7,000 metres to reach a shelter at 6,500 metres."
+
+Rescuers were braving heavy snow and rain to reach the quake-hit area, but their efforts were hampered by severe landslides blocking the road into Nyalam.
+
+"Aftershocks are what we are worrying about most at the moment; there's nowhere to hide," Gyanga Tseten, head of the Xigaze fire brigade, told Xinhua.
+
+Tseten was leading a 30-strong task force to Zham Pass about 37km from Nyalam.
+
+Chen Quanguo, Communist Party chief of Tibet, has ordered evacuations from the quake-hit areas to prevent further deaths and injuries from aftershocks and secondary disasters.
+
+The authorities had also sent about 600 border guards to help with rescue operations in Nyalam and Gyirong, and more were ready to go when needed, Chen said.
+
+But the National Meteorological Centre said snow was forecast to continue in Tibet, adding to the difficulty of the rescue operation. More snow and showers were expected on Monday, the centre said.
+
+Meanwhile, contact had been lost with 20 National Taiwan University alumni who had joined up with a group of mainland climbers to scale the Nepalese side of the mountain, Central News Agency in Taipei reported.
+
+The news agency said that as of last night the mainland group had yet to locate the 20 Taiwanese. Taiwan's foreign ministry said it was using all of its resources to determine if any other Taiwanese people were missing as a result of the quake.
+</text>

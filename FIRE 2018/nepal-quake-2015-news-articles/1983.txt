@@ -1,0 +1,21 @@
+<url>
+http://www.cfr.org/about/newsletters/archive/newsletter/n2810
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Council on Foreign Relations Newsletter
+</headline>
+
+<text>
+ANALYSIS
+
+"Since the quake of 1934, Nepal’s population has grown, become more urban, and therefore denser. Urban population growth results in rapid building, and Nepal has seen the mushrooming of brittle, multistory concrete structures with little seismic resistance throughout the Valley," writes CFR's Alyssa Ayres.
+
+"Nepal's unstable political scene is another major obstacle. After a decade of conflict between the government and Maoist insurgents, Nepal's politicians have been too busy battling one another, most recently over constitutional reform, to treat disaster preparedness as a priority. There have been no elections at the district, village or municipal level for almost two decades, and the committees that run local councils aren't' organized to coordinate emergency assistance," writes Kunda Dixit in the New York Times.
+
+"Over millions of years, the squeezing has crushed the Himalayas like a concertina, raising mountains to heights of several miles and triggering earthquakes on a regular basis from Pakistan to Burma. Saturday's quake was neither unusual nor unexpected, although it was larger than most," writes Colin Stark for CNN.
+</text>

@@ -1,0 +1,39 @@
+<url>
+http://www.huffingtonpost.com/nathan-gardels/weekend-roundup-66_b_7288344.html
+</url>
+
+<date>
+20150515
+</date>
+
+<headline>
+Weekend Roundup: Is the Information Age the Age of Non-Communication?
+</headline>
+
+<text>
+Facebook has become the world's publishing Leviathan with 1.4 billion users -- a cyberpopulation the size of China. Never before have so many of like mind and sympathetic bent been able to connect with each other. Yet, by slotting what is shared through algorithm and personalization into silos of the similar, few boundaries beyond the familiar are being crossed.
+
+As identities fortify into tribes through this increasingly dominant medium, one wonders if the information age is becoming the age of non-communication. On this point, "technosociologist" Zeynep Tufekci contests a study recently released by Facebook that claims it is not creating echo chambers. Timothy Karr also worries that Mark Zuckerberg's plan to provide cyber access to the world's poor through Internet.org will "represent the entirety of the Internet for a significant proportion of the world's population."
+
+Reflecting on the strong showing of Scottish nationalists in this week's British election, Kemal Dervis sees the "ghosts of the past" returning as once marginal identity politics sweeps back into the mainstream. Writing from Brussels, former World Trade Organization head Pascal Lamy looks at how global trade agreements are being frustrated by local resistance. "Identity, legitimacy and politics go with proximity, the small and diseconomies of scale," he writes. "Small is beautiful."
+
+Cities, as the platform of "small is beautiful," are growing in influence on a global scale as most of the world's population becomes urban. Writing from Bangkok, John Kasarda argues that the key urban nodes of the future will be built around air transportation hubs -- the "aerotropolis." Writing from Shenzhen, China, urbanist Gerhard Schmitt foresees urban conglomerations of the future as "pulsating systems between the country and the city" that will vary over time in density and function. Former New York transportation commissioner Janette Sadik-Khan wants vital and convivial cities of the future that "are more than places you drive through on your way to somewhere else." We also look at the 10 cities that are shaping the urban future.
+
+Writing from New Delhi, as India Prime Minister Narendra Modi meets China's leader Xi Jinping in Beijing, Ranjit Goswami sees China as India's natural ally in development. Chandran Nair writes from Hong Kong that, under President Xi, China is finally acknowledging the ecological limits to growth. Continuing his reports from Ordos, China, this week WorldPost correspondent Matt Sheehan attends the "Genghis Khan Grand Prix." Former British Prime Minister Gordon Brown sounds the alarm that child traffickers are exploiting the chaos in post-earthquake Nepal.
+
+World editor Nick Robins-Early looks at what is behind all the reports of purges and executions this week in North Korea.
+
+World Bank economist Marcelo Giugale examines the resurgent concern with inequality in both the advanced and developing world signaled by the popularity of works by Thomas Piketty and Joe Stiglitz.
+
+As U.S. President Barack Obama sat down this week at Camp David with sheikhs from the Sunni Muslim gulf states to assure them as he opens up to Iran, Behlul Ozkan warns that the alliance policies of the U.S., Turkey and Saudi Arabia are creating a "new Afghanistan in Syria." WorldPost correspondent Sophia Jones reports on an unusual ultra-Orthodox high-tech incubator in Israel.
+
+World editor Charlotte Alfred talks to Moaz Rosenthal, a political scientist at the Interdisciplinary Center in Herzliya, about the challenges facing Israel's new coalition government and also explains why the Vatican's recognition of a Palestinian state comes as no surprise.
+
+Former C.I.A. operative Valerie Plame writes that nuclear proliferation remains "the greatest existential threat" in the world today. Writing from Moscow, Alexander Golts reports that Vladimir Putin this week used the anniversary of Victory Day, which marks the end of World War II in Europe, to equate his war in Ukraine with the fight against fascism. The WorldPost publishes this week the prison letters of Nadiya Savchenko, the Ukrainian pilot held in Russian-controlled territory, that were smuggled out and given to French philosopher Bernard-Henri Lévy.
+
+Historian Niall Ferguson sees the victory of Prime Minister David Cameron over the Labour Party in British elections as a decisive defeat of Keynesian economics - and of Paul Krugman.
+
+In this week's photo essays, we show the hardships that await immigrants who reach South Asia's shores and profile a boatload of Royingya refugees no country will take in. We also display the rugged beauty of mountainous Chile.
+
+This week in our Singularity University series, we look at a mesmerizing simulation of a collapsing star. Fusion looks at the creepy consequences when neuroscience is married to marketing. Finally, seven futurists, including Ray Kurzweil, offer their predictions for the next decade.
+</text>

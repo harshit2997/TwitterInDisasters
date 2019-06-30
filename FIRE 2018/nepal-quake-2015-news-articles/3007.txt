@@ -1,0 +1,47 @@
+<url>
+http://news.harvard.edu/gazette/story/2015/04/after-nepal-quake-harvard-responds/
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+After Nepal quake, Harvard responds
+</headline>
+
+<text>
+With Nepal struggling to deal with the enormous calamity caused by the magnitude 7.8 earthquake that struck north of Kathmandu Saturday, Harvard is mobilizing to help with technical and medical assistance and reaching out to faculty, staff, and students visiting the region.
+
+Harvard’s Global Support Services (GSS), through its Harvard Travel Assist program, evacuated one University employee and one student who were traveling in the region together. Officials also contacted two other students to ensure they were safe.
+
+“We could not have done this without the tremendous work of our IEMT [International Emergency Management Team] and network of Harvard contacts,” said Steve Taylor, associate director of safety and security for GSS, who led the response. “We ascertained that the two remaining students are staying outside of the impacted area, and we’re confident that they are in a safe place.”
+
+Because of the hazardous situation, Taylor said officials are advising against travel to the region except for trained emergency-relief personnel. A high hazardous rating means that undergraduate students cannot travel to Nepal, and graduate student travel will require consultation with GSS to ensure students have the latest information and security resources.
+
+Over at Harvard-affiliated Massachusetts General Hospital, two Wilderness Medicine Fellows who are serving in the area are safe. Renee Salas, an instructor in emergency medicine, was in the Everest region, and Lara Phillips, also an instructor in emergency medicine, is in the Annapurna region. Both remain on site, working in clinics of the Himalayan Rescue Association to provide aid, according to Michael VanRooyen, professor of emergency medicine, of global health and population, and director of the Harvard Humanitarian Initiative (HHI).
+
+Salas, reached via email today, said the Internet had come back online for the first time since the quake. She is working at the Himalayan Rescue Association post in the village of Pheriche. Workers there treated nearly 70 victims from the avalanche that struck the Mount Everest Base Camp when they arrived at the post on Sunday, she said.
+
+Harvard-affiliated Beth Israel Deaconess Medical Center (BIDMC) is mobilizing its disaster medicine team, together with its nonprofit partner, GR3, with the intention of deploying midweek to a hospital in one of the hardest-hit districts, Kavre, about 30 kilometers outside of Kathmandu, VanRooyen said.
+
+In addition to mobilizing personnel, HHI is working with the United Nations Health Cluster to identify medical needs in the region and the trained response personnel who could be deployed. HHI is also working with NetHope to create a shareable, electronic map of the region’s needs. Further, VanRooyen said, HHI’s KoBo Toolkit, which enables real-time data collection and sharing, is being used by the United Nations Office for the Coordination of Humanitarian Affairs to collect data and share it across nonprofit groups.
+
+“Our deepest sympathies go out to those who have suffered such terrible losses in Nepal, and we look forward to supporting our colleagues who endeavor to help them,” VanRooyen said in an update of Harvard’s response to the crisis.
+
+VanRooyen said that most of the international response would be channeled through experienced nongovernmental organizations (NGOs), with some key personnel provided by academic medical centers like MGH and BIDMC. With the chaos inherent in disaster zones, the information-gathering and -sharing tools provided by HHI are also key supports to the rescue and recovery effort.
+
+VanRooyen, other faculty, and staff from HHI were at their annual disaster simulation in the Harold Parker State Forest in Andover Saturday when news of the earthquake broke. Several faculty members and students who work for NGOs involved in the response had to leave the simulation early for the real thing, he said.
+
+The Harvard School of Public Health’s FXB Center for Health and Human Rights plans to follow up with the United Nations High Commissioner for Refugees and with UNICEF on the possibility of collaborating on rapid child-protection assessments in rural Nepal and Kathmandu. The assessments are best undertaken after the immediate needs of the affected population — shelter, water, food, and medical care — have begun to be met. FXB also plans to participate with the Harvard South Asia Institute (SAI) in a series of programming for students in the Greater Boston area about humanitarian issues and community response to the earthquake’s devastation, beginning as early as this week, according to FXB Center Director Jennifer Leaning, the François-Xavier Bagnoud Professor of the Practice of Health and Human Rights.
+
+SAI, meanwhile, is planning to launch this week a Harvard for Nepal initiative that would include both immediate and longer-term responses that leverage SAI’s academic strength in the region. The plans, which continue to be formulated, include a panel discussion seeking lessons from disasters around the globe that might be pertinent to Nepal. The event, “Consequences and Responses: Lessons from and for Nepal,” would kick off the broader Harvard for Nepal campaign to build awareness and raise funds, with a target of $50,000 to $100,000, to finance in-country work there, according to SAI Executive Director Meena Hewett.
+
+“The Harvard community … wishes [the people of Nepal] strength as they cope with the devastation of lives and land,” Hewett said. “Harvard has come together in its efforts to support the people of Nepal and will work with a few grassroots organizations in the U.S. and in the region to connect our resources to make a local impact in Nepal’s reconstruction.”
+
+Longer term, this coming summer and for the next couple of years, the institute plans to identify a handful of key areas on which to focus SAI-sponsored reconstruction efforts by faculty and students, together with local partners in the region.
+
+Though that work remains in the future, today Harvard President Drew Faust expressed the concern of the University community for those affected by the tragedy.
+
+“The disastrous earthquake that struck Nepal has shocked and saddened us all,” Faust said. “I know I am joined by the entire Harvard community in expressing sympathy for those who have lost loved ones, homes, and sacred places, and who continue to experience the terror of aftershocks and danger.”
+</text>

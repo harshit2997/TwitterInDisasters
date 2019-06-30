@@ -1,0 +1,17 @@
+<url>
+http://www.newsobserver.com/news/local/community/cary-news/article20763855.html
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Rep. David Price talks Nepal earthquake in Morrisville | News & Observer
+</headline>
+
+<text>
+Cary neighbors speak out against rezoning for Habitat housing
+
+Residents around the Trimble Avenue area in Cary ask the town's Planning and Rezoning Board to deny a rezoning request for a 2.6 acre lot saying the planned affordable housing does not fit in with the neighborhood's density or appearance.
+</text>

@@ -1,0 +1,33 @@
+<url>
+http://america.aljazeera.com/articles/2015/4/26/toll-mounts-as-nepal-searches-for-earthquake-survivors.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Death toll mounts as Nepal searches for earthquake survivors
+</headline>
+
+<text>
+Relief agencies have already warned that as many as six million people might be affected in Nepal by Saturday's disaster.
+
+Hospitals in the Kathmandu Valley, the quake-affected region that is home to 2.5 million people, were overcrowded, running out of emergency supplies and space to store corpses, the United Nations said in a statement.
+
+At overstretched hospitals, where medics were also treating patients in hastily erected tents, staff members were forced to flee from buildings for fear of further collapses.
+
+International aid groups and governments have sent emergency crews to reinforce those trying to find survivors in Kathmandu, and in rural areas cut off by blocked roads and patchy phone networks.
+
+The Red Cross said it was concerned about the fate of rural villages close to the epicenter of the quake northwest of Kathmandu.
+
+Rescuers and medical staff were also making their way to other parts of the country, but the congestion at the airport has slowed down their deployment.
+
+"Roads have been damaged or blocked by landslides and communication lines are down preventing us from reaching local Red Cross branches to get accurate information," said Jagan Chapagain, Red Cross Asia Pacific director.
+
+As aid groups received the first word from remote mountain villages, the reports suggested that many communities perched on mountainsides were devastated or struggling to cope.
+
+Landslides hindered rescue teams that tried to use mountain trails to reach those in need, said Prakash Subedi, chief district official in the Gorkha region, where the quake was centered.
+
+"Villages like this are routinely affected by landslides, and it's not uncommon for entire villages of 200, 300, up to 1,000 people to be completely buried by rock falls," said Matt Darvas, a member of the aid group World Vision. "It will likely be helicopter access only."
+</text>

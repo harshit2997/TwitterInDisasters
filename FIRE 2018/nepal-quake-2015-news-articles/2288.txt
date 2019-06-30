@@ -1,0 +1,33 @@
+<url>
+http://www.csmonitor.com/Commentary/the-monitors-view/2015/0427/Social-media-s-big-lift-after-Nepal-earthquake
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Social media's big lift after Nepal earthquake
+</headline>
+
+<text>
+Instant communication through Google, Twitter, and Facebook allowed people in Nepal to help survivors of the earthquake in ways government could not. The Digital Age is turning victimhood into instant neighborhoods.
+
+Nepalese rescuers carry an injured person to a waiting Indian air force helicopter as they evacuate victims of Saturday’s earthquake from Trishuli Bazar to Kathmandu airport in Nepal.
+
+From city dwellers in Kathmandu to climbers on Mt. Everest, more than 8 million people in Nepal were hit by a massive earthquake on April 25. Other nations have rushed to aid the Himalayan nation. But as with other recent disasters worldwide, this one evoked a very modern response, one that makes a critical difference in relief and recovery.
+
+With Nepal’s government largely unprepared to respond quickly, the survivors relied on social media to arrange rescues, deliver supplies, and provide shelter. A local news website, Kantipur, declared, “It is necessary for the ordinary citizens to take spontaneous initiatives.”
+
+This digital connectedness via sites such as Twitter and Facebook helped create instant communities of support. Most of all, it enabled many people in Nepal to avoid the common trap of seeing themselves as helpless victims.
+
+As an organizing tool, social media provides individuals with a feeling of empowerment and a degree of mastery over their circumstances. “With social media and the 24-hour news cycle, there will never again be a major disaster that won’t involve public participation,” declared retired Adm. Thad Allen, the national incident commander for the Deepwater Horizon oil spill.
+
+Disaster experts have long focused on helping communities in a crisis to concentrate on their collective competency and shared intelligence rather than remaining stuck in feelings of dependency. Social media helps breaks down a sense of separation. It amplifies each individual’s potential contribution.
+
+This kind of instant cybercommunity shocked leaders in China in 2008 after thousands of volunteers showed up to help victims of a giant earthquake in Sichuan Province. It was seen again during the 2010 Haiti earthquake, the 2011 Japan earthquake and tsunami, the 2011 floods in Thailand, and the 2012 hurricane Sandy in the United States.
+
+Nepal’s response to the temblor was helped by an increase in the number of civil society groups since the introduction of multiparty democracy in the 1990s. The nongovernmental organizations have driven a desire for information and participation in civic life, or what is called social capital. When the big quake struck last week, the Internet tapped that public spiritedness. Strangers helped each other out of the rubble and began Nepal’s road to recovery.
+
+Instead of victimhood, millions found digital neighborhoods.
+</text>

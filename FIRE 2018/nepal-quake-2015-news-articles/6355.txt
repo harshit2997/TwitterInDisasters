@@ -1,0 +1,19 @@
+<url>
+http://www.townsvillebulletin.com.au/news/breaking-news/second-nepal-quake-worst-situation/story-fnjbnvyi-1227352817111
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Nepal facing long road to recovery
+</headline>
+
+<text>
+EVERY public space in Kathmandu has been turned into a makeshift tent city as Nepal faces an enormous recovery task following the country's second earthquake in three weeks, say Australian workers on the ground.
+
+A 7.3 magnitude quake hit 76km east of Kathmandu on Tuesday, killing at least 65 people on top of the 7.8 magnitude quake on April 25 which devastated the country and claimed the lives of more than 8100 people.
+
+Originally published as Nepal facing long road to recovery
+</text>

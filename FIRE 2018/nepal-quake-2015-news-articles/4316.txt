@@ -1,0 +1,25 @@
+<url>
+http://www.pbs.org/newshour/rundown/teenager-pulled-rubble-nepal/
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Teenager pulled from rubble in Nepal
+</headline>
+
+<text>
+Rescue workers pulled Pema Lama, 15, from the rubble of the Hilton Hotel in Kathmandu, Nepal, on Thursday to cheers from onlookers and other searchers.
+
+Lama had been stuck in the debris since Saturday’s 7.8-magnitude earthquake that struck the center of the Asian nation. The death toll is estimated at more than 5,000 and nearly 11,000 are injured.
+
+Medical teams are trying to make their way to remote villages outside the Kathmandu valley where access by road is difficult due to landslides. Workers have been sent to Sindhupalchowk, northeast of Kathmandu, where authorities said at least 1,400 people have died, according to the United Nations.
+
+International medical workers also were sent to Gorkha, northwest of Kathmandu, which was the epicenter of the earthquake. The World Health Organization dispatched needs-assessment personnel to the district to calibrate resources accordingly.
+
+The cost of rebuilding from the earthquake is estimated at $5 billion to $10 billion. “It’s been devastating. Their tourism economy has obviously come to a halt,” Rajiv Biswas, Asia-Pacific economist with HIS told the New York Times. “I don’t know when it would be realistic for tourists to again visit Nepal.”
+
+Follow @NewsHourWorld
+</text>

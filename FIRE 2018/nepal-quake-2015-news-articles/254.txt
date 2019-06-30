@@ -1,0 +1,15 @@
+<url>
+http://www.enidnews.com/news/leaders-charities-offer-condolences-help-after-nepal-quake/article_1eb89728-eb9c-11e4-8a9c-17d40752d097.html
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Leaders, charities offer condolences, help after Nepal quake
+</headline>
+
+<text>
+Relief material is loaded into an Indian Air Force aircraft headed to Nepal, in New Delhi, India, Saturday, April 25, 2015. A powerful earthquake struck Nepal Saturday and collapsed houses, leveled centuries-old temples and triggered avalanches on Mt. Everest. It was the worst tremor to hit the poor South Asian nation in more than 80 years. (AP Photo | Rajesh Kumar)
+</text>

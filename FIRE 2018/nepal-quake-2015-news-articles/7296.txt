@@ -1,0 +1,29 @@
+<url>
+http://www.philstar.com/world/2015/05/15/1455068/nepal-rescuers-find-3-bodies-near-crashed-us-marine-chopper
+</url>
+
+<date>
+20150515
+</date>
+
+<headline>
+Nepal rescuers find 3 bodies near crashed US Marine chopper
+</headline>
+
+<text>
+KATHMANDU, Nepal — Nepalese rescuers on Friday found three bodies near the wreckage of a U.S. Marine helicopter that disappeared earlier this week while on a relief mission in the earthquake-hit Himalayan nation, officials said.
+
+Nepal's Defense Secretary Iswori Poudyal gave no details about the nationalities of the victims. The helicopter was carrying six Marines and two Nepalese army soldiers.
+
+The wreckage was found near Gothali village in the district of Dolakha.
+
+The U.S. Embassy in Nepal had no immediate comment Friday.
+
+The discovery of the wreckage, first spotted by a Nepalese army helicopter Friday, followed days of intense search involving U.S. and Nepalese aircraft and even U.S. satellites.
+
+The U.S. relief mission was deployed soon after a magnitude-7.8 quake hit April 25, killing more than 8,200 people. It was followed by another magnitude-7.3 quake on Tuesday that killed 117 people and injured 2,800.
+
+World ( Article MRec ), pagematch: 1, sectionmatch: 1
+
+The second quake was centered between Kathmandu and Mount Everest, and hit hardest in deeply rural parts of the Himalayan foothills, hammering many villages reached only by hiking trails and causing road-blocking landslides.
+</text>

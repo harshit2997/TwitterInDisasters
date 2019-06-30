@@ -1,0 +1,19 @@
+<url>
+http://reliefweb.int/report/nepal/icco-provides-relief-aid-nepal
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+ICCO provides relief aid in Nepal
+</headline>
+
+<text>
+ICCO/Kerk in Actie is providing for relief aid in the Kathmandu Valley after the massive earthquake. Tents, food and blankets are distributed through ACT Alliance.
+
+ACT is an international partnership of aid agencies, which are collectively working on relief and reconstruction after this disaster.
+
+Saturday April 25, Nepal was hit by a massive earthquake. According to the latest UN figures 70,000 houses are destroyed and half a million houses badly damaged. As a result almost 2.8 million Nepalese people are homeless.
+</text>

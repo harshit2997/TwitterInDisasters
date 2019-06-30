@@ -1,0 +1,71 @@
+<url>
+http://www.navy.mil/submit/display.asp?story_id=87106
+</url>
+
+<date>
+20150514
+</date>
+
+<headline>
+Helping Nepal By Connecting Response Teams
+</headline>
+
+<text>
+Helping Nepal By Connecting Response Teams
+
+By Rita Boland, PEO C4I Public Affairs Support
+
+SAN DIEGO (NNS) -- U.S. Navy and Marine Corps personnel are supporting response efforts to the earthquake in Nepal by supplying critical command, control and communications capabilities in the region.
+
+
+
+Using a system of quick-deploying, satellite-connecting tools, coordination is enabled among the various groups involved in assistance activities that otherwise would have to find more cumbersome workarounds to collaborate on relief efforts, or not communicate at all.
+
+
+
+A Deployable Joint Command and Control (DJC2) system from III Marine Expeditionary Force (III MEF) deployed to Thailand shortly after the natural disaster. It serves as the command and control (C2) center for Joint Task Force (JTF) 505 and is providing critical C2 services. Coordination is essential as personnel from disparate nations and fields gather to help the Nepalese recover from the April 25, 7.8 magnitude quake that is responsible for approximately 8,000 deaths and widespread physical devastation. Since the Marines' arrival in the area, another quake of 7.3 magnitude has rocked Nepal, claiming dozens of lives and injuring thousands more. DJC2 continued its operation to support all recovery activities.
+
+
+
+The U.S. military response is dubbed Operation Sahayogi Haat, which means "helping hand" in Nepali. Efforts have included rescuing people trapped by the rubble, aiding the injured and displaced and beginning rebuilding efforts.
+
+
+
+"We are here at the request of, and in support of, the government of Nepal as they deal with this terrible tragedy," said III MEF Commanding General Lt. Gen. John Wissler. "We will continue to provide support as part of the overall U.S. government and international response as long as our unique capabilities can support the government of Nepal and remain in partnership with the Nepalese army."
+
+
+
+DJC2 provides up to five networks with various classification levels, from unclassified to Top Secret. These networks allow communications among different military organizations so that they can maintain C2 of their forces. A non-classified, non-governmental organization network-which supports humanitarian organizations and their efforts-is also available. DJC2 is satellite-communications enabled, providing networks, video teleconferencing (VTC) and phone capabilities. DJC2 includes the entire support infrastructure, such as generators and tents, necessary for independent functioning. Developers designed it to operate in areas with damaged or non-existent communications infrastructure, making it ideal for remote and undeveloped locations.
+
+
+
+The system also includes Rapid Response Kits (RRKs) that can quickly establish C2 capabilities on the ground. Four RRKs accompanied the DJC2's current deployment, three in Thailand and one forward in Nepal. The DJC2 RRK provides the JTF/Joint Force Commander with the capability to deploy a Forward Command Element of two to 15 personnel to a crisis area to gather situational awareness information and conduct limited missions. These kits provide access to three networks, VTC and phones and can be set-up and online in less than 30 minutes.
+
+
+
+Just as DJC2 helps synchronize relief efforts, deploying it involves a team effort. It moved out with a Marines unit, but was created and is supported by the Navy's Shore and Expeditionary Program Office (PMW 790) at the Program Executive Office, Command, Control, Communications, Computers and Intelligence (PEO C4I) in San Diego. PMW 790 personnel coordinate DJC2 efforts and resources. During humanitarian assistance/disaster relief (HA/DR) missions, unclassified or "plain internet" is the primary network to communicate with civilian organizations, such as the Red Cross or USAID.
+
+
+
+"DJC2 is the 'go to' system for providing communications in support of HA/DR missions," said Kevin Washburn, the expeditionary principal assistant program manager for PMW 790. "It is a self-contained, self-powered system that can be set up anywhere in the world to support a Joint Task Force commander."
+
+
+
+Other human and materiel resources for the deployment come from Naval Surface Warfare Center - Panama City Division (NSWC - PCD) and private-sector contractors. The NSWC Mission Support Center (MSC) ensures that DJC2 operates with full functionality. The MSC provides help desk support, which assists with remote troubleshooting of connectivity issues as well as guidance to deploying contractors who assist with set-up and troubleshooting DJC2 onsite. Upon arrival in Thailand and Nepal, DJC2 personnel addressed coordination issues around language differences and found technical solutions for connectivity challenges. By working long hours and building on lessons learned, they were able to establish all available capabilities.
+
+
+
+DJC2 proved its value in other HA/DR missions. In 2013, III MEF deployed DJC2 in support of Operation Damayan, the U.S. military response to Typhoon Haiyan in the Philippines. In 2014, U.S. Africa Command deployed its DJC2 in support of Operation United Assistance, the Ebola relief effort in Liberia.
+
+
+
+"Though the DJC and its RRKs can support our warfighters in battle, they have an impactful application to helping people who are victims of natural or manmade disasters," Washburn said. "This is a huge part of the Navy mission: to help our neighbors when they ask. We don't have to wonder how we can help. While your heart breaks at the suffering, we stay strong so we can help to relieve it. In the longer term, it helps build goodwill."
+
+
+
+As the relief effort in Nepal unfolds, DJC2 will make a difference to people now and to multinational, interagency relationships in the future.
+
+
+
+For more news from Space and Naval Warfare Systems Command, visit www.navy.mil/local/spawar/.
+</text>

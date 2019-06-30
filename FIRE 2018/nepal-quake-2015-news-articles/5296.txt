@@ -1,0 +1,39 @@
+<url>
+http://www.belfasttelegraph.co.uk/technology/nepal-earthquake-nasa-uses-microwave-technology-to-detect-heartbeats-of-people-stuck-under-rubble-31206533.html
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+Nepal earthquake: Nasa uses microwave technology to detect heartbeats of people stuck under rubble
+</headline>
+
+<text>
+Nepal earthquake: Nasa uses microwave technology to detect heartbeats of people stuck under rubble BelfastTelegraph.co.uk Heartbeat-detecting technology developed by Nasa has been used to find four men trapped under huge piles of debris in Nepal. http://www.belfasttelegraph.co.uk/business/technology/nepal-earthquake-nasa-uses-microwave-technology-to-detect-heartbeats-of-people-stuck-under-rubble-31206533.html http://www.belfasttelegraph.co.uk/news/world-news/article31203916.ece/af1da/AUTOCROP/h342/PANews%20BT_P-8c321954-5fd2-4953-886b-2c8dd976949f_I1.jpg
+
+Email
+
+Heartbeat-detecting technology developed by Nasa has been used to find four men trapped under huge piles of debris in Nepal.
+
+The men were found using a device called FINDER (Finding Individuals for Disaster and Emergency Response), which uses microwave-radar technology to detect heartbeats. The device was developed by Nasa’s Jet Propulsion Laboratory as well as the Department for Homeland Security (DHS).
+
+It works by sending a microwave signal that can reach through the rubble and detect the breathing of a human. People don’t need to be conscious to be picked up by it.
+
+FINDER is based on technology originally developed to find life on other planets, and uses similar devices to locate spacecraft and explore new worlds. But Nasa also hopes that it can be used for humans in space, monitoring astronauts’ vital signs without needing wires.
+
+The device is still in prototype, but two of them were sent to Nepal after the earthquake there on April 25. They were used to support search and rescue teams, and test how useful they will be in practical situations.
+
+"NASA technology plays many roles: driving exploration, protecting the lives of our astronauts and improving — even saving — the lives of people on Earth," said David Miller, NASA's chief technologist at NASA Headquarters in Washington. "FINDER exemplifies how technology designed for space exploration has profound impacts to life on Earth."
+
+The four men had been trapped in the village of Chautara, in Nepal. Representatives from the project worked with rescue workers from around the world to find heartbeats — which they did, discovering the men under two collapsed structures.
+
+The technology has previously been demonstrated to work to find people trapped under 30 feet of rubble, behind 20 feet of solid concrete, or over 100 metres of open space. It can tell researchers that a heartbeat has been detected as well as providing an approximate location of where they are.
+
+"The true test of any technology is how well it works in a real-life operational setting," said DHS undersecretary for science and technology Reginald Brothers. "Of course, no one wants disasters to occur, but tools like this are designed to help when our worst nightmares do happen.”
+
+Source: Independent
+
+Independent News Service
+</text>

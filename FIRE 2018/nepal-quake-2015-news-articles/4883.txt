@@ -1,0 +1,21 @@
+<url>
+http://www.independent.com.mt/articles/2015-05-04/world-news/European-Union-approves-22-million-euros-in-aid-for-quake-hit-Nepal-6736134888
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+European Union approves 20 million euros in aid for quake-hit Nepal
+</headline>
+
+<text>
+Associated Press
+
+The European Union has approved 20 million euros ($22 million) in financial support and emergency aid to help Nepal deal with the April 25 earthquake.
+
+Monday' EU commitment came after a request for help from the Nepalese government, which said it was facing a huge funding gap if there was no increase in international help. Beyond the 16.6 million euros in financial support and 3 million euros in emergency aid, EU Commissioner Neven Mimica said "as soon as the needs assessments are completed, we will look into how we can further assist."
+
+Nepal is one of the world's poorest nations. The earthquake has claimed at least 7,200 lives and shattered the country's economy.
+</text>

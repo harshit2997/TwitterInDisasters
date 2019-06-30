@@ -1,0 +1,49 @@
+<url>
+http://www.brisbanetimes.com.au/world/nepal-earthquake-we-warned-you-says-experts-20150426-1mtc5x.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Kathmandu shifts three metres in 30 seconds
+</headline>
+
+<text>
+A collapsed building in Kathmandu following the earthquake. Photo: Getty Images
+
+"The earthquake ruptured under the city, very close to the city, so this is as bad as our worst-case scenario, probably," Bilham said.
+
+As news reports filtered in, experts predicted the death toll would mount steadily.
+
+"I expect that there's devastation scattered all around Nepal that we're not even glimpsing at this point," said Susan Hough, a geologist with the US Geological Survey who has made multiple trips to Nepal.
+
+The news bulletin of the massive quake hit Hough and colleagues hard. Theirs can be a frustrating profession, because they know there are natural disasters and humanitarian crises about to happen somewhere – but they can't predict precisely where and when. This one, however, had been long anticipated.
+
+For years now, experts on seismic hazard have kept a list of cities most vulnerable to a catastrophic earthquake. Kathmandu has always been high on that list.
+
+Geology, urbanisation, architecture and building codes have increased the vulnerability of the Nepalese, experts say, and the only major unknown has been the timing of the disaster.
+
+"We knew it was going to happen. We saw it in '34," Hough said. "The earthquakes we expect to happen do happen."
+
+Scientists, engineers and government officials have worked in recent years on retrofitting schools and hospitals to make them sturdier in a temblor. But at the same time, civil unrest has pushed more people into urban areas, where they inhabit newly constructed, unreinforced-masonry buildings that in many cases are not designed to withstand the strong motion of a quake.
+
+Another problem: buildings often have what engineers call a "soft first storey", because merchants want open spaces to sell their wares and there are fewer sturdy walls to limit the shaking in an earthquake.
+
+"It was clearly a disaster in the making that was getting worse faster than anyone was able to make it better," Hough said. "You're up against a Himalayan-scale problem with Third World resources."
+
+Bilham agreed: "The message has not been ignored, it's just that the scope of the reconstruction required to strengthen all the buildings in Kathmandu is so enormous."
+
+The orthodoxy among seismologists is that earthquakes don't kill people; buildings kill people.
+
+The challenge of improving building codes has become all the more urgent in an era when urbanisation is surging in many parts of the world, including in the Kathmandu Valley.
+
+"It seems that the rural-to-urban migration of people has resulted in really rapid construction of housing which, as far as I can see from my visits, has been unregulated and is just very, very vulnerable," said Brian Tucker, founder and president of GeoHazards International, a non-profit devoted to reducing casualties from natural disasters.
+
+On Saturday, he recalled a conversation in the late 1990s with a Nepalese government minister who told him, "We don't have to worry about earthquakes anymore, because we already had an earthquake." That was a reference to the 1934 quake.
+
+"I took him to the window and had him look out and said, 'As long as you see those Himalaya Mountains there, you will know that you will continue to have earthquakes,'" Tucker said.
+
+Washington Post
+</text>

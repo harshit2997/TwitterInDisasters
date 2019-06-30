@@ -1,0 +1,17 @@
+<url>
+http://www.nltimes.nl/2015/04/29/dutch-led-rescue-teams-in-gorkha-nepal-near-epicenter/
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Dutch-led rescue teams in Gorkha, Nepal; near epicenter
+</headline>
+
+<text>
+Four members of the Dutch Urban Search and Rescue Team started exploring Gorkha on Tuesday. This area is closer to the epicenter of the earthquake, northwest of Kathmandu, the team said in their latest update about the search and rescue mission in Nepal. There are currently more than 300 USAR members and 79 sniffer dogs present in the country. In addition to the Dutch team, USAR teams from Germany, England, Canada, Malaysia and Turkey have also joined the search. The Dutch team is coordinating the search and rescue missions, which has the highest priority. The Dutch USAR team also distributed food, water and blankets to about 200 people near the USAR base camp. These people are living on the street because the do not dare to return to their collapsed homes.
+
+Another USAR team rescued a 28 year old man from under a collapsed apartment building. It took the team hours to free the man from the rubble. The man seems to be doing well.
+</text>

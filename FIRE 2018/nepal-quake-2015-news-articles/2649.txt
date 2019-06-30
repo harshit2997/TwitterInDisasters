@@ -1,0 +1,23 @@
+<url>
+http://austriantribune.com/informationen/155095-microsoft-announces-relief-efforts-quake-struck-areas-nepal
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Microsoft announces relief efforts for quake-struck areas in Nepal
+</headline>
+
+<text>
+With Nepal having been hit by a devastating, 7.8-magnitude earthquake on Saturday, Microsoft has rolled out its relief efforts for people in the quake-hit areas. The company has, with immediate effect, made Skype calls to and from Nepal completely free of charge, for mobiles as well as landlines.
+
+The free Skype service offered by Microsoft will probably circumvent some of the infrastructure damage in the areas affected by the earthquake. In addition, the move will also eliminate unwanted expense for quake-affected people trying to get in touch with their family and friends on the other side of the world.
+
+Along with announcing free Skype service to and from Nepal, Microsoft has also made an immediate donation to NetHope, a group of over 40 non-governmental organizations that aims to improve IT connectivity in developing nations, and regions affected by disaster.
+
+Microsoft is donating $1 million to NetHope, for Nepal relief. The donation made by the company is in the form of cash, technology, and services; and will go towards helping in the recovery and rescue efforts in the quake-hit areas of Nepal.
+
+Furthermore, Microsoft has also activated its internal Microsoft employee 'Giving' website, to encourage its employees to make individual donations for people affected by the earthquake in Nepal. The donations from Microsoft employees will be sent to organizations that are carrying out first and immediate response, such as the American Red Cross, World Vision, International Medical Corps, and Direct Relief.
+</text>

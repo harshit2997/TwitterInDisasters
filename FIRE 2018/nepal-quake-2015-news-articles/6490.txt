@@ -1,0 +1,15 @@
+<url>
+http://www.business-standard.com/article/international/fresh-earthquake-brings-panic-damage-and-death-to-nepal-115051300010_1.html
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Fresh earthquake brings panic, damage and death to Nepal
+</headline>
+
+<text>
+A 7.3 magnitude earthquake killed at least 41 people and spread panic in Nepal on Tuesday, bringing down buildings already weakened by a devastating tremor less than three weeks ago and unleashing landslides in Himalayan valleys near Mount Everest. Most of the reported fatalities were in villages and towns east of Kathmandu, only just beginning to pick up the pieces after the April 25 quake that left more than 8,000 people dead. The new earthquake was centred 76 km (47 miles) east of the capital in a hilly area close to the border with Tibet, according to coordinates provided by the US ...
+</text>

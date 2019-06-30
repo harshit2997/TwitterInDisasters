@@ -1,0 +1,31 @@
+<url>
+http://www.ragtrader.com.au/news/nepal-appeal
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Nepal appeal
+</headline>
+
+<text>
+Kathmandu is working with consumers and business partners to gather support for Nepal.
+
+Kathmandu has today launched an in-store appeal for the victims of the Nepal earthquake.
+
+Kathmandu customers will be able to contribute to the earthquake emergency response effort at Point of Sale terminals in all Kathmandu stores in Australia, New Zealand and the United Kingdom.
+
+Kathmandu's acting chief Mark Todd said Kathmandu had a close affinity with the city that inspired its brand.
+
+“We know that the tens of thousands of our Summit Club members who have visited the city and trekked through the Himalayas deeply feel the impact of this tragedy and will want to play a part in assisting the people of Nepal,” Todd said.
+
+“Helping the Nepalese people recover and rebuild will require substantial international aid and we hope that facilitating donations at all our Point of Sale terminals will make it easier for people to make a contribution”.
+
+All donations will go directly to Red Cross Nepal Region Earthquake Appeal.
+
+Kathmandu is already providing financial assistance, clothing and equipment to its partners, Australian Red Cross and New Zealand Red Cross, to assist their international emergency response effort.
+
+Kathmandu is also working closely with its partner the Australian Himalayan Foundation along with the Himalayan Trust New Zealand to ensure direct support for those living in remote Himalayan communities.
+</text>

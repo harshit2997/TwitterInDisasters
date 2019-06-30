@@ -1,0 +1,59 @@
+<url>
+http://usa.chinadaily.com.cn/world/2015-05/01/content_20598409.htm
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+The 'nightmare' everyone saw coming[1]
+</headline>
+
+<text>
+The 'nightmare' everyone saw coming Updated: 2015-05-01 10:01 By Christopher Davis(China Daily USA)
+
+A resident woman sits and prays on the street in front of a destroyed historical site in Katmandu on Tuesday after a magnitude 7.8 earthquake struck Nepal. Chen Jie / For China Daily USA
+
+When earthquake specialists gathered in Nepal's capital city of Kathmandu last week for a seminar on how to better prepare for a 'a nightmare waiting to happen', they had no idea how soon disaster would strike the country, reports Christopher Davis from New York.
+
+During the week of April 19, seismologists from around the world met in Kathmandu, the capital city of Nepal, to talk about what one scientist called "a nightmare waiting to happen". It was right under their feet.
+
+The scientists knew there was an overwhelming amount of costly work that needed to be done to prepare the poor, congested, overbuilt city for the next big earthquake. And they felt certain they were racing against Nature's capricious clock.
+
+They were. Just before noon on the following Saturday a 7.8-magnitude earthquake struck, burying people in collapsed masonry and landslides, toppling treasured shrines, unleashing avalanches that wiped out climbers on Mount Everest (known as Mount Qomolangma in China) and wreaking the kind of calamitous havoc the scientists had feared. And knew was coming.
+
+It's called the Indus-Yarlung suture zone, the interface of two continents - India and Asia - butting heads, with India being forced beneath China, subducted into the role of building the Himalayan mountain range.
+
+The process has been going on for 45 million years and proceeds at a stop-and-go pace of about 2 centimeters a year, roughly the rate that human hair and nails grow, but not as steadily. It's a jolt forward followed by a rest period that builds up the compression for the next jolt.
+
+The slight lurch forward is an earthquake and since 1255 AD, records kept in the region show that a major quake of magnitude 8 or above has happened about every 75 years. The last one in 1934, measuring 8.1, killed nearly 11,000 people and destroyed 40 percent of the buildings in the area.
+
+Kathmandu has changed a lot in the 81 years since then. But the teeming metropolis of shoddily constructed buildings wouldn't stand a chance against a temblor. Even a quake less than the overdue magnitude 8 would probably produce numbers worse than 1934's tragedy.
+
+"Simply applying the percentage of the population killed or injured in the 1934 earthquake to the population of the [Kathmandu] Valley today results in an estimate of 22,000 deaths and 25,000 injuries requiring hospitalization," said a 1998 report by the US-based NGO GeoHazards International. "Applying more recent earthquake casualty figures from cities comparable to the Kathmandu Valley results in an estimate of 40,000 deaths and 95,000 injuries in the [valley's] nest earthquake."
+
+Inevitable questions
+
+As the body count continues to mount in Nepal, the inevitable questions were raised. Why is it we can be sure where an earthquake will strike but not know when? Are we any closer to being able to read the ticking clock on Nature's time bombs?
+
+Ben van der Pluijm, a professor at the University of Michigan, specializes in what he describes as the interface of geology and society, and preaches the resilience of humanity in the face of the most abrupt and adverse change brought on by earthquakes, volcanic eruptions and storms. Geology, to him, tells a whole lot about what might take place, but not enough.
+
+For several decades, science has had a good understanding of where to expect major earthquakes to occur, he said. The evidence and events link up "very tidily with plate tectonics, where we find 99 percent of all these events are related to what we call plate boundaries, where two plates are moving relative to each other. Geologically we have found a remarkable pattern that explains the occurrence of these particular events," he said.
+
+Very large earthquakes like the one that hit Nepal have a kind of system, he explained. They aren't very common to begin with - only a handful - three to five - are expected each year, but they are disastrous when they occur in populated areas.
+
+Nepal is in a location that is expected to have such an earthquake, he said, but "just because you understand a lot about the geology and the setting and the likeliness and the location, we are much less sure about when things will happen."
+
+Trying to get close to actually predicting the timing, he said, is "where the paths of understanding are really important to realize. Geology does not give us the time detail we as human society are looking for." The Earth's crust is not running on the human clock; it's running on the geologic clock. "People think 100 years is a staggering amount of years, but it's an absolute trivial amount of years in the geologic context," he said.
+
+Predicting earthquakes, according to Robert J. Geller, professor of earth and planetary science at the University of Tokyo's Graduate School of Science, "seems to be the alchemy of our times".
+
+Scientists are working on "seismic weather reports", as one observer put it, which are more a mathematical update in shifts in probability than any kind of reading.
+
+"There is no machine we can put down there and then say when an earthquake is going to happen," van der Pluijm said.
+
+At various venues and laboratories, scientists have tried to use changes in radon gas emissions from the ground as an indicator or looked for epidemic-like patterns in seismic activity to predict the spread of aftershocks as if it were a plague. Estimates count anywhere from 400 to 5,000 models for predicting earthquakes being tested and explored worldwide.
+
+"It's very hard to do a conclusive test," said Professor Norm Sleep, a geophysicist at Stanford University. "If I was empirically predicting weather, I could get a lot of experience in a year. In Nepal, it occurs every 75 years. So to get a lot of experience on this is going to take a good while to do better than just say what the bus driver can tell you."
+</text>

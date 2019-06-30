@@ -1,0 +1,33 @@
+<url>
+http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11446677
+</url>
+
+<date>
+20150511
+</date>
+
+<headline>
+NZ engineers head to Nepal to assess damage
+</headline>
+
+<text>
+New Zealand engineers are on the way to Nepal to assess earthquake damage in the capital Kathmandu.
+
+Foreign Minister Murray McCully said the Nepalese Government had requested assistance from New Zealand experts, to carry out assessments of critical public infrastructure such as hospitals.
+
+"Four New Zealand engineers, with considerable experience in earthquake strengthening, have volunteered their time and they are en route to Nepal," Mr McCully said.
+
+"This of group engineers will be in Kathmandu for a week, and, in addition to undertaking damage assessments, they will also help determine whether a larger contingent of 10-12 engineers is required.
+
+Advertisement
+
+"This later deployment would be for three months and would focus on assisting with stabilisation and retro-fitting of damaged buildings."
+
+New Zealand has provided $2 million in financial assistance to Nepal following the April 25 earthquake, which killed more than 8000 people and left thousands more homeless. The deployment of engineers comes after an initial offer to send a search and rescue team was accepted, but then declined at the last minute.
+
+The New Zealand Government had approved the deployment of an Urban Search and Rescue team (USAR) to Kathmandu and they were expected to fly out two days after the earthquake.
+
+However, prior to the team's departure the Nepalese Government said it had enough USAR capability in-country.
+
+Meanwhile, Nepal yesterday denied entry to three British military helicopters because of concerns they could damage buildings when landing. The Chinook helicopters arrived in New Delhi last week.
+</text>

@@ -1,0 +1,51 @@
+<url>
+http://www.hstoday.us/briefings/industry-news/single-article/dhs-nasa-technology-helps-save-4-in-nepal-earthquake/5b965496c764ee568318ef5f70d1c89d.html
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+Homeland Security Today: DHS, NASA Technology Helps Save 4 in Nepal Earthquake
+</headline>
+
+<text>
+DHS, NASA Technology Helps Save 4 in Nepal Earthquake
+
+By: Homeland Security Today Staff
+
+
+
+05/05/2015 ( 7:13pm)
+
+
+
+
+
+Four men trapped under as much as 10 feet of bricks, mud and other debris were rescued in Nepal thanks to a new search-and-rescue technology developed in partnership by the Department of Homeland Security’s (DHS) Science and Technology Directorate (S&T) and the National Aeronautics and Space Administration's (NASA) Jet Propulsion Laboratory (JPL).
+
+The device, called FINDER (Finding Individuals for Disaster and Emergency Response) uses microwave-radar technology to detect heartbeats of victims trapped in wreckage.
+
+Following the April 25 earthquake in Nepal, two prototype FINDER devices were deployed to support search and rescue teams in the stricken areas.
+
+The final prototype of FINDER will be demonstrated this week at the Virginia Task Force ONE Training Facility in Lorton, Virginia by DHS’s Science and Technology Directorate – an event scheduled long before the use of FINDER in Nepal.
+
+It will also be announced that FINDER is officially being transition to a commercial enterprise where the devices can be manufactured and made available to search and rescue teams around the world.
+
+FINDER has previously demonstrated capabilities of detect people buried under up to 30 feet of rubble, hidden behind 20 feet of solid concrete, and from a distant of 100 feet in open spaces. A new “locator” feature has since been added to not only provide search and rescue responders with confirmation of a heartbeat, but also the approximate location of trapped individuals within about five feet, depending on the type of rubble.
+
+“The true test of any technology is how well it works in a real-life operational setting,” said DHS Under Secretary for Science and Technology, Dr. Reginald Brothers. “Of course, no one wants disasters to occur, but tools like this are designed to help when our worst nightmares do happen. I am proud that we were able to provide the tools to help rescue these four men.”
+
+The men had been trapped beneath rubble for days in the hard-hit village of Chautara. David Lewis, president of one of S&T’s commercial partners, Eatontown, New Jersey-based R4 Inc., arrived in Nepal with two prototype FINDER devices on April 29 to assist in the rescue efforts. He joined a contingent of international rescuers from China, the Netherlands, Belgium and members of the Nepali Army in Northern Nepal. Using FINDER, they were able to detect two heartbeats beneath each of two different collapsed structures, allowing the rescue workers to find and save the men.
+
+"NASA technology plays many roles: driving exploration, protecting the lives of our astronauts and improving--even saving--the lives of people on Earth," said Dr. David Miller, NASA's chief technologist at NASA Headquarters in Washington. "FINDER exemplifies how technology designed for space exploration has profound impacts to life on Earth."
+
+
+
+
+
+
+
+
+</text>

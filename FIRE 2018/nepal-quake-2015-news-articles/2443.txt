@@ -1,0 +1,21 @@
+<url>
+http://www.dailytimes.com.pk/letters/27-Apr-2015/nepal-earthquake
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal earthquake
+</headline>
+
+<text>
+Sir: It was a calm Saturday when an earthquake of magnitude 7.8 hit the capital of Nepal, Kathmandu. This earthquake flattened homes, buildings and temples, causing widespread damage across the region, killing more than 2,000 people. Whole streets and squares in the capital were covered in rubble. I saw a report that one of the heritage sites of Kathmandu called Dharahara tower had collapsed. As many as 100 people were trapped inside.
+
+People would usually come to this tower along with family members to have a picnic. Rescue work is on and machines are being used to clear the area. It is suspected that there might be many spots where people may be buried in the mud. In this difficult time for Nepal, we should stand and pray for the people. Our government should assist Nepal by sending aid and other things they are in need of.
+
+YUSRA AZIZ
+
+Karachi
+</text>

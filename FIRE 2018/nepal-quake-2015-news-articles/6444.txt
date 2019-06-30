@@ -1,0 +1,35 @@
+<url>
+http://www.telegraph.co.uk/news/worldnews/asia/nepal/11600962/US-military-helicopter-missing-in-Nepal-with-eight-on-board.html
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+US military helicopter missing in Nepal with eight on board
+</headline>
+
+<text>
+A US military helicopter searching for survivors of the Nepal earthquake is missing with eight people aboard.
+
+The Marine aircraft went missing at 10pm local time (2pm BST) in the mountains of Nepal. Six Marines and two Nepalese army soldiers were aboard, according to the Associated Press.
+
+US Army Colonel Steve Warren said that the helicopter had dropped off supplies in one location and was headed to a second site when contact was lost.
+
+He also said that an Indian helicopter in the air nearby at the time heard radio chatter from the Marine helicopter, which was carrying tarps and rice, about a possible fuel problem.
+
+"Essentially what we have right now is truly a missing helicopter," said Col Warren. "We simply don't know its location."
+
+The aircraft was lost near the village of Charikot, in one of the areas hit hardest by the aftershocks of the earthquake that has devastated Nepal.
+
+Since there had been no smoke or other signs of a crash, officials were hopeful that the helicopter was intact and simply missing.
+
+A spokesman for the US Navy said that the aircraft was a "UH-1Y Huey with Marine Light Attack Helicopter Squadron 469 in support of Joint Task Force 505" and "was declared missing while supporting Operation Sahayogi Haat".
+
+Col Warren said a Nepalese air brigade unit was the last to see the Huey, so Marines in V-22 Osprey aircraft searched near that last known location for about 90 minutes but found nothing. The air search was then suspended, due to darkness, though Nepalese troops continued the search on the ground.
+
+The aircraft went missing after a 7.3 magnitude earthquake that struck Nepal on Tuesday, killing at least 37 people and leaving hundreds injured. A larger earthquake on April 25 killed upwards of 8,000 people and led to the massive international recovery operation still underway in Nepal.
+
+There are about 300 U.S. troops in Nepal assisting with the rescue mission, using a variety of aircraft including three Hueys, four Ospreys and several cargo planes.
+</text>

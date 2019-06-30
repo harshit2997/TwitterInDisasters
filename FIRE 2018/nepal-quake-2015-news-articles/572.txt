@@ -1,0 +1,29 @@
+<url>
+http://world.kbs.co.kr/english/news/news_Po_detail.htm?No=110234
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+S. Korea Considers Emergency Relief for Quake-hit Nepal
+</headline>
+
+<text>
+South Korea is considering offering emergency relief for Nepal, which was hit by a massive earthquake.
+
+
+
+A Foreign Ministry official said Sunday that the government is considering sending Nepal relief funds and a message of condolence.
+
+
+
+As for sending an emergency relief team, the official said that the government will decide which form of relief aid is appropriate after considering any requests from Nepal and relief efforts provided by the rest of the international community.
+
+
+
+The official added that Three South Korean nationals were injured in the quake.
+
+
+</text>

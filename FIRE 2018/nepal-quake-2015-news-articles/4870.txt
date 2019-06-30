@@ -1,0 +1,23 @@
+<url>
+http://www.washingtontimes.com/news/2015/may/4/us-military-personnel-continue-help-nepal-earthqua/
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+U.S. military personnel continue to help in Nepal earthquake cleanup
+</headline>
+
+<text>
+More than 100 Defense Department personnel are on the ground in Nepal helping the country recover from a massive earthquake last week that left more than 7,000 people dead.
+
+Col. Steve Warren, Pentagon spokesman, said there are 121 Defense Department employees in Nepal, as well as a logistics support from U-Tapao in Thailand and Okinawa, Japan.
+
+“We are working closely with host nations to minimize the impact of these activities on local populations,” he said.
+
+In addition, five U.S. aircraft — four Ospreys and one Huey, began arriving in Nepal on Sunday morning and will stay in the country to help reach areas that are otherwise inaccessible because of damage.
+
+“These aircraft will help emergency responders to access to remote areas which are home to many of the earthquake’s poorest and most vulnerable,” he said.
+</text>

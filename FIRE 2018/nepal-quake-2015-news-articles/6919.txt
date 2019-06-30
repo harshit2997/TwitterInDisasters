@@ -1,0 +1,25 @@
+<url>
+http://www.thesundaytimes.co.uk/sto/news/world_news/Asia/article1554311.ece?CMP=OTH-gnws-standard-2015_05_10
+</url>
+
+<date>
+20150510
+</date>
+
+<headline>
+British gap year student, 23, confirmed dead in Nepal quake
+</headline>
+
+<text>
+Matt Carapiet, described by his family as ‘kind and caring’, had been staying in a remote village
+
+AN ARCHITECTURE student from Kent was yesterday confirmed to have died in last month’s earthquake in Nepal.
+
+Matt Carapiet, 23, who was touring Asia on a gap year, is the second British national known to have perished in the disaster, which killed more than 8,000 people.
+
+A statement issued by his family described Carapiet, who was planning to start a master’s degree in the autumn, as “kind, caring and happy”.
+
+“Matt is loved by his family and friends who all have countless memories of how kind, happy and caring he was,” it said. “He made a huge impression on the lives of everyone he met.
+
+“He spoke to us regularly about how much he was enjoying his travels and we know he was doing something…
+</text>

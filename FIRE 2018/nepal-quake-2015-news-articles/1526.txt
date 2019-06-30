@@ -1,0 +1,19 @@
+<url>
+http://newsfirst.lk/english/2015/04/google-launches-person-finder-tool-to-aid-nepal-rescue-efforts/91958
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Google launches Person Finder Tool to aid Nepal rescue efforts
+</headline>
+
+<text>
+In an attempt to aid rescue efforts, Google has once again opened up its Person Finder Tool simple crowd-sourced missing persons database.
+
+Google first launched the application in 2010, following the devastating earthquake in Haiti, and has since deployed the tool several times after natural disasters. Person Finder gathers information from emergency responds and individual users who can enter information for a missing person or someone who has been found.
+
+At this time, around 1,300 records have been collected and that number will likely continue to grow throughout the day.
+</text>

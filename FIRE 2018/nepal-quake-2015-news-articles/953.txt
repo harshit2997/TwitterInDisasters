@@ -1,0 +1,17 @@
+<url>
+http://www.thequint.com/world/2016/04/25/nepal-has-done-little-to-protect-itself-from-the-next-big-one
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal Has Done Little to Protect Itself From the Next ‘Big One’
+</headline>
+
+<text>
+Last year’s massive earthquake in Nepal killed nearly 9,000 people, yet could have been much deadlier. It was spared not by disaster preparedness, but by the calendar.
+
+It hit on a Saturday. Most children were out of school, and most adults were working in their fields, rather than in the hundreds of thousands of buildings that were damaged or destroyed.
+</text>

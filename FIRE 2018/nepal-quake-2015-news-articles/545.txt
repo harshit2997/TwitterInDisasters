@@ -1,0 +1,57 @@
+<url>
+http://www.channelnewsasia.com/news/asiapacific/locate-your-loved-ones/1807786.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Locate your loved ones after the Nepal quake
+</headline>
+
+<text>
+Facebook, Google and the International Committee of the Red Cross have avenues for people worldwide to look for friends and relatives, or get alerts that they are safe, in the wake of the massive earthquake in Nepal on Saturday (Apr 25).
+
+SINGAPORE: Following the 7.8-magnitude earthquake that devastated large parts of Nepal on Saturday (Apr 25), several services have been made available to help people get in touch with their loved ones who may have been in the disaster area.
+
+The International Committee of the Red Cross has set up a page for its Restoring Family Links service for the Nepal earthquake at familylinks.icrc.org/nepal-earthquake. Those who are in Nepal and who have been unable to contact relatives directly can add themselves to a list to say they are alive. Those who have lost contact with a loved one in Nepal can also register that person via the website.
+
+Facebook has turned on its Safety Check feature for people in the disaster zone to mark themselves as "safe". "If you're in one of the areas affected by the earthquake, you'll get a notification asking if you're safe, and whether you want to check on any of your friends," wrote Facebook founder Mark Zuckerberg.
+
+This morning we activated Safety Check for people affected by the earthquake in Nepal. It's a simple way to let family... Posted by Mark Zuckerberg on Saturday, 25 April 2015
+
+
+
+
+
+Internet search giant Google has also activated its Person Finder. As of noon Sunday, it was tracking close to 3,000 records. The search service is available through SMS in India and the US at the following numbers:
+
+Text "search <name>" to +91-9773300000 in India or +1-650-800-3978 in the US.
+
+Advertisement
+
+Advertisement
+
+Mobile application Viber announced on its Twitter account on Sunday that it would be turning off billing for its calling service, Viber Out, for users in Nepal. This is so those in Nepal can call any destination for free.
+
+The company added that it is working on providing free Viber Out calls to Nepal, and would update users through Twitter.
+
+Tweet @viberhelp: In response to the earthquake in Nepal we have switched off Viber Out billing so Nepal users can call any destination for free
+
+
+
+India's Ministry of External Affairs has set up the following 24-hour hotlines for queries related to the earthquake:
+
++91 11 2301 2113
+
++91 11 2301 4104
+
++91 11 2301 7905
+
+
+
+
+
+Singaporeans in Nepal who require consular assistance can contact Singapore's High Commission in New Delhi at +91-98102-03595 or singhc_del@sgmfa.gov.sg. Alternatively, they may contact the MFA Duty Officer (24-hours) at 6379 8800 / 8855 or mfa_duty_officer@mfa.gov.sg.
+</text>

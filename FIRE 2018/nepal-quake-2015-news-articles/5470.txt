@@ -1,0 +1,25 @@
+<url>
+http://news.xinhuanet.com/english/2015-05/07/c_134218472.htm
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+PLA choppers sent for disaster-relief mission in Nepal - Xinhua
+</headline>
+
+<text>
+LHASA, May 7 (Xinhua) -- China on Wednesday dispatched three army helicopters to aid earthquake-ravaged Nepal.
+
+As of Thursday morning, the choppers had flown 12 trips from southwest China's Tibet Autonomous Region to Kathmandu, Nepal's capital.
+
+Their missions to help with local transportation and rescue will continue for days, said Guo Lan, a senior official with the Chengdu Military Area Command, which provided the three helicopters.
+
+The military helicopters have so far transferred more than 300 quake victims and brought 9 tonnes of relief goods to the local Nepalese.
+
+A total of 360 tonnes of relief materials are due to be sent to Nepal within four days. A hundred tonnes of materials from China's military arrived in Nepal on Saturday and Sunday.
+
+The death toll of the devastating earthquake on April 25 has reached 7,652 in Nepal.
+</text>

@@ -1,0 +1,19 @@
+<url>
+http://www.business-standard.com/article/news-ians/nepal-quake-10-killed-in-pokhara-area-115042500275_1.html
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Nepal quake: 10 killed in Pokhara area
+</headline>
+
+<text>
+As many as 10 people were killed on Saturday in Nepal's picturesque Pokhara area following a huge earthquake.
+
+Police spokesman Kamal Singh Ban told the media that they have received information about the death of 10 people in the Pokhara area.
+
+However, communication with the rural areas in Nepal has been snapped and they are trying to send out forces wherever possible.
+</text>

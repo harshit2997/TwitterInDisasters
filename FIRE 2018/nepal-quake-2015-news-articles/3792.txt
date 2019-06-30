@@ -1,0 +1,35 @@
+<url>
+http://99bitcoins.com/donate-bitcoin-help-victims-nepal-earthquake/
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Donate Bitcoin and help the victims of the Nepal earthquake
+</headline>
+
+<text>
+The Bitcoin exchange igot.com has just launched a new website – www.BitcoinForNepal.com – that will allow Bitcoiners all over the world to donate cryptocurrency and help the victims of the Nepal earthquake.
+
+All the BTC received by this new site will go directly to the Red Cross emergency relief fund that is currently collecting donations to help the victims of the natural disaster that hit Nepal on Saturday (25th).
+
+The 7.8 magnitude earthquake, the worst in almost a century, left a massive trail of destruction in the region where the cities of Kathmandu and Pokhara are located.
+
+According to Nepal’s National Emergency Operation Centre, more than 5,000 people are now known to have died and over 10,000 people have been injured. The earthquake also damaged hundreds of buildings, infrastructure and ancient monuments.
+
+Following the natural disaster, the International Federation of Red Cross and Red Crescent Societies is currently trying to raise around $34 million to help more than 470,000 victims affected by the earthquake. The organization plans to pay assistance in Nepal over the next 18 months.
+
+Besides providing a special online platform where Bitcoiners can donate cryptocurrency, the exchange igot.com will also be donating 50% of its commissions during the month of May.
+
+“Like many individuals in the Bitcoin community, I have been truly shocked by the tragic consequences of this earthquake,” said the founder of the exchange, Rick Day.
+
+“At igot, we really want to do something to make a difference in the lives of the people affected by the disaster. Bitcoin is a great way to donate to this cause because 100% of the funds donated will go straight to where they are needed most.”
+
+Igot plans to transfer the donations made in Bitcoin to the Nepal Red Cross every seven days during the next month. The exchange is keeping the process open to the public to ensure transparency, so you can check the Nepal appeal Bitcoin address here.
+
+“The Bitcoin community has a history of supporting charitable efforts, such as US-based homeless outreach Sean’s Outpost, and we believe there will be a tremendous show of support for the people of Nepal,” Rick Day added.
+
+If you would like to donate without using Bitcoin, you can visit the Red Cross donation page here and choose a different option.
+</text>

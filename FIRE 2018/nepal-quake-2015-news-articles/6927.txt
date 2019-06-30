@@ -1,0 +1,23 @@
+<url>
+http://www.newstalkzb.co.nz/news/world/nepal-death-toll-tops-8000/
+</url>
+
+<date>
+20150510
+</date>
+
+<headline>
+Nepal death toll tops 8000
+</headline>
+
+<text>
+The death toll from last month's earthquake in Nepal has now topped 8000, and for millions more the situation is dire.
+
+The Nepalese government has ordered an investigation of reports of profiteering in the aftermath of the shakes.
+
+There have been complaints that the prices of medical supplies and everyday foodstuffs have been doubled or tripled. There have also been allegations that private hospitals are extorting money from the patients.
+
+Even bottled water past its expiry date is selling at a 100 percent markup.
+
+Tarpaulins, which are in very short supply, are attracting three or four times the usual price.
+</text>

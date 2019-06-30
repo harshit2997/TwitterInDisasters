@@ -1,0 +1,29 @@
+<url>
+http://english.yonhapnews.co.kr/news/2015/05/04/28/0200000000AEN20150504005600315F.html
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+S. Korean university sends aid supplies to Nepal hospital
+</headline>
+
+<text>
+2015/05/04 15:58
+
+SEOUL, May 4 (Yonhap) -- A top South Korean university said Monday it has sent relief goods to a Nepalese hospital to help with the earthquake relief operations.
+
+Seoul National University said it has donated 600 water filters to the Kathmandu University hospital in the Nepalese capital, along with Scientists and Engineers Without Borders, a Seoul-based non-profit organization.
+
+A magnitude-7.9 earthquake hit Nepal last month, killing more than 7,000 people.
+
+SNU's medical college has also donated medical supplies, and SNU students are collecting donations and other relief goods to be sent to the quake-hit nation.
+
+SNU said it plans to send volunteers to Kathmandu University this winter to help rebuild its library and laboratories affected by the earthquake.
+
+SNU signed a memorandum of agreement with the Nepalese university in 2010 to establish a student exchange program. Currently, 13 Kathmandu University students are studying at SNU.
+
+(END)
+</text>

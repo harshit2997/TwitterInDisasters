@@ -1,0 +1,61 @@
+<url>
+http://www.timescall.com/business/ci_27999415/digitalglobe-launches-map-crowdsourcing-assist-nepal-quake-relief
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+DigitalGlobe launches map crowdsourcing to assist Nepal quake relief
+</headline>
+
+<text>
+DigitalGlobe is enlisting the general public's assistance with relief efforts in Nepal following Saturday's magnitude-7.8 earthquake, and anyone with an Internet connection and some spare time can help.
+
+The Longmont-based company on Saturday deployed its FirstLook system, directing its WorldView-1, WorldView-3, and GeoEye-1 to take sweeping high-resolution images of affected areas and making them available for search, rescue and relief organizations.
+
+They've also activated their crowdsourcing platform Tomnod, allowing people around the world to use before and after photos to tag collapsed buildings, blocked roads and other areas of major destruction.
+
+This provides crucial information to disaster response teams on the ground — and the more eyes on board, the better, said Kevin Bullock, DigitalGlobe's director of product management.
+
+Advertisement
+
+"The crowd can very efficiently go through thousands of square kilometers of imagery and identify things," Bullock said. "We can quickly update the map of Kathmandu showing how to bring supplies in and get people out to the airport or to a hospital. It really aids the efficiency of response ... After the event happens there's so much chaos and misinformation, it's hard for responders to figure out what areas need help first."
+
+Initial images were impacted by heavy cloud cover and dense, moist air on over the quake area. A second pass by WorldView-2 and WorldView-3 on what was Monday afternoon in Nepal proved much better, allowing volunteers in Europe and Asia to get to work tagging while the majority of the U.S. was asleep. Nepal is 11 hours, 45 minutes ahead of Denver's Mountain time zone.
+
+DigitalGlobe's satellites are maneuverable, and designed to cover massive areas of land, unlike many imaging satellites that only point straight down, Bullock said.
+
+And, he added, the perspective is priceless.
+
+"Seeing it from space, it's almost like if you were to look at a chess game," Bullock said. "When you play chess, you always look down on the board. If you're at the same level as the chess pieces, you don't have the same context and can't make sense of where the chess pieces are."
+
+The images also carry embedded geolocation data — i.e. latitude and longitude — allowing them to be paired with photos snapped on the ground and offering a fuller perspective to relief crews.
+
+DigitalGlobe used seismic data from the U.S. Geological Survey, social media feeds and reports from networks such as the BBC to initially frame the areas on which they focused the satellites.
+
+The area was massive and much larger than Kathmandu, where much of the world's attention has been focused, and included the Mount Everest avalanche areas as well as outlying villages.
+
+"The reason that's important is we don't know what we don't know. If villages outside of Kathmandu are hit hard, then we are able to provide images," Bullock said.
+
+These images were also supplemented by work done in the past few years by organizations concerned about Nepal's poor infrastructure and lack of earthquake building codes.
+
+One of them, the Open Street Map (OST) humanitarian team, has made substantial leeway in mapping areas outside of Kathmandu in recent years. OST is an open source platform with the goal of crowdsourcing a map of the entire globe.
+
+OST and Tomnod users continue to assist with ongoing rebuilding efforts in Haiti , which was devastated by an earthquake in 2010, and areas of the Philippines that were destroyed by Typhoon Haiyan in 2013.
+
+The mapping services are invaluable in such situations, when confusion reins supreme and time is a precious commodity, Bullock said.
+
+"In Haiti, everyone realized that we had virtually no maps," he said. "We take for granted our mapping services where you talk to your phone and it shows you the way."
+
+The number of people involved with these efforts can range anywhere from thousands, to tens of thousands and — in the case of the Tomnod-assisted search for missing Malaysia Air flight MH370 in March 2014 — millions.
+
+As Monday afternoon, about 4,530 Tomnod volunteers had generated 21,975 tags over 14,700 square kilometers of images from Nepal, and more than 1,930 OST volunteers had added information to 51,419 highways and streets and almost 72,000 buildings and structures in corresponding images.
+
+And, says Bullock, they won't be stopping anytime soon.
+
+"Even as the impact zone is being more defined, we'll blanket the area with imagery as the situation progresses," Bullock said. "We were taking updated pictures of Haiti for 30-40 days after the earthquake. Long after the eyes of the world are off it, the volunteers are still working on it. We're here for the long haul."
+
+Laura Keeney: 303-954-1337, lkeeney@denverpost.com or twitter.com/LauraKeeney
+</text>

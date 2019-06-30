@@ -1,0 +1,39 @@
+<url>
+https://onpoint.wbur.org/2015/05/01/nepal-earthquake-update-how-to-help
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Updates On Nepal's Earthquake Disaster
+</headline>
+
+<text>
+Nepal and Kathmandu after the devastating earthquake. We’ll look at the geology, geo-politics, rescue and the hard way ahead.
+
+In this photo provided by World Vision, a house stands destroyed by Saturday’s earthquake at Paslang village in Gorkha municipality, Nepal, Monday, April 27, 2015. (AP)
+
+Nepal is magical and Nepal is poor and this week Nepal has been shaken to its mountainous core. Literally shaken. The first images out of Kathmandu showed lovely, fragile temples lying in heaps of stone and shattered eaves. And Nepalis fleeing for their lives from earthquake and aftershock and the terrible sense that no place was safe. Not Kathmandu, not the flanks of Mt. Everest where climbers died in the shaking, not the Nepali villages where help is slow and hard in coming. This hour On Point: more than 6,000 dead, a unique culture battered, and the epic challenges now in Nepal.
+
+-- Tom Ashbrook
+
+Guests
+
+Donatella Lorch, freelance reporter and blogger based in Kathmandu, Nepal. (@tangledjourneys)
+
+Alok Bohara, director of the Nepal Study Center at the University of New Mexico, where he is also a professor of economics.
+
+Jeff Shannon, Nepal's director of programs for Mercy Corps.
+
+James Moriarty, senior advisor for South Asia at the Bower Group Asia. Non-resident fellow at the Center for Strategic and International Studies. Former US Ambassador to Nepal and Bangladesh.
+
+From Tom’s Reading List
+
+The Daily Beast: The Post-Quake Desperation of Nepal’s Hinterlands -- "Many of us in Kathmandu are counting the aftershocks as a way of making ourselves feel better and less afraid. In the coming weeks, the USGS expects 3 to 14 aftershocks around a level 5. It's good to know that we have had three already. In this long week we now face, there is a 54 percent chance of a level 6 or above and a 7 percent chance of a level 7. The aftershocks at level 3 or 4 will continue for weeks and months. In other words, Nepal is in it for the long haul."
+
+Foreign Policy: U.S., China, India Race to Send Aid to Earthquake-Battered Nepal — "The initial quake was centered on an area northwest of Kathmandu, and aid workers fear that part of the country could be devastated. The death toll continued to rise on Sunday in part due to a pair of large-scale aftershocks to the east of the capital. The tremors destroyed historic buildings in Kathmandu, forced residents to spend the weekend in the open for fear of being trapped inside crumbling buildings, and prompted avalanches that killed 18 climbers on nearby Mt. Everest. The shocks reached into neighboring India and Tibet, killing at least 60 more people."
+
+Washington Post: Experts had warned for decades that Nepal was vulnerable to a killer quake — "The Indian plate is inexorably sliding, in a halting, ground-shaking fashion, northward, beneath the much larger Eurasian plate. The process has created the lofty Tibetan plateau and pushed up mountains that reach nearly 30,000 feet above sea level. The Himalaya front can produce earthquakes that are much more powerful than the one on Saturday — such as the 8.2-magnitude earthquake that hit Nepal in 1934."
+</text>

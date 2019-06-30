@@ -1,0 +1,31 @@
+<url>
+http://www.theguardian.com/technology/2015/may/06/nepal-moves-to-limit-drone-flights-following-earthquake
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+Nepal moves to limit drone flights following earthquake
+</headline>
+
+<text>
+Drone operators will need permission from the country’s aviation authority following complaints in affected areas
+
+The Nepalese government has cracked down on unmanned aerial vehicles following the magnitude 7.8 that hit the country in late April.
+
+Operators who want to fly UAVs in Nepal will now have to ask for, and receive, permission from the country’s Civil Aviation Authority (CAAN), according to an official from the organisation.
+
+The Nepalese tourism ministry says the new regulations have been put in place following complaints from citizens about the use of drones to collect news and pictures.
+
+Previously, use of non-combat drones in the country had been sparsely regulated. British NGOs have been using drones to assess the extent of damage from the earthquake, as well as to aid search-and-rescue operations in the area.
+
+Similarly, a number of photographers in Nepal have used drones as part of their reportage from the epicentre of the earthquake, to highlight the “devastation” in the area.
+
+But according to a statement given to the Indo Asian News Service, the Nepalese government is concerned that the footage also contains images of historic artefacts “which could be misused later”.
+
+In Britain, regulations enforced by the Civil Aviation Authority dictate that drones cannot be flown within 50m of a building or a person and within 150m of a built-up area without a specific license. In addition, the maximum flight height is 400 feet, and the drone has to remain in line of sight and within 500m of the pilot.
+
+For commercial purposes, pilots in the UK must complete a training course and apply for a permit to fly the drone from the CAA.
+</text>

@@ -1,0 +1,19 @@
+<url>
+http://www.wsj.com/articles/nepal-earthquake-rescuers-hunt-for-survivors-as-death-toll-rises-1430032637
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal Reels Amid Fears of Aftershocks After Earthquake
+</headline>
+
+<text>
+Thousands of homes and schools were destroyed in Gorkha, Nepal near the earthquake's epicenter. Sean Casey of the International Medical Corps speaks to the WSJ's Deborah Kan from Gorkha on the difficulties of reaching victims and providing care.
+
+KATMANDU, Nepal—Fear of aftershocks sent thousands here into the streets and parks overnight, where they huddled under plastic tarps after a day during which soldiers and police dug, often by hand, in the rubble of collapsed buildings in a race to rescue survivors.
+
+More than 3,200 people were confirmed dead after Saturday’s 7.8-magnitude quake—the Himalayan nation’s most devastating temblor in roughly 80 years—which rippled across a...
+</text>

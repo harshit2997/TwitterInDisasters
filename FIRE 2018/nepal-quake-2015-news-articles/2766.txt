@@ -1,0 +1,23 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/29/c_134193366.htm
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Finland to grant 2 million euros in humanitarian aid to quake-hit Nepal - Xinhua
+</headline>
+
+<text>
+HELSINKI, April 28 (Xinhua) -- Finland will grant two million euros in humanitarian aid to Nepal to meet the needs of the earthquake victims, said the Finnish Foreign Ministry on Tuesday.
+
+The aid will be channeled through some non-governmental organizations, such as the Finnish Red Cross, Finnish Church Aid and Save the Children.
+
+Last Sunday, the Finnish Interior Ministry decided to dispatch a 29-member rescue team to the quake-hit country, but later canceled the mission as the team was unable to get permission to land at Nepal's single international airport.
+
+Finnish media reports said another rescue group organized by the Finnish Red Cross, which traveled by the same plane as the interior ministry team, were looking for alternatives to land in the country.
+
+A 7.9-magnitude earthquake devastated Nepal last Saturday, killing more than 5,000 and leaving tens of thousands of people homeless.
+</text>

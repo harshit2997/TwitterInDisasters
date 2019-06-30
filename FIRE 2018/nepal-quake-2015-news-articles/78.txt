@@ -1,0 +1,23 @@
+<url>
+http://news.xinhuanet.com/english/china/2015-04/26/c_127733263.htm
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Chinese premier extends condolences over Nepal's deadly earthquake - Xinhua
+</headline>
+
+<text>
+BEIJING, April 25 (Xinhua) -- Chinese Premier Li Keqiang on Saturday sent a message of condolences to Nepalese Prime Minister Sushil Koirala over a strong earthquake that struck the South Asian country earlier in the day.
+
+In the message, Li said he is "deeply saddened and shocked" by the loss of lives and that many others were injured in the earthquake.
+
+He expressed his deep sympathy to the relatives of the quake victims and the wounded.
+
+The Chinese government is ready to offer support to help Nepal cope with the aftermath of the quake, he said.
+
+He added that, under the leadership of Koirala, the Nepalese government and people would overcome the disaster, and rebuild their homes.
+</text>

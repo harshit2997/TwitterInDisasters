@@ -1,0 +1,85 @@
+<url>
+http://marketbusinessnews.com/nasas-finder-saves-four-lives-in-nepal-earthquake-debris/59816
+</url>
+
+<date>
+20150510
+</date>
+
+<headline>
+NASA’s FINDER saves four lives in Nepal earthquake debris
+</headline>
+
+<text>
+NASA technology, in the form of a suitcase-sized device called FINDER, saved four lives in the debris following Nepal’s devastating 7.8-magnitude earthquake by detecting their heartbeats. The four Nepalese men from the village of Chautara are alive today thanks to the device.
+
+Two men had been rescued from a collapsed textile factory, and two from another building that had been destroyed on 25 April in the most powerful tremor to hit the country since 1934.
+
+The 2015 Nepal earthquake, also known as the Gorkha earthquake, killed over 8,000 people and injured nearly 20,000. Its epicenter was at the village of Barpak, Gorkha district. Casualties were also reported in adjoining areas of Bangladesh, China and India.
+
+FINDER can detect a human heartbeat through 20 feet of solid concrete. (Image: JPL NASA)
+
+FINDER, which stands for Finding INndividuals for Disaster and Emergency Response, detected the men’s heartbeats even though they were buried in over 10 feet of wood, mud, brick and other debris.
+
+FINDER is a collaboration between the Department of Homeland Security’s Science and Technology Directorate in Washington, and NASA’s Jet Propulsion Laboratory (JPL), Pasadena, California.
+
+The latest version of the technology was being demonstrated on 7 May at the Virginia Task Force One Training Facility in Lorton, Virginia.
+
+FINDER worked in a real-life situation
+
+Department of Homeland Security (DHS) Under Secretary for Science and Technology, Reginald Brothers, said:
+
+“The true test of any technology is how well it works in a real-life operational setting. Of course, no one wants disasters to occur, but tools like this are designed to help when our worst nightmares do happen. I am proud that we were able to provide the tools to help rescue these four men.”
+
+Caltech (California Institute of Technology) in Pasadena, which manages JPL for NASA, licensed a version of FINDER to R4 Incorporated, Edgewood, Maryland. R4 took the device to Nepal to help with relief efforts following the earthquake.
+
+R4’s president, David Lewis, took two prototypes to Nepal and joined an international team of search and rescue personnel, which helped save the four men.
+
+Task manager for the FINDER project at JPL, James Lux, said:
+
+“It’s very gratifying to have a piece of technology that we developed at JPL out in the field helping to save lives.”
+
+Rescue workers in Nepal using FINDER to help find victims buried under the rubble. (Image: JPL NASA)
+
+In disasters timing saves lives
+
+Following natural disasters such as avalanches and earthquakes, timing is crucial. The faster victims can be detected, rescued and taken to safety and medical assistance, the more likely they are to survive.
+
+Mr. Lux said:
+
+“FINDER is a tool that complements the other search methods, like canines, listening devices and cameras, used by first responders. It provides another item in the toolbox for search and rescue.”
+
+FINDER emits a super-light microwave signal – about 1/1000 of a mobile phone’s output – through the rubble, and looks for changes in those signals’ reflections coming back from tiny motions caused by victims’ heartbeats and breathing.
+
+During trials, FINDER managed to detect heartbeats through 30 feet of debris, and even 20 feet of solid concrete.
+
+All you need is FINDER and a laptop
+
+All a rescue worker needs for FINDER to work is a laptop with the appropriate software. He or she can specify the minimum and maximum range for detecting heartbeats in the vicinity.
+
+The program can tell whether the signal is stronger from the right or left as well, to further home in on where the victim is. FINDER weighs less than 20 pounds (9kg), so it can easily be transported by plane or car.
+
+FINDER detects tiny motions using algorithms similar to those used by JPL to measure the orbits of satellites at Saturn or Jupiter, or changes in the Earth’s surface from low-orbit satellites.
+
+It then displays the detected respiration and heart rates, plus a reliability score. Its software can distinguish between a human’s heartbeat and that of an animal, as well as other mechanical devices.
+
+NASA says that apart from natural disaster settings, the device could be useful for tracking down people in a forest, trapped in a house on fire, or buried in the debris of a collapsed building.
+
+Mr. Lux said:
+
+“We’ve had countless people ask us for different applications. One of the more unusual was whether FINDER could detect rhinoceroses hidden in bushes for the purpose of protecting them. We haven’t tried it for that, but in principle, it should work.”
+
+Potential applications in medicine and robotics
+
+The technology could also be used in medicine. A device based on FINDER could monitor the vital signs of an individual who is trapped in a car, or quarantined with a highly contagious disease such as Ebola.
+
+First responders in such situations would be able to measure a person’s heartbeat without needing to physically touch them.
+
+NASA hopes the next generation of this technology could combine FINDER with robotic, and maybe even small flying drones to get nearer to victims and examine a wider area.
+
+David Miller, NASA’s chief technologist at NASA Headquarters in Washington, said:
+
+“NASA technology plays many roles: driving exploration, protecting the lives of our astronauts and improving – even saving – the lives of people on Earth. FINDER exemplifies how technology designed for space exploration has profound impacts to life on Earth.”
+
+NASA Video – FINDER used in Nepal
+</text>

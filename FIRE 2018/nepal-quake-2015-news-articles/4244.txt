@@ -1,0 +1,19 @@
+<url>
+http://www.news.com.au/world/breaking-news/nepal-rescues-provide-some-hope/story-e6frfkui-1227328367675
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Nepal rescues provide some hope
+</headline>
+
+<text>
+OCCASIONAL rays of hope in the form of unexpected rescues have emerged in the wake of Nepal's devastating weekend earthquake even as the official death toll rose above 5000.
+
+A NEWS cycle heavy on death and loss was lightened somewhat by stories of rescuers reaching people alive in collapsed buildings or climbers being brought back safely from cut-off parts of the Himalayan nation.
+
+Originally published as Nepal rescues provide some hope
+</text>

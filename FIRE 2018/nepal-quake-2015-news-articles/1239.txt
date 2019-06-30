@@ -1,0 +1,23 @@
+<url>
+http://www.statehouse.gov.sc/news.php?news_id=2746
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Office of the President of the Republic of Seychelles
+</headline>
+
+<text>
+Foreign Affairs Seychelles President sends message of condolence following tragic earthquake in Nepal
+
+President James Michel has extended his most sincere condolences to the people and Government of the Federal Democratic Republic of Nepal following the devastating earthquake, which has claimed over 1900 lives and destroyed significant parts of the nation’s capital city of Katmandu.
+
+In a message addressed to the Nepalese Head of State, President Ram Baran Yadav, President Michel said the people of Seychelles grieve with Nepal in these darkest of moments and that Nepal can count on the solidarity and prayers of the people and Government of Seychelles.
+
+“It is with profound sorrow that we have learnt of this catastrophe which has resulted in the loss of countless lives and widespread destruction of property,” said President Michel. The President added that the legendary resilience and courage of the Nepalese people would help them surmount this catastrophe of epic proportions. He further noted that Seychelles is also doubly affected by this tragedy, considering the Nepalese community currently residing in Seychelles.
+
+View all news
+</text>

@@ -1,0 +1,25 @@
+<url>
+http://news.xinhuanet.com/english/2015-05/10/c_134226336.htm
+</url>
+
+<date>
+20150510
+</date>
+
+<headline>
+Nepal's health minister says quake death toll not to top 10,000 - Xinhua
+</headline>
+
+<text>
+KATHMANDU, May 10 (Xinhua) -- Nepal's health minister said here Sunday that the death toll of the April 25 earthquake would not exceed 10,000 as some have predicted.
+
+"The total death toll will be around 8,000-9,000," Minister of Health and Population Khagaraj Adhikari told Xinhua in an exclusive interview in his office on Sunday.
+
+He said it was "fortunate" that the 7.9-magnitude earthquake took place during daytime and on Saturday when "most of the people were in agricultural fields or out of home."
+
+"If the quake occurred during night or working days, the disaster would have taken more lives," the minister said.
+
+According to the update of the Nepalese Ministry of Home Affairs, as of Sunday the quake already left 7,913 people dead and 17,871 others injured.
+
+The Nepal Red Cross Society gave an update on Saturday, saying 7,885 people died in the quake while 16,958 others were injured, down from the tally of 8,413 deaths and 17,576 injured it put three days ago.
+</text>

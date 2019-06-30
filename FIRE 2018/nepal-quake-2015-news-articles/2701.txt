@@ -1,0 +1,21 @@
+<url>
+http://www.dailymail.co.uk/wires/reuters/article-3059253/Dutch-coordinating-international-teams-searching-Nepal-survivors.html
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Dutch coordinating international teams searching for Nepal survivors
+</headline>
+
+<text>
+Dutch coordinating international teams searching for Nepal survivors
+
+AMSTERDAM, April 28 (Reuters) - The Dutch government said on Tuesday the United Nations has asked it to coordinate international teams searching for survivors of the earthquake in Nepal for the time being.
+
+"We have an experienced team in place, and so we have been asked to coordinate" said Foreign Affairs Ministry spokesman Pim van Strien.
+
+The Dutch have sent a team of 62 urban search and rescue experts, along with 8 dogs, to assist in Nepal.
+</text>

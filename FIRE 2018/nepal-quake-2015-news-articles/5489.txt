@@ -1,0 +1,29 @@
+<url>
+http://www.newscientist.com/article/mg22630203.100-cholera-vaccine-stocks-could-save-millions-of-refugees-in-nepal.html
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+Cholera vaccine stocks could save millions of refugees in Nepal
+</headline>
+
+<text>
+(Image: Navesh Chitrakar/Reuters)
+
+FIRST the quake, now the disease. The earthquake in Nepal on 25 April drove 2.8 million people into tents with little clean water or sanitation. Infections like hepatitis and diarrhoea are now occurring, but the biggest fear is cholera. It hasn’t appeared yet, but it hits Nepal every rainy season. Those rains are due in June.
+
+However, help is on the way. Nepal has an emergency vaccine to try to head off cholera – a first for a natural disaster. This is because of a vaccine stockpile set up in response to the cholera that struck Haiti after an earthquake in 2010 – cholera carried there, ironically, by Nepalese UN peacekeepers.
+
+It will be no panacea: cholera experts stress that supplying clean water and toilets, and isolating and treating any cases, are still essential. But Nepal has 18,000 doses of Shanchol, an oral vaccine made of dead cholera bacteria by Shantha Biotechnics of Hyderabad, India.
+
+Advertisement
+
+For full immunity you need two doses, two weeks apart, so there is only enough vaccine for 9000 people – and it will be difficult to ensure people in camps get both doses. In a final hurdle, the vaccine must be refrigerated.
+
+The World Health Organization, other agencies and the Nepalese government will assess where people are least likely to get clean water in coming weeks, and where vaccination has the best chance of success, says Domnique Legros of WHO. More vaccine can then be flown in from the WHO’s 2 million dose stockpile.
+
+This article appeared in print under the headline “Nepal’s cholera shots”
+</text>

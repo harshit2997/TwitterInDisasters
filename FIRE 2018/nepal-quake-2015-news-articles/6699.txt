@@ -1,0 +1,39 @@
+<url>
+http://www.thestar.com.my/News/World/2015/05/12/Fresh-Nepal-quake-may-hamper-relief-efforts--aid-agencies/
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Fresh Nepal quake may hamper relief efforts - aid agencies - World
+</headline>
+
+<text>
+LONDON (Thomson Reuters Foundation) - Efforts to get aid to millions of people in Nepal could be hampered after a fresh 7.3 earthquake struck on Tuesday, yet aid agencies said they were well placed and equipped to respond following last month's tremor.
+
+The second quake to hit Nepal in just over two weeks killed more than three dozen people and injured more than 1,000 in the Himalayan country, as many buildings already weakened by last month's quake were brought down.
+
+The impoverished nation is still picking up the pieces from the devastation caused by last month's 7.8-magnitude earthquake, the country's worst in more than 80 years, which killed at least 8,000 people and injured more than 17,800.
+
+The new quake triggered three major landslides in Nepal's eastern Sindhupalchowk district, and the Red Cross said the damage would make it even more difficult to reach remote areas already devastated by last month's earthquake.
+
+A district official said 12 people had been injured, while at least four were killed in the district capital, Chautara, according to the International Organization for Migration.
+
+"On the positive side, we already have teams who have set up field hospitals and safe drinking water units in these areas," said Nicola Jones, British Red Cross press officer.
+
+"This gives us a head start on the relief effort compared to the situation two and a half weeks ago," Jones told the Thomson Reuters Foundation by phone from Kathmandu.
+
+Government officials previously admitted that aid delivery was slow in the aftermath of the first quake.
+
+Broken bridges and roads blocked by landslides mean that people in rural areas are now facing an even longer wait for aid than before, according to Save the Children (STC).
+
+The charity said it had faced lengthy delays getting supplies into Kathmandu airport due to limited capacity, and the airport's temporary closure would cause further delays.
+
+"Our staff are ready and teams are in place, but we will need to scale up relief efforts and push out to newly affected areas," said Caroline Anning, STC humanitarian media manager.
+
+"Some of the poorest communities had already lost absolutely everything and were terrified of another earthquake, so there will be a lot of trauma to deal with," Anning said.
+
+The United Nations Children's Fund (UNICEF) said it was very concerned about the impact of the quake on some 1.7 million children who already need help urgently after last month's devastating quake.
+</text>

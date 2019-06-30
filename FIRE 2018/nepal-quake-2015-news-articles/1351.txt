@@ -1,0 +1,59 @@
+<url>
+http://www.nature.com/news/how-scientists-are-aiding-quake-recovery-in-nepal-1.17460
+</url>
+
+<date>
+20150424
+</date>
+
+<headline>
+How scientists are aiding quake recovery in Nepal
+</headline>
+
+<text>
+Daniel Berehulak/NYT/Redux/eyevine
+
+The magnitude-7.8 earthquake that struck Nepal on 25 April has devastated the resource-poor Himalayan nation. Numerous houses and buildings have collapsed, and the quake triggered landslides and avalanches that engulfed remote villages. Officials in Nepal say that the quake has affected more than 8 million people. More than 6,100 have died and roughly 13,900 are injured.
+
+Pradeep Mool
+
+Pradeep Mool, a geologist and remote-sensing expert at the International Centre for Integrated Mountain Development (ICIMOD) in Kathmandu, talks to Nature about the earthquake — and how scientists are assisting in rescue and relief efforts.
+
+How has the quake affected your research?
+
+ICIMOD and its partner institutions have many instruments and observatories in place to monitor climate, pollution, glaciers, hydrology and ecosystems along river valleys and in high mountains. Because a lot of those places are cut off from communication, we do not really know the full extent of the damage. But we expect to see serious losses, especially in places such as the Langtang region, which has a high concentration of research projects. There, massive landslides and avalanches have buried several settlements and blocked valley roads.
+
+Some planned research activities in the coming months will have to be cancelled, including an international scientific expedition that was supposed to head to Langtang this week. The expedition, which would have consisted of more than two dozen glaciologists and hydrologists, had been delayed for multiple reasons. But what a lucky escape! We would be in big trouble if we had gone to Langtang last week.
+
+How are you all coping?
+
+We are still in a state of shock. There have been some major aftershocks and smaller tremors are expected to continue in the next few weeks. We now have electricity and water in most parts of the city. Most people have moved back to their houses after sleeping on the streets — even when it was raining — for a few days.
+
+The main building of the ICIMOD headquarters has only a few cracks, but the adjacent Bhutan Pavilion — a gift from the Bhutanese government — totally collapsed. Since our server returned to normal on Monday, we have received numerous kind messages and good wishes from our friends and colleagues around the world. We are trying to pull ourselves together to support the rescue and relief efforts.
+
+What role can science have in such efforts?
+
+Landslides are a main stumbling block to rescue and relief operations. Many roads are damaged or blocked, so aid and rescue workers cannot reach some of the quake-hit villages. This has also affected the roads that connect Kathmandu to the outside world, preventing aid and daily supplies from coming into Nepal. There are risks of new lakes that have been formed by river-clogging debris.
+
+Looking ahead, more slopes — which have now been primed by the quake — are likely to fail as the snow begins to melt and the monsoon kicks in. We also worry that some of the moraine dams of glacier lakes might have been weakened by the quake. This could cause floods as the lakes start to thaw and devastate downstream communities.
+
+So there is an urgent need to assess the impact of landslides and monitor all potential hazards. This is where science can have a major role.
+
+How is ICIMOD assisting the rescue and relief operations?
+
+Together with our colleagues around the world, we are closely monitoring landslides, glacier lakes and dammed rivers by going through satellite images. We provide the latest information to the Nepalese government and relief agencies. We also post all of the findings, along with other information such as weather forecasts and damage assessment, on a dedicated web page, which includes many links to related websites.
+
+ICIMOD scientists are working with traffic controllers at the airport by providing assistance to assess weather and terrain conditions. We have sent teams of volunteers to aid relief efforts in nearby villages, and are also talking to government agencies about helping to rebuild some of the mountain villages that we work with.
+
+How will the quake affect ICIMOD’s research programmes?
+
+The first thing we have to do is to assess what has happened to our facilities across Nepal. We will probably need to do loads of repair and replace many instruments and data loggers. ICIMOD has a lot of long-term projects to monitor and study all aspects of the landscape. With this massive earthquake, the landscape dynamic — especially glaciology, hydrology and ecosystems — has now changed. So we will need to take this into consideration when analysing the data and evaluating research priorities.
+
+Because the impact of the quake on landslides and glacier lakes is likely to continue for many years, monitoring the risks and setting up early-warning systems will be our top priority in the foreseeable future. To get an accurate assessment of the situation, we will need to combine remote-sensing technology with a lot of field investigation.
+
+How are your friends, family and colleagues?
+
+One of my close relatives and his mother were killed by the quake. Their beautiful ancestral house in Bhaktapur collapsed and killed them immediately. My own family — my wife and two daughters — is fine. And so are my friends and colleagues at ICIMOD, although some of them are suffering from minor injuries.
+
+We had a team of glaciologists out in the field near Everest. They were crossing a frozen lake when the earthquake happened. The ice began to deform and large cracks emerged under their feet. Thankfully, they managed to escape and got to safe ground.
+</text>

@@ -1,0 +1,27 @@
+<url>
+http://betanews.com/2015/04/27/microsoft-offers-free-skype-calls-in-nepal-facebook-donates-2-million/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Microsoft offers free Skype calls in Nepal, Facebook donates $2 million
+</headline>
+
+<text>
+The terrible repercussions of the earthquake in Nepal and the aftershocks continue to be felt. With thousands of people yet to be accounted for, Google and Facebook have already launched services to help connect with people in the affected areas.
+
+Now Microsoft has entered the fray, offering free Skype calls to both landlines and mobiles in Nepal. Starting immediately, Skype users can make calls from within Nepal, or place them to the country regardless of whether they have any credit.
+
+Microsoft took action after the extent of the disruption to the country's communication network became clear. With so many misplaced individuals, plenty of people are trying to let friends and family know that they are okay, as well as those concerned that people they know are safe and well. In a post on the Skype Blog, Microsoft says:
+
+In light of the devastating events that have taken place in Nepal -- and the subsequent impact to the local communications infrastructure -- we are making all Skype calls to landlines and mobiles in and out of Nepal free of charge, with immediate effect. Since no one knows the full extent of the devastation, we want to help provide people with alternative methods of communication to reach friends and family in the region during this difficult time.
+
+Facebook may have already launched its Safety Check feature for Nepal, and Mark Zuckerberg today announced that Facebook is providing a way for users to make donations to the International Medical Corps -- you should see a donate option at the top of your newsfeed. As well as making it easier for users of the social network to offer financial support, Facebook also offered up some cash of its own:
+
+Facebook will match every dollar donated up to $2 million. Matching funds will be distributed to local relief and rescue organizations working to provide immediate and ongoing relief.
+
+If you want to make a donation, pay a visit to Facebook's Nepal Earthquake Support page.
+</text>

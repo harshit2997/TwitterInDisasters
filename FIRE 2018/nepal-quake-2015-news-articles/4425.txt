@@ -1,0 +1,21 @@
+<url>
+http://www.eham.net/articles/34510
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Nepal Grants Operating Permission, Call Signs to Visiting Hams:
+</headline>
+
+<text>
+Nepal Grants Operating Permission, Call Signs to Visiting Hams: April 30, 2015
+
+Website:
+
+Add a comment about this article! from The ARRL Letter onWebsite: http://www.arrl.org/
+
+Nepal Grants Operating Permission, Call Signs to Visiting Hams, as Earthquake Recovery Continues: In the wake of the devastating April 25 earthquake, hams in Nepal, already in limited supply, have been turning out to help in the ongoing recovery. The Nepalese government also is reported to be cutting some of the red tape that has prevented hams from outside the country from operating within Nepal. Several hams from India are among those who have arrived in Nepal to help facilitate communication. Word earlier this week via Amateur Radio Society of India President Gopal Madhavan, VU2GMN, was that visiting hams would not be permitted to operate in Nepal, unless they were part of a government team. On the other hand, getting needed Amateur Radio equipment into Nepal remains problematic. "ARRL is working closely with amateurs in Nepal to identify equipment needed for the relief effort," said ARRL Emergency Preparedness Manager Mike Corey, KI1U. "We are preparing a shipment from the Ham Aid http://www.arrl.org/ham-aid inventory, but like other NGOs, we are facing transportation challenges. We hope to have transportation arrangements in place soon." Unconfirmed reports said another group was having problems getting a repeater into Nepal. While parts of the telecommunication infrastructure remain in operation, power is out. Ham radio remains a reliable link at this stage of the recovery effort. A major focus of rescue teams has been attempting to locate the missing, as well as to recover quake victims buried beneath debris. More than 5000 people are now reported dead as a result of the earthquake and subsequent aftershocks. The disaster also has stranded many people, as roads were cut off by landslides and damage. Rain, heavy at times, has hampered rescue and recovery work. "In spite of the conditions, ham radio operation is in progress, and the Nepal government has started issuing licenses to visiting hams, with 9N7 prefixes," said Jayu Bhide, VU2JAU. Bhide, who is the Amateur Radio Society of India's National Coordinator for Disaster Communication, said these stations have been asked to help provide communication to more of the devastated region. Ham radio groups are being asked to spread out in terms of operating frequencies as well. Bhide said a lot of the Amateur Radio traffic has consisted of health-and-welfare inquiries. Mike Kalter, W8CI, told ARRL that he relayed an urgent request from the family of a woman traveling between Nepal and Tibet with a tour group. He passed along the information via ham radio to Mohan Suri, VU2MYH, in Nepal, who supplied the information to authorities. Within a few days, the woman being sought reported back through Jerry Long, KJ4YAP, that groups were going through the streets of Kathmandu, announcing names of individuals being sought, and she heard her name called out. The woman and her tour group were subsequently helicoptered out of Nepal. At least two groups of hams from Gujarat, India, were planning to travel to Nepal and set up stations "at critical places," Bhide said, adding that he, Ananda Majumdar, VU2AGJ, and Sandip Baruah, VU2MUE, were planning to set up HF and VHF stations at Gorakhpur, on the India-Nepal border. Amateur Radio HF nets have been one link between Nepal and the outside world, as Internet service continues to be spotty. Nepalese hams also are active locally on VHF/UHF. Bhide said residents in the affected areas were finding it difficult to contact family members, as their cell phones have discharged, and no charging facility is available. He and some of the radio amateurs active on the relief and recovery nets contacted agencies in Nepal to provide small solar charging units. The earthquake -- said to be the worst in Nepal in 80 years -- hit an area between the capital city of Kathmandu and the city of Pokhara. Source: The ARRL Letter There are no comments on this article: Post One
+</text>

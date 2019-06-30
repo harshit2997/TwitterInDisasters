@@ -1,0 +1,25 @@
+<url>
+http://www.nytimes.com/2015/05/17/world/asia/8-bodies-recovered-from-wreckage-of-marine-helicopter-nepal-army-says.html
+</url>
+
+<date>
+20150516
+</date>
+
+<headline>
+8 Bodies Found in Wreckage of Marine Helicopter, Nepal Army Says
+</headline>
+
+<text>
+KATHMANDU, Nepal — Eight bodies were found at the site of the crash of a United States Marine helicopter that disappeared in Nepal while assisting in earthquake relief efforts, the Nepalese Army said Saturday evening.
+
+Six Marines and two Nepali soldiers were aboard the UH-1 Huey when it lost radio contact on Tuesday after a 7.3 magnitude earthquake, the worst aftershock since the April 25 quake that killed more than 8,000 people.
+
+The bodies were not recovered, according to Nepal’s army in a revision of an earlier statement, because bad weather halted efforts to lift them from the scene.
+
+The wreckage of the helicopter was discovered Friday on a high mountain pass near the village of Charikot, amid treacherous conditions that made recovery efforts dangerous.
+
+A Marine spokeswoman, Capt. Cassandra Gesecki, said that eight sets of remains had been found but had not been identified or recovered.
+
+The names of the Marines and the Nepali soldiers were not released.
+</text>

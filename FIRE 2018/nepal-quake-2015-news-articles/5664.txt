@@ -1,0 +1,23 @@
+<url>
+http://news.yahoo.com/nepal-quake-toll-climbs-6-204-official-024759936.html
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Nepal quake toll climbs to 6,204: official
+</headline>
+
+<text>
+Injured Nepalese villagers are assisted aboard a helicopter at Marming village in Sindhupalchowk district, east of Kathmandu on April 30, 2015 (AFP Photo/Prakash Mathema)
+
+The death toll in Nepal from last weekend's devastating earthquake has risen to 6,204, the National Emergency Operations Centre said in its latest update on Friday.
+
+A further 13,932 people were injured in Saturday's 7.8-magnitude quake, added the centre.
+
+More than 100 people in neighbouring India and China also died in the quake, officials say.
+
+The Red Cross has warned of "total devastation" in remote areas near the epicentre, as Nepal's government struggles to deal with the scale of the disaster.
+</text>

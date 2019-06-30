@@ -1,0 +1,31 @@
+<url>
+http://www.cbsnews.com/news/u-s-marines-begin-aid-operation-in-nepal/
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+U.S. Marines begin aid operation in Nepal
+</headline>
+
+<text>
+KATHMANDU, Nepal -- The U.S. military made its first surveillance flight in Nepal Monday, a week after the country was hit by a devastating earthquake that's killed more than 7,300 people. Four tilt-rotor Osprey aircraft that can land in tight spaces flew over the disaster zones.
+
+U.S. Marine Brigadier General Paul Kennedy told CBS news he could see landslides during his flyover.
+
+"It's just wiping out the roads," said Kennedy . "They're going to have to rely immediately upon an airlift to help these folks out and then you're going to have to start from the valley and dig your way all the way up to those villages."
+
+Kennedy and USAID's Bill Berger had been asked by Nepal's government to assess the region near the Chinese border.
+
+"We saw a great deal of devastation," said Berger after the flight. "Even the equipment to clear the roads we saw was stranded in many places along the road."
+
+CBS News
+
+A tiny airport is serving as the main distribution hub for relief supplies coming in to Nepal. The supplies are then moved out to the remote regions where there's a greater need. The U.S. military is bringing in some of the heavy equipment to help make that transfer happen.
+
+As the cleanup continues, hopes are fading that anyone else will be found alive in the rubble.
+
+One U.S. embassy official told CBS News Nepal has difficult terrain and infrastructure in the best of times -- and this is not the best of times.
+</text>

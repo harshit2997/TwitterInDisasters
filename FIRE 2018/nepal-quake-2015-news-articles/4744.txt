@@ -1,0 +1,27 @@
+<url>
+http://www.geekwire.com/2015/nasa-radar-helps-save-four-men-under-debris-in-nepal-by-detecting-their-heartbeats/
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+NASA radar helps save four men under debris in Nepal by detecting their heartbeats
+</headline>
+
+<text>
+This is simply amazing evidence of how the best technology can help us in the most desperate of times.
+
+A radar system developed by NASA helped find four men trapped under about 10 feet of rubble in Nepal — by detecting their heartbeats.
+
+The news comes out of NASA’s Jet Propulsion Laboratory. The new “search-and-rescue” technology, developed in partnership by the Department of Homeland Security and NASA, is called FINDER (Finding Individuals for Disaster and Emergency Response). FINDER uses microwave-radar technology to basically detect a pulse under debris.
+
+NASA reports that two FINDER devices were used after the Nepal earthquake to help find victims. Apparently, it helped them find four. They report that the “men had been trapped beneath the rubble for days in the hard-hit village of Chautara…using FINDER, they were able to detect two heartbeats beneath each of two different collapsed structures, allowing the rescue workers to find and save the men.”
+
+The agencies say that “FINDER has previously demonstrated capabilities of detect people buried under up to 30 feet of rubble, hidden behind 20 feet of solid concrete, and from a distant of 100 feet in open spaces. A new ‘locator’ feature has since been added to not only provide search and rescue responders with confirmation of a heartbeat, but also the approximate location of trapped individuals within about five feet, depending on the type of rubble.”
+
+“It’s very gratifying to see technology developed at JPL being used to save lives,” said Jim Lux, task manager for the FINDER project at NASA’s JPL in the release.
+
+Incredible.
+</text>

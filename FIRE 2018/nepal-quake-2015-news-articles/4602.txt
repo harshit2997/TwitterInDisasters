@@ -1,0 +1,21 @@
+<url>
+http://www.newsx.com/world/2958-nepal-quake-toll-rises-to-6621
+</url>
+
+<date>
+20150503
+</date>
+
+<headline>
+Nepal quake toll rises to 6,621
+</headline>
+
+<text>
+Kathmandu: The toll in the massive earthquake that devastated Nepal has risen to 6,621, the home ministry said on Saturday.
+
+The new deaths were reported after more bodies were pulled out from quake-hit sites. Among the dead, the number of the women is significantly high, police said.
+
+Nepalese Army chief Gen. Gaurav Sumsher Rana on Friday told media persons that toll could rise to 10,000 as rescue teams were busy in pulling out bodies in remote areas as well as in Kathmandu.
+
+On Friday, 50 more bodies were recovered from the rubble of the Dharahara tower that collapsed after the quake hit the Himalayan nation last Saturday.
+</text>

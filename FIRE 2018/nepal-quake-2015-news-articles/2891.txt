@@ -1,0 +1,39 @@
+<url>
+http://www.irishtimes.com/news/world/asia-pacific/experts-who-met-in-kathmandu-had-warned-region-was-unprepared-1.2191264
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Experts who met in Kathmandu had warned region was unprepared
+</headline>
+
+<text>
+Earlier this month some of the world’s leading earth scientists met in Kathmandu to review the resilience of Nepal in the face of a powerful earthquake they knew would eventually come. Just two weeks later the experts’ judgment – that the region was seriously unprepared – was tragically confirmed when a 7.8-magnitude quake struck, killing thousands.
+
+What happened on Saturday was no surprise, although there was no indication it would come so soon, according to James Jackson, head of Cambridge university’s earth sciences department, who was one of the delegates at the conference.
+
+Seismic regions
+
+“We had no prior knowledge of an imminent earthquake,” said Prof Jackson. “With the current state of scientific knowledge we cannot predict or forecast the time or dates of earthquakes, beyond saying that where they have happened in the past they will happen again in the future.”
+
+Nepal sits in one of the world’s most active seismic regions, where the Indian tectonic plate moves under the Eurasian plate at an average rate of 4cm a year – lifting up the Himalayas in the process. Friction prevents smooth movement of the plates, so stress and strain build up until energy is released suddenly in an earthquake.
+
+Saturday’s event moved a slab of the Earth’s crust, about 150km long and 50km wide, by about three metres. Although this relieved the seismic stress locally, the movement may have increased strain elsewhere in the region, Prof Jackson warned.
+
+Even locally there was a risk of damaging aftershocks, said Teng-fong Wong, head of earth sciences at the Chinese University of Hong Kong, adding: “For a magnitude like this they can go on for years.”
+
+Aftershocks are almost always weaker than the original earthquake but they can cause disproportionate damage, shaking weakened buildings and exacerbating landslides.
+
+Although the timing of big earthquakes is unpredictable, historical research suggests they occur in the Kathmandu Valley according to an irregular cycle averaging about one every 80 to 100 years, said Prof Wong. The last severe one, with a magnitude of 8.2, killed more than 10,000 in 1934.
+
+Nepalese records suggest that 10 “devastating earthquakes” of magnitude 7.5 or greater have occurred in the valley over the past millennium, according to Gary Gibson, an earth scientist at the University of Melbourne. The recurrence interval between them ranged from 23 to 273 years.
+
+Earthquakes may be inevitable and their timing unpredictable but much can be done to reduce their impact – by making buildings more resilient and educating the population about the risks. The relatively low death rate from severe earthquakes in Chile compared with the toll in South Asia shows how successful this can be.
+
+Vulnerability
+
+Organisations such as the UK-based Earthquakes Without Borders and US-based GeoHazards International were already working with Nepalese bodies such as the National Society for Earthquake Technology to reduce vulnerability, for example by strengthening school buildings. However, everyone agrees there is a long way to go. – (Copyright The Financial Times Limited 2015)
+</text>

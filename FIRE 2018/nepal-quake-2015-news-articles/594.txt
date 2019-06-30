@@ -1,0 +1,17 @@
+<url>
+http://www.nytimes.com/live/earthquake-katmandu-nepal-updates/how-to-help-the-relief-effort-in-nepal/
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+How to Help the Relief Effort in Nepal
+</headline>
+
+<text>
+Extent of the Damage From the Nepal Earthquake Maps show the epicenter of the earthquake, aftershocks, and an avalanche triggered on Mount Everest. World
+
+Nepal’s Landmarks, Before and After the Earthquake The earthquake that struck Nepal on April 25 flattened sections of Katmandu’s historic center, where many structures were made with bricks. World
+</text>

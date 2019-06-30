@@ -1,0 +1,59 @@
+<url>
+http://www.southgatearc.org/news/2015/april/nepal_earthquake_update_6.htm
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Nepal earthquake report #6
+</headline>
+
+<text>
+Nepal earthquake report #6
+
+The Nepal Amateur Radio Society continues to provide emergency communications during the ongoing rescue effort, despite power cuts and damaged communication infrastructure.
+
+Satish 9N1AA along with daughter Tej 9N1DX are using solar power in coordination with the Nepal police in Kathmandu. Also sharing the emcomm work using handhelds and 20m, was Suresh 9N1HA, Pravin 9N1KK and Akarsha 9N1ZZ.
+
+Missing persons inquiries are being handled, and these need to be checked against lists held by the Red Cross at these links.
+
+http://google.org/personfinder/2015-nepal-earthquake/
+
+http://familylinks.icrc.org/nepal-earthquake/en/pages/home.aspx
+
+There will be a more complete casualty list available as the Red Cross increases relief work.
+
+Rescue teams moving to reach devastated villages in remote areas are finding more bodies, injuries, damage and homelessness.
+
+The famed Mt Everest had landslides triggered during a peak climbing period, with many mountaineers losing their lives, or being injured.
+
+National Coordinator for Disaster Communication in India, Jayu Bhide VU2JAU, reports that authorities have issued 9N7-prefixed callsigns to some visiting radio amateurs.
+
+But the situation of foreign radio amateurs and their equipment, for use during the disaster for emcomm work, remains unclear at this time. Shipments of Amateur Radio gear into Nepal for the emergency is problematical.
+
+Nepalese authorities have not joined the Tampere Convention that allows cross-border movements of Amateur Radio in disasters.
+
+The ARRL along with others are trying to respond with VHF handhelds and other equipment.
+
+However the process to get even basic emergency supplies and Search and Rescue Teams into the area is hampered by restricted capacity at Kathmandu Airport and Customs procedures.
+
+Although the Nepalese Government has signed a customs agreement for the emergency relief consignments, this is solely for humanitarian shipments, not communications equipment.
+
+A few Indian, Chinese and Turkish radio amateurs are believed to be embedded in rescue and welfare organisations headed for, or already in Nepal.
+
+Jayu VU2JAU said a network on 20m is handling emergency traffic, and neighboring India has taken a lead in that activity.
+
+The Military Auxiliary Radio System (MARS), a US Department of Defence sponsored program, is now also involved in links between Nepal and the USA.
+
+The known frequencies are 14.205, 14.215 and all the designated IARU Region 3 Emergency Centre of Activity frequencies, found in the IARU Emergency Telecommunications Guide at:
+
+http://www.iaru.org/emergency-telecommunications-guide.html
+
+All are asked to keep the frequencies in use by Nepal clear and allow the Nepalese stations to control the flow of messages - the same international radio requirement given to any distress message.
+
+Jim Linton VK3PC
+
+Chair IARU Region 3, Disaster Communications Committee.
+</text>

@@ -1,0 +1,53 @@
+<url>
+http://www.cbc.ca/news/canada/new-brunswick/3d-images-of-nepal-to-help-earthquake-relief-efforts-1.3072086
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+3D images of Nepal to help earthquake relief efforts
+</headline>
+
+<text>
+Researchers at the University of New Brunswick are using satellite images to map Nepal in 3D to give rescuers and and other organizations a better idea of what has changed since April's deadly earthquake.
+
+The team has been working on mapping Canada and the United States in 3D for years, but they focused their mapping on Nepal nine days ago to provide updated information on the country's new landscape.
+
+"With 3D satellite imaging, we can post online for everyone to see it in 3D," says Yun Zhang, the head of the project.
+
+University of New Brunswick researchers have been mapping Canada and the United States in 3D for years, but they focused their mapping on Nepal to help rescuers and other relief organizations understand how the topography has changed after the earthquake. (Shane Fowler/CBC)
+
+Recently, the team completed mapping Canada in 3D for educational and surveying purposes. They were working on finishing their work on the United States before they were sidetracked by the earthquake.
+
+"We switched our emphasis to Nepal, so we've postponed our U.S. 3D processing," says Zhang.
+
+Once completed, the team intends to publish all of the 3D maps online for free to give workers in Nepal and the general public an idea of the treacherous terrain and how it has shifted in the wake of the April 25 quake.
+
+"It's gives the people a good idea of what the landscape is like and the topography for relief efforts," says David Fraser, a remote sensing technician.
+
+"If you're bringing in a helicopter and you want to land in a certain area, you would really get a sense of the elevation. Where is flat? Where is hilly? Where would be the best place to land my chopper."
+
+Comparing new 3D images to old images
+
+The images must be viewed with special 3D glasses, but according to Zhang the amount of information that can be taken from a 3D image far surpasses that taken from a two-dimensional one.
+
+Yun Zhang, the head of the 3D mapping project, said three-dimensional can provide invaluable information to rescuers. (Shane Fowler/CBC)
+
+"With a 2D picture you see white and you think well that's snow, that must be mountains," says Zhang.
+
+"But in 3D you can see the cliff shears, you can see how dangerous Nepal's mountains are and understand why it takes rescuers so long to get places."
+
+The team is also working on building before-and-after comparison models of the region.
+
+By using new satellite images and comparing them to images taken before the earthquake, they are hoping to see how Nepal has changed and where damage has been sustained even if no one has been to that location yet.
+
+"We can automatically detect which areas are affected by comparing the images which are pre-event and post-event," says Shabnam Jabari, a fourth-year PhD student.
+
+"We will be able to see landslides in areas that maybe no one has even been yet."
+
+Similar satellite imagery completed by another research group UNAVCO, a geoscience research consortium. learned that in the aftermath of the quake Mount Everest shrank by close to 2.5 cm.
+
+The team's satellite images can be viewed, with complimentary 3D glasses, in Fredericton at the Canada Wide Science Fair that is starting on Thursday.
+</text>

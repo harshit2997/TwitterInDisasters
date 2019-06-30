@@ -1,0 +1,23 @@
+<url>
+http://www.business-standard.com/article/pti-stories/us-mourns-death-of-marines-killed-in-nepal-115051600044_1.html
+</url>
+
+<date>
+20150515
+</date>
+
+<headline>
+US mourns death of marines killed in Nepal
+</headline>
+
+<text>
+Led by President Barack Obama, the US today mourned the death of marines killed in a helicopter crash in Nepal.
+
+
+
+"Our prayers remain with the families of our Marines and two Nepalese soldiers, now that the wreckage of their helicopter has been found in a remote part of Nepal," Obama said in his remarks at the National Peace Officers Memorial at the US Capitol.
+
+
+
+"They went to that remote land to help people who suffered devastating losses in a terrible earthquake. They represent a truth that guides our work around the world -- when our friends are in need, America helps," Obama said.Defence Secretary Ashton Carter said, "We also join our Nepalese partners in mourning the loss of their service members who were onboard the helicopter at the time, and we thank the Nepalese and Indian governments for their continued support in search and recovery operations.
+</text>

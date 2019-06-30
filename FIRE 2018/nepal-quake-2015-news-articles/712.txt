@@ -1,0 +1,19 @@
+<url>
+http://www.dailytelegraph.com.au/news/breaking-news/hundreds-of-aussies-missing-in-nepal/story-fni0xqi3-1227322441048?nk=832732f84c7ac8ed4d89d32dee5b5c42
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Australian woman killed in Nepal quake
+</headline>
+
+<text>
+AN Australian woman believed to have been on her first expedition to Mount Everest had "no chance" when an avalanche washed away her tent at base camp on the world's highest mountain.
+
+RENU Fotedar, 48, is among at least 19 people killed at the Everest base camp, with some 200 Australians believed to be still missing in Nepal after an 7.8 magnitude earthquake struck on Saturday.
+
+Originally published as Australian woman killed in Nepal quake
+</text>

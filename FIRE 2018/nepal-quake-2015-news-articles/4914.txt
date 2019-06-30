@@ -1,0 +1,27 @@
+<url>
+http://www.comminit.com/global/content/wash-tools-implementers-responding-nepali-earthquake
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+WASH Tools for Implementers Responding to the Nepali Earthquake
+</headline>
+
+<text>
+This blog is cross-posted from the WASH website, linked below, May 4 2015 - In times of disaster, particularly when infrastructure has been compromised and people find themselves together in close quarters, there is an increased risk of infection. As such, great need after natural disasters is to ensure access to basic water, sanitation, and hygiene.
+
+As the international community attempts to help Nepal recover from a recent deadly earthquake, many organizations are working on response efforts. For those working on WASH in Nepal, here are a few documents which might be useful in coordinating WASH efforts.
+
+UNICEF’s WASH for Schoolchildren in Emergencies Guidebook is designed to help teachers educate schoolchildren about safe WASH behaviors, but could be adapted for use by others. It does not assume prior specialist knowledge or skills, and it does not address issues such as installation of “hardware” such as handwashing stations or toilets.
+
+The WASH for Schoolchildren in Emergencies Guidebook is complemented by UNICEF’s Compendium of WASH in Schools Facilities in Emergencies tool, which includes information about WASH equipment and design for temporary learning spaces.
+
+The World Health Organization has developed a Rapid Needs Assessment tool which can be used to assess the current WASH situation in Nepal.
+
+If you have any particular questions about hygiene promotion and emergency response, please contact WASH.
+
+Click here to read the original blog, cross-posted from the WASH website.
+</text>

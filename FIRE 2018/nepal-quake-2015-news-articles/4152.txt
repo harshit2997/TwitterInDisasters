@@ -1,0 +1,39 @@
+<url>
+http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-32528174
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Nepal quake survivor Roger Strachan 'very lucky'
+</headline>
+
+<text>
+Image caption Roger Strachan was one of the first passengers to disembark from the returning UK aid flight
+
+A man from York who survived the Nepal earthquake has said the country must not be "forgotten"
+
+Roger Strachan, 19, was in a restaurant when the earthquake happened on Saturday.
+
+He was one of the first to get off a plane carrying 120 British survivors from Nepal, which landed in the UK in the early hours of Thursday.
+
+Mr Strachan, who had been working as a volunteer teacher, said he felt "very lucky to escape".
+
+"We hid under a table while the building was shaking very violently and cracking," he said.
+
+'Squalid shelters'
+
+The restaurant was in the Nepalese capital, Kathmandu and from there, Mr Strachan made it to a hotel before moving on to the British Embassy.
+
+"It was very terrifying but we have to remember that we're the lucky ones.
+
+"So although I was scared, my main concern was for the people I taught, the Nepali pupils and their families."
+
+He said he hoped to raise money for the communities where he worked in Nepal now that he was home.
+
+"We must remember there are thousands of Nepalese people living in very squalid shelters even at this moment and in a much more threatened position than we were in.
+
+"We need to make sure this isn't forgotten in the news."
+</text>

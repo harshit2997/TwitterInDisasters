@@ -1,0 +1,39 @@
+<url>
+http://mis-asia.com/resource/industries/ooredoo-supports-nepal/
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+Ooredoo supports Nepal
+</headline>
+
+<text>
+Ooredoo supports Nepal
+
+Initiatives support humanitarian efforts in the nation.
+
+Ooredoo companies have announced a series of initiatives to support relief work in earthquake hit Nepal.
+
+Its companies across the Middle East, North Africa and Southeast Asia have joined hands to help victims of this devastating natural disaster.
+
+Ooredoo Maldives offered calls to Nepal free of cost for all its customers over a three-day period. The company also lowered the cost of calls to Nepal in Qatar and Oman.
+
+Mobile communications have made a significant difference in Nepal's aid efforts and they have helped families in the nation to reconnect and ask for help.
+
+"At this tragic time, our thoughts are with the people of Nepal and all those affected. We hope that in the fall-out of this disaster, the world comes together to help rebuild the country and ensure its people are safe," said Dr. Nasser Marafih, Group CEO, Ooredoo. "Ooredoo recognises the importance of mobile communication during difficult times like these, and our companies are doing their best to provide this for people in Nepal and for their concerned relatives overseas."
+
+Internet access for survivors
+
+Indosat, part of Ooredoo Group, has mobilised a VSAT satellite to provide Internet access for survivors and emergency aid services in Nepal.
+
+This satellite will travel to Nepal providing an emergency Internet connection in the country.
+
+Available to the media, NGOs and all needing aid, this emergency Internet access facility will be used by the media, NGOs, and civilians in need to communicate with people they want to.
+
+Ooredoo is also encouraging its employees to donate money for charities working in the country including the Qatar Red Crescent.
+
+Ooredoo supports the GSMA's Humanitarian Connectivity Charter, which can be leveraged by the mobile network operators to adopt initiatives focused on humanitarian connectivity.
+</text>

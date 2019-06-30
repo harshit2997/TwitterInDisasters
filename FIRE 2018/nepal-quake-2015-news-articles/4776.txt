@@ -1,0 +1,41 @@
+<url>
+http://newsoffice.mit.edu/2015/students-raise-donations-and-awareness-nepal-earthquake-0506
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+Students raise donations and awareness after Nepal earthquake
+</headline>
+
+<text>
+Around 3:15 a.m. on Saturday, April 25, MIT graduate student Bigyan R. Bista was awoken by a phone call from a friend in his hometown of Kathmandu, Nepal.
+
+“There’s been an earthquake,” his friend told him. “You need to call on your parents.”
+
+For the next five hours, Bista frantically tried to reach his parents without success. At around 8 a.m., his phone rang again. It was his father. His parents were safe but their home had been damaged.
+
+“It was frantic,” he says. “A non-stop feeling of fear overwhelmed me until I finally heard from them. Unfortunately, many others were not so lucky.”
+
+The April 25 earthquake measured in magnitude at 7.8 and killed more than 7,000, injured more than 15,000, and left tens of thousands lacking food, shelter, and water.
+
+To assist in the rescue and recovery efforts on the ground, the Nepali Students’ Association at MIT (MITeri) has built a platform to collect donations from the MIT community. The group has raised more than $26,000 for Help Nepal Network (HeNN) USA, a 501(c)(3) tax-exempt organization that has provided humanitarian services in Nepal since 1999. The website also includes links to relief effort information and real-time mapping data that documents the damage.
+
+“Our goal is to provide basic necessities to the hardest-hit areas,” Bista says. “We want to help the people who have no roof, food, shelter, or sanitation.”
+
+In addition to the monetary donations, MITeri and the MIT Media Laboratory co-hosted a Hack-for-Nepal Buildathon led by Associate Professor Ramesh Raskar and Nikhil Naik SM ’12 on May 1. More than 40 volunteers signed up for projects that could aid mapping data, analyze satellite imagery, and build mobile applications and medical devices.
+
+“We want to leverage all of MIT’s resources, which go beyond money,” Bista says. “The media will forget this disaster soon. Our goal is to keep this platform updated so that we can engage the MIT community in helping rehabilitate, reconstruct, and rebuild of Nepal.”
+
+MIT senior Uddhav Sharma’s hometown of Solukhumbu, near Mount Everest, was also severely damaged and his family’s home was destroyed. His nieces, who attend school in Kathmandu, barely escaped before the schoolhouse collapsed.
+
+“My parents were planning to attend my MIT graduation next month but that’s not happening,” Sharma says. “Right now, they’re living in a tent. They need to focus on building a new home, especially since monsoon season starts in June and runs through August.”
+
+The Nepali and Nepali-American community at MIT is a small, close-knit community. The MIT Alumni Association’s directory lists about 30 MIT alumni who were born in Nepal and a dozen alumni whose company is located there. On campus, there are about 15 current graduate and undergraduate students and all have contributed to the relief effort.
+
+“We’ve all been active and the diaspora of Nepali in Boston has contributed as well,” Sharma says. “We need all the help we can get. Some in Nepal will be homeless for years and many areas will never be rebuilt.”
+
+To make a donation and find more information on relief efforts, visit the MITeri website or email miteri@mit.edu.
+</text>

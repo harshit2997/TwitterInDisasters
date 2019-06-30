@@ -1,0 +1,23 @@
+<url>
+http://gawker.com/earthquake-death-toll-passes-2-200-as-aftershocks-hit-n-1700254477
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Earthquake Death Toll Passes 2,200 as Aftershocks Hit Nepal
+</headline>
+
+<text>
+An aftershock of magnitude 6.7 followed the main earthquake in Nepal yesterday, causing further damage and spreading fear amongst people already too scared to return to their homes, the New York Times reports. Thousands residents of Kathmandu slept outside as the death toll rose above 2,200.
+
+The Home Ministry said Sunday that there are 2,263 dead and 5,800 injured so far after yesterday’s 7.9 magnitude quake, the strongest, according to Reuters, to hit Nepal since 1934.
+
+At least 700 people were killed in the capital city, Reuters reports. Much of the countryside, however, nearer the quake’s epicenter in the Gorkha district, near Lamjung, about 50 miles northwest of Kathmandu, is still unreachable by phone: the extent of the destruction there is not clear.
+
+World Vision, an aid group, said in a statement that many of the villages in the area near the epicenter “are literally perched on the sides of large mountain faces and are made from simple stone and rock construction. Many of these villages are only accessible by 4WD and then foot, with some villages hours and even entire days’ walks away from main roads at the best of times.”
+
+Subhash Ghimire, editor-in-chief of the Nepalese newspaper República, told the Times that he managed to contact his father in his home village of 3,000 in the district of Gorkha. “He said not a single house is left in our village, including our own house,” Ghimire said.
+</text>

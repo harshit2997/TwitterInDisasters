@@ -1,0 +1,27 @@
+<url>
+http://hyperallergic.com/202343/open-source-maps-help-guide-nepalese-earthquake-relief/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Open-Source Maps Help Guide Nepalese Earthquake Relief
+</headline>
+
+<text>
+Nearly 4,000 people have been counted dead and nearly 7,000 injured since a 7.8 magnitude earthquake shook Nepal on Saturday. A crucial need in any rescue effort — perhaps just as important to saving lives as medical supplies, food, and tents — is an up-to-date map that humanitarian workers can use to more efficiently navigate the rubble.
+
+It seems miraculous that tiny, impoverished Nepal has that. The credit goes to the international community of citizen cartographers behind Open Street Map (OSM), a free, open-data map of the world that anyone can edit or download. For the past few years, people involved with the Humanitarian OpenStreetMap Team (HOT) and its leading Nepalese partner, Kathamandu Living Labs (KLL), have been digitally mapping the capital city to prepare for an earthquake should one hit (it seemed inevitable, considering that Nepal sits on a major fault line). Now, thanks to their efforts, aid workers with organizations like the Red Cross aren’t getting lost and losing precious time.
+
+Though Kathmandu itself was remarkably well mapped, much remains to be done for other affected areas of Nepal. While waiting to hear from their peers at KLL, the HOT team immediately got to work. Activation Coordinator Pierre Béland generated a task manager highlighting the hardest-hit areas in the hilly outskirts of towns and cities — places like the northern and eastern edges of the Kathmandu Valley, the Lamjung District, residential Besisahar, Nuwakot District, and Gorkha District — and voluntary mappers worked through the night updating roads. Those efforts gained speed a day later, when KLL managed — in spite of sketchy internet connectivity — to set up a situation room in its office in northeastern Kathmandu. As of early Monday afternoon, 1,606 mappers had edited 45,284 highways and 55,710 buildings in a country many had likely never been to.
+
+KLL has also created an online platform that lets locals with internet access request help and report their observations about damages. It’s a space where people can announce that, say, tents are needed at such-and-such orphanage, that a shelter area has been erected in a certain neighborhood, that a school has been heavily damaged, or that a temple has been destroyed.
+
+Many of the country’s monuments and historic sites have been razed — particularly tragic news in the Kathmandu Valley, where seven World Heritage Sites have been the bedrock of an already struggling tourism industry. UNESCO spokesperson Christian Manhart told the AFP that Kathmandu’s Durbar Square, which has structures dating to the 12th century, has been particularly badly impacted. The damage is also being reported by citizens through Kathmandu Cultural Emergency’s platform.
+
+But it still feels early to mourn the loss of cultural heritage sites when human beings may be trapped within the rubble. The mapping effort is far from finished, and HOT and KLL encourage anyone with a few hours and a computer connection to help.
+
+“You would be looking at satellite images of the region and labeling whether a particular item is a path, road, house, or anything else. It requires paying attention to roads and having a general sense of what could be accessible,” one mapper explained in a detailed, step-by-step guide that shows how to get started. “If there are people stranded in these remote locations, knowing where the houses, residential areas are would expedite the process for rescue efforts.”
+</text>

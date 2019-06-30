@@ -1,0 +1,37 @@
+<url>
+http://abcnews.go.com/Technology/nepal-earthquake-prompts-google-facebook-tools-reunite-loved/story?id=30609809
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal Earthquake Prompts Google, Facebook Tools to Reunite Loved Ones
+</headline>
+
+<text>
+Following the 7.8 magnitude earthquake that shook Nepal, Google and are using their tremendous reach to help reunite people around the world with loved ones in the disaster zone.
+
+Google's person finder tool, which was first launched after the 2010 Haiti earthquake, allows people to enter information about themselves or someone they're caring for in the disaster zone. On the other end, it allows people around the world to search the records for information about someone they are trying to locate in Nepal.
+
+The tool has logged more than 5,700 records in the past two days and is also searchable via text message.
+
+Facebook, meanwhile, activated its safety check tool that notifies people in the affected area that they can send an alert to friends to let them know they are safe.
+
+"When disasters happen, people need to know their loved ones are safe. It's moments like this that being able to connect really matters," Facebook CEO Mark Zuckerberg said in a message on his Facebook wall after the feature went live Saturday.
+
+Aside from leveraging the reach of the Internet, several other technology companies are offering help in getting phone calls and text messages in and out of Nepal.
+
+T-Mobile and AT&T announced all fees will be waved for customers who called and texted Nepal beginning on Saturday and extending through May 16.
+
+Viber, an Internet calling company, announced on Twitter it was making all calls to and from Nepal free of charge during the aftermath.
+
+Google Voice calls are also being made available for the reduced rate of 1 cent per minute. According to a post on Google's Asia Pacific blog, the small cost was chosen as a way "to prevent spammers from abusing our systems and possibly adding more load to the already stretched Nepalese telephone network."
+
+Since the Saturday earthquake and aftershocks, the death toll has risen to more than 3,700, according to a Nepal police official.
+
+About 3,000 U.S. citizens reside in Nepal, and 3,000 to 4,000 Americans usually visit Nepal during the current peak tourism season, according to Ineke Stoneham, press and information officer for the United States Embassy in Kathmandu.
+
+Of those, Stoneham said 75 U.S. citizens are reported to be sheltering in the embassy, while about 150 others are sheltering at the Phora Durbar compound.
+</text>

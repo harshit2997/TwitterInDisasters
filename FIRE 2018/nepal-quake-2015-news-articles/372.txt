@@ -1,0 +1,17 @@
+<url>
+http://www.kuna.net.kw/ArticleDetails.aspx?id=2437799&language=en
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+KUNA : Strong quake hits India, Nepal and Bangladesh
+</headline>
+
+<text>
+NEW DELHI, April 25 (KUNA) -- A strong earthquake of 7.9 magnitude hit Nepal and many parts of India and Bangladesh on Saturday.
+
+Extensive damage and losses of life are expected in the epicenter Nepal as many buildings including tourist spots and temples collapsed though there only three......
+</text>

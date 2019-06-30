@@ -1,0 +1,23 @@
+<url>
+http://www.news.cornell.edu/stories/2015/04/skorton-expresses-concern-following-nepal-earthquake
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Skorton expresses concern following Nepal earthquake
+</headline>
+
+<text>
+President David J. Skorton issued the following statement April 26:
+
+On behalf of the entire Cornell University community, I pause during our celebration of Charter Day to express great concern for the people affected by yesterday’s devastating earthquake in Nepal near its capital, Kathmandu. The earthquake and its many aftershocks have caused destruction and loss of life well beyond the country’s borders.
+
+The Cornell community has many personal and professional ties to the region through our faculty, students, staff, alumni, parents and friends. Our deepest sympathy goes to those who have experienced losses during this tragic event. We have reached all of our students in Nepal, and we know they are safe. We have started establishing ways to provide them with continuing support. If you would like additional information, or if you are aware of a faculty or staff member who is in Nepal on Cornell business, please contact Craig McAllister (craig.mcallister@cornell.edu), director of risk management and insurance, or Alexis E. Santí (asanti@cornell.edu), coordinator of travel safety.
+
+We hope that the region quickly will begin to recover. I encourage all Cornellians to consider ways we can participate in relief efforts through donations and other kinds of humanitarian aid or through specific expertise. As we learn of opportunities to provide support, we will share updates.
+
+Let us offer our thoughts and hearts now, and our caring assistance going forward, to contribute to rebuilding in Nepal.
+</text>

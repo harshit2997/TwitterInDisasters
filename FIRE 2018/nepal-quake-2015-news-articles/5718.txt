@@ -1,0 +1,27 @@
+<url>
+http://www.pcmag.com/article2/0,2817,2483542,00.asp
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Facebook Users Donate $10M+ for Nepal Earthquake Relief
+</headline>
+
+<text>
+If you've been on Facebook over the last few days you surely noticed the banner at the top of your News Feed asking you to donate money for Nepal earthquake relief.
+
+Turns out, Facebook users have backed the support effort in a huge way. In just two days, more than half a million people donated, raising more than $10 million to support the International Medical Corps relief effort, Mark Zuckerberg wrote in a post on his Facebook page Thursday. Facebook will donate an additional $2 million to local recovery efforts to help those in affected areas.
+
+"In times of crisis, the need to connect and share becomes even more critical," Zukerberg wrote.
+
+Following the devastating earthquake, Facebook also activated its Safety Check feature, which lets people mark themselves as safe. Zuckerberg said that some 7 million people in the area have been marked as safe.
+
+"More than 150 million friends were notified and those updates let people rest easier and relief efforts remain focused," he added.
+
+Facebook's CEO also outlined how people are using the company's services like WhatsApp and Groups to assist with the relief efforts in Nepal. Victims across the region are using WhatsApp and Messenger to get help, aid workers are using Groups to coordinate their response, and journalists are using Instagram to share photos of the events.
+
+"It is inspiring to see our community coming together to help people in their time of need," Zuckerberg wrote. "We're grateful to be serving you, and for all your efforts to support those affected by the Nepal earthquake."
+</text>

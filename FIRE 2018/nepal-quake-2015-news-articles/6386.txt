@@ -1,0 +1,29 @@
+<url>
+http://www.hindustantimes.com/world-news/us-china-bicker-over-magnitude-of-latest-nepal-earthquake/article1-1346607.aspx
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+US, China bicker over magnitude of latest earthquake in Nepal
+</headline>
+
+<text>
+The magnitude 7.3 tremor that shook Nepal could be a fresh quake, not just a mere aftershock, and could be stronger than is being made out to be as two of the world’s top geological administrations differ over whose assessment is right.
+
+Tuesday’s quake, according to the US Geological Survey, had a magnitude of 7.3 on the Richter Scale, while China’s highly advanced earthquakes administration body, the China Earthquake Networks Center (CENC), put the strength at 7.5. To the layman, that is just two decimal points up. But in seismology, with every decimal point, a quake gets 30 times more powerful.
+
+Chinese seismologists are known to be more primed to capture earthquakes in their region, some experts feel, given their massive infrastructure and strategic interests. Within half-an-hour of the quake, the US agency’s Earthquake Hazards Programme listed it as an earthquake of magnitude 7.4. Within two hours, they scaled it down to 7.3.
+
+Indian scientists seem to agree with China that this looks like a new quake, although there could be some link to the April 25 shocker.
+
+“There is always some link. But this appears to be a new zone and a different quake. In that case this is twin earthquake,” CP Rajendran, an Indian seismologist, said.
+
+The latest earthquake comes less than two weeks after a 7.9-magnitude quake left more than 7,200 dead. Tuesday’s epicentre was below Mt Everest and the quake struck a remote mountain region, killing over 40 people and toppling buildings.
+
+The Indian government Tuesday kept rescue teams, including aircraft, on standby – in contrast to the aftermath of April 25 quake when it rushed its teams to Nepal immediately.
+
+Cabinet secretary Ajit Seth chaired a National Crisis Management Committee meet and consulted chief secretaries of UP, Bihar, Sikkim and West Bengal through a video conferencing facility.
+</text>

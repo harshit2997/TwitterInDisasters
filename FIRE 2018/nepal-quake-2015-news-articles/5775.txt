@@ -1,0 +1,17 @@
+<url>
+http://www.bostonherald.com/news_opinion/international/2015/04/buried_teen_found_alive_in_nepal_miracle_rescue
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Buried teen found alive in Nepal miracle rescue
+</headline>
+
+<text>
+KATHMANDU, Nepal — Rescuers pulled a 15-year-old boy alive from the rubble of a Kathmandu hotel yesterday, after a cop heard his cries five days after the devastating earthquake killed thousands in the Himalayan country.
+
+“He cried for help, but it was very difficult to make access to him,” said Laxman Bahadur Basnet, the Nepalese police officer who first made contact with the youth in the flattened wreckage of the nine-story hotel.
+</text>

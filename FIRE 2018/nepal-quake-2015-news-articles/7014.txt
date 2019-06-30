@@ -1,0 +1,61 @@
+<url>
+http://www.southgatearc.org/news/2015/may/nepal_earthquake_update_may_12.htm
+</url>
+
+<date>
+20150514
+</date>
+
+<headline>
+Southgate Amateur Radio News
+</headline>
+
+<text>
+QRZ Callsign Search Page last updated on: Thursday, May 14, 2015 Nepal Earthquake At 0705UTC on 12 May Nepal was hit by a new earthquake of magnitude 7.4 followed by significant aftershocks in the magnitude 5-6 region
+
+
+
+There is still a large international disaster response structure in the country from the earlier earthquakes but radio amateurs prepared for any possible communications failures.
+
+
+
+The planned response from the American MARS service with 9N1SP reported that it was in place from 0900 UTC should support be required. Dr Panday 9N1SP however reported from the University that he was safe and that internet service was functioning at that location. He is maintaining a schedule of contacts with Tim T6TM in Afghanistan should the situation change however all are concerned about the atability of buildings which were already weakened by the earlier earthquake
+
+
+
+Jayant Bhide VU2JAU was monitoring the usual frequency for Indian-Nepal communications of 14.210 MHz after the earthquake and at 0845 UTC reported that he had made contact with some stations in India who were also affected by the quake but no Nepal stations. He has now estalbished contact with 9N1AA who reports that there is local communications and power disruption with citizens being encourages to use SMS rather than voice calls, probably to reduce the load on the networks. He now has a schedule with 9N1AA on an hourly basis.
+
+
+
+The 9N1Emergency group on Facebook has established telephone contact with Satish 9N1AA who confirmed he had communications. Their contact with Nepal is also now on a scheduled rather than a continuous basis.
+
+
+
+To demonstrate the extent of the communications infrastructure now in the area the International Red Cross are indicating that any journalists who want news of the latest event can call a contact person in the country. The latest earthquake will inevitably lead to missing person enquiries and Radio Amateurs are reminded of the Red Cross facility at http://familylinks.icrc.org/nepal-earthquake/en/Pages/Home.aspx which should be used for these enquiries.
+
+
+
+Although there is no apparent need for amateur radio emergency communications at this time, everyone is reminded that IARU Emergency Centres of Activity along with 14.210 MHz may be in use and to please listen carefully before transmitting. There is however no need to call and 'keep a frequency clear' as this may affect communications which are happening local to the disaster area e.g. Afghanistan and India.
+
+
+
+Greg Mossop G0DUB
+
+IARU Region 1 Emergency Communications Co-Ordinator
+
+http://iaru-r1.org/
+
+
+
+9N1EMERGENCY Facebook Group
+
+https://www.facebook.com/groups/823876351031939/
+
+Share this page Follow us Advertisement Advertisement Latest news stories.. View RSS feed Get our News Headlines delivered in one daily email
+
+Enter your email address:
+
+
+
+Delivered by FeedBurner  News Front Page  Submit your news story Advertisement
+</text>

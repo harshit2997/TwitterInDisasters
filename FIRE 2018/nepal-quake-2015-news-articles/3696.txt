@@ -1,0 +1,47 @@
+<url>
+http://www.sourcesecurity.com/news/articles/17455.html
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Physical security technology aiding Nepal earthquake response
+</headline>
+
+<text>
+The physical security community is contributing expertise and equipment of many kinds to the country
+
+Reaching out
+
+The security industry has been quick to react to this emergency, and the range of responses underlines how closely security and emergency professionals can work when there is an overwhelming need. Dogs trained to detect survivors amid debris, thermal imaging sensors, conventional CCTV cameras, drones and situational awareness technology are all on the ground or being transported from Gorkha, the nearest airport to the quake epicentre. But the environment (in what is already among the world's poorest countries) will be one of scant electric power and few fixed communication systems.
+
+Mobile networks (sporadic even before the crisis) have been largely restored, and there is scope for retrieving actionable information from micro-blogging services such as Twitter. Dedicated emergency mass notification systems of the kind used in many other parts of the world will be unheard-of here. But since 9/11, the 2004 Indian Ocean tsunami, and the 2010 and 2011 earthquakes in Haiti and Japan respectively, the disaster response community has developed software that can reveal the scope of a crisis from Twitter and distinguish messages containing tactical information and specific details from those that are merely empathetic chatter.
+
+Video footage from Reuters drones has revealed the location of makeshift tented villages in remote areas and has helped rescuers to create a map of the situation. Canadian company Aeryon Labs, a manufacturer of sUAS (Small Unmanned Aerial Systems) has sent three of its units to Nepal. Known in common parlance as drones, the sUAS will be able to provide emergency coordinators with stabilised 1080p H.264 electro-optical video and 640x480 infrared footage as well as detecting body heat with thermal sensors.
+
+Drones assist in rescue operations
+
+Ground-based drones on tether cables are also being deployed and their thermal sensors may save lives
+
+This kind of drone activity will also produce 2D and 3D maps of the devastated area to assist incident coordinators and has the merit of making no support demands in terms of peripheral equipment. It should be remembered that there has been a 6.7M W aftershock as well as numerous tremors of at least 5M W. The whole region remains in flux. Use of drones also keeps first-responders out of harm's way in the event of post-quake tremors and eliminates the need for humans to investigate rubble piles that do not contain victims. Ground-based drones on tether cables are also being deployed, and their thermal sensors may save lives since they will create an alert if survivors' bodies are warming the debris that imprisons them. These drones are more akin to a miniature tank and in addition to thermal sensors they feature cameras and audio.
+
+Rescuers are also likely to be using endoscope cameras with diameters as small as 11mm on flexible poles. They can be squeezed through miniscule gaps in rubble to locate trapped survivors, and unnecessary movement of detritus can be minimised. Precise techniques are vital in confined areas such as the remains of the 200-foot Dharahara tower in Kathmandu. One hundred and eighty people have died at the site, but there may yet be survivors in air pockets who must be protected from further impacts of rubble. There may also be survivors trapped in mountainous areas on the verge of further avalanches, and endoscope cameras will be invaluable in these situations.
+
+Supplying vital equipment
+
+The physical security community will be supplying various equipment to show rescuers how stable a piece of ground is, identify hazardous materials, survey areas quickly, and identify optimum routes through which victims can be ferried to helicopters and field hospitals. (Médecins Sans Frontières has provided an inflatable hospital.)
+
+The relief operations are being conducted by all sectors of the security and safety community with firefighters from my home county of Sussex on the south coast of England flying to Kathmandu this week. Using listening devices, breaking and breaching tools, lifting gear and shoring equipment, the specialist fire staff is working alongside the charity Search and Rescue Assistance in Disasters (SARAID).The sound and vibration devices are part of 1.5 tonnes of equipment (including generators) that has been flown out of a Royal Air Force base. Other teams will use carbon dioxide detectors to find survivors who may be unconscious and unable to indicate their location audibly, this being a technique that can only be used to rescue people from confined spaces where the CO 2 from their breathing is apparent to the detectors.
+
+Rescuers are also likely to be using endoscope cameras with diameters as small as 11mm on flexible poles
+
+Any intervention from Nepal's neighbor, China, will attract political analysis – much of it cynical – but it should be noted that a 62-person Chinese search and rescue team with sniffer dogs (German shepherds) is on the ground in the Kathmandu Valley, which is the location of the latest tremor as I write. A 70-strong Japanese rescue team (primarily police officers and with four dogs - two Labradors and two German shepherds) has been delayed in its arrival after the miniscule airports in the Kathmandu region became overwhelmed with up to 14 planes circling at any one time. Some of planes have had to divert in order to refuel.
+
+Google’s rescue work
+
+The IT perspective on the disaster includes use of online resources such as Google Person Finder, and for Google the earthquake has become personal with senior engineer Dan Fredinburg being among 17 climbers who perished in an avalanche at Everest base camp. Fredinburg, who worked for the Project X division, had the goal that in the future people would be able to climb major mountains using Google Maps. Three other Google employees survived the base camp incident. The company is endeavouring to activate satellite imagery of the area to help with rescue efforts, but cloud cover is proving a hindrance. The 17 deaths and 61 injuries at the foot of Everest constitute the most serious incident ever on the mountain.
+
+While mapping specialists, emergency architects, humanitarian workers and the charitable sector have responded magnificently to this extraordinary event and its continuing, ever-deepening challenges, the physical security sector should take a measure of pride in the functionality of its offerings, the flexibility of their deployment and the ingenuity of the operators.
+</text>

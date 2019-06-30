@@ -1,0 +1,23 @@
+<url>
+http://www.10news.com/newsy/us-helicopter-goes-missing-while-aiding-nepal
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+US Helicopter Goes Missing While Aiding Nepal
+</headline>
+
+<text>
+A U.S. military helicopter delivering aid to Nepal was declared missing Tuesday. The aircraft was carrying six American soldiers and two Nepalese soldiers according to multiple reports.
+
+The helicopter went missing near Charikot, Nepal, which is one of the areas hit hardest by the most recent earthquake, though it is unknown what exactly led to the Marines' disappearance.
+
+"Another helicopter from the Indian military was flying in the area at the time. It picked up radio chatter from the American crew that it had run into a fuel problem," a CNN reporter said.
+
+A Pentagon spokesman said Joint Task Force 505 is leading the personnel rescue effort, and although the air search was halted after dark, Nepalese soldiers were heading to the area on foot.
+
+This all comes after Nepal was hit by two devastating earthquakes within a few weeks. The 7.8 magnitude earthquake in April left more than 8,000 Nepalese citizens dead, and Tuesday's earthquake is believed to have killed dozens more.
+</text>

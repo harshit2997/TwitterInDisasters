@@ -1,0 +1,27 @@
+<url>
+http://www.adb.org/news/nepal-earthquake-adb-provide-3-million-immediate-relief-and-200-million-rehabilitation
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal Earthquake: ADB to Provide $3 Million for Immediate Relief and $200 Million For Rehabilitation
+</headline>
+
+<text>
+MANILA, PHILIPPINES – The Asian Development Bank (ADB) will provide a $3 million grant to Nepal to support immediate relief efforts in the wake of the powerful 7.8 magnitude earthquake that struck the country on 25 April.
+
+ADB President Takehiko Nakao said ADB will provide the money immediately from the Asia Pacific Disaster Response Fund to meet humanitarian needs (such as tents, medical assistance, food and drinking water) in earthquake-hit areas. This will be followed by up to $200 million additional resources for projects in the first phase of rehabilitation.
+
+Mr. Nakao offered his deepest condolences to the people of Nepal and other affected countries for the tragic loss of lives and property caused by the earthquake.
+
+“ADB stands together with the people of Nepal and the Government at this challenging time,” Mr. Nakao said in a letter of condolence to Nepal’s Prime Minister Sushil Koirala. “I assure you of our fullest support in the aftermath of the earthquake, for relief, rehabilitation, and reconstruction.”
+
+ADB has established a Nepal Earthquake Response Team, and will join with UN agencies and other development partners to assess the damage and the long-term investment needs for reconstruction and rehabilitation. Based on this assessment, and in addition to the up to $200 million of new resources, ADB will consider reallocating existing resources.
+
+ADB has around $2 billion in ongoing projects in Nepal and provided $350 million in financial assistance in 2014. ADB will work closely with the government to find ways to utilize ongoing ADB projects, including repurposing existing ADB loans, to address the urgent needs of the earthquake-hit areas.
+
+ADB, based in Manila, is dedicated to reducing poverty in Asia and the Pacific through inclusive economic growth, environmentally sustainable growth, and regional integration. Established in 1966, it is owned by 67 members – 48 from the region.
+</text>

@@ -1,0 +1,55 @@
+<url>
+http://www.sfgate.com/business/article/How-drones-are-helping-relief-efforts-after-Nepal-6232212.php
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+How drones are helping relief efforts after Nepal earthquake
+</headline>
+
+<text>
+How drones are helping relief efforts after Nepal earthquake
+
+Many of the most striking images of the earthquake in Nepal have been shot from the sky — a drone’s-eye view of a nation reduced to rubble.
+
+Drones are serving a critical role in relief efforts following the magnitude 7.8 earthquake that struck Nepal on Saturday.
+
+“One of the things that frequently hampers first responders’ efforts is a lack of situational awareness — knowing what areas are damaged and where there are victims in need of help,” explained Michael Braasch, a drone expert and professor of electrical engineering at Ohio University.
+
+Using the remotely piloted fliers, relief workers can survey vast areas quickly, more intelligently determining where and how to dispatch aid.
+
+“In the long run,” said Braasch, “lives are going to be saved as a result of this technology.”
+
+Several organizations have sent drones to Nepal alongside aid workers.
+
+GlobalMedic, a Canadian disaster relief organization, arrived on the ground in Kathmandu on Monday with three drones. GlobalMedic’s drones are not the $80 variety purchased by hobbyists at RadioShack, but high-end models manufactured by Aeryon Labs that can cost up to $200,000.
+
+Those drones are surveying the streets of Kathmandu and its outskirts, creating thousands of highly detailed images that are then stitched together into maps identifying obstructed roads or damaged infrastructure. Their thermal cameras could also reveal the location of survivors trapped or injured after the quake.
+
+GlobalMedic shares the information with the Nepalese government, the United Nations and other organizations in Nepal.
+
+“We want to identify what the situation is on the ground, what the needs are, and coordinate based on that information with the international community,” said Matt Capobianco, deputy director of GlobalMedic.
+
+Need seen in Haiti
+
+GlobalMedic developed its drone program after the 2010 earthquake in Haiti. There, GlobalMedic aid efforts were hindered by violence in the streets and roads either washed out or impassable due to debris. But a drone, GlobalMedic staffers thought, could have assessed damage where aid workers couldn’t, helping them determine when it was safe to deliver supplies and the best routes to due so.
+
+In Nepal, drones have been especially useful because they can fly well below cloud cover, capturing clear images when satellites can’t. They provide an alternative to helicopters, which are scarce — and expensive — in Nepal.
+
+“Drones are becoming a critical part of this bigger system that includes things like satellite imagery that are pulled together to help make better decisions on the ground,” said Steven Jensen, the director of Cal State Long Beach’s emergency management program.
+
+Drones, he said, will be even more effective in disaster management once they are more ubiquitous — if the Nepalese government, for example, already had its own drones on hand, it would have been able to find and rescue more people in the immediate aftermath of the quake.
+
+As technology advances and drones become less expensive, unmanned aerial vehicles might also be used for tasks such as delivering medical supplies and food.
+
+Some drawbacks
+
+Despite their benefits, drones remain an imperfect tool for disaster response. Some countries have flight restrictions or bans on drones. High winds, rain and extreme cold ground them. They have limited battery life. And in disaster zones, it can be difficult to process and transmit the large volumes of data drones collect.
+
+Jensen saw firsthand how effective drones can be after Typhoon Hagupit hit the Philippines in December. There, he worked with the local government to incorporate drones into relief efforts.
+
+“Very remote villages still had not been contacted weeks after the disaster. Trees had fallen everywhere, and it was going to take weeks to do basic damage assessment. With drones, we could do it in hours,” he said. “Drones are not a substitute for human contact, but at least it gives us an idea of the extent of the damage.”
+</text>

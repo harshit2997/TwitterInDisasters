@@ -1,0 +1,23 @@
+<url>
+http://descrier.co.uk/news/world/asia/nepal-earthquake-kills-1000/
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Nepal: Earthquake kills 1,000
+</headline>
+
+<text>
+More than 1,000 have been killed after an earthquake struck central Nepal.
+
+The Nepalese government declared a state of emergency after the 7.8 magnitude quake struck in the area between Kathmandu and the city of Pokhara.
+
+Extensive damage has been reported from the area around the epicentre of the earthquake, but little information has yet to surface, and the death toll may yet rise further.
+
+A number of countries around the world have offered assistance, and the US has said that it is sending a disaster response team to the country and has released an initial $1m (£0.7m) for initial relief efforts.
+
+British Foreign Secretary Philip Hammond said:
+</text>

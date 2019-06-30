@@ -1,0 +1,33 @@
+<url>
+http://www.upi.com/Top_News/World-News/2015/05/12/US-Marine-Huey-helicopter-missing-in-Nepal/3131431453914/
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+U.S. Marine Huey helicopter missing in Nepal
+</headline>
+
+<text>
+KATHMANDU, Nepal, May 12 (UPI) -- A U.S. Marine helicopter conducting disaster relief operations in Nepal went missing Tuesday, the same day a 7.3-magnitude earthquake hit the country, killing dozens.
+
+"On May 12, at approximately 10 p.m. JST, a UH-1Y Huey with Marine Light Attack Helicopter Squadron 469 in support of Joint Task Force 505 was declared missing while supporting Operation Sahayogi Haat," CNN quoted U.S. Navy Capt. Chris Sims as saying in a statement.
+
+The aircraft had up to eight people on board, including six Marines and two Nepalese. The cause of the disappearance is under investigation.
+
+The incident comes the same day at least 32 people were killed and more than 1,000 injured in the town of Chautara, 50 miles east of Kathmandu, in a 7.3-magnitude earthquake.
+
+On April 25, a 7.8-magnitude earthquake rocked the country, killing thousands and prompting international disaster relief operations.
+
+The U.S. Department of Defense announced in late April the deployment of 70 disaster relief personnel, including a USAID Disaster Assistance Response Team and the Fairfax County Urban Search and Rescue team, to Nepal to assist two teams of some 26 Green Berets who were already in the country on a training mission at the time of the disaster.
+
+On May 4 DOD announced that five U.S. Marine Corps aircraft -- a UH-1Y Huey helicopter and four MV-22 Ospreys -- began arriving in Nepal for disaster relief operations, and two days later it announced the activation of Joint Task Force 505, which had the stated goal of conducting "humanitarian disaster relief operations to limit further loss of life and suffering in response to the devastating earthquake that struck central Nepal on April 25."
+
+"We are here at the request of, and in support of, the government of Nepal as they deal with this terrible tragedy," Marine Corps Lt. Gen. John Wissler, the task force's commander, said at the time. "We will continue to provide support as part of the overall U.S. government and international response as long as our unique capabilities can support the government of Nepal and remain in partnership with the Nepalese army."
+
+At the time of the announcement, the task force was operating with three Marine Corps UH-1Y Huey helicopters, four Marine Corps MV-22 Osprey tilt-rotor aircraft, four Air Force C-17 Globemaster III transports and two Marine Corps KC-130 Hercules aircraft.
+
+Officials estimated Joint Task Force 505 would require the deployment of about 500 U.S. military personnel to Nepal. Currently there are about 300 in the country.
+</text>

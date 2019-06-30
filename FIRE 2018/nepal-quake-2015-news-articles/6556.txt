@@ -1,0 +1,41 @@
+<url>
+http://www.9news.com.au/world/2015/05/12/17/34/7-1-magnitude-earthquake-hits-nepal
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Nepal quake toll hits 42
+</headline>
+
+<text>
+The death toll from the latest Nepal quake has risen to at least 42, the nation's home ministry says.
+
+The ministry said 1,117 people had been injured in Tuesday's 7.3-magnitude quake which hit in remote mountain districts northeast of Nepal.
+
+The US Geological Survey said Tuesday's quake hit in the early afternoon in an isolated, conservation area between the capital of Kathmandu and Mount Everest.
+
+Tuesday's quake was felt as far away as New Delhi, and officials said it caused buildings to collapse in Tibet in neighbouring China.
+
+Tuesday's quake hit at a depth of 15km, according to the USGS, and was followed by a series of lesser aftershocks measuring from magnitude 5.6 to 6.3.
+
+The tremors in Kathmandu lasted close to a minute according to an AFP correspondent in the city, with the ground swaying. Sirens could be heard soon afterwards although there were no immediate reports of casualties.
+
+People were seen running screaming onto the streets of Kathmandu and nearby cities, while telephone connections were down.
+
+"Looks like Nepal will be destroyed completely this time," one resident shouted, while others were putting up tents in open spaces that they had only recently taken down.
+
+Three aftershocks were felt in the following minutes, as shops started shutting and people tried to stock up on food.
+
+An earlier report by the European-Mediterranean Seismological Centre put the magnitude at 7.1.
+
+The tremor was felt over the border in the neighbouring Indian state of Bihar, as well as in Delhi.
+
+Quake-prone Nepal is located where the Indian tectonic plate runs into, and under, the Eurasian plate.
+
+Relief teams from around the world are still working to provide water, food and medical assistance to Nepalis following the April 25 quake.
+
+© DPA 2017
+</text>

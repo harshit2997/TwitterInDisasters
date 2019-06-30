@@ -1,0 +1,41 @@
+<url>
+http://news.usni.org/2015/05/15/missing-marine-huey-crash-site-found-in-nepal-crew-status-unclear
+</url>
+
+<date>
+20150515
+</date>
+
+<headline>
+III MEF Commander: 6 Marines, 2 Nepalese Soldiers Likely Dead in Nepal Huey Crash
+</headline>
+
+<text>
+Six U.S. Marines and two Nepalese soldiers are likely dead following the crash of an UH-1Y Huey missing since Tuesday in Western Nepal, U.S. officials told reporters during a Friday press conference in Nepal.
+
+“Because of the nature of the wreckage, it’s unlikely there are any survivors at this time,” Joint Task Force 505 and III Marine Expeditionary Force (III MEF) Lt. Gen. John E. Wissler said.
+
+The statement from Wissler follows the discovery of the crash site — identified by members of Joint Task Force 505 about 1:50 P.M. local time on Friday about eight mile outside of Charikot. The was surveyed by U.S. four pararesucuemen and a combat rescue officer, PACOM spokesman Army Maj. David Eastburn told USNI News.
+
+However USNI News understands additional search efforts have been suspended due to severe weather.
+
+Nepalese defense minister Ishwori Prasad Paudyal told reporters earlier Friday there were likely no survivors, reported The Wall Street Journal.
+
+In addition to the five troops on the ground, “two UH-1Y Hueys with Marine Light Attack Helicopter Squadron 469 and one MV-22 Osprey with Marine Medium Tiltrotor Squadron 262 are currently in support of the survey,” Eastburn said.
+
+“The assessment of the site is ongoing and a thorough investigation will be conducted.”
+
+The now found Huey went missing on Tuesday on a mission to deliver humanitarian aid about 85 miles east of the capital Kathmandu. The helicopter was part of JTF-505, stood up after the 7.8-magnitude earthquake struck Nepal on April 25.
+
+The following is the May 15, 2015 statement from U.S. Pacific Command.
+
+On May 15, at approximately 1:50 p.m. Nepal Standard Time, Joint Task Force 505 personnel identified the wreckage of the missing UH-1Y Huey, with Marine Light Attack Helicopter Squadron 469, approximately eight miles north of Charikot, Nepal.
+
+JTF 505 currently has a team of four pararescuemen and one combat rescue officer on the ground. Two UH-1Y Hueys with HMLA 469 and one MV-22 Osprey with Marine Medium Tiltrotor Squadron 262 are currently in support of the survey.
+
+A Nepalese search team reported the siting of the wreckage at approximately 3:00 p.m., JST. Indian and Nepalese service members assisted with the search.
+
+The UH-1Y Huey went missing May 12 near Charikot while conducting humanitarian assistance in support of JTF 505 supporting Operation Sahayogi Haat. The UH-1Y Huey was delivering humanitarian aid to those affected by the recent earthquakes.
+
+The assessment of the site is ongoing and a thorough investigation will be conducted.
+</text>

@@ -1,0 +1,17 @@
+<url>
+http://www.neurope.eu/article/with-1000-europeans-still-missing-eu-offers-urgent-support-to-nepal/
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+With 1,000 Europeans still missing, EU offers urgent support to Nepal
+</headline>
+
+<text>
+The European Commission has approved today a financial support worth €16.6 million to assist Nepal after the earthquake that hit the country just over a week ago. The assistance will be provided directly to the Government of Nepal and will be available later this week.
+
+Following the joint EU-UN mission to Nepal, an additional €3 million of emergency aid has also been made available today, bringing the total of the European Commission's support since the earthquake struck to €22.6 millio...
+</text>

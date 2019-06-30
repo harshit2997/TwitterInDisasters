@@ -1,0 +1,41 @@
+<url>
+http://www.ssireview.org/blog/entry/building_a_global_humanitarian_aid_hub
+</url>
+
+<date>
+20150515
+</date>
+
+<headline>
+Building a Global Humanitarian Aid Hub
+</headline>
+
+<text>
+I just returned from Nepal, where the aftermath of the earthquake is haunting as well as daunting. Entire villages have been wiped out; many still lack water, electricity, food, and housing, among other essential human needs.
+
+The good news is that despite customs and logistical barriers, aid and relief workers are passionate and determined to help. The less-than-good news is that their efforts are fragmented, and the duplication of services is pervasive. This is despite the formation of alliances among NGOs and civil society efforts, as well as government's central role in providing relief.
+
+Specifically, there have been some impressive efforts to map out needs-related information, such as Kathmandu Living Lab's Quakemap and the quick mobilization of other technological tools. Organic and organized coordination to purchase necessities from personal donor funds is extensive. These efforts involve arranging vehicles to make regular deliveries to remote areas. Yet, it is very difficult to map out the intersections and strengths of organizations such as CARE, Save the Children, UN agencies, government, foreign emergency relief and rescue teams, local NGOs, and grassroots movements intended to provide relief for only a finite period. In sum, resource-sharing and information exchange is severely lacking. At the same rate, the need for efficient aid mobilization during a time of acute humanitarian crisis is critical.
+
+In particular, it is extremely time-consuming to map out overlaps, linkages, and synergies between relief efforts. I believe that a central portal or hub where organizations and other groups self-enter information and register would help yield insights into the broader picture of any crisis. To start, it would provide a collective view of relief materials available, as well as who is in the space and where. In terms of relief materials, the idea of a hub is not new, and they exist at more micro-levels. In Dubai, for example, there is the Global Logistics Service of the International Federation of Red Cross and Red Crescent Societies (IFRC) hub, which is part of the International Humanitarian City of Dubai and is supported by the government of the United Arab Emirates. The United Nations World Food Programme has its own hub, which operates through global posts. These are useful, but the relief community needs more than just a depot or a way to efficiently disseminate emergency relief materials.
+
+We need a more comprehensive place for basic data-sharing on specific crises, with needs broken down by various locations and population groups. The hub would also house the organizations and efforts involved, including durations of involvement, levels of commitment, and rosters of individuals. At the very least, it would facilitate partnerships and connections to reduce duplication of efforts.
+
+Ideally, the hub would include a collaborative innovation platform similar to OpenIdeo, as a global forum for individuals to drive innovation in relief and reconstruction. It would serve as a macro-volunteer roster, supplementing the work of organizations such as All Hands Volunteers. Additionally, with the cooperation of national and regional entities, as well as IGOs, it could track resources. With additional investment or partnership, as our use of technology in humanitarian relief widens, it would include metrics to track efficiency in the end-to-end chain of delivery—a globally-informed foundation on which to build future efforts. In essence, the portal would serve as a repository of information, platform for co-creation, central resource-management tool, and place to house and disseminate best practices.
+
+Over the longer term, a portal could help bridge service gaps and provide donors with a more comprehensive, robust picture of the landscape to help support effective funding decisions. It would also create an even greater pool of information on volunteers and talent of all kinds that organizations and government could use both in the emergency state, and during medium- and longer-term reconstruction. Finally, it would provide a more vibrant and broader discussion platform for sharing lessons or ideas for improving more medium-term reconstruction. The goal would be to provide a more open and democratic platform that is not owned by a specific country or organization, but jointly owned to keep it more neutral.
+
+Of course, the development of such a hub positioned faces substantial challenges—not least of all, organizational bureaucracy and transparency limitations. Donor countries may hesitate to have their relief efforts tracked so closely at such scale; IGOs, may fear scrutiny in providing relief information to an external third-party hub. To begin to overcome this, global leaders must champion a more-integrated and efficient approach to humanitarian aid; they must recognize the ultimate goal of relief and reconstruction, and incentivize organizations and groups to participate and work together. Additionally, they need to activate valuable time and resources to make sense of the aid landscape over time, facilitating partnerships, collective action, and change.
+
+One grassroots relief operation that stood out to me during my visit was an ad-hoc group residing at the Yellow House B&B in Sanepa, Lalitpur —an area of Kathmandu that many expats and NGOs call home. Within a day of the earthquake, the person running the B&B organized a group of friends for relief, and within a week—via word of mouth, Facebook, and Twitter—the group expanded to more than 250 people of all nationalities (American, Bangladeshi, Belgian, British, South African, Indian, French, and Australian). The group currently holds morning meetings, where various members report back on needs in different areas (based on field trips and speaking with community leaders) and then systematically but organically organize themselves into parties to deliver donated provisions and help rebuild broken communities.
+
+Ad-hoc volunteers gathered at the Yellow House in Sanepa. (Photo by Samira Khan)
+
+This group was able to hit the ground running thanks to a lack of bureaucracy. It also harnesses individual talent—people who found formal channels difficult to access and navigate, and could offer valuable skills (including data analysts, local professors, and motivated European fundraisers). As formal relief agencies provide greater expertise, and cohesive and more-organized plans and relief efforts,, the group moves its attention to less severe yet undeserved areas, doing what they can there. The group has one goal: to help, and that means letting go when the time is right.
+
+Needs assessment discussion at the Yellow House. (Photo by Samira Khan)
+
+Imagine if every effort had this kind of adaptability and direct impact. A post-crisis response is as strong as the collective strength of individual efforts. And while we can’t expect larger organizations and more bureaucratic IGOs to move and share information as swiftly as the group in Sanepa, the aid community can certainly improve the status quo and aspire to a more holistic approach to humanitarian relief.
+
+It is our responsibility as nations and individuals, to share, work together, and hold one another accountable. The global humanitarian aid matrix is complex; for greater impact and efficiency, we must organize efforts and resources on a global scale. Who will lead this? I think it’s just a matter of time before a global foundation or forum initiates this important conversation.
+</text>

@@ -1,0 +1,37 @@
+<url>
+http://thediplomat.com/2015/05/nepals-policy-imperative/
+</url>
+
+<date>
+20150516
+</date>
+
+<headline>
+Nepal’s Policy Imperative
+</headline>
+
+<text>
+In the wake of the massive earthquake in Nepal on April 25, 2015, the Nepalese government has struggled to provide basic relief. Victims have been deprived of basic needs such as tents, food, and water. The reason: highly politicized state mechanisms.
+
+In fact, Nepal lacks a mechanism dedicated to dealing with natural disasters, and does not have specialist personnel. That leaves regular agencies and officials to take on recovery tasks. This absence of a powerful central disaster response mechanism has severely hampered the coordination of rescue and relief operations, despite national and international assistance. At present, the work of coordination is proceeding under the Ministry of Home Affairs, led by a joint secretary. In the districts, the work is handled by ad hoc committees led by the District Administration Officer, who coordinates the response, but those officials lack experience in disaster response.
+
+Because of protocol issues, the team leading the response to the disaster has been unable to provide instruction to Nepalese police and military, the vital security agencies of the country. Instead, these agencies have mobilized under their own plan, a recipe for confusion.
+
+In the absence of a central coordination body, many international teams had to wait several days before they could be deployed. Similarly, tons of relief packages were stranded at the airport, with no mechanism to release them.
+
+Relief distribution has also been hamstrung by the bureaucracy, which first requires the collection of data on all damages. Accordingly, the District Administration Office makes a final decision on the provision of relief. This is the primary reason why relief has been slow to reach remote areas. On the one hand, government officials need to provide relief packages, on the other they need to collect data. This latter task can take days in remote areas. As a temporary measure, the government has dispatched officials to all 75 districts to provide relief and undertake tasks related to reconstruction.
+
+Yet the government’s performance has been dismal, prompting experts to call for the introduction of a separate law and mechanism to deal specifically with natural disasters.
+
+The immediate priority for Nepal is to develop a legal framework and a high-level disaster response mechanism that can mobilize its resources and manpower without delay.
+
+In fact, five years ago, the government formed a National Emergency Operation Centre, with the principal task of gathering information related to natural disasters. The Centre has offices in 44 districts but lacks the mandate to coordinate response efforts.
+
+The idea of forming a National Disaster Management Authority was floated in 2009, but progress stalled. Civil society members and experts have long argued for such an authority and for it to be headed either by the prime minister or a senior minister, so that the body can coordinate effectively and instruct ministries and departments.
+
+Now, in the wake of the disastrous earthquake, discussions have once again started about the need for a powerful central authority to handle natural disasters. Nepal’s president Ram Baran Yadav asked Prime Minister Sushil Koirala to move quickly on the idea. In doing so, Nepal should learn from other countries that have formed effective disaster-response institutions under the head of state or head of government to facilitate coordination.
+
+As a country highly susceptible to earthquakes, Nepal clearly has a need for an effective disaster response mechanism. In addition, it will need to rebuild the physical infrastructure destroyed by the quake. Of course, it would be easier to do this if Nepal had a constitution. The country remains mired in the process of drafting one. If party leaders ever needed a reason to conclude this work, the earthquake and the dire need for recovery and rebuilding must surely provide one.
+
+Kamal Dev Bhattarai is a Kathmandu-based journalist. He frequently writes in international media from Nepal on various political and social issues.
+</text>

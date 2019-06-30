@@ -1,0 +1,23 @@
+<url>
+http://www.rutland-times.co.uk/news/local/firefighters-from-leicestershire-fire-and-rescue-deployed-to-nepal-on-search-and-rescue-mission-1-6711487
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Firefighters from Leicestershire Fire and Rescue deployed to Nepal on search and rescue mission
+</headline>
+
+<text>
+A team of highly trained firefighters from Leicestershire Fire and Rescue Services (LFRS) have been deployed to Nepal as part of the international search and rescue response to an earthquake which has killed more than 3,200 people.
+
+The Government of Nepal has officially requested international assistance following a 7.8 magnitude earthquake that struck just before midday on Friday (April 24), sending tremors through the Kathmandu Valley and the nearby city of Pokhara.
+
+Staff will be travelling to Nepal as part of the International Search and Rescue Team consisting of 67 highly trained personnel from UK agencies.
+
+LFRS has also supported the deployment of a member of staff to assist the health/trauma care charity, Humanity First.
+
+The team departed from Stansted Airport on Sunday (April 26). The deployment period could last up to 14 days.
+</text>

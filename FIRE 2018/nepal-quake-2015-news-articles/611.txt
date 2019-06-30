@@ -1,0 +1,29 @@
+<url>
+http://www.thehindu.com/news/national/telcos-slash-call-rates-for-nepal-earthquake/article7143569.ece
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Telcos slash call rates for Nepal earthquake
+</headline>
+
+<text>
+more-in
+
+Indian telecom companies have announced special call rates for aiding in the relief and rescue work involving the devastating earthquake in Nepal.
+
+While Bharti Airtel has offered calls made to Nepal free of cost on its network till April 27, 2015 midnight, Tata Docomo has announced calls at one paise a second till April 28.
+
+Aircel has offered free calls to Nepal for all its customers till 28th April 2015.
+
+"Additionally, those customers travelling to Nepal during this hour of crisis will also get free incoming while roaming into Nepal for the next 48 hours" Aircel said.
+
+Aircel has also waived off International Roaming Rental Deduction for its prepaid customers," Aircel added.
+
+Idea Cellular and Vodafone India have offered call rates at Re 1 per minute to Nepal as compared to Rs 12 per minute charged under normal circumstances.
+
+While Idea's offer is valid till the morning of April 28, Vodafone customers can avail this facility till 10 am on April 28, 2015.
+</text>

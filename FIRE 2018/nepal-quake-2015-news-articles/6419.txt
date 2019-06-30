@@ -1,0 +1,15 @@
+<url>
+http://www.newsobserver.com/news/nation-world/world/article20728302.html
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Nepal officials tell people to evacuate damaged buildings | News & Observer
+</headline>
+
+<text>
+In this photo provided by the International Organization for Migration (IOM), people gather in the street after an earthquake in Kathmandu, Nepal, Tuesday, May 12, 2015. A major earthquake hit Nepal near the Chinese border between the capital of Kathmandu and Mount Everest less than three weeks after the country was devastated by a quake. Paul Dillon IOM/AP
+</text>

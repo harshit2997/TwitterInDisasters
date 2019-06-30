@@ -1,0 +1,23 @@
+<url>
+http://www.thestar.com.my/News/Nation/2015/05/07/Nepal-earthquake-body-Malaysian-DJ-confirm/
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+Malaysian Embassy confirms body of missing DJ found in Nepal - Nation
+</headline>
+
+<text>
+KUALA LUMPUR: The body found in Langtang, Nepal on Tuesday is indeed of missing Sai Jaya Raj Anthony, the Malaysian Embassy in Kathmandu confirms.
+
+Embassy charge d'affairs Fadli Adilah confirmed that Anthony's brother Augustine had identified the body.
+
+"We are also assisting the family for the next processes and procedures, either for repatriation or cremation," he said.
+
+Anthony, 38, a local award-winning DJ known as DJ Headmasta, had gone missing four days before the 7.8-magnitude earthquake hit Nepal on April 25.
+
+He was on a six-month holiday with friends and had visited India before splitting from the group and headed to Nepal for trekking.
+</text>

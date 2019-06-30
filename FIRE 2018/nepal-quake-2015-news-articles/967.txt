@@ -1,0 +1,31 @@
+<url>
+http://www.business-standard.com/article/news-ians/pakistan-to-send-relief-aid-to-nepal-115042600102_1.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Pakistan to send relief aid to Nepal
+</headline>
+
+<text>
+Four Pakistan Air Force aircrafts carrying rescue and relief aid would be flown to the quake-hit Himalayan country of Nepal, media reported on Sunday.
+
+"Four C-130 aircrafts carrying a 30-bed hospital, special search and rescue teams and relief items will be dispatched to Nepal on Sunday," the Inter-Services Public Relations (ISPR) said.
+
+Prime Minister Nawaz Sharif offered the humanitarian assistance over a telephonic conversation with his Nepalese counterpart Sushil Koirala, Dawn online reported.
+
+The 30-bed hospital comprises of a team of Pakistan Army specialist doctors, including surgical, medical, orthopaedic, gynaecologist, anaesthesiologist, child specialist, radiologist and paramedics.
+
+An urban search and rescue team of Pakistan Army which is highly specialised in rescue operations during natural disasters is also being sent.
+
+The search and rescue team is equipped with ground penetrating radars and concrete cutter. The team is specially trained to search people trapped in rubble.
+
+A massive 7.9-magnitude quake, followed by a second 7.0-magnitude quake, that hit Nepal on Saturday, left over 1,800 people dead.
+
+The quake had its epicentre in Lamjung district, around 75 km northwest of capital Kathmandu.
+
+The tremors also jolted Tibet, India, Bangladesh and Pakistan.
+</text>

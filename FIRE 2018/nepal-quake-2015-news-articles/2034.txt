@@ -1,0 +1,41 @@
+<url>
+http://www.cnbc.com/id/102621124
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Quake experts gathered in Nepal a week ago
+</headline>
+
+<text>
+A Kathmandu earthquake has long been feared, not just because of the natural seismic fault, but because of the local, more human conditions that make it worse.
+
+Seismic activity can have bigger effects on different parts of the globe because of building construction and population, and that's something the U.S. Geological Survey calculates ahead of time. So the same level of severe shaking would cause 10 to 30 people to die per million residents in California, but 1,000 or more in Nepal, and up to 10,000 in parts of Pakistan, India, Iran and China, said USGS seismologist David Wald.
+
+While the trigger of the disaster is natural — an earthquake — "the consequences are very much man-made," Jackson said. Except for landslides, which in this case are a serious problem, "it's buildings that kill people not earthquakes," Jackson said. If you lived in a flat desert with no water, an earthquake wouldn't harm you, but then few people want to live there.
+
+Read MoreTechnology to the rescue as Facebook, Google tools help ease Nepal jitters
+
+"The real problem in Asia is how people have concentrated in dangerous places," Jackson said.
+
+Kathmandu was warned, first by the Earth itself: This is the fifth significant quake there in the last 205 years, including the magnitude-8.2 event that killed more than 10,000 in 1934.
+
+"They knew they had a problem but it was so large they didn't where to start, how to start," said Hari Ghi, southeast Asia regional coordinator for Geohazards International, a group that works on worldwide quake risks. Ghi, Jackson and Wald said Nepal was making progress on reducing its vulnerability to earthquakes, but not quickly or big enough.
+
+Ghi's group on April 12 updated a report from the late 1990s summarizing the Kathmandu Valley risks.
+
+"With an annual population growth rate of 6.5 percent and one of the highest urban densities in the world, the 1.5 million people living in the Kathmandu Valley were clearly facing a serious and growing earthquake risk," the report said, laying out "the problem" the valley faces. "It was also clear that the next large earthquake to strike near the Valley would cause significantly greater loss of life, structural damage, and economic hardship than past earthquakes had inflicted."
+
+And for years there were no building codes and rampant development so homes and other structures could be built without any regards to earthquakes, the report said. There are now building codes, but that doesn't help the older structures, and the codes aren't overly strong, Ghi said.
+
+The situation is actually made worse by local inheritance laws that require property be split equally among all sons, Jackson said. So that means buildings are split vertically among brothers. To create more room in the region's thin, rickety homes, people add insecure living space on additional floors, he said.
+
+"The construction is appalling in Kathmandu," Jackson said.
+
+Poverty and pollution make the problem worse, Jackson said. That's because people don't spend time worrying about some future earthquake because they have more pressing problems.
+
+"If you live in the Kathmandu Valley you have other priorities, daily threats and daily nasty things happen to you in terms of air quality, water quality, pollution, traffic and just poverty," Jackson said. "But it doesn't mean that the earthquakes go away."
+</text>

@@ -1,0 +1,31 @@
+<url>
+http://www.vocativ.com/world/nepal-world/nepal-quake-online-data/
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal Quake Relief Aided By Online Data
+</headline>
+
+<text>
+After a massive earthquake hit Nepal this weekend, followed by dozens of devastating aftershocks, the global humanitarian machine is swinging into action. And in order to organize that effort, all the organisations need as much data as possible. The UN’s Humanitarian Data Exchange is one effort to make relevant data available online in the immediate aftermath of an emergency.
+
+In the early stages of relief efforts, the Humanitarian Data Exchange shared information online that was vital for anyone trying to help. The site is a project run by the United Nations Office for the Coordination of Humanitarian Affairs, meant to streamline data necessary for efficient aid.
+
+Facebook and Google made headlines this weekend for their efforts to improve communication after the crisis. Facebook used its new feature called Safety Check to allow users in a disaster area flag that they’re safe and check on others. Google also revisited its Person Finder feature, where a user can check the safety of anyone and spread the news to others.
+
+The Humanitarian Data Exchange lists datasets helpful to organizations and to anyone trying to plan relief in Nepal after the earthquake. It is a one-stop shop for information on Nepal’s infrastructure, establishment locations, the population affected by the quake in different areas (see below), and much more.
+
+Relief efforts were hampered by a strong aftershock Sunday. People are sleeping in the cold, wet streets fearing more aftershocks. On Sunday, the government in Katmandu set up 16 relief stations to distribute food, water and medicine, The New York Times reported. The Red Cross, Oxfam, Doctors Without Borders and Christian Aid have all said they are sending teams to help with relief, according to the BBC. The government asked government workers to help with aid instead of their regular jobs for at least five days, while schools would be closed.
+
+Read More:
+
+Google Executive Dies In Everest Avalanche Caused By Quake [Techcrunch]
+
+Live Updates On Nepal Earthquake Aftermath [The Guardian]
+
+Scientists Found A New, Stiff Layer In The Planet’s Mantle [Popular Science]
+</text>

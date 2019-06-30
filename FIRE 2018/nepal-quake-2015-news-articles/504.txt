@@ -1,0 +1,15 @@
+<url>
+http://www.business-standard.com/article/international/fresh-tremors-hamper-nepal-s-search-for-survivors-115042700058_1.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Fresh tremors hamper Nepal's search for survivors
+</headline>
+
+<text>
+A fresh 6.7 magnitude aftershock in Nepal on Sunday hampered efforts to find survivors of a more powerful earthquake the day before that killed more than 2,400 people. The tremors prompted authorities to temporarily halt flights into Kathmandu, the capital, where thousands of people are camping outdoors. The 7.8-magnitude temblor that struck shortly before noon on Saturday triggered avalanches on Mount Everest, killing at least 19 foreign climbers including a Google Inc product manager. "Rescue teams are looking for those buried - the priority is looking for survivors," Tirtha ...
+</text>

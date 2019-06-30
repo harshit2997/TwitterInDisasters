@@ -1,0 +1,23 @@
+<url>
+http://www.newindianexpress.com/nation/Delhi-HC-Raps-Civic-Bodies-for-Allowing-Buildings-Sans-Permit/2015/05/08/article2802615.ece
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+Delhi HC Raps Civic Bodies for Allowing Buildings Sans Permit
+</headline>
+
+<text>
+NEW DELHI: The Delhi High Court on Wednesday rapped Delhi’s Municipal Corporations for allowing buildings to come up without complying with regulations and stated that it may result in deaths of several lakh people if an earthquake like the one which struck Nepal were to occur here.
+
+A Bench of Justice Badar Durrez Ahmed and Justice Sanjeev Sachdeva made the observation after it was told by a civic body that about 80 per cent of the buildings in the national capital had come up without complying with regulations, including those of structural stability.
+
+The court issued notice to the Delhi government and Municipal Corporations seeking their responses by May 20 on a PIL, questioning how safe were the structures were in the national capital were if an earthquake were to strike here.
+
+The court also directed the civic authorities to file status reports, within 10 days, indicating whether policy with regard to structural stability of buildings in Delhi were being implemented keeping in mind that the national capital falls in seismic zone (SZ) IV. SZ IV is called a high damage risk zone which can expect earthquakes of second highest magnitude.
+
+The civic bodies have also been directed to indicate in their reports whether buildings in the city are complying with the structural stability norms prescribed in the National Building Code (NBC) for SZ IV. The petition also cited that instances of houses tilting and walls developing cracks were reported from Trilokpuri in east Delhi after the recent earthquake in Nepal.
+</text>

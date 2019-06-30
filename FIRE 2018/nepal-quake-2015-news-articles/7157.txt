@@ -1,0 +1,71 @@
+<url>
+http://www.udel.edu/udaily/2015/may/nepal-mapping-051115.html
+</url>
+
+<date>
+20150511
+</date>
+
+<headline>
+UD students aid in mapping efforts to assist Nepal earthquake response
+</headline>
+
+<text>
+Student Cynthia Rivas works on a Nepal mapping project with the guidance of Byungyun Yang, visiting assistant professor in the Department of Geography.
+
+UD geography students are using high-resolution satellite images to update geographic maps of Kathmandu, Nepal.
+
+Byungyun Yang, visiting assistant professor in the Department of Geography, discusses the project.
+
+UD geography students are using high-resolution satellite images to update geographic maps of Kathmandu, Nepal.
+
+UD geography students are using high-resolution satellite images to update geographic maps of Kathmandu, Nepal.
+
+UD geography students are using high-resolution satellite images to update geographic maps of Kathmandu, Nepal.
+
+9:57 a.m., May 11, 2015--University of Delaware geography students recently used very high-resolution satellite images to update geographic maps of Kathmandu, Nepal, in the wake of the recent 7.8 magnitude earthquake that occurred on April 25.
+
+As part of their GEOG 4/673 “Developing Web GIS applications” class, the UD students compared satellite images of Kathmandu from between Feb. 1, 2013, and May 3, 2015, and marked buildings, roads and major damage on the new images within areas of destruction.
+
+They also updated shelter and evacuation locations in Nepal as information became available, uploading the Geographic Information Systems (GIS) data to the crowd-sourcing mapping platform, Humanitarian Open Street Map.
+
+The UD students are among thousands of volunteers worldwide who are contributing details about damage on the maps for first responders and humanitarian organizations.
+
+“The information in OpenStreetMap can fill in the gaps in base map data to assist relief workers in crisis response and recovery efforts,” said Byungyun Yang, a visiting assistant professor in the Department of Geography, who coordinated the classroom project.
+
+Anyone, anywhere can help
+
+An estimated 300,000 homes and buildings were destroyed during the earthquake, and there aren't a lot of roads or landmarks for relief workers to go by. Using OpenStreetMap, volunteers, or “citizen scientists,” build continuously updated maps that can be used online or downloaded into navigation devices.
+
+Anyone with Internet or wireless access can log in, and after some training in surveying GPS, satellite imagery and other public geographic data, help map highly affected areas like roads, buildings and waterways.
+
+Community volunteers subsequently validate the geographic data before government officials and humanitarian organizations, like the American Red Cross, use it.
+
+“The Nepal crisis mapping project allowed the students to apply their knowledge of GIS to a real life disaster where their input and efforts could help real people,” said Byungyun.
+
+Real life applications for learning
+
+Geographic information systems (GIS) are a widely used technology that helps people capture, analyze and present spatial and geographical data. Geographers use GIS to investigate distributions of environmental and cultural data.
+
+Cynthia Rivas, one of 14 students who participated in the effort, said the project was a great opportunity to test her skills on a real problem.
+
+“A lot of what we learn in school is theoretical. It was great to use real-time technology to help the people of Nepal,” said Rivas.
+
+A first-year doctoral student studying disaster science and management, the California native first learned about the Nepal disaster from an earthquake alert on her smart phone. When she started seeing requests for volunteers to help mapping efforts online, she immediately wanted to help and was pleasantly surprised to learn she’d get the chance when she arrived at class the following week.
+
+The actual mapping, she said, is easy. “You identify a building and manually digitize it by tracing the structure and categorizing it as a building.”
+
+Volunteers can spend as much or as little time as desired on the effort. Where one volunteer stops another steps in and continues, allowing even small contributions to produce large gains.
+
+“This is a great way to get communities involved and it takes as little as 15 minutes,” said Rivas.
+
+About the professor
+
+Byungyun Yang, who joined UD’s Department of Geography in 2014 as a visiting assistant professor, earned his doctoral degree in geography from University of Georgia in 2011. He specializes in geospatial technologies including geographic information systems, remote sensing, geo-visualization, spatial statistics for sustainable coastal management and preservation, and disaster management.
+
+Accredited by American Society for Photogrammetry and Remote Sensing, Byungyun is a certified mapping scientist and a licensed professional engineer in geospatial information. His recent research interests focus on developing 3-D GIS based landscape visualization tools for Delaware’s coastal areas and developing web GIS applications to collect and analyze demographics associated with real-time social media data.
+
+Article by Karen B. Roberts
+
+Photos by Evan Krape
+</text>

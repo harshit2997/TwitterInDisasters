@@ -1,0 +1,23 @@
+<url>
+http://www.japantimes.co.jp/news/2015/05/08/national/japanese-team-wraps-up-search-and-rescue-operations-in-nepal/
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+Japan wraps up search and rescue mission in Nepal
+</headline>
+
+<text>
+Japan’s disaster relief team wrapped up its search for earthquake survivors Thursday in Nepal as Kathmandu shifted priority to supporting the survivors.
+
+“The Nepalese government has expressed appreciation for what could not be measured in figures,” said Foreign Ministry bureaucrat Shigenobu Kobayashi, who led the relief team.
+
+Around 70 members of the Japanese team, drawn from various agencies, are scheduled to leave the South Asian nation on Friday while a separate Japanese medical team remains to help those wounded by last month’s powerful earthquake.
+
+The team did not find any survivors during its 10-day stay.
+
+Kobayashi also said it was difficult to coordinate with other foreign relief teams because Japan’s was delayed partly by congestion at the local airport.
+</text>

@@ -1,0 +1,31 @@
+<url>
+http://thenewdaily.com.au/news/2015/05/01/australia-gives-extra-5m-nepal-relief/
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Australia increases Nepal aid
+</headline>
+
+<text>
+Australia will provide another $5 million in humanitarian aid to help earthquake recovery efforts in Nepal.
+
+“This will bring our contribution to $10 million, which places us as one of the highest donors in terms of money for humanitarian relief,” Foreign Minister Julie Bishop told reporters in Perth on Friday.
+
+• Aussies rescued from Nepal on air force flights
+
+• ‘Wish I was dead’: Nepal quake survivor
+
+The additional funds will be given to the UN Flash Appeal, the Australian Red Cross and other non-government organisations taking part in relief efforts.
+
+Ms Bishop also confirmed that 1450 Australians have now been accounted for in Nepal.
+
+“When you consider that only 549 register with the Department of Foreign Affairs at the outset, this demonstrates the extraordinary work of consular staff in locating and ensuring that 1450 Australians that we know of in Nepal are now accounted for.
+
+“In terms of transport, we have taken two planes from Kathmandu to Bangkok carrying 106 people. Those two C17 transport planes are in Bangkok. One will remain in Bangkok pending further assessment of evacuation needs, the other will come to Australia.”
+
+– with AAP
+</text>

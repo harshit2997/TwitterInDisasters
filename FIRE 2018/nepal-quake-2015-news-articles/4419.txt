@@ -1,0 +1,21 @@
+<url>
+http://customstoday.com.pk/world-bank-extends-support-to-nepal/
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+World Bank extends support to Nepal
+</headline>
+
+<text>
+KATHMANDU: Extending support to earthquake-hit Nepal, World Bank President Jim Yong Kim has said the global body would help the Himalayan country in assessing the damage and reconstruction work.
+
+“We were shocked and deeply saddened to learn of the tragedy in Nepal, with its terrible human toll and material destruction,” Kim said in Paris, where he is travelling.
+
+“We are in close contact with the Nepalese authorities, who have specifically requested our support to help carry out an assessment of damage and reconstruction needs in urban areas affected by the quake,” he said.
+
+The World Bank Group is a long-standing partner of Nepal and will do everything possible to help people through this ordeal, Kim said.
+</text>

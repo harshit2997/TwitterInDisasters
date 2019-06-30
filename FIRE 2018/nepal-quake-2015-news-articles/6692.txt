@@ -1,0 +1,19 @@
+<url>
+http://www.dailymail.co.uk/wires/reuters/article-3078019/At-3-dead-Nepal-300-injured-quake--police.html
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+At least 3 dead in Nepal, more than 300 injured, in quake - police
+</headline>
+
+<text>
+At least 3 dead in Nepal, more than 300 injured, in quake - police
+
+NEW DELHI, May 12 (Reuters) - At three people were killed and more than 300 injured in Nepal after a magnitude 7.3 earthquake shook the Himalayan nation on Tuesday, police said.
+
+"We are getting updates from outlying areas, the number of dead is three and injured is over 300," an officer in the Kathmandu police control room told Reuters by telephone.
+</text>

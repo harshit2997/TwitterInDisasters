@@ -1,0 +1,49 @@
+<url>
+http://www.baltimoresun.com/news/maryland/good-morning-baltimore/bal-todays-front-page-trending-items-20150513-story.html
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+Today's front page & trending items
+</headline>
+
+<text>
+Good morning, Baltimore! Here's what you need to know for your Wednesday.
+
+WEATHER
+
+Cooler today with a high of 70. It’ll be partly sunny with stiff northwest winds of 10 to 20 mph, with 30 mph gusts possible. The overnight low will be 46.
+
+TRAFFIC
+
+Get the latest on delays for this morning’s commute.
+
+WHAT'S TRENDING?
+
+Find trending stories from The Sun.
+
+FROM TODAY’S FRONT PAGE
+
+Mayor Stephanie Rawlings-Blake defended her handling of the recent rioting in Baltimore, arguing Tuesday that more aggressive police or military tactics could have escalated into violence. Gov. Larry Hogan concurred with the mayor’s actions.
+
+Nepal was shaken again on Tuesday. A recent earthquake left more than 8,000 dead while displacing hundreds of thousands.
+
+Dorchester County slave Harriet Tubman who led fellow slaves to freedom on the Underground Railroad is the choice of Women on 20s to replace President Andrew Jackson on the face of the $20 bill.
+
+Toya Graham, an unemployed single mother of six who was shown disciplining her 16-year-old son in a widely circulated video during the recent riots, has been offered a job by three local companies, while a scholarship fund has been established for her son.
+
+FROM LAST NIGHT
+
+City officials say that the proposed Red Line will bring employment opportunities to area residents. Mayor Stephanie Rawlings-Blake called the streetcar line “a once-in-a-lifetime opportunity for us to improve the lives of people living across Baltimore.”
+
+The Baltimore city school board is considering applications to open or expand charter schools, even as questions are debated about funding levels for the ones it currently operates.
+
+New designs for McKeldin Plaza would fuse the brick space to the Inner Harbor promenade, transforming one of the busiest and most prominent intersections in the city into a 2.8 acre park, with grassy slopes and a curtain-like translucent fountain.
+
+—
+
+Get The Sun's mobile app || Top Stories || Newsletters || Trending stories
+</text>

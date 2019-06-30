@@ -1,0 +1,51 @@
+<url>
+http://www.thewhig.com/2015/04/27/prof-says-two-students-in-quake-zone-are-ok
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Prof says two students in quake zone are OK
+</headline>
+
+<text>
+Laurent Godin, a Queen’s University geology professor, would usually be in Nepal around this time of year collecting data in the Himalayan region. Almost every year since 1994, he’s undertaken the journey, but this year he conducted research in India before deciding to head back to Canada instead of continuing north.
+
+Two of his graduate students went on the month-long research trip to Nepal in his stead, so he spent the early hours of Saturday morning sleeping rather than on the other side of the world. His phone buzzed shortly after 2 a.m. — a message from the United States Geological Survey Earthquake Notification Service — telling him there had been an 8.1-magnitude earthquake that shook the impoverished mountainous country.
+
+“That was my wake-up call. I got a text message literally minutes after, telling me that there had been a massive earthquake,” he said. “I looked at the location and saw Kathmandu and everything went very quickly after that.”
+
+He knew he had two students travelling to the Nepalese capital city, but he wasn’t sure if they had arrived yet. The earthquake resulted in power outages, downed mobile networks and limited Internet access.
+
+Godin got dressed quickly and rushed to Queen’s campus to initiate the university’s emergency plan. It involved notifying the Queen’s international office, the Canadian Consulate, other Queen’s officials, and the students’ parents.
+
+Luckily, another message appeared a short while later from the two students saying they were OK and were camped out in the consulate, where there was still Internet access. Godin then set about assuring everyone the students were safe, before starting to plan a way for them to head back to Canada.
+
+“Usually, geology operates on millions of years time scales, so usually it’s a pretty calm activity,” Godin said. “We conduct research in mountains, so of course that entails a certain amount of risk just like crossing your street and going to work here.”
+
+This attention then turned to friends he had met over the years in Nepal. He said he has started to hear trickles of information from friends, some of whom he calls family, in the Kathmandu valley saying they are OK. It’s difficult, though, since many cellphone networks are still down.
+
+Many friends lost their homes, he said, which will likely take years to rebuild with the government’s poor infrastructure.
+
+The Nepalese government was made aware that a high-magnitude quake was coming, Godin said. However, it is almost impossible to predict exactly when a seismic event will happen.
+
+A geological workshop earlier this month in Kathmandu saw scientists discussing earthquakes and building codes in the city.
+
+As is often the case in Canada, there’s a rift in communication between the Nepalese decision-makers and scientists. Years of civil unrest, political instability, corruption, and widespread poverty also mean Nepal doesn’t have the resources or expertise to build more expensive earthquake-resistant buildings.
+
+“Building codes are probably at the bottom of the pile and the government really doesn’t have any mechanism to act on it,” he said, adding that many Nepalese homes are made of concrete and local bricks. “It’s easy to point fingers, but the reality is there just isn’t the resources to do this.”
+
+As such, Godin said the earthquake, the death toll, and the widespread destruction did, unfortunately, not come as a surprise.
+
+“If anything, I’m surprised to see that many buildings still standing,” he said. “We have this saying that earthquakes don’t kill people, buildings kill people.”
+
+Nepal exists along a fault line where the Eurasian tectonic plate to the north meets the Indian tectonic plate to the south. The force of the two plates colliding caused the Himalayan mountains to form.
+
+High-magnitude quakes are not uncommon in the area and often occur in Tibet, but the region is sparsely populated, so the effects are less severe, Godin said. Smaller-magnitude quakes can cause large areas of damage, depending on where they occur.
+
+The largest recent quake near Kathmandu occurred in 1934. Over the past 80 years, pent-up energy in the same area resulted in a similar spot. Now that the earthquake and resulting tremors have dissipated, the area will likely be safe from earthquakes for the next 80 years. But as with many geological predictions, this is only a guess.
+
+“Our predictions involve us anticipating earthquakes in certain areas because we haven’t seen evidence of a recent (tectonic plate) slip there,” he said. “But the exact time is just something we cannot predict.”
+</text>

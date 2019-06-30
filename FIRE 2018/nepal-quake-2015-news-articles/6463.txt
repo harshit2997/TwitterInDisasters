@@ -1,0 +1,31 @@
+<url>
+http://www.zerohedge.com/news/2015-05-12/dozens-killed-thousands-injured-nepal-hit-second-powerful-earthquake
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Dozens Killed, Thousands Injured As Nepal Hit With Second Powerful Earthquake
+</headline>
+
+<text>
+Just weeks after a 7.8 magnitude tremor rocked Nepal leaving thousands dead, another strong earthquake hit the country on Tuesday. Today’s 7.4 magnitude quake emanated from a remote area near the border with China. So far, there are at least 29 known casualties and thousands of serious injuries.
+
+More, via CNN:
+
+The shock waves rippled out from a remote area of eastern Nepal, near the border with China, leveling buildings already damaged by the devastating quake that killed thousands of people two and a half weeks ago.
+
+The magnitude 7.3 earthquake Tuesday struck at a depth of about 15 kilometers (9 miles), the U.S. Geological Survey said, slightly revising its earlier estimates. A series of significant aftershocks, the strongest measuring magnitude 6.3, followed the initial larger quake.
+
+The earthquake shook a country still picking up the pieces from the magnitude 7.8 quake that hit central Nepal on April 25, killing more than 8,000 people.
+
+The epicenter of the new earthquake was about 75 kilometers east of Kathmandu, the Nepali capital where many buildings were destroyed in the earlier quake.
+
+[Some of the] deaths were reported in the town of Chautara, about 35 kilometers east of Kathmandu, said Paul Dillon, a spokesman for the International Organization for Migration.
+
+The bustling capital was once again plunged into panic as residents rushed into the streets.
+
+"People are very scared and they don't know what is going on," said CNN iReporter Prashup Rajbhandari in Kathmandu. He said he thought the quake had cracked his house.
+</text>

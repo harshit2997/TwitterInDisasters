@@ -1,0 +1,15 @@
+<url>
+http://www.miamiherald.com/news/nation-world/world/americas/article19976202.html
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Amid Nepal earthquake response, echoes of Haiti | Miami Herald
+</headline>
+
+<text>
+Nepal army forces in collaboration with members of an American Search and Rescue team rescue 15 year old Pemba Lama from a collapsed hotel five days after the earthquake hit Nepal on April 30, 2015 in Kathmandu, Nepal. Omar Havana Getty Images
+</text>

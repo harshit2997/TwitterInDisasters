@@ -1,0 +1,27 @@
+<url>
+http://www.mobiletor.com/133477/nasas-tech-helps-save-four-people-in-quake-hit-nepal/
+</url>
+
+<date>
+20150511
+</date>
+
+<headline>
+NASA’s heartbeat-detecting device saves lives in quake-hit Nepal
+</headline>
+
+<text>
+With the world’s eyes peeled at the rescue efforts in quake-hit Nepal, it has come to light that a device developed by NASA recently helped save the lives of four men trapped under debris. The gadget from the premier American agency has been built particularly for detecting heartbeats of people stuck in wreckage.
+
+Named FINDER (short for Finding Individuals for Disaster and Emergency Response), this device actually makes use of microwave-radar technology to serve its purpose. Using it, a contingent of international rescuers was able to detect two heartbeats beneath two different collapsed structures, leading to the rescue of the four men.
+
+Two prototype FINDER devices were immediately deployed to Nepal by NASA after the massive 7.9 magnitude earthquake hit the country on April 25. The rescued men were stuck under the rubble for days in the village of Chautara. They were apparently stuck underneath 10 feet of bricks, mud and other debris.
+
+David Miller, who happens to be NASA’s chief technologist at the agency’s headquarters has said about FINDER that it ‘exemplifies how technology designed for space exploration has profound impacts to life on Earth.’ The same device had previously demonstrated capabilities to detect people stuck under a maximum of 30 feet of rubble, behind 20 feet of solid concrete and from a distance of 100 feet in an open space.
+
+Also Read: NASA to implement spy telescopes in dark-energy search
+
+According to a report by PTI, a new ‘locator’ feature was recently added to the device to help rescue workers get an approximate location of trapped individuals. The reading of this trait can be received within about five feet, depending on the type of rubble.
+
+The FINDER device has been developed by NASA in partnership with DHS’ Science and Technology Directorate (S&T) wing, and was first demonstrated at the Virginia Task Force One Training Facility in Virginia.
+</text>

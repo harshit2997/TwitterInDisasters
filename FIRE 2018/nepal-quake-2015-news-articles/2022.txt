@@ -1,0 +1,173 @@
+<url>
+http://www.huffingtonpost.com/2015/04/27/nepal-earthquake-aid_n_7152328.html
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Leaders In Nepal To Donate 1-Month Salary To Earthquake Relief Efforts
+</headline>
+
+<text>
+ADVERTISEMENT
+
+Government officials in Nepal and India are digging into their own pockets to help alleviate devastation caused by a magnitude-7.8 earthquake that rattled the region on Saturday.
+
+During a Constituent Assembly meeting on Monday in Nepal's capital city of Kathmandu, all legislators agreed to donate the equivalent of one-month salary to relief efforts, Ekantipur reported. According to the outlet, that's about $41.4 million Nepalese rupees -- more than $400,000.
+
+In India, Nepal's neighbor to the south, Parliamentary Affairs Minister Muppavarapu Venkaiah Naidu said on Monday a similar effort was being made among Indian officials, ANI reported.
+
+"As a parliamentary minister, I proposed that we should all contribute one-month of our salary for rehabilitation program in Nepal and the affected states in India," he said, noting all political parties unanimously agreed, according to ANI. "The entire house joined together in expressing solidarity to the people affected in the Nepal earthquake."
+
+(Story continues below.)
+
+A man holds the hand of a Nepalese child injured in the earthquake at a hospital in Pokhara on April 27. (Photo: SAJJAD HUSSAIN/AFP/Getty Images)
+
+Residents line up for food in an evacuation area set up by authorities in Tundhikel Park on April 27. (Photo by Omar Havana/Getty Images)
+
+Indian Muslims offer prayers for victims of Nepal's earthquake in Ahmadabad, India, on April 27. (AP Photo/Ajit Solanki)
+
+According to the Associated Press, more than 4,000 were killed in the earthquake, which was the worst to hit Nepal in 80 years. The disaster resulted in the deadliest day ever on Mt. Everest, NBC News reported.
+
+Several international aid groups -- including the American Red Cross, UNICEF and Save the Children -- are aiming to save lives and provide crucial resources to those affected.
+
+"We are in the process of mobilizing resources and figuring out how to get them in," Jana Sweeny, a spokesperson for the American Red Cross, told The Huffington Post. She noted the humanitarian group is working with the International Federation of the Red Cross and the Nepal Red Cross Society to best serve Nepalese victims. "We are looking at what resources we can provide them in terms of specialists or supplies and financial support."
+
+To support the American Red Cross' efforts, click here.
+
+The button below indicates how much has been raised on Crowdrise's "Nepal Earthquake Relief" page. Click to visit the site and donate.
+
+#custom_crowdrise_widget div.crDonateWidget {
+
+width: 298px !important;
+
+margin-left: 0 !important;
+
+margin-right: 0 !important;
+
+padding: 0 !important;
+
+height:78px;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget h4 { display: none; }
+
+#custom_crowdrise_widget .crDonateTriangle { display: none !important;}
+
+#custom_crowdrise_widget .crImageAndTitleOuter { display: none !important;}
+
+#custom_crowdrise_widget .CRShadowImage { display: none !important;}
+
+#custom_crowdrise_widget .crDonateWidgetOuter {
+
+border:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+margin-top: 0 !important;
+
+margin-right: 0 !important;
+
+margin-bottom: 0 !important;
+
+margin-left: 0 !important;
+
+background: url("https://www.crowdrise.com/media/cdncustom/huffpost_donate_widget.png") 0 0 no-repeat !important;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget {
+
+margin:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+background-color: inherit !important;
+
+padding: 0 10px !important;
+
+}
+
+#custom_crowdrise_widget .startFundraiser { display: none !important;}
+
+#custom_crowdrise_widget .gradientButton {
+
+width: inherit !important;
+
+margin-bottom: 0 !important;
+
+}
+
+#custom_crowdrise_widget .crDonated {
+
+margin: 0 !important;
+
+font: bold 14px/16px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+width: 185px;
+
+padding-top: 9px !important;
+
+}
+
+#custom_crowdrise_widget .crLogo img { display: none !important;}
+
+#custom_crowdrise_widget .crDonatedLabel { display: none !important; }
+
+#custom_crowdrise_widget .gradientButton {
+
+background: none !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)" !important;
+
+filter: alpha(opacity=0) !important;
+
+opacity: 0 !important;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 21px !important;
+
+margin-top:15px !important;
+
+}
+
+#custom_crowdrise_widget .donateNow {
+
+font: normal 9px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+filter: alpha(opacity=0);
+
+opacity: 0;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 36px !important;
+
+margin-top:0 !important;
+
+padding-top: 0 !important;
+
+}
+
+
+
+
+
+Like Us On Facebook
+
+Follow Us On Twitter
+</text>

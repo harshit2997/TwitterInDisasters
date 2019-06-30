@@ -1,0 +1,23 @@
+<url>
+http://www.washingtontimes.com/news/2015/apr/27/north-texas-woman-survives-mount-everest-avalanche/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+North Texan survives Nepal quake, Mount Everest avalanche
+</headline>
+
+<text>
+ALLEN, Texas (AP) - A North Texas woman who survived an avalanche triggered by a 7.8 -magnitude earthquake in Nepal is trying to get home.
+
+Danielle Banks, an Allen High School graduate, texted her mother Friday saying that she experienced an earthquake while on the way up Mount Everest.
+
+Sharon Banks didn’t hear from her daughter again until two days later. The 22-year-old sent another text message Sunday letting her mother know she’s safe.
+
+Sharon Banks says her daughter began her 11-hour journey to the bottom of the mountain Sunday evening, but does not yet have a way of making it back to the U.S. The mother says she may need to pay for a helicopter to get her daughter out of Nepal.
+
+Danielle Banks in December graduated from Texas A&M; University.
+</text>

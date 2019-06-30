@@ -1,0 +1,35 @@
+<url>
+http://www.todayonline.com/world/asia/nepal-quake-things-know
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal quake: Things to know
+</headline>
+
+<text>
+A powerful earthquake struck the Nepal region yesterday (April 25), causing widespread casualties and triggering an avalanche on Mount Everest. The key information known at this time:
+
+HOW BAD IS THE DAMAGE?
+
+It’s too early to tell, but early indications suggest the figure of more than 1,800 people killed (as of 10am, Singapore time) in four countries is likely to rise substantially in the coming days. The magnitude-7.8 quake was the worst to hit Nepal in eight decades and caused damage and fatalities in neighbouring countries as well. In addition to nearly 1,400 people killed in Nepal, at least 34 were killed in India, 12 in Tibet and two in Bangladesh. Two Chinese citizens died at the Nepal-China border.
+
+The earthquake hit a heavily populated area of Nepal, including the capital, Kathmandu, and its impact spread far beyond the Kathmandu Valley. Strong aftershocks were felt an hour after the initial temblor.
+
+Earthquake experts are preparing for high numbers in terms of deaths and damage.
+
+“This is a very large earthquake in a significantly populated region with infrastructure that has been damaged in past earthquakes,” US Geological Survey seismologist Paul Earle said. “Significant fatalities are expected.”
+
+Local hospitals were already filling with injured residents, and Kathmandu’s international airport was shut down, hampering initial relief efforts in the isolated mountainous country.
+
+WHAT HAPPENED? AND WHAT HAPPENS NEXT?
+
+Seismologist Earle said the quake happened on what is known as a “thrust fault”. That describes the situation when one piece of the Earth’s crust is moving beneath another piece.
+
+In this case, it’s the Indian plate that is moving north at 45mm a year under the Eurasian plate to the north, he said. It’s a different type of earthquake than the one that caused the 1906 San Francisco earthquake. “This is what builds the Himalayan mountain range.”
+
+Pages
+</text>

@@ -1,0 +1,27 @@
+<url>
+http://www.dailymail.co.uk/wires/aap/article-3059863/Aid-supplies-leave-Brisbane-Nepal.html
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Aid supplies leave Brisbane for Nepal
+</headline>
+
+<text>
+Aid supplies leave Brisbane for Nepal
+
+Two planes carrying essential aid and personnel are set to leave Brisbane for earthquake-ravaged Nepal.
+
+The two C-17A Globemasters are loaded with six tonnes each of tarpaulins and health supplies, over two tonnes of blankets and 80,000 water purification tablets.
+
+The planes will depart from the RAAF base at Amberley at 8am and 10am on Wednesday enroute to Kathmandu.
+
+Once the aid is delivered the next job for defence force and Department of Foreign Affairs and Trade (DFAT) personnel is to evacuate Australians in Nepal to Bangkok.
+
+A DFAT spokesman said around 1000 Australians had so far sought evacuation assistance.
+
+The death toll from Saturday's devastating quake has now tipped 5000 people with around 8000 injured.
+</text>

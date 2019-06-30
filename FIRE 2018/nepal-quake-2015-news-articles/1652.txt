@@ -1,0 +1,39 @@
+<url>
+http://blogs.wsj.com/indiarealtime/2015/04/27/nepal-earthquake-triggers-travel-warnings/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal Earthquake Triggers Travel Warnings
+</headline>
+
+<text>
+Damaged buildings in Kathmandu, Nepal, Apr. 27. Associated Press
+
+Several countries have issued travel alerts advising their citizens not to travel to Nepal following the devastating 7.8-magnitude earthquake that hit that country Saturday. One trekking company said it was cancelling its spring expeditions to the country as a result.
+
+The British Foreign and Commonwealth Office on Sunday issued a warning advising tourists “against all but essential travel” to the south Asian nation for the immediate future.
+
+In response, U.K.-based Everest trekking company Jagged Globe said on Monday that it had “suspended all trips that are due to depart this spring season.”
+
+Jagged Globe had a team of 24 people attempting to climb Everest when the earthquake struck triggering a massive avalanche at base camp, according to the company’s Managing Director Simon Lowe. One of the team, Dan Fredinburg, a Google executive, was killed by the impact and two were injured.
+
+For U.K. citizens stuck in Nepal, the FCO advised to stay put. “If you are in a safe place, you should stay where you are until it is safe to leave.”
+
+“If you can leave Nepal safely then we advise that you should do so,” it added.
+
+The U.S. State Department, too, alerted its citizens of the risks of travel to Nepal, according to a statement posted on the website of the U.S. Embassy in New Delhi Sunday.
+
+“The possibility for aftershocks of significant magnitude persists” especially in the mountainous regions bordering Nepal and parts of West Bengal, northern Bihar, Assam, and most of Sikkim,” it added.
+
+U.S. citizens in Nepal should exercise caution when traveling in or planning departure from the country, the statement said and advised roads could be crowded with people or closed due to damage and transportation could be difficult.
+
+New Zealand’s government warned potential travelers that “there is high risk to your safety in Nepal.”
+
+“We now advise against all tourist and other non-essential travel due to earthquake damage,” the New Zealand High Commission in New Delhi said in a statement released Monday.
+
+The Australian High Commission in Nepal also updated its travel advisory for its citizens. There has been massive “disruptions to telecommunications, transport and tourist infrastructure, and advises Australians to follow the instructions of local authorities,” it said in a statement Sunday.
+</text>

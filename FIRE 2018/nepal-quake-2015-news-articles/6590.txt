@@ -1,0 +1,17 @@
+<url>
+http://www.pakistanherald.com/article/5843/12-may-2015/24-killed-as-new-quake-hits-shattered-nepal
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+24 killed as new quake hits shattered Nepal
+</headline>
+
+<text>
+Source: Tribune Published in World on Tuesday, May 12, 2015
+
+KATHMANDU: A new earthquake and several powerful aftershocks hit devastated Nepal on Tuesday, killing at least 24 people and sending terrified residents running into the streets of the traumatised capital.
+</text>

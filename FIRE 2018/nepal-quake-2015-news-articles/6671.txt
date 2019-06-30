@@ -1,0 +1,63 @@
+<url>
+http://www.accuweather.com/en/weather-news/breaking-74magnitude-earthquak/47013014
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+7.3-Magnitude Earthquake Hits Nepal
+</headline>
+
+<text>
+7.3-Magnitude Earthquake Hits Nepal
+
+By By Brian Lada, Meteorologist May 15, 2015, 12:58:37 AM EDT
+
+A powerful earthquake, 7.3 in magnitude, struck Nepal on Tuesday, just weeks after an even stronger quake devastated large areas of the country.
+
+The epicenter of Tuesday's earthquake was located 76 km (47 miles) east of Kathmandu, the capital of Nepal, according to the U.S. Geological Survey.
+
+According to the USGS, Tuesday's earthquake is the largest aftershock to date of the magnitude 7.8 April 25, 2015 Nepal earthquake – known as the Gorkha earthquake.
+
+Tuesday's earthquake was able to be felt in the nearby countries of India, Bhutan, and Bangladesh, according to reports from the USGS.
+
+Several aftershocks hit in the same area shortly after the main quake occurred at 12:50 p.m. local time (3:05 a.m. EDT). At least half a dozen aftershocks occurred in the vicinity of the 7.3-magnitude quake, all with a magnitude of 5.0 or higher.
+
+"Landslides were reported closer to the epicenter of the tremor in the district of Sindhupalchowk," the LA Times said. The district of Sindhupalchowk is located northeast of Kathmandu.
+
+
+
+
+
+
+
+This earthquake is considered to be a shallow earthquake, having a depth of only 15 km (9.3 miles). Shallow earthquakes of this nature typically cause more damage than those of a similar magnitude at a greater depth.
+
+The Nepal Times added to this, saying that houses have collapsed in Kathmandu, Bhaktaput, Lalitpur, Dolakha, and Sindhupalchok district following the tremor which has left some dead and more injured.
+
+Nepal's Home Ministry reported dozens were killed and more than 1,000 were injured, according to the Associated Press.
+
+AccuWeather.com Meteorologist Adam Douty said that there could be an afternoon or evening thunderstorm around each of the next several days in Kathmandu.
+
+These thunderstorms could cause disruptions to cleanup efforts over the coming days.
+
+
+
+
+
+As rescue efforts continued, Reuters reported that a U.S. Marine Corps helicopter went missing Tuesday while conducting relief efforts in earthquake-affected areas.
+
+This 7.3-magnitude earthquake hit closer to Mount Everest than the 7.8-magnitude earthquake that struck the country on April 25.
+
+It is possible that this could have triggered more avalanches around the Mount Everest area, impacting climbers and Sherpas. However, at this time there have been no confirmed reports of new avalanches.
+
+Cleanup efforts from April's earthquake are likely to face major setbacks following this newer earthquake and associated aftershocks.
+
+The death toll from April's earthquake has risen past 8,000. That number will continue to rise following Tuesday's earthquake.
+
+Continue to check back with AccuWeather.com as more information becomes available about this major earthquake.
+
+Report a Typo
+</text>

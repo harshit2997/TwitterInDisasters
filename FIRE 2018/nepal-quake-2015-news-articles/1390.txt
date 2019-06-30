@@ -1,0 +1,15 @@
+<url>
+http://www.kansascity.com/news/local/article19686198.html
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Bhutanese in the Kansas City area worry about relatives in Nepal earthquake region | The Kansas City Star
+</headline>
+
+<text>
+Toya Nepal, (left) a native of Bhutan, and store owner Ram Rai, also of Bhutan, hope to help victims of the earthquake in Nepal by collecting funds at RG Asian Store, 101 S. 18th St, Kansas City, Kan. Rai's sister and her four children are living in Nepal. They were pictured Sunday. TAMMY LJUNGBLAD tljungblad@kcstarc.om
+</text>

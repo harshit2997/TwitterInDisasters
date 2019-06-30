@@ -1,0 +1,21 @@
+<url>
+http://www.straitstimes.com/news/asia/south-asia/story/nepal-earthquake-death-toll-climbs-6204-almost-14000-injured-20150501
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Nepal earthquake: Death toll climbs to 6,204; almost 14,000 injured
+</headline>
+
+<text>
+KATHMANDU (AFP) - The death toll in Nepal from last weekend's devastating earthquake has risen to 6,204, the National Emergency Operations Centre said in its latest update on Friday.
+
+A further 13,932 people were injured in last Saturday's 7.8-magnitude quake, according to the centre.
+
+More than 100 people in neighbouring India and China also died in the quake, officials say.
+
+The Red Cross has warned of “total devastation” in remote areas near the epicentre, as Nepal’s government struggles to deal with the scale of the disaster.
+</text>

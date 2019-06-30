@@ -1,0 +1,53 @@
+<url>
+http://www.csmonitor.com/Technology/2015/0506/How-technology-is-saving-lives-and-bringing-help-to-Nepal
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+How technology is saving lives and bringing help to Nepal
+</headline>
+
+<text>
+Technology is changing not only how relief efforts are organized and deployed after the Nepal earthquake, but also how they can help on the ground.
+
+New technologies are helping relief workers in Nepal find a heartbeat under 40 feet of rubble and pinpoint damaged buildings in the country’s remotest corners.
+
+For many, the ability to help in Nepal has been symbolized by the outstretched hand clutching a heart on Facebook that calls on social media users to donate to relief efforts. Indeed, technology has transformed how money gets to disaster areas and to those heading there to pitch in.
+
+But it is also changing how those on the ground can help. Technology is finding new ways to more quickly get better information to those who need it. That means turning satellite imagery into a crowd-sourced clearinghouse for damage data. Or sending drones into the wild reaches of the Himalaya. Or wheeling NASA’s suitcase-sized FINDER sensor into destroyed areas to scan earthquake rubble for survivors.
+
+“With a situation like this that has such real-time info coming all the time, technology is huge,” says Shivani Garg-Patel, cofounder of Samahope, an online platform that identifies high-impact, under-resourced local health care providers and connects them to support networks. “To get information from the ground, to communicate with stakeholders, it mobilizes people to respond and react quickly. It’s a great way for us to mobilize and get help.”
+
+In some cases, this is a matter of finding new ways to leverage older technologies. Satellite imaging company Digital Global has four satellites orbiting the earth as part of its Tomnod project, giving it a window into the remotest parts of the globe.
+
+“We can see every corner of Nepal using these satellites. We can blanket the entire region, the villages outside of the Mt. Everest base,” says Shay Har-Noy, senior director of geospatial big data at Digital Global.
+
+When the earthquake hit, the company put this information into the hands of those who could make it a powerful and interactive tool. Users could log on to identify damaged roads and buildings or to tag the site of a landslide or a community of displaced people, creating a crowd-sourced database of affected areas.
+
+“The more international the response, the more relevant it is for technology to play a role,” says Dr. Har-Noy. “The maps of Nepal haven’t been traditionally very good, but if you ask the chief of police in downtown Katmandu, he knows where things are and can form a mental image. But as international organizations come in during these larger events, mapping and technology is very important for identifying damage and people who need help.”
+
+Some 40,000 people, including governmental and nongovernmental entities as well as local volunteer agencies, have used the site to tag images. “It’s very humbling seeing the response the world community has,” says Har-Noy.
+
+Team Rubicon, a nonprofit that sends veterans to volunteers in disaster areas, is another group that needs such data. But it has partnered with San Francisco-based HaloDrop to use unmanned aerial vehicles to take photographs of hard-to-reach areas and verify where resources are needed.
+
+The use of drones in disaster zones is becoming more common. Canadian company Aeryon Labs dispatched three unmanned aerial systems to Nepal. The drones carry thermal cameras to identify survivors and lenses that allow operators to recognize a face from 1,000 feet away and create 2-D and 3-D maps of affected areas. Companies are also exploring ways that drones can deliver food, water, and medicine to remote locations.
+
+Smaller, ground-based sensors are helping with the search, too. On May 5, the United States Department of Homeland Security announced the rescue of four men in Nepal who were buried under as much as 10 feet of bricks, mud, and other debris, thanks to NASA’s FINDER (Finding Individuals for Disaster and Emergency Response) device. First deployed after the 2010 Haiti earthquake, FINDER uses microwave-radar technology to detect the heartbeats of victims trapped under rubble or behind solid concrete. Following the April 25 earthquake, two prototype FINDER devices were sent to support search and rescue teams in Nepal.
+
+For Team Rubicon, the need for technology goes well beyond drones and detection devices. Evolving technologies are crucial to every aspect of Team Rubicon’s work, allowing it to mobilize volunteers, communicate with donors, and even find free flights to transport their volunteers to the site of a disaster.
+
+Matt Scott, online fundraising coordinator for Team Rubicon, runs through the list: “We have a system called [Roll] Call … and we use that to mobilize and talk to our volunteers. Airlink, they donate hundreds of flights to Rubicon. They compare people who can donate their [frequent flier] miles to nonprofits. We also use Classy as our online fundraising platform. Salesforce is our online donor management system. We communicate with supporters via social media.”
+
+Facebook, too, has done more than put a link for disaster relief donations on its pages. It activated Safety Check, a feature that allows individuals to check in with friends and family and inform them they are safe. Meanwhile, Google has revived Person Finder, an open-source search tool it developed in response to the earthquake in Haiti. People can enter identifying information, such as name, sex, age, address, or social network profile, and receive notifications when others post updates. For those without Internet access, Person Finder can be used via SMS.
+
+Even in collecting and distributing donations, technology has played a crucial role in increasing effectiveness. The day the earthquake hit, Samahope launched an online campaign to provide resources to local health care providers in Nepal. The organization has now raised $28,000 with the help of 150 donors using the online fundraising platform Classy.
+
+“Most of the healthcare facilities in Nepal have been damaged or destroyed,” explains Ms. Garg-Patel. “What we did was to support the work on the ground.”
+
+Mr. Scott from Team Rubicon agrees that online fundraising is crucial.
+
+“We’ve raised $600,000 for Nepal, and a little over half of that was online. It costs $5,000 to deploy a volunteer for 10 days. We now have 42 members mobilized [in Nepal] to help provide relief and medical help.”
+</text>

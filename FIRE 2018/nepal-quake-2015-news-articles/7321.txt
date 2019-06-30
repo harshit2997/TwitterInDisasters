@@ -1,0 +1,95 @@
+<url>
+http://foreignpolicy.com/2015/05/15/nepals-renegade-strategy-to-save-mothers-earthquake-misoprostol/
+</url>
+
+<date>
+20150515
+</date>
+
+<headline>
+Nepal’s Renegade Strategy to Save Mothers
+</headline>
+
+<text>
+Nepal’s Renegade Strategy to Save Mothers
+
+KATHMANDU—For Aiti Kumari Tamang, a 24-year-old from a village in the rural district of Dhading, Nepal, the days before her due date were tense. Twins make pregnancy more dangerous, her doctor had warned her, and advised that she and her husband make plans to deliver in a hospital in the capital, Kathmandu. There, skilled professionals would be on hand to help should complications arise.
+
+The young couple arrived just in time.
+
+“We came on Friday,” Tamang said from her bed at Tribhuvan University Teaching Hospital where on April 24 she gave birth to two healthy boys. “And the next day was the earthquake.”
+
+Tamang is part of an encouraging trend; over the past decade, more and more Nepali women have chosen to deliver in a health facility rather than at home, greatly reducing the risk that they’ll die of excessive blood loss, or postpartum hemorrhage, the leading cause of maternal deaths worldwide. That has helped make Nepal one of just a few countries to have already met the fifth United Nations’ Millennium Development Goal of reducing its maternal mortality ratio by three-quarters by 2015.
+
+Yet just as important for maternal health in Nepal, experts here and abroad say, was a decision made a decade ago by the country’s Ministry of Health to put a controversial drug called misoprostol — a pill with the capacity both to prevent postpartum hemorrhage and to terminate a pregnancy — directly into the hands of the women who need it: those in remote mountain villages, days by foot from the nearest facility.
+
+Now, after the 7.8-magnitude earthquake that struck the country on April 25, killing at last count more than 8,000 people — and another 7.3-magnitude quake on May 12 — efforts to roll out misoprostol have taken on new urgency. Across the affected zone, hundreds of health facilities have been damaged or destroyed; health workers have been made homeless; and hospitals have been inundated with the injured, putting extreme pressure on an already overstretched health system.
+
+Designed to meet pregnant women where they are, Nepal’s pro-poor program ran counter to the accepted wisdom of the international medical community, which holds that the best way to reduce maternal mortality is to invest in facilities, thereby ensuring that all pregnant women have access to the gold standard for addressing postpartum hemorrhage. And for decades, international health agencies have pushed a global safe motherhood strategy focused on that essential long-term goal.
+
+That strategy, a one-size-fits-all approach, has worked well in developed countries. But it’s done little, say critics, to address the immediate needs of women in poor countries who, for a variety of reasons, remain beyond those systems’ reach.
+
+Nepal is no exception. The poorest country in Asia after Afghanistan, it’s also one of the most difficult to traverse. Facilities are few and far between, roads are often impassable for months at a time, and deeply ingrained cultural practices put some women at a further remove from professional care. Add to that the steady flight from the country of mostly male migrant workers, their spouses left to give birth by themselves, and you begin to understand why pregnancy in rural Nepal is often referred to as a “gamble with death.”
+
+Nepal needed something else — a stopgap measure for making pregnancy safer until access to quality care could be extended to all. So the country went its own way. In providing women with misoprostol at the community level — taken orally, immediately after birth, the drug decreases blood flow to the uterus, drastically reducing the risk of hemorrhage — Nepal broke with the global guidance set by the World Health Organization, which had yet to issue the drug its seal of approval.
+
+Ten years on, few countries have followed Nepal’s lead. But as the earthquake’s toll continues to mount, the need for a back-up plan to prevent postpartum hemorrhage becomes ever more clear — and misoprostol is that.
+
+***
+
+Originally developed for the treatment of gastric ulcers, misoprostol was found in the late 1980s to have several important uses in obstetrics and gynecology. For one, the drug can induce labor, and in countries with restrictive abortion laws, misoprostol has long been used to terminate pregnancies. Taken on its own, it’s considered a safe alternative to the dangerous, back-alley procedures that kill an estimated 47,000 women every year.
+
+Later, it was found to be a safe and effective option for preventing postpartum hemorrhage. Capable of reducing a woman’s risk for the condition by as much as 60 percent, misoprostol represented a game changer.
+
+“I always say, there is one person who is absolutely going to be there for the birth, and that’s the mother herself,” says Dr. Jeffrey Smith, an OBGYN with the non-profit health organization Jhpiego and chief maternal health advisor to the U.S. Agency for International Development’s (USAID) Maternal and Child Survival Program. “So she is the one who should be holding the drug.”
+
+Only, most of the time, she isn’t. Advocates say that fears of misoprostol’s “misuse” have compelled countries with restrictive abortion laws to limit its availability. There’s also the issue of trust. “One of the big global concerns is that women won’t take the drug correctly,” says Smith. “That they’ll take it before the baby comes out, which can cause the uterus to rupture, and the woman can die.” In a 2013 review of community-level misoprostol programs, Smith and colleagues demonstrated that those concerns are misplaced: out of more than 12,000 women, just seven took misoprostol incorrectly.
+
+Women and their families, they showed, have an important role to play in their safe delivery. But they have to be trusted and empowered to manage their own reproductive lives.
+
+And for far too long, governments have been loath to do that.
+
+With the launch in 1987 of the Safe Motherhood Initiative at a conference in Nairobi, governments, donors, and U.N. agencies agreed on a set of key action plans for reducing maternal mortality — among them, the training of traditional birth attendants (TBAs) to improve care for pregnant women at the community level. After 10 years, however, maternal mortality rates had barely budged, and blame for that failure fell on the TBAs, leading governments and donors to dispense with their large-scale training. They focused instead on a new action plan — “ensure skilled attendance at delivery” — which called for expanding the ranks of professional midwives and equipping facilities to provide emergency obstetric care.
+
+Since then, maternal deaths have declined dramatically worldwide, but major disparities remain unchanged: 99 percent of maternal deaths still occur in developing countries, and many of the least developed countries, where only 35 percent of births are attended by a skilled health worker, have made little or no progress at all.
+
+“If you look at the investments in maternal health, most of it is related to facilities — upgrading them, increasing them, training and deploying skilled providers,” says Dr. Ndola Prata, an expert on reproductive health at the University of California Berkeley who has researched misoprostol extensively. “These are critical investments, but in every single country, we’re missing a lot of people.” Take Ethiopia, she says, with its population of close to 100 million. “About 10 percent of deliveries occur in facilities. You can have three gynecologists per woman, you’re not going to make a difference.”
+
+In 2002, Jhpiego, with support from USAID, assisted Indonesia’s Ministry of Health in implementing the first pilot study of oral misoprostol for the prevention of postpartum hemorrhage at home births. In one poorly served district of West Java, community volunteers were deployed to distribute the drug to women in their 8th month of pregnancy and to counsel them on why and when to take it. In another district, the “control,” study participants received only counseling on the prevention of hemorrhage. “Our programs urge women to go to a facility to deliver,” says Smith. “But if they can’t make it — the creek rises, the security situation deteriorates, for whatever reason, they’re stuck at home — to take these three pills.”
+
+The results were striking: women in the intervention district were 25 percent less likely to perceive excess bleeding after birth and 45 percent less likely to need an emergency referral for postpartum hemorrhage compared to women in the control group. Moreover, the study proved to skeptical policymakers that Indonesia’s existing network of community volunteers, the majority of whom were poor and illiterate, could successfully implement a program at the national level, vastly increasing coverage with a uterotonic.
+
+In the years that followed, Indonesia’s experience had a ripple effect around the globe; countries in Asia, Latin America, and sub-Saharan Africa, all with high rates of maternal mortality and poor coverage with midwives, launched similar pilots in an attempt to assess whether community volunteers there could safely and effectively distribute misoprostol for the prevention of postpartum hemorrhage at home births.
+
+In one after another — Afghanistan, Ethiopia, Nigeria, Nepal, Bangladesh, Ghana, Kenya, Mozambique, Rwanda, Senegal, Tanzania, Uganda, Yemen — the answer was, “yes.”
+
+***
+
+When Nepal launched its own pilot misoprostol program in 2005, home births accounted for more than 80 percent of all deliveries. In the country’s mountainous northern districts — home to both the world’s tallest peaks and some of its highest rates of maternal mortality — it wasn’t uncommon to hear of women who had walked for days, over 16,000-foot passes, only to collapse on arrival at a health facility, their babies long since lost.
+
+“By the time they’d get to us, there was usually nothing we could do,” Dr. Kusum Thapa, a veteran obstetrician with Jhpiego, recalled of her clinical experience in Pokhara, a city at the base of the magnificent Annapurna massif. A longtime advocate for the use of misoprostol, Thapa is one of few Nepalese obstetricians whose career includes long stints serving communities far from Kathmandu. “In those areas, if a woman bled, she really didn’t have a chance.”
+
+Misoprostol, Thapa added, offered Nepali women just that. For the poorest, most remote communities — people who had never seen a midwife, much less a doctor — the drug was a lifeline.
+
+There was just one problem.
+
+Nowhere, including Nepal, had misoprostol ever been registered for the prevention of postpartum hemorrhage at the community level. Though the drug had been widely used off-label for other obstetric indications, it didn’t have the regulatory approval required for roll out in the kind of national program that could reach large numbers of women.
+
+In deciding whether to register a drug for a given indication, many developing country governments look to the W.H.O.’s Model List of Essential Medicines. At the time of Nepal’s pilot, the W.H.O. had yet to add misoprostol to the list for postpartum hemorrhage — it would be another six years, in fact, before it finally did — selecting instead another uterotonic, oxytocin, as the drug of choice. In a randomized clinical trial, oxytocin had been found to be marginally more effective and to have fewer side effects than misoprostol, which could sometimes cause shivering and fever. And though many studies had supported misoprostol’s use for prevention of postpartum hemorrhage at the community level, all were nonrandomized trials with significant risks of bias.
+
+Still, in recommending only oxytocin for the prevention of postpartum hemorrhage, advocates say the W.H.O. failed to take into account the factors prohibiting uptake in many developing countries. Because oxytocin must be given by a skilled provider, requires constant refrigeration, and can only be administered by injection, the drug isn’t feasible for use where electricity is unreliable and emergency obstetric care is scarce, the very places a uterotonic is most needed. Misoprostol, by comparison, a cheap, heat-stable tablet, can be taken orally, rectally, or vaginally. It requires neither cold storage nor a syringe, and it can be correctly administered by lay health workers or even the pregnant women themselves.
+
+“If you look at countries that have the drug registered, that have done demonstration projects, only a few have large-scale distribution,” says Prata, who, as medical director of the now defunct non-profit group Venture Strategies Innovations, helped bring about regulatory approval of misoprostol distribution for postpartum hemorrhage first in Nigeria and later in Nepal, among other countries. “It’s still a struggle. There is much, much more progress to be made.”
+
+Paradoxically, the very ability of misoprostol to reach women in remote areas may be the highest hurdle to its implementation. “Some in the global community, including the W.H.O., worry that this may undermine the global strategy of midwives for births,” says Smith. “That by telling a woman she can take this pill if she delivers at home, you’re inadvertently encouraging her to stay at home.” No study has found evidence to support that idea, and in fact, he adds, studies in several countries have shown that rates of facility delivery went up, not down, after misoprostol distribution.
+
+Nepal, one of the few countries that went ahead with a phased national scale up, is a case in point. When the program started, fewer than 18 percent of births were institutional deliveries. Now, a decade on, an estimated 55 percent of births take place in a facility. And where postpartum hemorrhage was once the leading cause of maternal deaths in Nepal, it has fallen to number two.
+
+The program is currently underway in close to half of the country’s 75 districts — those where the health system is weakest. Like the government’s distribution of aid in the days after the quake, rollout has been plagued by bureaucratic delays. But distribution in those districts hardest hit by the earthquake is set to begin in the coming weeks. “We have authorization to do it, and we are going to do it — fast,” said Surya Battha, program director at One Heart Worldwide, a non-profit organization that assists the government in training the country’s Female Community Health Volunteers to distribute misoprostol and educate women on safe birth.
+
+“When all the deliveries happen in health facilities, then we don’t need misoprostol,” Dr. Shilu Aryal, director of Nepal’s Safe Motherhood Program, explained as she flipped through a series of graphics used by the FCHVs to counsel pregnant women on birth readiness. “It’s our temporary strategy.” The W.H.O. had opposed it, she added. “They said you have to give this under the supervision of skilled birth attendants. But we had our data, and the FCHV,” she said, holding up a hand-drawn picture of one sari-clad woman offering another three small white pills — “we knew she can do it.”
+
+Reflecting on the earthquake in Nepal, Jhpiego’s Smith noted that a similar misoprostol distribution program was getting underway in Liberia last summer. As the Ebola epidemic was ravaging communities across the country, filling treatment centers to capacity and moving clinics to close their doors, Jhpiego ramped up efforts to make misoprostol available to pregnant women in their homes. “When the health system fails,” he said, “you need a plan B.”
+
+Photo by Patrick Adams
+</text>

@@ -1,0 +1,43 @@
+<url>
+http://news.yahoo.com/mount-everest-shrank-nepal-quake-lifted-kathmandu-160715192.html
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Mount Everest Shrank As Nepal Quake Lifted Kathmandu
+</headline>
+
+<text>
+The first good view of the aftermath of Nepal's deadly earthquake from a satellite reveals that a broad swath of ground near Kathmandu lifted vertically, by about 3 feet (1 meter), which could explain why damage in the city was so severe. The data also indicate the tallest mountain in the world, Mount Everest, got a wee bit shorter.
+
+The new information comes from Europe's Sentinel-1A radar satellite. Scientists are racing to interpret the Sentinel data, which were made available today (April 29) just hours after the satellite passed over Nepal. The preliminary data can help guide relief efforts on the ground by identifying areas that were damaged or hit by landslides.
+
+Researchers detected the vertical shift in the ground by comparing before-and-after radar images from the satellite using a technique that produces an image called an interferogram. The resulting images have rainbow-colored areas that represent the movement of the ground between the times each radar image was taken. Each colorful fringe on the European Space Agency's Nepal interferogram reflects about 1 inch (2.8 centimeters) of vertical movement. The results will be refined in the coming weeks, with as scientists further analysize the images and additional data from satellites become available. [See Images of the Kathmandu Uplift & Other Nepal Quake Effects]
+
+According to the early analysis, a region 75 miles (120 kilometers) long by 30 miles (50 km) wide lifted upward by as much as 3 feet during the earthquake, said Tim Wright, a geophysicist at the University of Leeds in the United Kingdom. This uplift peaked only 10 miles (17 km) from Kathmandu, even though the city was relatively far from the earthquake's epicenter.
+
+"That's one of the reasons why Kathmandu has so much damage," Wright told Live Science.
+
+The radar images reveal that some of the world's tallest peaks — including Mount Everest — dropped by about 1 inch (2.5 cm), according to the nonprofit UNAVCO, a geoscience research consortium. That's because the Earth's crust relaxed in the areas north of the Kathmandu, after the earthquake released pent-up strain.
+
+Still, on the whole, the Himalayas continue to grow to stupendous heights, studies show. Some parts of the Himalayas are rising about 0.4 inches (1 cm) every year, due to the ongoing collision between the Indian and Eurasian tectonic plates.
+
+"This is only one earthquake, and the overall tectonics give you uplift of the mountains," Wright said.
+
+The new data from the satellite also confirm what researchers had detected from seismometers: The fault involved in the earthquake ruptured eastward, out from the earthquake epicenter, Wright said. "Presumably, much of the damage will be to the east of the epicenter," he said.
+
+The April 25 earthquake struck on a shallowly-dipping thrust fault that angled only 10 degrees from the surface. The structure of this fault meant the damage was spread over an area of more than 5,600 square miles (more than 14,000 square km).
+
+In size and structure, the magnitude-7.8 earthquake compares most closely to temblors on subduction zones, said Rich Briggs, a geologist with the U.S. Geological Survey in Golden, Colorado. "We don't often see a big, broad bulge at the surface like we see with this one," Briggs said.
+
+Scientists plan to continue monitoring ground changes in Nepal. For instance, the fault did not break all the way up to the Earth's surface, which may mean that some strain that built up prior to the earthquake still needs to be unleashed. The fault could release this energy with more earthquakes or by slowly shifting without triggering major temblors — a phenomenon called creep. Further studies will also help researchers understand how the earthquake stressed other faults on either side of the rupture.
+
+"I think this will give us our clearest insight into the workings of the faults along the Himalayan front," said Stephen Hicks, a seismologist at the University of Liverpool in the United Kingdom.
+
+Follow Becky Oskin @beckyoskin. Follow Live Science @livescience, Facebook & Google+. Originally published on Live Science.
+
+Copyright 2015 LiveScience, a Purch company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</text>

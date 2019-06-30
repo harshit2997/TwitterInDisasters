@@ -1,0 +1,35 @@
+<url>
+http://www.todayonline.com/world/quake-warnings-minutes-not-hours-are-possible-pricey
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Quake warnings of minutes, not hours, are possible, but pricey
+</headline>
+
+<text>
+NEW YORK - Nepal's record of earthquakes dates to at least the 13th century, with significant temblors striking every 75 years or so. And through all that time, in Nepal as in most seismically active areas, there has been one constant: people in the path of destruction have had no idea when the shaking would start.
+
+Even after decades of research, "our ability to predict earthquakes is still non-existent," said seismologist Peggy Hellweg, of the Berkeley Seismological Laboratory at the University of California, Berkeley.
+
+The area around Kathmandu suffered damaging quakes in 1934 and 1988, but when disaster experts met in Nepal's capital earlier this month, all they could forecast was that the next one would probably come in the next couple of decades.
+
+Policy makers have, in at least one case, reacted harshly to seismologists' limited foresight. In 2012, an Italian court found six scientists guilty of manslaughter because they failed to predict and warn residents in advance of the 2009 L'Aquila earthquake, which was preceded by months of minor rumblings and killed just over 300 people. The verdict was overturned in 2014.
+
+But if predictions, meaning alerts days or weeks ahead, are still a distant goal, progress has been made on early warnings of earthquakes, giving precious seconds that can save lives. But the world is divided into haves and have-nots.
+
+Earthquake early-warning systems have been deployed in only a handful of the world's seismic hot zones, Hellweg said. They can warn of quakes as much as a few minutes before they strike. Countries with such systems include Mexico, Japan, and the United States, where the most advanced system is California's state-run ShakeAlert.
+
+They consist of stations housing seismometers that can detect P waves, non-destructive waves produced by an earthquake, that travel through Earth's crust faster than S waves, the ones that shake the ground.
+
+Once P waves reach a seismic station, the information is transmitted via phone lines, modems or satellite to labs. There, computers deploy advanced algorithms to calculate the origin and magnitude of the earthquake that generated the waves.
+
+ShakeAlert gave the San Francisco Bay Area five to 10 seconds notice when the 2014 Napa earthquake hit.
+
+"If Nepal had a seismic network that operated as the seismic stations in Northern California did in the Napa quake," Hellweg said, "people in Kathmandu would probably have had 15 to 20 seconds warning." That could have been enough to take cover under tables or even escape some collapsing buildings.
+
+Pages
+</text>

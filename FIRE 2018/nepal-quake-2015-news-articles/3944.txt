@@ -1,0 +1,55 @@
+<url>
+http://www.flightglobal.com/news/articles/training-key-to-raf-c-130j-role-expansion-411678/
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Training key to RAF C-130J role expansion
+</headline>
+
+<text>
+The Royal Air Force’s Lockheed Martin C-130J Hercules transports have continued to be heavily utilised following years in Afghanistan, and have been used in a range of humanitarian roles – most recently in delivering supplies in support of the crisis following the earthquake in Nepal on 25 April.
+
+A Hercules deployed to India via RAF Akrotiri in Cyprus on the evening of 28 April from RAF Brize Norton in Oxfordshire, and the transport will provide logistics support for Kathmandu once it arrives. The commitment follows a range of other humanitarian disaster relief operations that the UK aircraft have recently carried out, including the delivery of supplies to people on Mount Sinjar displaced as a result of Islamic State attacks in Iraq, and in support of a UN relief effort in South Sudan.
+
+“We thought we would be less busy when we left Afghanistan, but we are actually busier,” Sqn Ldr S P Wright, executive officer for the air mobility operational conversion unit’s 24 Sqn, says. “Throughout [Operation] Herrick we were operating from one base and we knew what the task was. We are now spread wider… and we are sending guys to other locations.”
+
+The key to balancing this flexibility is training, Wright says. This is provided through the squadron via a contract with aircraft prime Lockheed and CAE. CAE provides synthetic and computer-aided instruction to pilots and rear cabin and maintenance crews of the Hercules.
+
+Some 90% of initial conversion to flight is done on the two dynamic mission C-130J simulators that CAE provides at Brize Norton, along with all currency trainingl.
+
+There are currently five tiers of training for the C-130J, but this is being streamlined so that the baseline level that pilots will graduate at will be at a tactical flying level – in line with the types of operation the crews have to carry out as standard.
+
+Crown Copyright
+
+The RAF's 24-strong fleet of C-130Js is due to retire from service in 2022, but general consensus is that the Hercules will transition past this out of service date in some way. However, the squadron is not counting on it.
+
+The C-130J has been touted for a special operations role post-2022, as the Airbus A400M that is replacing the UK's Hercules will not be ready for such missions at that point. However, an upgrade would have to be made to the C-130J fleet if this were to happen – at a price the RAF will not necessarily be able to afford.
+
+Wright admits that the A400M Atlas is “increasingly where our focus is going”, but says the C-130J is proving to be an effective asset in a variety of tasks.
+
+“We know where we are with it,” he says. “In years to come air mobility will be a very capable fleet of aircraft.”
+
+However, the British Army’s move towards larger vehicles that need to be transported by the RAF’s logistics aircraft has driven the need for a wide-bodied aircraft like the A400M.
+
+“We can’t get the majority of army equipment in the Hercules anymore,” Wright says.
+
+The synthetic and computer-based training set-up that the C-130J follows is being mirrored for the new type. “We’re trying to mirror A400M with this, because it’s worked so well,” Wright says. “There are challenges ahead building up A400M and changing the way we do C-130J training as we shrink the fleet.”
+
+C-130J operations will scale down in the coming years as A400M use ramps up, so the air transport capability of the RAF will remain the same throughout, he says.
+
+What will happen to the two C-130J simulators as this happens remains to be seen, but Wright hopes to keep both so that formation training can still be carried out. The financial impact of keeping the two simulators is negligible, he says, because they could also be used for foreign training – something that has been carried out before, but restricted by capacity issues.
+
+“I think it is arrogant to think that we get it right every time – we can learn a lot from others,” Wg Cdr Darryn Rawlins, commanding officer of 24 Sqn adds, regarding the importance of sharing training with foreign C-130J crews.
+
+“The air mobility blend is pretty good in my opinion,” he says. “As a force we need to go back to where flying in and out of Nepal or the Asia-Pacific is as routine as flying into conflict zones.”
+
+The current contract that CAE has with Lockheed for the training expires on 31 December this year, and CAE says it is currently negotiating another five-year deal.
+
+The simulators have been upgraded to bring them to CAE’s Medallion 6000 image generator and visual system standard in the past 12 months, and CAE also delivered a suite of databases built to a common standard, which allows for rapid updates and distributed mission training.
+
+The training system is delivering a 98% availability at the moment. Eight members of CAE staff are dedicated to the training at Brize Norton, which has now been provided for the C-130J for 15 years.
+</text>

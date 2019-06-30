@@ -1,0 +1,27 @@
+<url>
+http://www.france24.com/en/20150512-nepal-strong-earthquake-strikes-near-mount-everest
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+Massive new earthquake hits devastated Nepal
+</headline>
+
+<text>
+With your existing account from... {* loginWidget *}
+
+Your account has been deactivated.
+
+You must verify your email address before signing in. Check your email for your verification email, or enter your email address in the form below to resend the email.
+
+{* #socialRegistrationForm *} {* firstName *} {* lastName *} {* emailAddress *} {* displayName *} {* phone *} {* addressCity *} {* addressCountry *} By clicking "Create Account", you confirm that you accept our terms of service and have read and understand privacy policy . {* /socialRegistrationForm *}
+
+Almost Done!
+
+Please confirm the information below before signing in. Sign In
+
+{* #registrationForm *} {* firstName *} {* lastName *} {* emailAddress *} {* displayName *} {* phone *} {* addressCity *} {* addressCountry *} {* newPassword *} {* newPasswordConfirm *} By clicking "Create Account", you confirm that you accept our terms of service and have read and understand privacy policy . {* /registrationForm *}
+</text>

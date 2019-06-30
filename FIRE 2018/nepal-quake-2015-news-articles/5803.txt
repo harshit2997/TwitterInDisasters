@@ -1,0 +1,17 @@
+<url>
+http://www.independent.ie/regionals/argus/news/man-caught-in-nepal-quake-texts-home-to-say-hes-ok-31179004.html
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Man caught in Nepal quake texts home to say he's OK
+</headline>
+
+<text>
+'It is such a relief to us to know that he is safe,' his sister Ailish told The Argus. 'We don't know any more, only that he was able to get a message out on someone else's phone. It just said that he was safe. We think he is still in the Annapurna mountains trying to make his way down. It could take days before he gets to somewhere where he can get another message out to us but at least we now know that he is alive.'
+
+Earlier his sister Clodagh had posted a message on Facebook appealing for information about their brother. She said that he had trekking in the Annapurna region where communication is poor at the time of the 7.8 magnitude quake.
+</text>

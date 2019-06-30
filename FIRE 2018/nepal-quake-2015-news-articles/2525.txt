@@ -1,0 +1,17 @@
+<url>
+http://www.theweek.com/10things/547150/10-things-need-know-today-april-27-2015
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+10 things you need to know today: April 27, 2015
+</headline>
+
+<text>
+Earthquake death toll rises above 3,700 in Nepal
+
+The death toll from Nepal's 7.8-magnitude earthquake has climbed to at least 3,726 people, a Nepalese police spokesman said Monday. Rescuers are trying to find survivors under the rubble in the capital city of Katmandu and remote mountain villages. Another 18 people died in an avalanche on Mount Everest, 61 people were killed in India, and 20 in Tibet. Authorities expect more victims to be found as search crews reach the remotest villages, some of which could be accessible only by helicopter due to landslides.
+</text>

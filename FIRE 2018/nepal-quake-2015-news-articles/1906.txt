@@ -1,0 +1,37 @@
+<url>
+http://www.arkansasonline.com/news/2015/apr/27/arkansan-google-engineer-killed-everest-avalanche/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Google engineer from Arkansas killed in Everest avalanche
+</headline>
+
+<text>
+An Arkansas native and Google engineer was among the more than 4,000 people who died in a 7.8-magnitude earthquake that devastated parts of Nepal on Saturday.
+
+Dan Fredinburg was climbing Mount Everest when the earthquake triggered an avalanche, killing him and at least 18 others.
+
+He “suffered from a major head injury,” his sister Megan wrote in a post on his Instagram account.
+
+Fredinburg’s Google colleague Lawrence You confirmed his death in companywide memo he posted online.
+
+“Sadly, we lost one of our own in this tragedy,” You wrote. “Dan Fredinburg, a long-time member of the Privacy organization in Mountain View, was in Nepal with three other Googlers, hiking Mount Everest.” The three others were uninjured, according to You.
+
+Fredinburg attended the Arkansas School for Mathematics, Sciences and the Arts in Hot Springs, graduating in 1999.
+
+"Dan was a model of the goals and aspirations we have for each graduate of ASMSA. As both an innovator and adventurer in his work with Google, Dan was focused on developing ideas and technologies with global impacts. His passion and drive is an inspiration and leaves a lasting influence on our program. We wish to convey our heartfelt condolences to Dan’s family, friends as well as the fellow colleagues and alumni who knew him well. Please keep them in your thoughts in the following days," ASMSA Director Corey Alderdice said in a statement.
+
+Fredinburg was privacy director for the GoogleX team, the company’s special project lab that works on innovative technology like self-driving cars and Google Glass. He co-founded Google’s expedition team, which collects imagery from locations such as Everest, Mount Kilimanjaro and the Great Barrier Reef for the company’s map tool.
+
+Save the Ice, a charity co-founded by Fredinburg that raises awareness about climate change, said on its website that he was climbing the mountain Saturday for the charity’s “Expedition Everest” campaign. He was to plant the charity’s flag on the mountain.
+
+“Dan was a mountaineer/explorer because he loved to climb/see the world, but that was never the whole point,” Save the Ice co-founder Mike North said in a statement. “His purpose in the world was much bigger. Much of it revolved around calling attention to how we as individuals can make a difference.”
+
+Fredinburg chronicled his Everest climb on his social media accounts. Saturday was his 23rd day on the mountain.
+
+He posted his last Instagram photo from the mountain, with the caption: “Day 22: Ice training with @micbattelli means frequent stops for morning cappuccino, regardless of danger. #Everest2015”
+</text>

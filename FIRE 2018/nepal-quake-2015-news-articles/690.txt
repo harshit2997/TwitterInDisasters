@@ -1,0 +1,17 @@
+<url>
+http://www.wsj.com/articles/nepal-earthquake-china-sends-search-and-rescue-team-to-katmandu-1430032246
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal Earthquake: India and China Send Rescue Teams to Himalayan Nation
+</headline>
+
+<text>
+India and China rushed rescue teams and other assistance to earthquake-hit Nepal, a strategically important neighbor for the two Asian giants, which are jostling for influence in the Himalayan nation.
+
+Indian Prime Minister Narendra Modi, who has sought to rebuild India’s position as a regional power, responded quickly after the massive quake, assuring his counterpart in Nepal of “support and assistance during this tough time,”...
+</text>

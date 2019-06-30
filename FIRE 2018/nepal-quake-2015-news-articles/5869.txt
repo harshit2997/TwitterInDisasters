@@ -1,0 +1,219 @@
+<url>
+http://www.huffingtonpost.in/2015/05/01/nepal-earthquake-rescue_n_7186450.html
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Nepal Earthquake: 15-Year-Old Boy Pulled Out From Kathmandu Rubble After 5 Days
+</headline>
+
+<text>
+Pemba Tamang, 15, recovers at the Israeli field hospital for earthquake victims after being rescued in an operation led by a Nepalese team with American responders from the U.S. Agency for International Development assisting them, in Kathmandu, Nepal, Thursday, April 30, 2015. Crowds cheered Thursday as Tamang was pulled, dazed and dusty, from the wreckage of a seven-story Kathmandu building that collapsed around him five days ago when an enormous earthquake shook Nepal. (AP Photo/Manish Swarup)
+
+ADVERTISEMENT
+
+NEW DELHI — Hundreds cheered as rescuers toiling amid rubble left by Nepal's earthquake pulled a boy and a woman to safety on Thursday after they had been trapped for five days.
+
+A 23-year-old maid, Krishna Devi Khadka, was found lying along with the bodies of three other people, police said.
+
+Officials said the chances of finding more survivors were fading as the death toll reached 5,858. But Nepal's Armed Police Force managed to save 15-year-old Pema Lama from the collapsed ruins of Kathmandu's Hilton Hotel.
+
+"I saw the police drilling for four hours to remove mounds of debris before they could pull him out," said Ambar Giri, a medical worker at the scene.
+
+Away from the capital, aid was finally reaching some of Nepal's remote towns and villages nestled among mountains and foothills, where the extent of the damage and loss of life has yet to be properly assessed.
+
+From an army helicopter flying from Chautara, northeast of Kathmandu, towards the Tibet border, a Reuters witness estimated 70 to 80 percent of buildings had been severely damaged.
+
+In a remote village, an army medical team treated injured locals and soldiers supervised the unloading of goods on a muddy expanse of ground next to a school that served as a helipad.
+
+In Chautara itself, a few people cleared rubble from the upper floors of their houses and mixed cement by the roadside, as the long rebuilding process began.
+
+Many Nepalis have been sleeping in the open since Saturday's quake. According to the United Nations, 600,000 houses have been destroyed or damaged.
+
+It said eight million people had been affected, with at least two million in need of tents, water, food and medicines over the next three months.
+
+An official from Nepal's home ministry said the number of confirmed deaths from the 7.8 magnitude earthquake had risen to 5,858 by Thursday afternoon, and almost 13,800 were injured.
+
+Anger over the pace of the rescue has flared in some areas, with Nepalis accusing the government of being too slow to distribute international aid that flooded into the country.
+
+It has yet to reach many in need, particularly in areas hard to reach given the quake damage and poor weather.
+
+Tensions between foreigners and Nepalis desperate to be evacuated have also surfaced. In Langtang valley, where 150 people are feared trapped, a helicopter pilot was taken hostage by locals demanding to be evacuated first, one report said.
+
+"ON OUR OWN"
+
+In Ashrang village in Gorkha, one of the worst-hit districts about four hours by road west of Kathmandu, hundreds of Nepali villagers were living outdoors with little food and water despite boxes of biscuits, juices and sacks of rice and wheat being stored in a nearby government office.
+
+Police commandos shut the high iron gates of the building, refusing people access while they counted the relief supplies.
+
+"We told them we can manage without their help," said Mohammad Ishaq, a school teacher, who had been offered four plastic sheets. "It is as if we are doing everything on our own, feeding our people, tending to the sick."
+
+But district facilitator Dipendra Shrestha said the local administration was doing what it could to get aid to victims and help foreign teams offering rescue and medical support.
+
+"Owners are refusing to rent out vehicles," he said. "We only have 20 at the moment. We need many more."
+
+A German search and rescue team in the area was shifting focus to medical work, because villagers had managed to dig bodies and survivors from the remains of mud and brick homes themselves.
+
+In the capital, a 28-year-old man pulled from a collapsed apartment block on Tuesday after spending around 80 hours trapped with three dead bodies said his rescue was a mixed blessing.
+
+"I don't even have the money to buy a wheelchair now," Rishi Khanal told Reuters on Thursday, a day after he had one of his legs amputated. "How will I spend the rest of my life and support my family?"
+
+In another tale of escape, a young girl worshipped by many as a living goddess survived Saturday's earthquake near one of the royal palaces in Kathmandu where most other buildings were flattened.
+
+"Her temple stands intact because of her divine powers," Pratap Man Shakya, the girl's father, told Reuters.
+
+APPEAL FOR HELICOPTERS
+
+Nepal is appealing to foreign governments for more helicopters. There are currently about 20 Nepali army, private and Indian army helicopters involved in rescue operations, according to Laxmi Prasad Dhakal, a home ministry official.
+
+China is expected to send helicopters on Thursday, he said.Prime Minister Sushil Koirala told Reuters earlier this week the death toll from the quake could reach 10,000.
+
+That would surpass the 8,500 who died in a 1934 earthquake, the last disaster on this scale to hit the nation of 28 million people sandwiched between India and China.
+
+In Kathmandu and other cities, hospitals overflowed with injured, with many being treated out in the open or not at all.
+
+"The new waves of patients are those who survived the quake, but are sick because they were living in the open and drinking contaminated water," said Binay Pandey, a doctor at the government-run Bir Hospital in the capital.
+
+In the Himalayas, climbing is set to reopen on Mount Everest next week after damage caused by avalanches triggered by the quake is repaired.
+
+A massive avalanche wiped out a swath of Everest base camp, killing 18 climbers and sherpa mountain guides on Saturday. Many climbers have abandoned their ascent of Everest, the world's tallest peak.
+
+(Additional reporting by Sanjeev Miglani, Ross Adkin, Frank Jack Daniel, Andrew Marshall, Adnan Abidi and Christophe Van Der Perre in Nepal, Aman Shah and Clara Ferreira-Marques in Mumbai and Aditya Kalra and Douglas Busvine in New Delhi; Writing by Andrew MacAskill; Editing by Ralph Boulton)
+
+The button below indicates how much has been raised on Crowdrise's "Nepal Earthquake Relief" page. Click to visit the site and donate.
+
+#custom_crowdrise_widget div.crDonateWidget {
+
+width: 298px !important;
+
+margin-left: 0 !important;
+
+margin-right: 0 !important;
+
+padding: 0 !important;
+
+height:78px;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget h4 { display: none; }
+
+#custom_crowdrise_widget .crDonateTriangle { display: none !important;}
+
+#custom_crowdrise_widget .crImageAndTitleOuter { display: none !important;}
+
+#custom_crowdrise_widget .CRShadowImage { display: none !important;}
+
+#custom_crowdrise_widget .crDonateWidgetOuter {
+
+border:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+margin-top: 0 !important;
+
+margin-right: 0 !important;
+
+margin-bottom: 0 !important;
+
+margin-left: 0 !important;
+
+background: url("https://www.crowdrise.com/media/cdncustom/huffpost_donate_widget.png") 0 0 no-repeat !important;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget {
+
+margin:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+background-color: inherit !important;
+
+padding: 0 10px !important;
+
+}
+
+#custom_crowdrise_widget .startFundraiser { display: none !important;}
+
+#custom_crowdrise_widget .gradientButton {
+
+width: inherit !important;
+
+margin-bottom: 0 !important;
+
+}
+
+#custom_crowdrise_widget .crDonated {
+
+margin: 0 !important;
+
+font: bold 14px/16px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+width: 185px;
+
+padding-top: 9px !important;
+
+}
+
+#custom_crowdrise_widget .crLogo img { display: none !important;}
+
+#custom_crowdrise_widget .crDonatedLabel { display: none !important; }
+
+#custom_crowdrise_widget .gradientButton {
+
+background: none !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)" !important;
+
+filter: alpha(opacity=0) !important;
+
+opacity: 0 !important;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 21px !important;
+
+margin-top:15px !important;
+
+}
+
+#custom_crowdrise_widget .donateNow {
+
+font: normal 9px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+filter: alpha(opacity=0);
+
+opacity: 0;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 36px !important;
+
+margin-top:0 !important;
+
+padding-top: 0 !important;
+
+}
+
+Like Us On Facebook |
+
+Follow Us On Twitter |
+
+Contact HuffPost India
+
+
+</text>

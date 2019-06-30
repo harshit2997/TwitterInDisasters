@@ -1,0 +1,17 @@
+<url>
+http://www.bizcommunity.com/Article/150/59/127610.html
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+In times of crisis, turn to ham radio
+</headline>
+
+<text>
+NEWSWATCH: While technology changes with the times, it's the old tried and trusted old-school media that shines when a natural disaster strikes, like this weekend's earthquake in Nepal...
+
+Local amateur radio could help communication after a major disaster, says NBC RightNow The reason's simple: We rely on technology in our daily lives, but you could "lose your cell phone signal, your internet and even electricity" when disaster strikes - none of which are requirements for ham radio to work.That's exactly what's happening, with WFSB Eye Witness News reporting that "national office for Amateur Radio in Newington, Connecticut is helping radio operators in India assist the relief effort in Nepal," with 20 amateur radio operators on the ground in Nepal.A ham radio is simply a 'transceiver' or combined ransmitter and receiver that facilitates two-way communication. It "taps in to shortwave frequencies and traverses long distances", explains Deccan Herald , and can be run for days using car batteries. Click here for the's report on how ham radio can be helpful during natural disasters.
+</text>

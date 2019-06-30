@@ -1,0 +1,33 @@
+<url>
+http://www.assamtribune.com/scripts/detailsnew.asp?id=apr2515/at042
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+The Assam Tribune Online
+</headline>
+
+<text>
+Deputy Chief of Mission of Nepal High Commission in New Delhi, Krishna Prasad Dhakal, told the media that according to local reports reaching here, at least 500 people have been killed across Nepal.
+
+"We are trying to ascertain the exact number (of casualties)," he said.
+
+He also said that the Nepal Prime Minister Sushil Koirala, who had gone to Thailand on an official visit, is cutting short his sojourn and coming back immediately.
+
+Major earthquake felt in Northeast region:A major earthquake hit the Northeast region on Saturday. "A major intensity earthquake measuring 7.7 on the Richter Scale shook most parts of northeastern States and Nepal, Myanmar and Bangladesh," Tripura Meteorological Department Director Dilip Saha told IANS in Agartala.
+
+"The earthquake occurred at 11.45 am. Reports of any loss of life and property is yet to be received," he added.
+
+Disaster management control rooms of Tripura, Mizoram and other States in Northeast
+
+said there was no immediate report of casualties or damage to property.
+
+The met official said the epicentre of the earthquake was in Nepal.
+
+"The tremors were also felt in most of the eastern States, Bangladesh and Myanmar," the official said.
+
+The northeastern region, comprising eight States, is considered the sixth major earthquake-prone belt (zone five) in the world.
+</text>

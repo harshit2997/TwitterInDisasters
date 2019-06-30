@@ -1,0 +1,55 @@
+<url>
+http://news.psu.edu/story/356512/2015/05/07/impact/incoming-ist-phd-student-nepal-mobilizes-relief-efforts-after
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+Incoming IST Ph.D. student from Nepal mobilizes relief efforts after earthquake
+</headline>
+
+<text>
+“People in Nepal need immediate relief,” said Bikalpa Neupane, an incoming doctoral (Ph.D.) student in the College of Information Sciences and Technology at Penn State. “They need food, shelter, medicine, and proper sanitation more than any other thing right now.”
+
+In the wake of the 7.8 magnitude earthquake that hit Nepal on April 25, 2015, Neupane, who is originally from Nepal, along with his brother and local friends in Provo, Utah, built a website, www.onestopportal.org, that mobilizes citizens and volunteers and focuses on consolidating information for immediate relief.
+
+More than 7,500 people have died as a result of the earthquake, and more than 14,500 people have been injured. The death toll is expected to rise, with thousands still missing.
+
+“There is way too much information floating around the Internet, everyone is trying to help,” Neupane said. “It was hard for me, even as a software professional, to find the right information quickly. I immediately saw the need to coordinate relief efforts and volunteers, so I decided to come up with a website that consolidates everything in one place, for help now and to archive the results for future research and study.”
+
+Neupane’s website, www.onestopportal.org, is used by Nepalese citizens around the world to find out where and how they can get help. Neupane explained that, “The website is broken down into categories such as How can I help; Donate; Blogs; and Inspire Nepal. Our user base is growing and our analytics show that people have come back to visit our website.”
+
+Collecting data on the website and its use is important because, as Neupane said, “This is a history.” Understanding how websites like www.onestopportal.org are used by disaster victims, and can be used and improved in the future, will assist future relief efforts across the board.
+
+“The next step is to validate data and assist research institutions,” he said, something that, due to his technical background and Nepalese citizenship, Neupane is uniquely qualified to do.
+
+But running an international relief portal isn’t easy, and it isn’t cheap. Neupane couldn’t do it alone, and he couldn’t single-handedly afford the costs. Many of Neupane’s high school friends offered to help after seeing a status update he posted to Facebook, which revealed his intent to create “a one stop portal to earthquake information.” Currently, the group operates in five different time zones.
+
+Another of Neupane’s Facebook friends, Andrea Hoplight Tapia, associate professor of IST, reached out to offer assistance after reading Neupane’s post. Tapia’s research has focused on disaster informatics, and as a professional in the field, “I saw the potential for Bikalpa’s website to really help people,” Tapia said, “to change lives.”
+
+"There is mounting evidence that information and communication technologies play a significant role in disaster response and recovery,” said Tapia. “Websites like Bikalpa's are an example of serving as both information and goods brokers, providing a venue for moving knowledge and material form these who have it to those who need it."
+
+Tapia contacted the media and those in the IST community about Neupane’s efforts. When IST alum David Rusenko, co-founder and CEO of the website building platform Weebly, found out that Neupane’s www.onestopportal.org is a Weebly website, he immediately offered to help.
+
+“Within minutes, we heard that Weebly was refunding the cost of the website,” Tapia said.
+
+In Rusenko’s words, “Giving back is part of the Penn State tradition, and a core value we took with us to Weebly. When we heard about Bikalpa Neupane’s website, we wanted to help. We are proud to support the relief efforts.”
+
+With the support he has received from Weebly, Neupane has been able to focus on what matters: making www.onestopportal.org as effective as possible.
+
+“We are in sync with our volunteers in Nepal, constantly trying to bridge the gap between what people actually need in Nepal right now, with what people living outside of the country think that they need,” Neupane said.
+
+“Local volunteers are out of funds already, and have no supplies to help those in need. Corruption and political partisanship are affecting the distribution of relief packages,” Neupane said. “Learning from the Haiti earthquakes, it is advisable to send money rather than supplies at this point.”
+
+But for those without the means to send money -- such as students -- there are other opportunities to help. “We need help scaling and designing our website, designing our iOS and android apps, with data analysis, and in conducting post-earthquake research in Nepal. We hope to be prepared for any upcoming disasters as well for the long-term impact of this earthquake.”
+
+When Neupane thinks about Nepal, he thinks about poverty. “Nepal is a poor developing country in Southeast Asia, but it is known as a country of peace, the land of mountains, Gautama Buddha, and kind-hearted people.”
+
+“Nepal is very poor and struggling to grow,” Neupane said, “and the earthquake has made it even worse. I am very sad. It will take us years to recover.”
+
+“The people need immediate relief -- they need shelter, they need medicine, and they need proper sanitation,” Neupane said. “Above all, they will appreciate help of any kind.”
+
+To donate, visit: www.onestopportal.org and click on the DONATE tab.
+</text>

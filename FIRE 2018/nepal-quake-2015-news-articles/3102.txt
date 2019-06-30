@@ -1,0 +1,71 @@
+<url>
+http://dotearth.blogs.nytimes.com/2015/04/29/dire-prospects-seen-when-the-full-nepal-earthquake-death-toll-is-tallied/
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Dire Prospects Seen When the Full Nepal Earthquake Death Toll is Tallied
+</headline>
+
+<text>
+I discussed the earthquake and global seismic risk with Charlie Rose, Laurent Lamothe of Haiti and Sanjeev Sherchen of the Asia Society.
+
+Photo
+
+Photo
+
+Yesterday, I received word of a chillingly high projection of the eventual death count in the Nepal earthquake, made by a longtime and respected analyst of seismic hazards, Max Wyss, who was on the faculties of the Universities of Colorado and Alaska and is now affiliated with the International Center for Earth Simulation in Geneva, Switzerland. [The group’s instant analysis is here; Wyss did a more thorough calculation.]
+
+Photo
+
+Many seismologists and disaster response experts have stressed that initial counts are always low, particularly in a disaster zone like this one — spread over hundreds of square miles of vertiginous terrain, with many communities unreachable by road at the best of times. (I wrote about this issue here.)
+
+But Wyss’s is the first hard estimate for a death total I’ve seen from a seasoned geophysicist whose work centers on the intersection of seismic activity and social vulnerability. He ran the calculation on Monday after seeing the persistent gap between official death counts, now around 5,000, and what had been predicted by emergency response groups (tens of thousands).
+
+His calculation, 57,700 deaths, is 10 times the official count, which is around 5,000. Using another method, he calculated 45,000.
+
+Such estimates are not just academic or morbid exercises. They can help focus emergency responses on areas where the greatest probability of destruction is calculated.
+
+And they can gird the public for some very tough realities. The map above is from Wyss’s fact sheet (posted below and online). Katmandu is not visible as a single city but split into many smaller neighborhoods.
+
+Over many years, Wyss has provided emergency aid agencies and nonprofit groups with rapid initial death and damage estimates and maps in the hours or days following big earthquakes. The calculations are made by comparing earthquake motion and huge global databases of population density and construction methods and quality — or more commonly, the lack of quality. Read “Buildings as Weapons of Mass Destruction” by Roger Bilham and Vinod Gaur to get the idea.
+
+Wyss’s method is described in this 2004 paper: Real-Time Prediction of Earthquake Casualties.
+
+As you’ll read below, Wyss and other experts stress that such estimates are implicitly probabilistic. But Bilham, based at the University of Colorado and one of the world’s leading seismologists, said Wyss has a strong track record. In a phone interview yesterday, just before he boarded a flight to Nepal, Bilham told me Wyss’s estimate for Nepal could be off by a factor of two, but unlikely more than that. That would mean no less than 25,000 deaths, and possibly substantially more than the midpoint of 57,700.
+
+I just interviewed Wyss, who is the co-author, with Silvia Peppoloni, of a new book delineating an emerging field: “Geoethics: Ethical Challenges and Case Studies in Earth Sciences.”
+
+He said the calculation is fairly straightforward function of human population, seismic power and the collapsibility of structures.
+
+“There is just no escaping the fact there are so many people in a strongly shaken area,” he said. “I calculated how many people are within intensity 8 [on the Modified Mercalli Intensity Scale; click the link to learn more]. That is very serious. It’s more than 7 million are in this strongly shaken area. Intensity 6 is already serious for countries like that and there are 22 million people in my data set.”
+
+To Wyss, it is unethical for the government of Nepal to be slow in acknowledging the potential scope of what will be revealed in coming days and weeks.
+
+[4:50 p.m. | I just interviewed Kit Miyamoto, the president of the structural engineering firm Miyamoto International, who just arrived in Katmandu. Miyamoto, who is also on California’s Seismic Safety Commission and worked for years in Haiti, spent the day examining which buildings fell and or stayed standing — and why. He said he thinks the Nepal government’s projection of 10,000 deaths is more likely than Wyss’s higher number. Here’s our chat:]
+
+In a related note, Susan Hough of the United States Geological Survey, stressed that subtle factors can have a big impact on human losses:
+
+Predictions of fatalities is an inexact as well as a morbid science. There’s a reason why USGS PAGER estimates [a model called Prompt Assessment of Global Earthquakes for Response] use ranges, with a logarithmic scale. This earthquake struck around mid-day, on a Saturday, and in many places the strongest shaking appears to have been preceded by tens of seconds of weaker shaking. Presumably this gave many people time to run outside. The 1976 Tangshan, China, earthquake, was so deadly in part because it struck at night. But the bottom line is, we don’t know what the toll is yet, and we especially don’t know about many remote regions. Some areas are genuinely hard to reach, but it’s a little frustrating to hear so much about Everest base camp and so little about the rest of the country.
+
+Interestingly, the Geological Survey assessment for the Nepal earthquake gives the highest odds (33 percent) to a death range from 10,000 to 100,000.
+
+Wyss has submitted a commentary to a science journal on what events in Nepal — where the earthquake threat has been clear for nearly two decades — say about the need for proactive investments to limit losses from inevitable seismic jolts.
+
+He gave me permission to include an excerpt:
+
+Moved by our deep concern about the earthquake threat hanging over Nepal like a Damocles sword, Philippe Rosset and I prepared a proposal, together with our Nepalese colleague, D. Chamlagain, to give our loss estimating tool, QLARM [link], to our Nepalese colleagues pro bono, and teach them how to use it. The purpose would have been for Nepal to refine scenarios for losses, to know the approximate extent of the disaster that was to be faced, and to prepare for it. Humanitarian funding agencies, including the World Bank, turned us down. If we had been funded, our Nepalese colleagues would have been able to advise their government within minutes of the extent of the disaster on April 25. Instead, three days after the disaster struck, Nepalese officials still believe that only 10,000 may have died, when it will most likely turn out to have been a multiple of this number.
+
+Read my interview with Bilham below. [Here’s Bilham’s new and invaluable overview of the earthquake’s genesis and impact.] One reason he sees Wyss’s death-count estimate as plausible, he said, is the terrible construction methods in Nepal’s hinterlands, which have worsened in recent years as growing populations denuded hills of timber.
+
+Q. This earthquake reminds me of Kashmir, the 2005 Pakistan quake, which was mostly rural [and killed more than 79,000 people]. A. That’s right. And in fact, …the population in villages is actually the equivalent or greater [than in the city of Katmandu]. And the point about this is that the villages are still constructing out of rubble and clay and even the wood they used to have in their structures has been in short supply. One has to expect that that last 10 years of building in the villages, at least, they will have had inferior quality instead of better-quality building. In Katmandu itself there’s been a trend to concrete frame everywhere. there are some very opulent houses that have been constructed quite well, actually. The old city has very narrow streets and they have overhanging balconies and most are them are really congested with people. The buildings are assembled largely out of bricks and wood recovered from the 1934 earthquake, and rebuilt every earthquake that’s happened. Probably many of them were rebuilt from bricks that were used prior to the 1833 earthquake which destroyed the city. There’s been reclaiming of materials and no change in building designs. But the building design changes came with the absence of wood, and that probably started more than 40 years ago. And all new construction is concrete frame. If that is assembled correctly, it’s fine. If not assembled correctly, it’s a problem, too. Looking at all these different kinds of buildings you can see some survived and some didn’t. I was looking at some YouTube videos, and you can see a swimming pool sloshing around. It’s almost better than strong-motion seismometer. Because you can see the water is shifted laterally and comes up in gigantic waves on each side. It’s the first pulse that really did the damage, as always. The rupture propagated from the west quite fast, about 2.5 kilometers per second, in some places faster. You get to Katmandu and everything slows down as it passes under the valley at about 1 kilometer per second. That means there are some heterogeneities along the base of the Himalayas that are modulating the slip in these very large earthquakes.
+
+[Several readers noted that the swimming pool video alluded to (and initially posted here) appears to date from 2010 and was copied and reposted claiming it was in Khatmandu.]
+
+Q. Can you tell me a little about Max Wyss and his calculation? A. Max is a former fellow of CIRES [the University of Colorado’s Cooperative Institute for Research in Environmental Sciences], a very competent seismologist. When he retired he formed this organization using Russian databases of building fragility. He started working before the U.S. Geological Survey did on the Shakemap stats. He’s been advising the aid organizations within 20 minutes of an earthquake anywhere in the world. He issues warnings of the number of casualties, the number of dead and some estimates of the economic impact. He’s written several learned papers on how he’s done. [Sift his papers here.] In the Wenchuan earthquake [which killed some 80,000 people in China’s Sichuan Province in 2008] he was exactly right. Within 20 minutes you know only two things usually — the location and depth and the magnitude. Using that information plus information he’s already compiled for every part of the world on the attenuation characters for seismic waves and the fragility of buildings you get an immediate estimate for the number of dead and injured. It’s an empirical conversion, of course. You’re never certain how bad an earthquake’s going to be in terms of the actual fragility of buildings. You usually find that out afterwards. But he’s usually within a factor of two, and sometimes 10 percent. Q. Stepping back here, in my reporting and in some of your papers, we’ve talked a lot about the perils that lie in these fast-growing cities. Have we somewhat obscured to some extent the reality that, for those who remain in rural areas, if anything, the threat can be more severe? A. Not really. Everything depends on this combination of building style, terrain and the type of earthquake that occurs. So the point is direct hits on cities tend to have the largest impact because a third-world city is usually not well prepared. In this case it looks like Katmandu has been spared the worst. This earthquake happened right under it. It shifted the city southwards by three or four feet, maybe more. If you wanted to test your earthquake preparedness, this would have been the earthquake to do it. And the estimate from the NGO’s working on earthquake retrofits in Katmandu were a death toll of 40,000. And when I heard that the death toll was only 5,000 I realized Katmandu has been spared. And we just haven’t heard from the villages yet. Q. Has anyone studied that issue with timber loss as it relates to construction methods? A. It’s global. In Latur, India, where 7,500 were killed in 1993 [background], that village had a traditional style of buildings where they would chop river boulders into angular shapes and assemble them with layers of wood tied to each other around the top and halfway up. When there was no more wood they continued to assemble buildings. But they forgot to make the [building blocks] angular and the most recent style of building there was just boulders held together by clay, and that’s why there was such a large death toll. In the valleys of Nepal, bringing timber in means carrying it for 10 or 20 miles, because there are no roads to these villages. The mountainsides are too steep. Everything is carried in on foot or by helicopter. Q. Basically, in looking at that assessment of about 57,000 deaths, it sounds like you would give it pretty good odds of being at least in the ballpark — or at least a factor of two, which would be 25,000 deaths? A. Or it could be 100,000. Q. Good point. Things cut in both directions. A. I don’t think it’ll go up to 100,000. Although it’s really difficult to tell. We shall know of course, in about a month.
+
+Here’s the note distributed by Wyss to others in his field. It was posted by Bilham on the University of Colorado website yesterday.
+</text>

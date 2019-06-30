@@ -1,0 +1,37 @@
+<url>
+http://reliefweb.int/report/nepal/nepal-earthquake-information-bulletin-no-1
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal: Earthquake - Information Bulletin n° 1
+</headline>
+
+<text>
+The situation
+
+An earthquake measuring 7.9 magnitude struck an area between Kathmandu and Pokhara in the morning of 25 April 2015. According to US Geological Survey (USGS), the quake hit at 11:56am local time (06:11 GMT). The epicentre was 80 km northwest of Kathmandu in Nepal. More than 68 aftershocks have been noted, with intensity between 2 to 5 on the Richter scale. Aftershocks are still continuing, causing further damage. More than 2,000 people have been reported dead, with at least 634 deaths in the Kathmandu Valley. The death toll is rising quickly throughout the day and the number of casualties expected to increase significantly with the ongoing search and rescue operation in collapsed structures.
+
+The districts severely-affected by the earthquake are Gorkha, Kathmandu, Bhaktapur, Lalitpur, Sindhupalchowk, Sindhuli, Ramechhap, Dolakha, Nuwakot, Dhading, Rasuwa Solukhumbu, and Kavre districts. An additional 14 districts have reported medium level damages.
+
+The disaster caused many buildings in Kathmandu Valley to collapse, including historical landmarks such as UNESCO World Heritage temples at Basantapur Durbar Square and the historic nine-storey Dharahara tower in Kathmandu. Emergency workers, security forces (army, Armed Police Force and Nepal police) personnel, with the help of residents and bystanders, continued to work tirelessly from early Saturday afternoon to clear the rubble from these sites and to rescue survivors from under the debris. Many people are reported to be trapped in collapsed structures and search and rescue operation remains very challenging.
+
+Mount Everest base camp 1 and 2 are severely damaged as a result of avalanches in the Himalayas. It was reported that 18 climbers were found dead on Mount Everest after the tremor triggered an avalanche and many more are trapped.
+
+There are several cracks in a major road that connects Kathmandu to Bhaktapur and road transportation remains a challenge to supply relief items in some parts of Bhaktapur districts. The condition of highways is yet to be confirmed.
+
+The Tribhuvan International Airport in Kathmandu is still closed due to security reasons. Telephone and internet are partially working and mobile networks is experiencing heavy congestion. Electricity supply has been disrupted in the Kathmandu valley
+
+The city’s main hospitals continue to function but are overwhelmed by casualties. Residents are facing a night on the streets with nowhere to go. Around 70-80 per cent of the people in Kathmandu Valley took shelter in open spaces and will remain outdoors in several open spaces, in fear that subsequent aftershocks may cause further damage. The Nepal government has established 16 camps in Kathmandu Valley for displaced people and IOM is coordinating camp management.
+
+One NRCS staff and two volunteers have lost their lives and a number of volunteers are still out of contact.
+
+The earthquake has affected neighbouring countries with 42 deaths reported in India, 17 in Tibet China, and four in Bangladesh. In India, massive tremors were felt in parts of northern India and major damages have been reported in Bihar, Sikkim and Silliguri, while Uttar Pradesh and West Bengal are also affected. In Bangladesh, ten buildings in Dhaka and seven in other districts have reported various degrees of damage due to the impact of the quake.
+
+In the wake of the devastating earthquake, the Government of Nepal has declared a state of emergency and is requesting international assistance. A control room has been set up in Ministry of External Affairs to provide all help and information round the clock.
+
+The Indian government has deployed a team of 40 members of National Disaster Response Force with three tonnes of medical equipment to Kathmandu to assist.
+</text>

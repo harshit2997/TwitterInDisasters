@@ -1,0 +1,29 @@
+<url>
+http://www.euronews.com/2015/04/27/nepal-quake-emergency-workers-begin-delivering-aid-to-remote-areas/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal quake: emergency workers begin delivering aid to remote areas
+</headline>
+
+<text>
+More than 48 hours after Nepal’s deadly earthquake, aid workers are starting to reach remote areas outside Kathmandu.
+
+An Indian team has flown in by helicopter to deliver rice and water to Trishuli Bazar north-west of the capital. They have also been airlifting the injured, including children.
+
+Meanwhile, the European Commission has announced three million euros in emergency aid for Nepal.
+
+“Today we had an emergency meeting with the various stakeholders: member states, but also international partners, the UN, neighbouring countries and the European Commission,” said
+
+Catherine Ray, EU foreign policy spokeswoman.
+
+“We’re looking at whether the needs will increase and how we’ll respond if they do.”
+
+It is clear Nepal’s international plea for help is being answered. Rescue teams continue to arrive in the country. French, Spanish and Chinese workers are among them.
+
+The challenge ahead of the teams is huge, with the scale of the disaster continuing to unfold.
+</text>

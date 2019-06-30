@@ -1,0 +1,37 @@
+<url>
+http://dailystar.com.lb/News/World/2015/Apr-27/295822-nepal-quake-victims-fear-staying-inside.ashx
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal quake victims fear staying inside
+</headline>
+
+<text>
+Nepalese doctors set up makeshift operating theatres in a hospital car park Sunday as they worked round the clock to treat the wounded from a monster quake that has also left morgues overflowing with bodies.
+
+
+
+As disaster officials said nearly 6,000 people were injured in Saturday's 7.8 magnitude quake, medics in the impoverished Himalayan nation told how they had been unable to save some of the most grievously wounded.
+
+
+
+Their efforts were further hampered by fresh aftershocks that were felt throughout much of the morning, making many patients too scared to stay inside medical facilities.
+
+
+
+Even if there was room, some were too scared to stay in the building, said Acharaya who together with his colleagues has been flat out ever since the earthquake struck on Saturday lunchtime.
+
+
+
+With the death toll from the disaster rising above 2,500, hospitals were also struggling to find places to store the bodies.
+
+
+
+Rickshaw driver Dibesh Gautam said he had been ferrying victims to various hospitals from first light.
+
+...
+</text>

@@ -1,0 +1,25 @@
+<url>
+http://www.canyon-news.com/nepal-survivors-located-with-nasa-technology/23856
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+Nepal Survivors Located With NASA Technology
+</headline>
+
+<text>
+PACIFIC PALISADES—Scientists from NASA’s Jet Propulsion Laboratory are applying new, state-of-the-art technology to amp up rescue efforts in Nepal. This news comes after a second earthquake struck the country, with a 7.3 magnitude on May 12.
+
+In an interview with CBS Los Angeles, NASA scientist Frank Webb indicated he
+
+created before-and-after maps of affected areas, using radar and optical data, to pinpoint geographic changes. Satellite imaging is used to discover places where people might be trapped and areas where landslides or avalanches are likely to occur. This radar technology could be used to predict earthquakes, because it allows scientists to see how much energy is built up in fault zones.
+
+Another innovation developed by NASA-JPL, called FINDER (an acronym for “Finding Individuals for Disaster and Emergency Response” ) has already saved four lives this past week. It is a lightweight, suitcase-sized device that can detect a human heartbeat under 30 feet of rubble, 20 feet of concrete, and 100 feet with no obstructions.
+
+It works quickly, scanning a broad area with microwave radar in one minute, and can distinguish the rhythmic pattern of a human heart from other rhythms, such as the heartbeat of an animal or a ticking clock.
+
+On April 29, FINDER was brought to Nepal by David Lewis, the president of R4, a company that JPL had licensed the technology to. He worked with rescue teams from China, the Netherlands, and Belgium, as well as Nepalese soldiers, to find two men trapped under 10 feet of rubble in a collapsed textile factory, and two more men in a different destroyed building.
+</text>

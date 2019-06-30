@@ -1,0 +1,37 @@
+<url>
+http://arstechnica.com/staff/2015/05/how-a-chicken-leg-saved-our-advertising-director-from-the-nepal-quake/
+</url>
+
+<date>
+20150515
+</date>
+
+<headline>
+How a chicken leg saved our advertising director from the Nepal quake
+</headline>
+
+<text>
+Up until recently, Andrew Maiorana was an advertising director for Ars (as well as Wired), working out of Wired's San Francisco offices. If you're on the outside looking in, that world probably doesn't sound terribly exciting, but he's a great guy, very outgoing, and it was a pleasure to work with him for many years.
+
+When he told us he was going to leave his position for some crazy trek through the mountains, we were sad to see him go, but we wished him the best.
+
+Andrew and his wife Jennifer decided that before they settled down, had kids, and got properly domesticated, they wanted to travel the world for a while. Parents can probably sympathize with the notion of "one last fling" before kids become the center of your universe. Not everyone wants to trek through the world's back countries, but it sounded like an incredible adventure.
+
+That's how they found themselves in Nepal on the morning of April 25th.
+
+They had been planning on continuing their trek in the Himalayas when Andrew was sidelined by a case of food poisoning from eating a bad chicken leg. Apparently, when you're a fearless scaler of mountain peaks, you don't shy away from eating a bright red, vacuum-packed leg of chicken that you found in the mostly vegetarian town of Lokpa. (Fun fact: the chicken leg was imported from Tibet, and this made Andrew think "heck, why not.")
+
+It's more than likely that going with the chicken that day saved Andrew and Jennifer's lives. The mountain they were scheduled to climb that very day was violently rocked by the worst earthquake in Nepal in nearly a century. They were a mere 24 miles from the epicenter of the 7.8 magnitude quake. Rocks, trees, and the fabric of the mountain itself tumbled down, in what would have almost certainly been a fatal cavalcade.
+
+The Maioranas survived and were rescued after eight days by a Nepalese helicopter. For more details on their ordeal, and why you shouldn't use flour to mark a helicopter pad if you're surrounded by cows, you can read this excellent writeup by the Los Angeles Times.
+
+Andrew and Jennifer feel not only lucky to be alive but to have survived unscathed. They're also keenly aware that many in Nepal were not so fortunate. They want to use their story to bring whatever help they can to the people of Nepal, and Ars is happy to help spread the word.
+
+In Andrew's own words:
+
+Although the media may not be shining a light on Nepal as it did a couple of weeks ago, the country is still in despair and in dire need of help. It will take years for Nepal to rebuild, yet even as you read this, getting food and temporary shelters that will withstand the monsoon season to rural villages is still critically important. Additionally, medical professionals are concerned about the spread of disease, as bodies are still buried under rubble and will be decomposing and polluting the water sources people use to drink. To help address these issues, we've partnered with Rajan Kahtri of Nepal, the manager of our trekking company, who is bringing the necessary supplies to remote villages that are not receiving media attention, and thus, not receiving the food, shelter and medical attention they need. Our goal is to raise $25,000 over the next thirty days, which will keep Rajan and his staff busy over the next six months, addressing the short and long term needs of rural villages that are cut off from the rest of the world.
+
+If you'd like to support their effort, they've started a CrowdRise campaign, Save Rural Nepal Relief Fund. If you feel like donating to it, or even just spreading the word of their story to bring attention to it, they—and Ars—would be very appreciative.
+
+In the meantime, we're just glad that Andrew and Jennifer are alive and well, and we wish them luck in wherever their journey takes them next.
+</text>

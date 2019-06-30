@@ -1,0 +1,51 @@
+<url>
+http://www.terradaily.com/reports/Search_and_Rescue_Tool_Pinpoints_Buried_Victims_999.html
+</url>
+
+<date>
+20150514
+</date>
+
+<headline>
+Search and Rescue Tool Pinpoints Buried Victims
+</headline>
+
+<text>
+Search and Rescue Tool Pinpoints Buried Victims
+
+
+
+by Staff Writers
+
+
+
+Washington DC (SPX) May 14, 2015
+
+
+
+FINDER joined a contingent of international rescuers from China, the Netherlands, Belgium and members of the Nepali Army in northern Nepal. This photo was taken on April 29 in Kathmandu. Image courtesy David Lewis, R4 Inc. For a larger version of this image please go here
+
+The Department of Homeland Security (DHS) Science and Technology Directorate (S and T), in partnership with the National Aeronautics and Space Administration's (NASA) Jet Propulsion Laboratory, had announced the transition of the final prototype of the Finding Individuals for Disaster and Emergency Response (FINDER) technology to the commercial market.
+
+FINDER is a radar technology designed to detect heartbeats of victims trapped in wreckage. Two commercial partners have been licensed to manufacture the device: R4 Inc. of Eatontown, N.J. and SpecOps Group Inc. of Sarasota, Fla.
+
+Earlier this weke, the DHS S and T Directorate and NASA demonstrated its newest capabilities at the Virginia Task Force One (VA-TF1) Training Facility in Lorton, Va., finding "survivors" in a simulated disaster. This is thanks to the new locator feature, which can help pinpoint the location of the victim to within about five feet - depending on the type of rubble. This key change saves rescuers time, increasing chances for locating survivors.
+
+The technology proved successful during its first real-world operational use when it was deployed to Nepal following the April 25 earthquake to support international search and rescue efforts in the country. David Lewis, president of one of S and T's commercial partners, R4 Inc., arrived in Nepal with two prototype FINDER devices on April 29 to assist in the rescue efforts.
+
+He joined a contingent of international rescuers from China, the Netherlands, Belgium and members of the Nepali Army in Northern Nepal. Using FINDER, they were able to detect two heartbeats beneath each of two different collapsed structures, allowing the rescue workers to find and save the men. The four men had been trapped beneath the rubble for days in the hard-hit village of Chautara.
+
+"I stopped at every decimated village and used FINDER there," Lewis explained of his actions in Nepal, crediting the Nepali people with providing invaluable support. "On two separate occasions, FINDER found two heartbeats. Family members were desperate to find trapped people. I am just happy we could be there with FINDER; I am very privileged to be part of the team and effort."
+
+FINDER's human-finding abilities were demonstrated through multiple test searches over the past two years with urban search and rescue (US&R) teams in Virginia, Oklahoma, Indiana, New Jersey, Georgia, California, and Illinois.
+
+"The latest operational assessments demonstrated FINDER was successful in locating a VATF-1 member buried in 30 feet of mixed concrete, rebar, and gravel rubble from a distance of over 30 feet," said John Price, S and T program manager for FINDER. "This capability will complement the current Urban Search and Rescue tools such as canines, listening devices, and video cameras to detect the presence of living victims in rubble."
+
+"There is no one magic tool that can find everyone. We use FINDER as one of our tools: canines, Delsar listening devices, cameras," explained VATF-1 Captain Randy Bittinger. "FINDER is the only tool that can identify an unconscious, unresponsive individual just by their heartbeat. We don't have any other tool like it. I want any tool that will help us find any people anywhere in the world."
+
+In disaster scenarios, such as earthquakes and tornadoes, the wreckage is made up of twisted and shattered materials. Radar signals bounce back so signals are complex.
+
+"Because the victim's hearts are beating, that signal changes a very small amount," said Jim Lux, JPL's FINDER task manager. "So what FINDER can do, is look for those very small changes, determine if they're from a human heartbeat and it they are, a message will display for the user indicating there is somebody in there."
+
+S and T and R4 Inc. are also evaluating FINDER for additional search and rescue applications such as detecting people in burning buildings.
+</text>

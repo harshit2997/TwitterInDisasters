@@ -1,0 +1,21 @@
+<url>
+http://www.afr.com/business/energy/electricity/quake-highlights-risks-of-nepals-gamechanger-hydropower-sector-20150507-ggvmg8
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+Quake highlights risks of Nepal's 'game-changer' hydropower sector
+</headline>
+
+<text>
+Share on twitter Angela Macdonald-Smith by As the scale of the human tragedy unfolding in Nepal after the April 25 earthquake becomes evident, one of the few beacons of economic hope in the impoverished country - the vast hydropower potential of the Himalayas - is also under threat. The energy shortages suffered by Nepal's 29 million inhabitants belie the fantastic power of the torrents of water thundering down into the valleys from the mountains. Many tiny mountain villages have no power, or only very limited supplies, and rely on local off-grid mini-hydro or often badly maintained solar systems that are frequently out of order. Water is often boiled in simple solar concentrator dishes. Women will walk several hours on treacherous paths to use tiny water-powered mills at remote mountain streams to grind wheat, corn and other grains. Even in the capital, Kathmandu, before the quake, electricity supply was notoriously unreliable and blackouts were common for hours at a time.
+
+But the International Monetary Fund last year described hydropower as a "game changer" for the Nepalese economy, with less than 2 per cent of the economically viable potential of 84,000 megawatts currently being tapped.
+
+"Development of the sector would reduce load-shedding and provide major revenues through exporting electricity to India or even China," it says of an economy that relies on remittances from migrant workers overseas for almost 30 per cent of GDP. India and China have spotted the prize, pouring investment into huge hydro projects in the country sandwiched between them and creating what consultancy Future Directions International (FDI) describes as "an interesting power play" with each vying for financial control of ventures. Last month, Nepal's investment board gave the green light to China Three Gorges Corporation to build a long-delayed $US1.6 billion ($2 billion) hydropower project on the West Seti river in the country's far west. The 750 MW project, involving a massive storage dam that was originally to be built by Australia's Snow Mountains Engineering Corp, is due for completion by 2021-22. In the earthquake-ravaged Gorkha and Dhading districts north-west of Kathmandu, a 600 MW project is planned on the powerful Budhi Gandaki river, to be partly funded by a $US1 billion line of credit from India to Nepal. Dozens of smaller projects are in the works, many also funded by Indian and Chinese interests.
+
+There is still a heavy price to be paid to get some of the ventures off the ground. More than 25,000 residents could be displaced by the 63-kilometre-long reservoir to be created by flooding low-lying regions for the Budhi Gandaki project. At West Seti, more than 20,000 families may require resettling, the government says. Yet the predominant feeling among locals in the Budhi Gandaki area appears to be one of support for the project, the scale of which renders its realisation a matter of national pride. Still, the rush to invest by Nepal's neighbouring superpowers has heightened fears of poorly planned projects that will destabilise the landscape, threaten long-term water security and exact a high toll on the environment, FDI says. The safety risks have been brought to the fore by the fatal quake, with reports of severe damage to at least one project, the Rasuwagadhi hydropower dam under construction by China Three Gorges about 100 kilometres north-west of Kathmandu near the Tibetan border.
+</text>

@@ -1,0 +1,29 @@
+<url>
+http://www.vcpost.com/articles/61169/20150427/nepal-earthquake-news-facebook-safety-check-safety-status-users-affected-area-tool-limited-internet-connection.htm
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal Earthquake News: Facebook’s Safety Check shows safety status of users in affected area; Tool limited with Internet connection
+</headline>
+
+<text>
+In the height of Nepal's tragic earthquake incident, Facebook activates their Safety Check feature to help their users share their safety status and also identify the current state of their friends.
+
+The Safety Check tool locates the Facebook users through the city indicated in their profiles. Those who are near Kathmandu, Nepal will receive a notification asking them if they are safe or not. Users are given a chance to post "I'm safe" or "I'm not in the area" to alert their families and friends about their current status. People who'll be able to update their status via the Safety Check will be "marked safe" and will be seen by their Facebook friends. This is a vital service for people who were near the affected area hit by a 7.8 magnitude earthquake early Saturday morning.
+
+Facebook CEO Mark Zuckerberg was the one who announced about the Safety Check activation via his Facebook account. Zuckerberg expressed his concern towards the earthquake victims and their loved ones.
+
+"When disasters happen, people need to know their loved ones are safe. It's moments like this that being able to connect really matters. My thoughts are with everyone who's been caught up in this tragedy," Zuckerberg wrote.
+
+However, Safety Check, like other online tools, is limited. The tool only works when users' smartphones are able to connect to the Internet or if their androids still have powers. According to UNICEF, cellphone networks and power were already out in many parts of Nepal. In addition, given the massive impact of the earthquake, people's gadgets, including their smartphones could already be smashed and unusable.
+
+According to a report, a Nepalese business owner in New York said that he have been receiving social media updates from friends and family in Kathmandu but many of the people he knew were in areas that had lost connection already.
+
+Recent reports say the earthquake already caused more than 3000 casualties. Udav Prashad Timalsina, the top official for the Gorkha district, near the affected area of Saturday's quake said that she had received reports from various villages where 70% of the houses have been destroyed already.
+
+Despite the limitations of Facebook's Safety Check tool, it could still offer huge help to people in Nepal who still have Internet and power connections.
+</text>

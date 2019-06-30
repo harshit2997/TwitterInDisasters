@@ -1,0 +1,19 @@
+<url>
+http://www.wsj.com/articles/for-nepal-earthquake-survivors-going-home-isnt-an-easy-choice-1431530800/
+</url>
+
+<date>
+20150514
+</date>
+
+<headline>
+For Nepal Earthquake Survivors, Going Home Isn’t an Easy Choice
+</headline>
+
+<text>
+KATHMANDU, Nepal—It took Samser Sherpa more than two weeks to work up the courage to return to his hometown in the mountains of eastern Nepal.
+
+When last month’s 7.8-magnitude earthquake struck, he watched helplessly as friends and neighbors there were killed by a rockslide. Mr. Sherpa and his family escaped unharmed from that disaster, which left more than 8,000 people dead.
+
+On Tuesday, Mr. Sherpa wasn’t as lucky. He had just...
+</text>

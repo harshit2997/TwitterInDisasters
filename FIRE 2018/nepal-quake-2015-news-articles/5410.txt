@@ -1,0 +1,23 @@
+<url>
+http://northerncalifornian.com/content/5196-nasa%E2%80%99s-finder-device-helps-save-four-lives-nepal
+</url>
+
+<date>
+20150507
+</date>
+
+<headline>
+NASA’s FINDER device helps save four lives in Nepal
+</headline>
+
+<text>
+US space agency NASA's new microwave radar technology - a prototype technology dubbed 'FINDER' - has helped save four human lives in earthquake-hit village of Chautara in Nepal. The technology could detect, and eventually locate, the heartbeats of the four people trapped under 10-foot debris.
+
+The FINDER prototype technology - short for 'Finding Individuals for Disaster and Emergency Response' - is a suitcase-sized device developed jointly by the NASA and the Science and Technology Directorate of the U. S. Department of Homeland Security (DHS).
+
+The FINDER device has the capability to a heartbeat through 30 feet of debris, 20 feet of concrete, or from a distance of 100 feet in the open air. In addition, the device - which can differentiate between animal and human heartbeats - can also find the location of a live person to a five-foot range.
+
+Two FINDER devices were brought to Nepal on April 29 to help with rescue efforts, after a devastating 7.8-magnitude earthquake hit the Himalayan country on April 25. The devices were brought to Nepal by David Lewis, president of a private firm which has partnered with the DHS' Science and Technology Directorate.
+
+About the effectiveness of the FINDER device in saving human lives in disaster-hit areas, Reginald Brothers - DHS under secretary for science and technology - said that "the true test of any technology is how well it works in a real-life operational setting. tools like this (FINDER) are designed to help when our worst nightmares do happen," and added that the DHS is proud that the FINDER has helped rescue four men in Nepal.
+</text>

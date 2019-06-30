@@ -1,0 +1,15 @@
+<url>
+http://www.aikenstandard.com/article/20150425/AIK0106/150429545/1002/AIK01/aid-pours-in-amid-aftershocks-after-nepal-quake-kills-1865
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal earthquake kills 1,865
+</headline>
+
+<text>
+AP Photo/ Niranjan Shrestha Volunteers help with rescue work at the site of a building that collapsed after an earthquake in Kathmandu, Nepal, on Saturday. A strong magnitude-7.9 earthquake shook Nepal’s capital and the densely populated Kathmandu Valley before noon Saturday, causing extensive damage with toppled walls and collapsed buildings, officials said.
+</text>

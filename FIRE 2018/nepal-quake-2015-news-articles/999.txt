@@ -1,0 +1,27 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/26/c_134184867.htm
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Indian air force evacuates over 550 from Nepal - Xinhua
+</headline>
+
+<text>
+NEW DELHI, April 26 (Xinhua) -- Indian Air Force planes brought back over 550 Indians back from quake struck Nepal Saturday night, while more are expected to be evacuated Sunday, said local media.
+
+A C-130J Super Hercules of the Indian Air Force arrived with 55 passengers, followed by a C-17 Globemaster III with 102 passengers. An IL-76 aircraft brought back 152 passengers and another C-17 Globemaster III returned with 247 Indians, said Indo-Asian News Service.
+
+The Indian defense forces, meanwhile decided to step up their search, rescue and humanitarian efforts in Nepal on Sunday, said the report.
+
+Meanwhile, the defense ministry here said 10 flights are planned for Kathmandu on Sunday to send army forward hospitals, engineering task forces, water, food, National Disaster Response Force teams, medical personnel and equipment, blankets and tents.
+
+Six MI helicopters stationed at Gorakhpur, in north-west Uttar Pradesh in northern India, and another six at various places were on standby to be pressed into service as well, according to the ministry officials.
+
+Over 1,500 people were killed and thousands injured when a massive earthquake and several strong aftershocks struck Nepal on Saturday.
+
+The quake, measured 7.9 on the Richter scale with epicenter at Nepal's Lamjung district, also hit India, killing more than 50.
+</text>

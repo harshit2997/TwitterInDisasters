@@ -1,0 +1,29 @@
+<url>
+http://www.business-standard.com/article/news-ians/nepal-quake-toll-crosses-3-200-115042700184_1.html
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Nepal quake toll crosses 3,200
+</headline>
+
+<text>
+A devastating earthquake that rattled Nepal two days ago has left at least 3,218 people dead and around 6,500 injured, authorities said on Monday.
+
+Rameshwor Dangal, head of Nepal's disaster management division, came out with the latest casualty figures as rescuers stepped up work across the Himalayan nation.
+
+Tens of thousands of people spent a second consecutive night outside their homes as frightening aftershocks continued following a 7.9 magnitude quake on Saturday and one measuring 6.7 on the Richter scale on Sunday.
+
+Xinhua quoted officials as warning that the death toll was expected to go up further.
+
+The cabinet declared that 29 out of 70 districts had been declared crisis zones. The worst hit area in the quake is the Kathmandu Valley.
+
+The Saturday quake also jolted India, Bangladesh and Tibet.
+
+Nepal has appealed for assistance from the international community both to save those who may still be trapped under the debris and to rebuild the country.
+
+
+</text>

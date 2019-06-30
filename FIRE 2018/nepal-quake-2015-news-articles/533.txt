@@ -1,0 +1,21 @@
+<url>
+http://www.mbl.is/english/news/2015/04/26/iceland_pledges_nepal_quake_aid/
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Iceland pledges Nepal quake aid
+</headline>
+
+<text>
+Icelandic Minister for Foreign Affairs, Gunnar Bragi Sveinsson, has pledged ISK 10 million (approx. €68,000) in humanitarian aid for the victims of yesterday’s earthquake in Nepal.
+
+The Nepalese government has declared a state of emergency in the areas worst affected by the quake and called upon the assistance of the international community.
+
+Iceland has decided to grant ISK 10 million to the International Federation of Red Cross and Red Crescent Societies to assist in their humanitarian efforts in Nepal, where the death toll is now thought to have exceeded 1,500.
+
+There is an urgent need for medical assistance, food, and access to clean water and shelter.
+</text>

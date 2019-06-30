@@ -1,0 +1,25 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/28/c_134192686.htm
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Chinese satellites monitoring Nepal quake zone - Xinhua
+</headline>
+
+<text>
+BEIJING, April 28 (Xinhua) -- Chinese satellites are monitoring areas affected by Nepal's quake while providing hi-resolution images for relief effort, the State Administration of Science, Technology and Industry for National Defence (SASTIND) said Tuesday.
+
+Four land observation and mapping satellites have been targeting the epicenter of the quake, Nepal's capital Kathmandu and its northern area as well as two affected counties in southwest China's Tibet Autonomous Region, the administration said in a statement.
+
+These satellites have offered 209 sets of images to ten departments including China Earthquake Administration and the ministries of civil affairs, science, land and resources.
+
+Meanwhile, the SASTIND has been processing hi-res image archives of the quake zone in the past as references for image analysis.
+
+The 8.1-magnitude earthquake struck Nepal at midday on Saturday, followed by strong aftershocks. More than 4,300 people in Nepal and at least 25 in Tibet were killed in the disaster.
+
+The SASTIND vowed to keep close track of the situation and share satellite images with quake-affected areas.
+</text>

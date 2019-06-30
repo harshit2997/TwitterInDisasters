@@ -1,0 +1,23 @@
+<url>
+http://www.daijiworld.com/news/news_disp.asp?n_id=314801
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+US announces $1 mn emergency assistance for Nepal
+</headline>
+
+<text>
+New Delhi, April 26 (IANS): The US on Sunday said it is working closely with the government of Nepal to provide assistance and support in the wake of the devastating earthquake. The US envoy in Kathmandu has announced $1 million for emergency assistance.
+
+In a statement, the US embassy here said that the US expresses its "deepest condolences" to all those affected by Saturday's earthquake in Nepal, including the families of those killed or injured.
+
+"The United States stands with the people of Nepal and the region during this difficult time," the statement said.
+
+US Ambassador to Nepal Peter Bodde has issued a disaster declaration in order to immediately release an initial $1 million for emergency assistance. The US Agency for International Development is preparing to deploy a Disaster Assistance Response Team and is activating an Urban Search and Rescue Team to accompany disaster experts and assist with assessments of the situation, it said.
+
+US military medics are in Kathmandu and will be coordinating with the Nepal Army from Sunday on how best to assist. The US will continue to coordinate assistance with the Nepalese government, it said.
+</text>

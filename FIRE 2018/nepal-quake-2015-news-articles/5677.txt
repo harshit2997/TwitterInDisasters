@@ -1,0 +1,23 @@
+<url>
+http://finance.yahoo.com/news/u-entrepreneurs-alleynyc-rally-send-181200051.html
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+U.S. Entrepreneurs, AlleyNYC Rally to Send Aid to Nepal
+</headline>
+
+<text>
+Entrepreneurs from around the world have become leading fundraisers for aid to help the survivors in the massive earthquake that struck Nepal Saturday.
+
+Leading one effort is Kishan Gupta, founder and CEO of UXCam, a user-experience company affiliated with the 500 Startups accelerator. Gupta, who recently moved his company from the United Kingdom to the U.S., launched an Indiegogo campaign to raise money for the relief effort.
+
+That's caught the eye of the rest of the entrepreneurial ecosystem. AlleyNYC, the New York coworking space, has begun encouraging companies and people in its network to donate to Gupta's campaign, as well. (Entrepreneur Media, the publisher of this website, is a minority investor and media partner with AlleyNYC.)
+
+Jason Saltzman, AlleyNYC's founder, also produced a video promoting the effort:
+
+The U.S. response comes as entrepreneurs around the world have been organizing efforts to get funds into Nepal, which itself has a relatively small but emerging entrepreneurial community. India, in particular, has been one of the leading countries where the business community has raised money and provided other aid. The two companies share a border and India is by far Nepal's largest trading partner, accounting for more than half of all exports.
+</text>

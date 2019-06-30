@@ -1,0 +1,27 @@
+<url>
+http://www.baltimoresun.com/news/opinion/editorial/bs-ed-nepal-20150427-story.html
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Earthquake in Nepal
+</headline>
+
+<text>
+Government and private aid groups are still tallying the number of people killed by the powerful earthquake that struck Nepal on Saturday. The official death toll of 3,700 is sure to rise as more victims are discovered in the rubble of collapsed buildings in the capital, Kathmandu, and in villages nearer the quake's epicenter. Many communities appear to have been completely flattened, but roads blocked by landslides have made them inaccessible to relief organizations. International aid is urgently needed to prevent the situation from descending into chaos and anarchy as thousands of desperate people struggle to survive without food, water, medical care and electricity.
+
+The U.S. has already pledged at least $1 million to the relief effort and other countries have contributed heavy earth-moving equipment, search and rescue teams, medical equipment and hospital supplies and temporary shelters. We're particularly gratified to see that several Baltimore-based organizations, including Lutheran World Relief and Catholic Relief Services, are among the private groups at the forefront of this effort. After the 2010 earthquake that struck Haiti, the two organizations rushed emergency aid to the stricken capital city of Port-au-Prince and outlying areas that helped save thousands of lives that otherwise might have been lost. Relief assistance on a similar scale almost certainly will be needed to meet the needs of disaster victims in Nepal.
+
+Officials at Lutheran World Relief dispatched an initial shipment of relief supplies pre-positioned in Dubai to Nepal via United Nations cargo aircraft. Those aid shipments, which are expected to reach Kathmandu tomorrow , include 9,240 quilts, 1,000 personal care kits and 100 community water filtration units. The quilts were sewn by members of Lutheran congregations across the country and are intended for quake victims living out in the open after their houses collapsed. The personal care kits, likewise donated by church congregations, contain soap, washcloths, toothbrushes and toothpaste, combs, nail clippers and other items needed for personal hygiene, while each of the water filtration units can supply clean, safe drinking water to people living in the disaster zone.
+
+Meanwhile, Catholic Relief Services has sent a dozen emergency specialists to Kathmandu. Their first task will be to satisfy the needs of some 10,000 families for emergency shelter, blankets, food and water and to coordinate with government agencies and other aid groups in assessing the longer-term needs of quake victims. Given the scale of the destruction in Nepal, CRS expects the number of people needing assistance will rise dramatically over the coming weeks, and CRS has made an initial commitment of $825,000 to relief efforts there.
+
+As in past natural disasters, the best way for ordinary citizens to help earthquake victims is through donations to well-established charities, such as Lutheran World Relief and Catholic Relief Services, that already have offices in the region and are thus in the best position to assess where and what kind of relief supplies are needed most in the affected areas. That's why gifts of cash are preferred over items such as clothing or household goods; separating such items takes time, and they are difficult to transport and distribute given poor roads and disabled telecommunications links. Most aid groups have created websites that allow people to pitch in with contributions regardless of their faith or religious denomination.
+
+After the 2010 earthquake in Haiti, Lutheran World Relief raised about $7 million for assistance there while Catholic Relief Services initially earmarked $5 million and a staff of 300 for the country, an effort that ultimately grew into a $200 million, five-year commitment in partnership with more than 200 local organizations. A LWR official said today that she expects rebuilding Nepal's shattered public health institutions, water, transportation and sanitation infrastructure eventually will require a massive international investment on a similar scale.
+
+In the meantime Lutheran World Relief is urging Baltimore residents to pray for those affected by the disaster and to spread the word about what ordinary citizens can do to help. Relief organizations know from experience that the public's memory is short when the subject involves suffering far from home. That's why they are so grateful to the generous donors who have responded to their latest appeal, whom we applaud as well.
+</text>

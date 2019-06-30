@@ -1,0 +1,55 @@
+<url>
+http://www.krcrtv.com/news/local/dunsmuir-company-assisting-in-nepal-quake-aftermath/32606730
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Dunsmuir company assisting in Nepal quake aftermath
+</headline>
+
+<text>
+DUNSMUIR, Calif. - A local company is assisting in search and research efforts in Nepal, from Dunsmuir.
+
+FireWhat is a geographic information systems company, mapping emergencies such as wildfires.
+
+High school and elementary students in Dunsmuir have been learning how to map using FireWhat's technology.
+
+"Now they are being able to deploy it for real lifetime efforts," said Sam Lanier, CEO and Founder of FireWhat.
+
+The students will look at satellite images before the earthquake and mark structures on the map. They will compare the before satellite image to a satellite image taken after the earthquake, to see if there was a building there and if it was destroyed.
+
+"Rescue teams throughout the nation, actually throughout the world are en route to Nepal," said Lanier.
+
+
+
+"These maps are actually being used for the search and rescuers in Nepal to be able to go and find where the homes were and search to see if they're still missing victims in those homes and account for them," Lanier Explained.
+
+Lanier said there are about 78 map groups throughout the World using OpenStreetMap, a non-profit web based mapping application, to get the information to first responders.
+
+
+
+He stated OpenStreetMap shows which area have been mapped and even verified by first responders in Nepal.
+
+
+
+Cassie Hansen, FireWhat Geographical Information Officer noted these maps are taking on a life of their own.
+
+
+
+"It's been exciting to see the maps grow over night," Hansen stated. "They literally turn into their own life form as I add buildings. I see people from around the world adding buildings."
+
+According to Lanier mapping is a volunteer effort, saying they are teaching the kids to be good citizens and good stewards.
+
+
+
+He explained it's rewarding to know they are contributing to an international relief effort.
+
+On Monday afternoon high school students spent about four hours mapping out structures, Lanier noted.
+
+
+
+
+</text>

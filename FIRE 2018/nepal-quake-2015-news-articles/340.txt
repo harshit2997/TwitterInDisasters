@@ -1,0 +1,25 @@
+<url>
+http://www.thetimes.co.uk/tto/news/world/asia/article4422454.ece
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+More than 1,900 dead in devastating Nepal earthquake
+</headline>
+
+<text>
+People gather to cremate members of their family who died in the earthquake Niranjan Shrestha/AP
+
+More than 1,900 people have been killed across four countries after a devastating 7.9 magnitude earthquake struck Nepal yesterday, collapsing buildings onto victims and triggering deadly avalanches on Mount Everest.
+
+Nepalese officials said at least at least 721 had died in capital of Kathmandu alone, with the toll expected to rise further in the worst earthquake to hit the Himalayan nation in 80 years.
+
+At least 17 climbers on Everest were killed in a major avalanche at base camp triggered by the tremors, raising fears for hundreds of people including a number of Britons still trapped on the mountain.
+
+Dozens more fatalities were reported across India, Tibet, Bangladesh, and China.
+
+Volunteers and rescuers desperately worked to dig out people buried under collapsed buildings in Kathmandu…
+</text>

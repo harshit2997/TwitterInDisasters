@@ -1,0 +1,17 @@
+<url>
+http://www.1310news.com/2015/04/25/magnitude-7-9-quake-hits-nepal-heavy-damage-injuries-reported/
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Nepal quake death toll climbs to 1,910, including at least 721 in Kathmandu
+</headline>
+
+<text>
+KATHMANDU, Nepal – A Nepal police official says at least 1,910 people have been killed, including at least 721 in Kathmandu, in the immense weekend earthquake centred outside of the capital of the Himalayan nation.
+
+Deputy Inspector General of Police Komal Singh Bam says the death toll is expected to climb.
+</text>

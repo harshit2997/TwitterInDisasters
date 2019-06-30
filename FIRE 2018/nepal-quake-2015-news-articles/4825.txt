@@ -1,0 +1,37 @@
+<url>
+http://fcw.com/articles/2015/05/06/dhs-device-nepal.aspx
+</url>
+
+<date>
+20150506
+</date>
+
+<headline>
+DHS/NASA device helps rescue four in Nepal -- FCW
+</headline>
+
+<text>
+Tech Transfer
+
+DHS/NASA device helps rescue four in Nepal
+
+A member of USAID's Disaster Assistance Response Team -- from Fairfax County, Va.'s urban search-and-rescue team -- works with a canine to search for survivors in the rubble of a collapsed building in Nepal. (Image: USAID)
+
+A newly developed microwave radar system dispatched by the Department of Homeland Security to Nepal to help search for people trapped in rubble from the massive earthquake in the country has proved effective, helping locate and rescue four men buried beneath 10 feet of debris.
+
+In the hard-hit village of Chautara in central Nepal in the Himalayan foothills, the men were freed after rescuers employed a search and rescue device called FINDER (Finding Individuals for Disaster and Emergency Response) developed by DHS Science and Technology Directorate and NASA's Jet Propulsion Laboratory.
+
+Reports from the region said the April 25 earthquake destroyed more than 90 percent of the homes in the town.
+
+The soon-to-be-commercialized FINDER uses microwave-radar technology to detect heartbeats of victims trapped in wreckage and can peer 30 feet below crushed materials and 20 feet below solid concrete. It is accurate to within five feet of a subject's location, said S&T.
+
+The agencies and one of the device's commercial developers sent two prototype devices to Nepal four days after the earthquake struck.
+
+On the ground, the device and its commercial handlers joined up with a contingent of international rescuers from China, the Netherlands, Belgium and members of the Nepali Army. Using FINDER, the teams were able to detect two heartbeats beneath each of two different collapsed structures in Chautara, allowing the rescue workers to find and save the men.
+
+The news of the rescues came just as DHS plans to demonstrate the technology ahead of officially transferring it to commercial providers. DHS and NASA plan to show FINDER off at a May 7 event at the Virginia Task Force One Training Facility in Lorton, Va.
+
+S&T and JPL have been testing various prototypes of the technology for several years, with two urban search and rescue teams in Virginia, including Virginia Task Force One at the Fairfax County Fire Department training center and Virginia Task Force Two in Virginia Beach. The core design that emerged from those tests include a lightweight sensing module that uses a USB interface to integrate an antenna, radar electronics and digital processing, with up to 14 hours of battery life.
+
+During the Lorton event, S&T and JPL said they will announce the official transition of the technology to a commercial enterprise that can manufacture the devices and make them available to search and rescue teams worldwide.
+</text>

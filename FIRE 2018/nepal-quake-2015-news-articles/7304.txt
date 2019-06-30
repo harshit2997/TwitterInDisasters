@@ -1,0 +1,41 @@
+<url>
+http://www.businessinsider.com/how-much-earth-moved-during-nepal-earthquakes-2015-5
+</url>
+
+<date>
+20150515
+</date>
+
+<headline>
+This terrifying map shows how much the earth moved during the Nepal earthquakes
+</headline>
+
+<text>
+On April 25, 2015, the Earth moved violently in Nepal. A magnitude 7.8 earthquake killed more than 8,000 people, injured at least 19,000, and displaced hundreds of thousands in cities and villages near the Himalayas.
+
+The quake destroyed infrastructure and homes, both modern and historic, while triggering landslides on Mount Everest, near the village of Langtang, and in several other locations around Kathmandu.
+
+The Gorkha earthquake has been called the worst natural disaster in Nepal since a magnitude 8.0 earthquake in 1934.
+
+The Gorkha earthquake changed the shape of the Earth-literally-by raising up and dropping landscapes by several meters. Along a 90 by 30 kilometer (55 by 20 mile) swath of land in Nepal, a fault along the edges of the Indian and Eurasian tectonic plates slipped as much as 6 meters (20 feet).
+
+The release of stress in Earth's crust had devastating effects felt in Nepal, India, China, and Bangladesh. Satellite and ground-based sensors are now revealing the extent of the jolt.
+
+In the days before and after the event, the synthetic aperture radar (SAR) instrument on the European Space Agency's Sentinel-1A satellite acquired observations of the displacement of land in Nepal and surrounding regions.
+
+On each pass, Sentinel-1 measured the distance between itself and the ground, at a slight angle. Scientists at the German Aerospace Center (Deutsches Zentrum fur Luft- und Raumfahrt, or DLR) assembled those new SAR measurements and compared them to previous radar passes over the same area. The results are shown in the land displacement map below.
+
+The DLR team derived their data by measuring the changes in the amplitude of radar waves reflected off of the landscape before and after the earthquake. In areas shaded in red, Sentinel-1 detected movement toward the satellite (in the line-of-sight direction) of as much as 1.4 meters (4.6 feet). Shades of blue depict movement away from the satellite. Areas in yellow showed little change.
+
+Because the satellite was looking at Nepal from an angle, that land movement technically could have been vertical or horizontal. But measurements using the Global Positioning System (GPS) and other sensors have confirmed that nearly all of the ground movement was up or down, meaning the land surface was uplifted or subsided.
+
+Scientists affiliated with the Advanced Rapid Imaging and Analysis project (ARIA)-a collaboration between NASA's Jet Propulsion Laboratory and the California Institute of Technology-also contributed to studies of the Gorkha quake.
+
+The team used both GPS measurements and SAR data from the ALOS-2 satellite (Japan Aerospace Exploration Agency) to create their own maps of ground displacement . The ARIA team also worked on experimental "damage proxy maps, " which use SAR and other satellite measurements to broadly assess where structures have been damaged.
+
+Two weeks after the Gorkha event, a major aftershock shook up the Himalayan region along the same fault. A 7.3 magnitude earthquake on May 12, 2015, struck to the east of the Gorkha epicenter and killed at least 68 more people. In a scientific paper published in March 2015, researchers had noted that the region was one of the few sections of the Himalayan front that had not seen a major earthquake in several hundred years and seemed to be overdue.
+
+Scientists at ESA, DLR, and JPL are continuing to monitor the Himalayan landscape with an eye on both scientific understanding and utility for emergency responders and civil leaders.
+
+NASA Earth Observatory map by Joshua Stevens using information produced by DLR's Remote Sensing Technology Institute , based on data from ESA Sentinel-1A satellite and the Copernicus Program . Caption by Mike Carlowicz, with thanks to Fernando Rodriguez Gonzalez and Thomas Fritz (Deutsches Zentrum fur Luft- und Raumfahrt) and Eric Fielding (NASA JPL).
+</text>

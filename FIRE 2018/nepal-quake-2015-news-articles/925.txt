@@ -1,0 +1,35 @@
+<url>
+http://www.fbc.com.fj/world/28892/thousands-die-in-nepal-earthquake
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+FBC News
+</headline>
+
+<text>
+Thousands die in Nepal earthquake
+
+12:30 Sun Apr 26, 2015
+
+Taken from/By: BBC News - AFP
+
+Report by: BBC News
+
+More than 1,000 people have been killed in Nepal’s deadliest earthquake for more than 80 years.
+
+The 7.8 magnitude quake struck an area of central Nepal between the capital, Kathmandu, and the city of Pokhara.
+
+There were also victims in India, Bangladesh, Tibet and on Mount Everest, where avalanches were triggered.
+
+The government has declared a state of emergency in the affected areas, and help has been offered by countries around the world.
+
+Little information has emerged from the epicentre, where extensive damage has been reported, and there are fears the death toll could rise yet further.
+
+The Nepalese information minister has told the BBC that 1,500 people had been killed in the disaster, but that the true casualty figure would probably be much higher.
+
+Thousands of people are spending the night outside their houses, following a series of aftershocks.
+</text>

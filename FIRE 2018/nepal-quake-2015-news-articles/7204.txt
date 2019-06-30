@@ -1,0 +1,29 @@
+<url>
+http://www.flightglobal.com/news/articles/lost-usmc-huey-wreckage-found-in-nepal-412411/
+</url>
+
+<date>
+20150515
+</date>
+
+<headline>
+Lost USMC Huey wreckage found in Nepal
+</headline>
+
+<text>
+The wreckage of a US Marine Corps Bell Helicopter UH-1Y Huey rotorcraft that went missing after a second earthquake hit Nepal on 12 May has been found 12km (8 miles) north of Charikot, Nepal, the Department of Defense has confirmed.
+
+The aircraft, assigned to Marine Light Attack Helicopter Squadron [HMLA] 469, was deployed in support of the humanitarian relief effort that is under way to aid the people of Nepal following the devastating earthquake that hit on 25 April, but went missing while carrying out an aid delivery and search and rescue mission following a second quake, with six marines and two Nepalese service members on board.
+
+Details have not yet been revealed on whether there are any survivors of the crash.
+
+“Today at approximately 3.00pm Japanese Standard Time a Nepalese search team identified possible wreckage of a downed aircraft approximately 8 miles north of Charikot, Nepal,” the DoD says in a 15 May statement.
+
+“Joint Task Force [JTF] 505 dispatched a team of pararescuemen and a combat rescue officer to assess the wreckage. At approximately 5.05pm Japanese Standard Time the team confirmed that the wreckage was that of the missing helicopter.”
+
+US Marine Corps
+
+JTF 505 currently has a team of four pararescuemen and one combat rescue officer on the ground, it adds. Two Hueys assigned to HMLA 469 and one USMC Bell-Boeing MV-22 Osprey with Marine Medium Tiltrotor Squadron 262 are operating in support of the survey.
+
+“The assessment of the site is ongoing and a thorough investigation will be conducted,” the DoD adds.
+</text>

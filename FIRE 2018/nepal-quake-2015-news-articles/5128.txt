@@ -1,0 +1,31 @@
+<url>
+http://www.dailymail.co.uk/wires/reuters/article-3067243/Nepal-asks-foreign-nations-end-search-rescue-operations.html
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+Nepal asks foreign nations to end search, rescue operations
+</headline>
+
+<text>
+Nepal asks foreign nations to end search, rescue operations
+
+KATHMANDU, May 4 (Reuters) - Nepal has asked foreign countries to wrap up search and rescue operations nine days after a devastating earthquake killed more than 7,200 people, now there is no hope of finding people alive in the rubble.
+
+Dozens of countries sent teams to look for survivors after the Himalayan nation was hit by a 7.8-magnitude quake on April 25, its worst since 1934, but the Nepal government now believes the search and rescue work has been nearly completed.
+
+"They can leave. If they are also specialists in clearing the rubble, they can stay," Rameshwor Dangal, an official at Nepal's home ministry, told Reuters on Monday.
+
+The quake killed 7,276 people and wounded over 14,300. Nepalese Prime Minister Sushil Koirala earlier estimated the death toll could reach 10,000.
+
+On Monday, police and local volunteers found the bodies of about 100 trekkers and villagers buried in an avalanche set off by the earthquake in a remote district and were digging through snow and ice for scores more missing.
+
+Many countries have pledged money that will be necessary to rebuild homes, hospitals and historic buildings. Others such as neighbouring India have sent trucks to deliver aid and deployed helicopters to rescue thousands of people from remote towns and villages.
+
+The chief of India's National Disaster Response Force (NDRF), which was among the first foreign organisations to arrive after the quake, said it had been asked by the Nepalese government to conclude its search and rescue operation.
+
+"All the search and rescue teams, not the relief (teams) ... have been asked to return," NDRF Director General O.P. Singh told Indian television. "We will see how best it can be done."
+</text>

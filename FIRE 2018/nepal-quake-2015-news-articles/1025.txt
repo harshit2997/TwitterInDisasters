@@ -1,0 +1,19 @@
+<url>
+http://www.dnaindia.com/india/report-hospitals-in-nepal-struggling-to-attend-to-injured-quake-survivors-2080813
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Hospitals in Nepal struggling to attend to injured quake survivors
+</headline>
+
+<text>
+Hospitals in Nepal are reported to be struggling to cope with providing treatment to survivors of Saturday's earthquake, which has claimed the lives of over 1900 people and injured another 4700.
+
+The earthquake, said to be the worst in 81 years, has left a trail of devastation and shocked citizens and hospital authorities have confirmed that they are struggling to receive or give timely treatment. Reports said that medical supplies are short and patients with serious injuries are dying.
+
+The earthquake's epicentre was 80 kilometres east of Pokhara, and it is being reported that some of the remote areas hit by the natural calamity are yet to receive aid. Further details are awaited.
+</text>

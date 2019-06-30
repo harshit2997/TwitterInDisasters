@@ -1,0 +1,51 @@
+<url>
+http://www.indiatvnews.com/news/india/nepal-earthquake-google-facebook-come-to-rescue-of-people-50160.html
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Telcos, Google, Facebook come to rescue of people hit by quake in Nepal-India TV News
+</headline>
+
+<text>
+telcos google fb come to rescue of people hit by earthquake in nepal
+
+New Delhi: With countless people awaiting rescue, food and shelter in Nepal, telecom service providers in India have slashed call rates for the next two to three days lending a helping hand to the people affected by earthquake.
+
+State-run BSNL and MTNL will charge local rates to all calls made to Nepal from its network for the next three days. “All calls that will be made from BSNL network will be charged as per local call rates for next three days,” said BSNL CMD Anupam Shrivastava.
+
+Airtel announced free calls to Nepal on its network over the next 48 hours. "We are deeply saddened by the severe impact that one of the worst earthquakes in Nepal has had on the lives of its people. As a small gesture during this hour of crisis, we have decided to offer all calls on the Airtel network from India to Nepal completely free of cost for the next 48 hours effective midnight, thus enabling customers across the country get in touch with their families and friends in Nepal," it said in a statement.
+
+Idea Cellular has also announced that it will charge Re 1 per minute against the regular ISD rate of Rs 12 per minute for calls made to Nepal.
+
+Besides, internet giant Google and social networking site Facebook have also come to the rescue of people hit by quake.
+
+Google India launches Person Finder after massive earthquake in Nepal
+
+Google India has launched its Person Finder service to help track the missing people in Himalayan nation.
+
+It is a free tool that helps friends and family members search for missing persons after a calamity. People can request and provide information about missing persons on the site.
+
+The interface is very simple to use. The URL of the app can be accessed at http://google.org/personfinder/2015-nepal-earthquake
+
+“We have just launched a Person Finder instance to help track missing persons for the #Nepal earthquake,” Google India said in a tweet.
+
+Search is also available through SMS in India and the US. Users just have to text “search ” to ᄧ-9773300000 in India or Ư-650-800-3978 in the US.
+
+All data which is part of the Google Person Finder is public and anyone can search for it.
+
+The tool has been assisting the world in face of calamities since 2010 Haiti earthquake. It has helped numerous people to reconnect with their loved ones after disasters.
+
+It was also launched in India after the devastating 2013 Uttarakhand floods.
+
+On the other hand, Facebook has also activated a new feature Safety Check for the people who are affected by yesterday's earthquake in Nepal.
+
+The feature will help the users of Facebook by providing them information if their loved ones & Friends are safe. The feature was announced by its CEO Mark Zuckerberg in a post soon after the calamity stroked.
+
+The URL of the app can be accessed at: https://www.facebook.com/safetycheck/nepalearthquake.
+
+The feature works in a way that it picks the location of the user which he has given in the user profile. If a user is in the earthquake affected zone, an option is given to him to mark himself ‘Safe'. The notification of this result is then posted to all the friends of the user and they would come to know that a user is safe.
+</text>

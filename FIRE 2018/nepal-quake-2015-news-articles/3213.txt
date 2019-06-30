@@ -1,0 +1,27 @@
+<url>
+http://philadelphia.cbslocal.com/2015/04/28/facebook-urges-users-to-donate-to-nepal-quake-relief-effort/
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Facebook Urging Users To Donate To Nepal Quake Relief Effort
+</headline>
+
+<text>
+By social media editor Melony Roy
+
+MENLO PARK, Calif. (CBS) — Facebook is encouraging its nearly two billion users to donate to relief efforts in Nepal.
+
+The social networking site has added a message at the top of its news feed urging its members to donate funds to help the hundreds of thousands of people affected by Nepal’s 7.8-magnitude earthquake.
+
+The company says 100 percent of donations will go to International Medical Corps and their work in response to the Nepal earthquake. Facebook will also donate $2 million to local relief efforts.
+
+Over the weekend, Facebook activated “Safety Check” to help people in affected regions inform others on the site about their safety.
+
+Facebook says “Since then, millions of people have been marked safe and tens of millions of people were notified that someone they know has been marked safe.”
+
+More CBS Philly Tech News
+</text>

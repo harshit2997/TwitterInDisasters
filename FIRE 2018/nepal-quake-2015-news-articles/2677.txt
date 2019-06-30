@@ -1,0 +1,29 @@
+<url>
+http://www.660news.com/2015/04/28/rogers-looks-to-help-in-wake-of-growing-disaster-in-nepal/
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Rogers looks to help in wake of growing disaster in Nepal
+</headline>
+
+<text>
+Rogers is waiving the cost of customer calls to Nepal.
+
+Rogers is looking to help in the wake of the growing humanitarian disaster in earthquake-stricken Nepal.
+
+Canadians can donate to the Canadian Red Cross by texting REDCROSS to 45678 for a $10 or 30333 for a $5 donation.
+
+To make a donation to UNICEF, text NEPAL to 45678 ($10).
+
+Users can also make a donation to the UN World Food Programme by texting RELIEFNEPAL to 45678 ($10).
+
+Donations will be tacked onto your monthly phone bill.
+
+The company will also cover the cost of all calls to Nepal, to help customers in get in touch with family and friends in the region.
+
+Rogers is the parent company of 660News.
+</text>

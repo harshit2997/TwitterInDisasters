@@ -1,0 +1,51 @@
+<url>
+http://blogs.wsj.com/indiarealtime/2015/05/08/scientists-race-against-time-to-gather-the-nepal-earthquake-data/
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+Scientists Race Against Time to Gather Nepal Earthquake Data
+</headline>
+
+<text>
+A group of U.S. scientists say they might only have two weeks remaining to gather important geological data on the Nepalese earthquake that could help determine where the next big quake could hit.
+
+Detailed data from around 20 geological monitors scattered across the Himalayan nation have to be downloaded or risk being overwritten, the earth scientists said. The data cannot be accessed remotely so someone has to hike to each monitor and physically connect a computer to them to get the information, which will help paint a high-definition picture of exactly what happened to the earth during and after the 7.8-magnitude quake on April 25.
+
+The sensors–which record global positioning system information on exact location and ground movements—cannot upload their data wirelessly as their transmitters and nearby phone networks were damaged by the quake.
+
+Like security cameras, they automatically overwrite older data every few weeks, so the measurements could be lost if they aren’t downloaded soon, said Susan Owen, a geophysicist at the National Aeronautics and Space Administration’s Jet Propulsion Laboratory in California who is part of the group of organizations that uses the monitors.
+
+“That data would go away if it isn’t downloaded,” she said.
+
+Teams from the NASA, California Institute of Technology, the U.S. Geological Survey, Unavco, a Colorado research consortium and Nepal’s Department of Mines and Geology are using information from the network of monitors and radars to get exact measurements of how the Himalayas moved during the quake.
+
+“We need to do all we can to get the maximum data from this earthquake,” said Jean-Philippe Avouac, a professor at Caltech Tectonics Observatory who designed the network of sensors as part of an experiment to help understand the seismology of the Himalayan region.
+
+The monitoring stations are GPS receivers, fixed on tripods which have legs that are buried deep in the ground
+
+If all of the monitors can be reached and their data downloaded, scientists will be able “estimate what areas of the fault ruptured” and where energy is still being stored, said Ms. Owen of the NASA’s Jet Propulsion Laboratory. It could even help specialists “understand where there is still potential for a future earthquake,” she said.
+
+Scientists have been recruiting volunteers to reach the monitors.
+
+Ski mountaineer and geographer, Jon Kedrowski, was on the way home after surviving the avalanche set off by the earthquake at Everest base camp when he read online about the need to reach the monitors.
+
+“I thought ‘I’m a geographer and I can help out,’” Mr. Kedrowski said in a telephone interview from Kathmandu.
+
+To access one of the monitors he had to meet with a Nepalese army official to get the location— near the village of Khumjung at 13,000 feet above sea level–and a big silver key to unlock it. He reached the spot on foot and downloaded the information over the weekend, he said.
+
+Other monitors may only be reachable by helicopter, which is a problem now because most helicopters in Nepal are being used for rescue and aid delivery.
+
+So far, only about a third of the GPS sites have been reached and their data downloaded. Still, the information received has provided a unique insight into what happened during the quake, which killed more than 7,800.
+
+Initial findings from two stations near the rupture in Kathmandu, the capital of Nepal, show the land around Kathmandu tilted to the south as a result of the quake, said John Galetzka, a geologist at Unavco who is part of the team harvesting the data from the sites.
+
+“The station on the north side shows about 1.8 meters of uplift,” while the station to the south shows “about 0.7 meters of uplift,” said Mr. Galetzka. That uneven rise suggests the region tilted, he added.
+
+Early results of the data downloaded so far also suggest the height of the world’s tallest peak, Mount Everest, subsided by around 2.3 centimeters, said Ms. Owen.
+
+For breaking news, features and analysis from India, click here and follow WSJ India on Facebook.
+</text>

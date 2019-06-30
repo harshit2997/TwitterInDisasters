@@ -1,0 +1,19 @@
+<url>
+http://www.nltimes.nl/2015/04/27/dutch-rescuers-arrive-in-kathmandu-100-dutch-are-missing/
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Dutch rescuers arrive in Kathmandu; 100 Dutch are missing
+</headline>
+
+<text>
+The Dutch rescue team has arrived in Kathmandu. The team of rescue specialists will help Nepal in the search and rescue mission after the 7.9 magnitude earthquake that struck the country on Saturday.
+
+According to the Ministry of Foreign Affairs, more than 2 thousand people had been confirmed dead by Sunday, with the earthquake with the earthquake also causing fatalities in Bangladesh, China and India.
+
+Based on information from travel agencies and family members, some 350 Dutch people are currently in Nepal. There have been no contact from 100 of these people. "We are working hard to get clarity as soon as possible. We do not have an embassy in Nepal." a spokesperson said on Sunday, Metro Nieuws reports.
+</text>

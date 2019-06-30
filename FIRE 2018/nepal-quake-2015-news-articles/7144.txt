@@ -1,0 +1,31 @@
+<url>
+http://www.euronews.com/2015/05/11/nepal-2-percent-loans-for-destroyed-homes-earthquake-survivors-brace-for-monsoon/
+</url>
+
+<date>
+20150511
+</date>
+
+<headline>
+Nepal: 2% loans for destroyed homes, earthquake survivors brace for monsoon
+</headline>
+
+<text>
+The death toll from Nepal’s earthquake more than two weeks ago has passed 8,000 and the injured are nearly 18,000. The government is overwhelmed, delaying reconstruction.
+
+The material cost given in broad terms amounts to 290,000 buildings destroyed and 251,800 seriously damaged.
+
+A few days ago, the Nepalese prime minister pledged to rebuild all public buildings that suffered from the quake within two years. Sushil Koirala also promised financial support to private home owners for housing reconstruction.
+
+Koirala, 75, said: “If anybody wants to rebuild their damaged house, the state bank will provide a loan of up to 2.5 million rupees within the Kathmandu valley and up to 1.5 million outside the valley at a subsidised rate of two percent interest.” [2.5 million Nepalese rupees is equivalent to almost 22,000 euros.]
+
+Meanwhile, emergency aid is needed. According to the UN World Food Programme, at least three million people are not adequately supplied with food, tents or medicines to last the next three months. In June, the monsoon rains begin.
+
+The UN says the money is not coming in. It appealed for 370 million euros and has so far only collected 20 million euros.
+
+The country nestled in the Himalayan Mountain range has some of the most challenging topography in the world for any rescue operations. Many isolated villages are only accessible on foot, several days’ walk from the next inhabited area. This is the case for Langtang, 60 km north of Kathmandu.
+
+During the earthquake Langtang was struck by a mixture of sliding boulders and snow. Out of the rubble, 120 bodies have been recovered. Operations had to be suspended under the threat of further avalanches.
+
+Before the disaster, Langtang had 55 refuges and inns. In the National Park area, 300 trekkers are still missing.
+</text>

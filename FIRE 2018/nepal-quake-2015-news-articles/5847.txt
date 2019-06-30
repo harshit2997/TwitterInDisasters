@@ -1,0 +1,175 @@
+<url>
+http://www.huffingtonpost.com/2015/05/01/clown-ballon-show-nepal-_n_7181502.html
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Clown Puts On Impromptu Balloon Show For Nepalese Kids Affected By Earthquake
+</headline>
+
+<text>
+ADVERTISEMENT
+
+After a devastating earthquake hit Nepal last Saturday, one man brought smiles to the faces of children affected by the disaster.
+
+Ron Fowler, a professional clown based in Wickliffe, Ohio, told The Huffington Post that he was in Nepal at the time of the magnitude-7.8 earthquake. While he and his family were unharmed, Fowler knew that many other families weren't so lucky. The 45-year-old decided to try to inspire a bit of cheer by putting on a balloon show for some children.
+
+Fowler, entertaining the kids.
+
+His simple plan seemed to work. A video capturing his act was uploaded to Facebook, and the children appear in awe.
+
+"They were reaching and grabbing for balloons," Fowler, who visits the country often, said of the kids' reactions to his impromptu show. "They were very excited."
+
+Fowler was in Kathmandu at the time of the disaster, but he returned to Bhaktapur, where his family had been staying for a few months, and, he says, many families and people living there had "lost everything."
+
+"A lot of the kids lost their homes, and many people were too scared to go back into their homes," Fowler explained of his audience, many of whom were living in a camp set up for those affected by the earthquake. "Some houses were totaled, and other houses were so damaged that you don't even want to go in them to get your stuff out because the cracks [in the ground] are so big."
+
+So he decided to put his skills to use.
+
+"I had extra balloons so I just said, 'let's go put some smiles on their faces,'" he said of his thoughts before putting on the show. "'Let's go give them an escape, even if it's just for that moment.'"
+
+While the professional clown was able to create a little happiness, he stresses that there is so much more that needs to be done.
+
+"It's not about me," Fowler says. "There are so many other people suffering. It's going to be a long-term problem."
+
+The 45-year-old plans to raise money to help those affected by the disaster.
+
+H/T Mashable
+
+The button below indicates how much has been raised on Crowdrise's "Nepal Earthquake Relief" page. Click to visit the site and donate.
+
+#custom_crowdrise_widget div.crDonateWidget {
+
+width: 298px !important;
+
+margin-left: 0 !important;
+
+margin-right: 0 !important;
+
+padding: 0 !important;
+
+height:78px;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget h4 { display: none; }
+
+#custom_crowdrise_widget .crDonateTriangle { display: none !important;}
+
+#custom_crowdrise_widget .crImageAndTitleOuter { display: none !important;}
+
+#custom_crowdrise_widget .CRShadowImage { display: none !important;}
+
+#custom_crowdrise_widget .crDonateWidgetOuter {
+
+border:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+margin-top: 0 !important;
+
+margin-right: 0 !important;
+
+margin-bottom: 0 !important;
+
+margin-left: 0 !important;
+
+background: url("https://www.crowdrise.com/media/cdncustom/huffpost_donate_widget.png") 0 0 no-repeat !important;
+
+}
+
+#custom_crowdrise_widget .crDonateWidget {
+
+margin:0 !important;
+
+box-shadow: none !important;
+
+-webkit-box-shadow: none !important;
+
+background-color: inherit !important;
+
+padding: 0 10px !important;
+
+}
+
+#custom_crowdrise_widget .startFundraiser { display: none !important;}
+
+#custom_crowdrise_widget .gradientButton {
+
+width: inherit !important;
+
+margin-bottom: 0 !important;
+
+}
+
+#custom_crowdrise_widget .crDonated {
+
+margin: 0 !important;
+
+font: bold 14px/16px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+width: 185px;
+
+padding-top: 9px !important;
+
+}
+
+#custom_crowdrise_widget .crLogo img { display: none !important;}
+
+#custom_crowdrise_widget .crDonatedLabel { display: none !important; }
+
+#custom_crowdrise_widget .gradientButton {
+
+background: none !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)" !important;
+
+filter: alpha(opacity=0) !important;
+
+opacity: 0 !important;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 21px !important;
+
+margin-top:15px !important;
+
+}
+
+#custom_crowdrise_widget .donateNow {
+
+font: normal 9px Arial,"Helvetica Neue",Helvetica,sans-serif !important;
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+filter: alpha(opacity=0);
+
+opacity: 0;
+
+border: 0 !important;
+
+width: inherit !important;
+
+height: 36px !important;
+
+margin-top:0 !important;
+
+padding-top: 0 !important;
+
+}
+
+
+
+
+
+Like Us On Facebook
+
+Follow Us On Twitter
+</text>

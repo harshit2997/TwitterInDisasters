@@ -1,0 +1,17 @@
+<url>
+http://www.itv.com/news/story/2015-04-30/flight-carrying-120-britons-from-quake-hit-nepal-arrives-in-uk/
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Three people found alive days after Nepal earthquake
+</headline>
+
+<text>
+Three people have been pulled out alive from the rubble of their home days after Nepal's devastating earthquake, an official has said.
+
+Other developments include:
+</text>

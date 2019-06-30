@@ -1,0 +1,19 @@
+<url>
+http://www.themercury.com.au/news/breaking-news/world-vision-flies-in-help-to-nepal/story-fnj6ehgr-1227322005391
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+World Vision flies in help to Nepal
+</headline>
+
+<text>
+WORLD Vision is sending tents, medicine and hygiene packs into Nepal as CEO Tim Costello flies in to assess earthquake damage.
+
+MORE than 2,000 people are dead after the 7.8 magnitude earthquake hit Nepal on Saturday.
+
+Originally published as World Vision flies in help to Nepal
+</text>

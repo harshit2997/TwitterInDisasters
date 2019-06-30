@@ -1,0 +1,19 @@
+<url>
+http://www.dailymail.co.uk/wires/ap/article-3061300/Obama-calls-Nepals-prime-minister-offers-condolences-help.html
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Obama calls Nepal's prime minister, offers condolences, help
+</headline>
+
+<text>
+Obama calls Nepal's prime minister, offers condolences, help
+
+WASHINGTON (AP) — President Barack Obama has spoken to Prime Minister Sushil Koirala of Nepal to express sympathy over the thousands of deaths and vast destruction caused by a massive earthquake on Saturday and pledged to offer further assistance.
+
+White House spokesman Josh Earnest says the two men discussed U.S. military and civilian efforts already underway to help Nepal and international aid groups in their emergency rescue and response.
+</text>

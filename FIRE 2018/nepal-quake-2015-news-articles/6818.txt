@@ -1,0 +1,57 @@
+<url>
+https://www.dvidshub.net/news/163259/deployable-command-control-system-critical-nepal-earthquake-relief
+</url>
+
+<date>
+20150514
+</date>
+
+<headline>
+Deployable command, control system critical to Nepal earthquake relief
+</headline>
+
+<text>
+Photo By Staff Sgt. Alexander Martinez | Deployable Joint Command and Control satellites send and receive communications...... read more read more Photo By Staff Sgt. Alexander Martinez | Deployable Joint Command and Control satellites send and receive communications information at the Joint Task Force 505 Intermediate Staging Base, Utapao Royal Thai Naval Airfield, Thailand, May 12. The satellite are part of the DJC2 system which is currently providing communications capability. DJC2 integrates software, hardware and processes to support a shared-information environment consisting of joint, coalition, multinational and nongovernmental agencies, and has proved to be an important communications tool during Operation Sahayogi Haat. (U.S. Air Force photo by Staff Sgt. Alexander Martinez/Released) see less | View Image Page
+
+UTAPAO ROYAL THAI NAVAL AIRFIELD, Thailand -- With humanitarian assistance and disaster relief an ongoing mission for Joint Task Force 505 and other organizations in support of Operation Sahayogi Haat in Nepal, the ability to effectively communicate with each other and components in the region is critical.
+
+
+
+Their communications rely on systems such as the Deployable Joint Command and Control system, which is currently providing that critical capability. DJC2 integrates software, hardware and processes to support a shared-information environment consisting of joint, coalition, multinational and nongovernmental agencies.
+
+
+
+At Utapao Royal Thai Naval Airfield, site of the JTF 505 intermediate staging base, a DJC2 configured with its core-capability configuration is up and running, providing communication capabilities for the ISB mission of ensuring supplies and personnel rotate in and out of Nepal.
+
+
+
+The officer in charge of the Utapao ISB communications team, U.S. Marine Capt. Jason Misner, said the system is very useful in humanitarian aid and disaster relief contingency operations because of the ability to tailor it to the size of the operation and the needs of its users.
+
+
+
+“What makes DJC2 unique is that it allows us to easily add users, scale networks to whatever we want it to look like, make it a joint network, support users that need secure access and allow the systems to support nongovernmental organizations,” Misner explained.
+
+
+
+JTF 505 also has DJC2 systems and operators in Nepal, configured to their location with the necessary features for the location’s mission.
+
+
+
+“The systems in Nepal are headed by a good team and they’re providing good communication support,” Misner said.
+
+
+
+The system is designed to be deployed and ready for use in a rapid time. For the Utapao DJC2, the team had the entire system up and running in less than 48 hours.
+
+
+
+U.S. Air Force Tech. Sgt. Philip Lambeth, a JTF 505 communications technician, helps monitor the DJC2 system at Utapao and said the system enables the transport of supplies and personnel in and out of Nepal.
+
+
+
+“We’ve been providing command and control function for the JTF 505, so we’re seeing planes being flown in and supplies going in an orderly fashion,” Lambeth said.
+
+
+
+Other configurations of the DJC2 system include workstation equipment such as tables, chairs and structures if needed; ensuring a deployable communications system is available anywhere in the world.
+</text>

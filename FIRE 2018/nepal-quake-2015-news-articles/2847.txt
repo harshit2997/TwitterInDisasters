@@ -1,0 +1,17 @@
+<url>
+http://www.timeslive.co.za/thetimes/2015/04/29/nepalese-death-toll-could-rise-to-10000
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+Nepalese death toll could rise to 10000
+</headline>
+
+<text>
+Nepalese death toll could rise to 10000
+
+People stranded in remote villages and towns across Nepal were still waiting for help to arrive yesterday, four days after an earthquake destroyed buildings and roads and killed more than 5000 people. The government has yet to assess the full extent of the damage wrought by Saturday's 7.9-magnitude quake, and is unable to reach many mountainous areas as aid supplies and personnel pour in from around the world.
+</text>

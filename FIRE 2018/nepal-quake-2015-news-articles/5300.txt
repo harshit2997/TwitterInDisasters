@@ -1,0 +1,15 @@
+<url>
+http://www.marinecorpstimes.com/story/military/2015/05/08/military-relief-efforts-earthquake-nepal/70938958/
+</url>
+
+<date>
+20150508
+</date>
+
+<headline>
+U.S. military boosts earthquake relief efforts in Nepal
+</headline>
+
+<text>
+Those missions would be impossible if not for the resiliency of the Nepalese people who've been working around the clock keep the Tribhuvan International Airport in Kathmandu up and running, said Marine Col. John Armellino, the chief of staff for 3rd Marine Expeditionary Brigade. That required a great deal of coordination as help began pouring in from "all corners of the world," he said.
+</text>

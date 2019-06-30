@@ -1,0 +1,19 @@
+<url>
+http://www.dailytelegraph.com.au/news/breaking-news/aust-quake-death-toll-could-rise-bishop/story-fni0xqi3-1227324099442?nk=7d42413bc411cb45c4a83fa21a562948
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Australian couple in terror quake run
+</headline>
+
+<text>
+AUSTRALIANS stranded in Nepal will be flown out of the country by the air force as the government vows to continue the search for those still missing.
+
+WHILE some Australians have returned home on commercial flights, others are waiting for the Department of Foreign Affairs to release details of the military flights when arrangements at Kathmandu airport have been made.
+
+Originally published as Australian couple in terror quake run
+</text>

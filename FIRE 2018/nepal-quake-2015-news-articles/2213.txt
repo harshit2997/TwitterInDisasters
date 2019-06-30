@@ -1,0 +1,19 @@
+<url>
+http://www.wsj.com/articles/nepal-rescuers-struggle-to-reach-quake-victims-1430113791
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Rescuers Struggle to Reach Outlying Villages Hit by Nepal Earthquake
+</headline>
+
+<text>
+Thousands of homes and schools were destroyed in Gorkha, Nepal near the earthquake's epicenter. Sean Casey of the International Medical Corps speaks to the WSJ's Deborah Kan from Gorkha on the difficulties of reaching victims and providing care.
+
+SIPA GHAT, Nepal—When Saturday’s 7.8-magnitude earthquake hit Nepal, nearly every building in this small market town 40 miles from the capital, Katmandu, collapsed. On Monday evening, more than two days later, official help had yet to arrive, residents said.
+
+As international aid poured into Nepal, the impoverished Himalayan nation’s overwhelmed army, police and emergency services struggled to cope with the scale of the devastation...
+</text>

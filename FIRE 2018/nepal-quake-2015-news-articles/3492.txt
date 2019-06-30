@@ -1,0 +1,25 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/30/c_134197093.htm
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Obama expresses condolence to Nepal quake victims - Xinhua
+</headline>
+
+<text>
+KATHMANDU, April 29 (Xinhua) -- U.S. President Barack Omaba has expressed grief and condolence to Nepal quake victims during a telephone conversation with Prime Minister Sushil Koirala, said a statement issued by the Prime Minister's Office on Wednesday evening.
+
+"I am with the people of Nepal and the government at this great tragedy," the U.S. president told Koirala on the phone, read the statement.
+
+Obama's condolence came after the U.S. government pledged to provide 19 million U.S. dollars in aid to the mountainous nation.
+
+The earthquake on Saturday and Sunday claimed 5,000 lives and left at least 10,000 others injured.
+
+Meanwhile, the president of the Maldives telephoned Koirala on Wednesday morning to convey condolences to the Nepali people via the prime minister.
+
+Earlier, Chinese President Xi Jinping, Prime Minister Li Keqiang and Foreign Minister Wang Yi conveyed condolences to the prime minister of Nepal. China has already pledged 20 million RMB in assistance to the Himalayan nation.
+</text>

@@ -1,0 +1,23 @@
+<url>
+http://thehill.com/policy/defense/241778-us-military-helicopter-goes-missing-in-nepal
+</url>
+
+<date>
+20150512
+</date>
+
+<headline>
+US military helicopter disappears in Nepal
+</headline>
+
+<text>
+A military helicopter that was helping with earthquake relief efforts in Nepal has gone missing.
+
+
+
+The Huey Helicopter was declared missing near the village of Charikot at around 10 p.m. local time, according to a statement released by the Joint Task Force taking part in the relief effort.
+
+ADVERTISEMENT
+
+Lt. Col. Myles Caggins, a Pentagon spokesman, told The Hill that six U.S. Marines and 2 Nepalese were aboard the aircraft and that there is currently no indication of a crash.Nepal suffered a massive 7.3-magnitude earthquake on Tuesday, which came two weeks after a 7.8-magnitude quake in the country that killed thousands of people.Joint Task Force 505 has been offering assistance to Nepal as part of "Operation Sahayogi Haa," which means "helping hand" in Nepali.— Kristina Wong contributed.
+</text>

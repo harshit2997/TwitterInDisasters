@@ -1,0 +1,27 @@
+<url>
+http://news.xinhuanet.com/english/2015-04/27/c_134187934.htm
+</url>
+
+<date>
+20150427
+</date>
+
+<headline>
+Relief operation stepped up in quake-stricken Nepal - Xinhua
+</headline>
+
+<text>
+KATMANDU, April 27 (Xinhua) -- The relief operation for Nepal quake victims is being stepped up here as aid materials and personnel are arriving from neighboring countries including China and India, said officials on Monday.
+
+The Katmandu international airport has been operating normally since Sunday, with both passenger planes and relief planes arriving from various foreign countries worldwide.
+
+However, some people have been waiting at the airport for being evacuated for two days, mostly Indian nationals. India said it had evacuated 1,935 stranded Indians from Nepal.
+
+The Indian Air Force flew 12 sorties to bring back Indian nationals including many children, said Indian officials in Delhi.
+
+While thousands stayed outdoors amid chilly weather and sporadic rains throughout the night, life in the Nepalese capital is returning to normal with many people going back to work while the atmosphere here is calm and peaceful.
+
+Shops and restaurants are also starting to open here and some hotels are still arranging foreign tourists and trekkers to go to mountain resorts.
+
+The 7.9-magnitude quake which struck Nepal on Saturday has killed over 3,200 people in the county, according to latest official statistics.
+</text>

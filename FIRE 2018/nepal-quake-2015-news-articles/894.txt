@@ -1,0 +1,41 @@
+<url>
+http://dailystar.com.lb/News/World/2015/Apr-25/295714-some-buildings-collapse-in-nepal-capital-after-77-quake.ashx
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+At least 1,180 dead in Nepal earthquake
+</headline>
+
+<text>
+A powerful earthquake struck Nepal Saturday, killing at least 1,180 people across a swath of four countries as the violently shaking earth collapsed houses, leveled centuries-old temples and triggered avalanches on Mt. Everest. It was the worst tremor to hit the poor South Asian nation in over 80 years.
+
+
+
+At least 1,130 people were confirmed dead across Nepal, according to the police.
+
+
+
+Within hours of the quake, hospitals began to fill up with dozens of injured people.
+
+
+
+Following the quake, Kathmandu's international airport was shut down.
+
+
+
+It said the quake hit at 11:56 a.m. local time (0611 GMT) at Lamjung, about 80 kilometers (50 miles) northwest of Kathmandu. Its depth was only 11 kilometers (7 miles), the largest shallow quake since the 8.2 temblor off the coast of Chile on April 1, 2014 .
+
+
+
+A magnitude 7 quake is capable of widespread and heavy damage while an 8 magnitude quake can cause tremendous damage. This means Saturday's quake -- with the same magnitude as the one that hit San Francisco in 1906 -- was about 16 times more powerful than the 7.0 quake that devastated Haiti in 2010 .
+
+
+
+Nepal suffered its worst recorded earthquake in 1934, which measured 8.0 and all but destroyed the cities of Kathmandu, Bhaktapur and Patan.
+
+...
+</text>

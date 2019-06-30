@@ -1,0 +1,15 @@
+<url>
+http://www.business-standard.com/article/international/tensions-rise-in-nepal-after-weak-response-to-deadly-quake-115043000009_1.html
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Tensions rise in Nepal after 'weak' response to deadly quake
+</headline>
+
+<text>
+The death toll from the devastating earthquake in Nepal four days ago rose past 5,000 on Wednesday, as officials conceded they had made mistakes in their initial response, leaving survivors stranded in remote villages waiting for aid and relief. The government has yet to fully assess the devastation wrought by Saturday's 7.8 magnitude quake, unable to reach many mountainous areas despite aid supplies and personnel pouring in from around the world. Anger and frustration were mounting steadily, with many Nepalis sleeping out in the open under makeshift tents for a fourth night since ...
+</text>

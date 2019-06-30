@@ -1,0 +1,27 @@
+<url>
+http://www.forbes.com/sites/devinthorpe/2015/04/30/report-on-nepal-relief-effort/
+</url>
+
+<date>
+20150430
+</date>
+
+<headline>
+Report On Nepal Relief Effort
+</headline>
+
+<text>
+Filmmaker Casey Allred was working on his film Stolen Innocence in India when the earthquake struck Nepal. The next day he landed in Kathmandu and began providing relief.
+
+His organization, Effect.org, set up a website at NepalRises.com to search Twitter in real time looking for available volunteers and needs, working to match them up.
+
+Using resources already in their coffers, Effect.org began immediately to gather and deploy aid. Allred reported yesterday, "We have over 100 volunteers, 20 motorbikes and 4 cars importing and exporting supplies. We've purchased 410 kg of food and 4,147 pieces of medical supplies and 250 tents... Just today! HQ inventories all supplies and is delivered the same day. We have two film crews documenting everything and 6 Engineers building software. We built NepalRises.com in 8 hours and a bot scanning Twitter to understand who needs help and act immediately. We are coordinating with a lot of local aid groups to triple our efforts. Today we had 22 teams deliver supplies outside of Kathmandu to those in need. For many we are the FIRST aid they've received. We are hoping to double and triple our impact in the next few days."
+
+Allred and his crew have been filming some of the devastation. Here's some raw footage from shot with a drone.
+
+On Thursday, April 30, 2015 at 2:00 Eastern, we will visit with Allred's communications manager, Nicole Allen in London. Allen has been coordinating closely with Allred, who doesn't have an internet connection capable of doing a live stream interview at midnight in Nepal. Tune in here then to watch the interview live. Tweet your questions for Allen before the interview to @devindthorpe.
+
+You can download an audio podcast here or subscribe via iTunes.
+
+Effect.org is accepting donations here.
+</text>

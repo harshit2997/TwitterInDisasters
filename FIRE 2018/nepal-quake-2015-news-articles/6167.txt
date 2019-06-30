@@ -1,0 +1,15 @@
+<url>
+http://www.gloucestertimes.com/news/quakes-hit-nepal-japan/article_c949e47f-b522-5aac-806a-641cacabf9fb.html
+</url>
+
+<date>
+20150513
+</date>
+
+<headline>
+Quakes hit Nepal, Japan
+</headline>
+
+<text>
+Associated PressUSAID rescue workers inspect the site of collapsed buildings after an earthquake in Kathmandu, Nepal, Tuesday. A new earthquake Tuesday spread more fear and misery in Nepal, which is still struggling to recover from a devastating quake nearly three weeks ago that left thousands dead.
+</text>

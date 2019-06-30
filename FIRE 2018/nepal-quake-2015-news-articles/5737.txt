@@ -1,0 +1,47 @@
+<url>
+http://www.hsph.harvard.edu/news/features/nepal-relief-efforts-at-harvard-chan-school/
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Nepal relief efforts at Harvard Chan School
+</headline>
+
+<text>
+May 1, 2015 — Faculty and students across Harvard are responding to the consequences of the Nepal earthquake that has left thousands dead and many more injured and homeless.
+
+Harvard Humanitarian Initiative
+
+The Harvard Humanitarian Initiative (HHI) is working with the United Nations Health Cluster to identify medical needs and personnel for deployment, and working with a variety of NGO partners to identify additional staff needed.
+
+HHI’s Kobo Toolbox, a real-time data collection and sharing system, is the preferred data collection tool for the UN Office of the Coordination of Humanitarian Affairs to coordinate data collection and sharing across NGOs. HHI is also working with the Crisis Mappers Network to establish a map of needs in the region.
+
+HHI affiliated experts are working closely with NetHope, which brings together the knowledge and power of 43 humanitarian organizations with information communication technology.
+
+Learn more: http://hhi.harvard.edu/nepal-earthquake
+
+Donors support Harvard’s efforts to map relief efforts
+
+Donors are already pitching in to help Harvard’s efforts in the region. For example, the Ferrante family has provided $50,000 to support HHI’s efforts to create a more comprehensive data map that will provide a detailed aerial view for the UN and non-governmental organizations of remote sites affected by the quake, in an effort to determine needs and hard-to-reach areas. It’s a combination of drone imagery, on the ground intelligence, and Google map overlays that will provide an extremely useful real time resource for providers. “As you know, the affected area is vast, and there is simply no other way to know who is affected without flying over by helicopter, and even doing that provides no easily sharable data,” says Michael VanRooyen, director of HHI and a professor in the Department of Global Health and Population at Harvard T.H. Chan School of Public Health. “This effort is filling a significant need.”
+
+If you would like to support efforts like these by HHI, you may give online here https://www.hsph.harvard.edu/campaign/giving/how-to-make-a-gift/ and specify “Harvard Humanitarian Initiative” in the notes section of the online form.
+
+One student’s story
+
+When an earthquake struck Nepal on April 25, 2015, Renee Salas said it felt like she was “on a boat at sea.” After the shaking stopped, the 34-year-old emergency medicine physician at Massachusetts General Hospital, who is also a part-time MPH student at Harvard T.H. Chan School of Public Health, started caring for the injured.
+
+Read more https://www.hsph.harvard.edu/news/hsph-in-the-news/after-nepal-earthquake-caring-for-the-injured/
+
+Harvard Chan students raising money to help
+
+Student Government at Harvard Chan is selling red and white water bottles with the School’s logo to raise money for relief efforts in Nepal.
+
+https://www.eventbrite.com/e/water-bottles-for-nepal-tickets-16778887103
+
+More from Harvard Gazette on Harvard’s efforts: http://news.harvard.edu/gazette/story/2015/04/after-nepal-quake-harvard-responds/
+
+— Nabin K. Sapkota
+</text>

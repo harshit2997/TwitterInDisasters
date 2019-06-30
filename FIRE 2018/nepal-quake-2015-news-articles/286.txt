@@ -1,0 +1,39 @@
+<url>
+http://indiatoday.intoday.in/technology/story/nepal-earthquake-googles-person-finder-facebooks-safety-check-aid-relief-efforts/1/432180.html
+</url>
+
+<date>
+20150425
+</date>
+
+<headline>
+Nepal earthquake: Google's Person Finder, Facebook's Safety Check aid relief efforts
+</headline>
+
+<text>
+Even as Nepal recovers from the horrendous aftermath of Saturday's massive earthquake that left nearly 1,500 people, including two Indians, dead; tech giants Google and Facebook have joined in the relief efforts in their own way. While Google has opened its Person Finder tool for the purpose, Facebook has activated its Safety Check feature to help victims of the deadly earthquake.
+
+Google's Person Finder tool , as the name suggests is essentially a missing persons database that can aid individuals in finding family members or friends affected by the earthquake. Affected individuals can even post details about themselves using the tool.
+
+Google's Person Finder page has two options: one that states "I'm looking for someone" and another that says "I have information about someone".
+
+If you're looking for someone (in the affected areas) either trapped or lost, you have to click on 'I'm looking for someone' and enter the person's name. In case you're the affected person, or you have information about an affected individual, you have to click on 'I have information about someone' and share the details. The tool is available in English and Nepali.
+
+Moreover, the search is available through SMS in India and the US by sending "search <name>" to +91-9773300000 (India) or +1-650-800-3978 (US).
+
+Meanwhile, Facebook's Safety Check feature is another initiative that lets your family and friends know you're safe and sound post the calamity.
+
+The feature has an auto-tracking mode wherein it automatically detects if you're in the earthquake torn region by looking at your profile information and updates and the city where you're using the Internet. If you happen to be in one of the affected areas, it asks you to update your safety status.
+
+Once you've updated your safety status, the feature generates a News Feed that notifies all your Facebook friends that you're safe. In case you're in need of help, your update will inform them that you're in need of aid.
+
+Users can also manually update their location if they happen to lie in the affected areas and mark the friends they are 'sure' about as safe.
+
+In addition to all this, telecom providers Airtel and state-run BSNL, MTNL have also pitched in to aid those affected by the devastating earthquake in Nepal.
+
+Bharti Airtel has announced 'free' calls to Nepal on its home network over the next 48 hours. Meanwhile, calls made to the Himalayan nation will be charged locally by BSNL and MTNL for the next three day.
+
+A massive earthquake measuring 7.9 on Richter scale struck Nepal at around 11:56 am on Saturday with epicentre at Lamjung, some 80 kilometers from capital Kathmandu.
+
+The calamity had its impact in several cities in Bihar, West Bengal and UP with tremors being felt across vast stretches of northern India.
+</text>

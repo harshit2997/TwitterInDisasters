@@ -1,0 +1,33 @@
+<url>
+http://world.kbs.co.kr/english/news/news_Po_detail.htm?No=110359
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+S. Korea Sends More Rescue, Medical Workers to Nepal
+</headline>
+
+<text>
+The government dispatched the second batch of the Korea Disaster Response Team (KDRT) to quake-ravaged Nepal on Friday.
+
+
+
+Seoul's Foreign Ministry announced that the 32-member team is made up of 15 search and rescue workers, 15 medical experts and two additional staff members.
+
+
+
+The ministry said the rescue workers will be working in Bhaktapur, some 15 kilometers east of Kathmandu, joining the ten-member KDRT team already operating in the region.
+
+
+
+The medical personnel will be stationed at the Nepal-Korea Friendship Hospital in Thimi for around ten days, before being replaced by another team of about ten medical workers.
+
+
+
+The ministry also plans to provide 21-thousand makeshift shelters and ten-thousand blankets for displaced Nepalese.
+
+
+</text>

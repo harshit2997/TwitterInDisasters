@@ -1,0 +1,21 @@
+<url>
+http://www.afr.com/news/world/asia/nepal-earthquake-mount-everest-climbers-killed-as-quake-triggers-avalanche-20150426-1mtae7
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Nepal earthquake: Mount Everest climbers killed as quake triggers avalanche
+</headline>
+
+<text>
+A year after a deadly avalanche on Mount Everest ended the climbing season, another avalanche, this one caused by a powerful earthquake near the Nepalese capital, rumbled down a treacherous icefall Saturday and slammed into part of the mountaineering base camp, killing at least 17 climbers and injuring at least 37 others, Nepalese officials said.
+
+One of those killed at the base camp was Dan Fredinburg, a Google engineer and avid climber who had sought to take the companys Street View project to the worlds highest mountains. Sadly, we lost one of our own, Google said in a statement.
+
+Alex Gavan, a hiker at the base camp, described on Twitter a "huge earthquake then huge avalanche" that sent him "running for life from my tent." Gavan warned that many of the injured would die if they were not evacuated soon.
+
+Nima Namgyal Sherpa, a tour guide also at the base camp, described the avalanche Saturday as "huge," and said it had caused many injuries.
+</text>

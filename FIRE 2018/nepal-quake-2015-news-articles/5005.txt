@@ -1,0 +1,45 @@
+<url>
+http://www.washingtonpost.com/national/health-science/kathmandu-rose-three-feet-but-mt-everest-dropped-by-an-inch-in-quake/2015/05/04/e6e635ea-ef3c-11e4-8666-a1d756d0218e_story.html
+</url>
+
+<date>
+20150504
+</date>
+
+<headline>
+Kathmandu rose three feet but Mt. Everest dropped by an inch in quake
+</headline>
+
+<text>
+The first good satellite view of the aftermath of Nepal’s April 25 earthquakereveals that a broad swath of ground near Kathmandu lifted by about three feet, which could explain why damage in the city was so severe.
+
+The information comes from Europe’s Sentinel-1a radar satellite. Scientists are racing to interpret the Sentinel data, which was made available last week after the satellite passed over Nepal.
+
+Researchers detected the vertical shift in the ground by comparing before-and-after radar images from the satellite using a technique that produces an image called an interferogram. These images have rainbow-colored areas that represent the movement of the ground between the times each radar image was taken. The results will be refined in coming weeks, with further analysis and additional data from other radar satellites.
+
+According to the early analysis, a region 75 miles long by 30 miles wide rose by as much as three feet during the earthquake, said Tim Wright, a geophysicist at the University of Leeds in the United Kingdom. Even though Kathmandu is relatively far from the earthquake’s epicenter, this uplift peaked only 10 miles from the city.
+
+“That’s one of the reasons why Kathmandu has so much damage,” Wright said.
+
+Aerial view of Mount Everest in Nepal using EO-1 ALI data from the NASA EO-1 team, archived on the USGS Earth Explorer. (NASA Earth Observatory/REX/Jesse Allen and Robert Simmon/AP)
+
+The radar images reveal that some of the world’s tallest peaks — including Mount Everest — dropped by about an inch, according to UNAVCO, a nonprofit geoscience research consortium. That’s because the Earth’s crust relaxed in the areas north of Kathmandu after the earthquake released pent-up strain.
+
+Still, on the whole, the Himalayas continue to grow to stupendous heights, studies show. Some parts of the mountain chain are rising about 0.4 inches every year, due to the ongoing collision between the Indian and Eurasia tectonic plates.
+
+“This is only one earthquake, and the overall tectonics give you uplift of the mountains,” Wright said.
+
+The earthquake struck on a shallowly dipping thrust fault that angled only 10 degrees from the surface. The structure of this fault meant the damage was spread over an area of more than 5,600 square miles. The quake killed more than 7,000 people, including some who perished in an avalanche on Mount Everest.
+
+Scientists plan to continue to monitor ground changes in Nepal. The fault where the quake hit did not break all the way up to the Earth’s surface, which may mean that some strain still needs to be unleashed. The fault could release this energy with more earthquakes or by slowly shifting without triggering major temblors. Further studies will also help researchers understand how the earthquake stressed adjacent faults.
+
+“I think this will give us our clearest insight into the workings of the faults along the Himalayan front,” said Stephen Hicks, a seismologist at the University of Liverpool.
+
+— Live Science
+
+In Photos: Mount Everest Expeditions Then and Now
+
+7 Ways the Earth Changes in the Blink of an Eye
+
+The 10 Biggest Earthquakes in History
+</text>

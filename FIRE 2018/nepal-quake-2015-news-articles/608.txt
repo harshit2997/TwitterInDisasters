@@ -1,0 +1,29 @@
+<url>
+https://www.gov.uk/government/news/foreign-secretary-confirms-embassy-support-to-british-nationals-in-nepal
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Foreign Secretary confirms Embassy support to British nationals in Nepal
+</headline>
+
+<text>
+Foreign Secretary Philip Hammond said:
+
+“There are several hundred British nationals in Nepal at this time of year and we expect that almost certainly some will have been caught up in the earthquakes. But at this moment we have no reports of any British nationals killed or injured.
+
+“British Embassy staff are on the ground and have provided practical help to around 200 British nationals. Teams of consular staff have also been out scouring hospitals, hotels and areas popular with tourists looking for British nationals who may need assistance.
+
+“Damage to communications infrastructure caused by the earthquakes is making it difficult to contact people who may have been trekking in remote areas so it may be some time before we, working with the tour companies, are able to identify who is in Nepal and to account for them.
+
+“The Foreign Office is urgently deploying additional consular response teams from London and Delhi to reinforce our embassy staff and looking at what else we can do. In the meantime my colleague Justine Greening chaired a COBR meeting in London this afternoon and DFID is providing £5m of humanitarian aid for Nepal.”
+
+Further information:
+
+British nationals requiring assistance can contact us on +44 (0) 207 008 0000 or they can text NEPAL to +447860010026. Please check our travel advice page for regular updates Travel Advice Nepal
+
+Further information
+</text>

@@ -1,0 +1,19 @@
+<url>
+http://www.bostonherald.com/news_opinion/local_coverage/2015/04/belmont_doctor_visiting_relatives_recounts_terror
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Belmont doctor visiting  relatives recounts terror
+</headline>
+
+<text>
+Dr. Mabi Singh of Belmont was visiting family in Kathmandu, Nepal, when the powerful magnitude-7.8 earthquake hit.
+
+The associate professor at Tufts University School of Dental Medicine told the Herald’s Owen Boss about the fear, panic and widespread devastation in the capital city.
+
+“I’m from Nepal, but I’ve lived in Boston for 18 years and I’m visiting the capital city of Kathmandu for a ritual for the death of my aunt.
+</text>

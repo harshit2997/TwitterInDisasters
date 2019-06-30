@@ -1,0 +1,23 @@
+<url>
+https://www.gov.uk/government/news/fco-press-release-foreign-secretary-update-on-support-to-british-nationals-in-nepal
+</url>
+
+<date>
+20150429
+</date>
+
+<headline>
+Foreign Secretary update on support to British nationals in Nepal
+</headline>
+
+<text>
+Foreign Secretary Philip Hammond said:
+
+Foreign Office staff continue to work around the clock tracing British nationals and getting them to safety in the wake of this catastrophe. More than 300 who had no accommodation have been hosted by our Embassy in Kathmandu and we have arranged for around 120 to be repatriated on a flight chartered by the UK government to deliver relief supplies.
+
+The situation remains extremely challenging due to widespread infrastructure damage caused by the earthquakes, landslides and avalanches. Search and rescue teams, medics and our armed services are on the ground now helping British nationals and others in need. Hundreds of Britons have now been accounted for and our teams are working closely with the Nepalese army and authorities to locate British nationals in remote areas and get them to safety.
+
+We know that this is an agonising time for those who are waiting for news of loved ones. But the scale of the disaster and the limited communications means that it may be some time before we can account for everyone. Many are likely to be in a place of safety but not able to communicate easily.
+
+Sadly I can confirm the death of one British dual national, a resident of Hong Kong.
+</text>

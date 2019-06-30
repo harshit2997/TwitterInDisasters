@@ -1,0 +1,35 @@
+<url>
+http://www.news24.com/World/News/Evacuation-begins-in-Nepal-as-avalanches-strike-20150511
+</url>
+
+<date>
+20150511
+</date>
+
+<headline>
+Evacuation begins in Nepal as avalanches strike
+</headline>
+
+<text>
+Kathmandu - People were being evacuated from a hard-hit area of Nepal after new avalanches struck the area, causing further damage and risk to the people, authorities said on Monday.
+
+The avalanches occurred from "time to time" since Saturday, marring rescue operations in Langtang area that was devastated by the 7.8-magnitude earthquake on April 25, an official said.
+
+"There are 150 people in Kaynzin village of Langtang, and we're evacuating them today, as there have been fresh avalanches in the area," police officer Pravin Pokhrel said by phone from Rasuwa district headquarters.
+
+"We're airlifting people to either Kathmandu or Dhunche, depending on their choice and possibilities."
+
+"The roads have been washed out because of avalanches, so rescue has been hampered as we can no more do it on foot," police officer Basundhara Khadka said.
+
+"Because the terrain has been damaged, there are also difficulties finding space to land helicopters."
+
+She said security personnel were trying to open roads where possible to ease rescue.
+
+The International Centre for Integrated Mountain Development warned that the quake had created fissures in the Himalayan region, which could lead to bursting of the glacial lakes, the Kantipur Daily reported.
+
+The confirmed nationwide death toll had reached 8 046 with nearly 18 000 people reported injured.
+
+The tolls were expected to rise because many villages buried during the quake in remote districts have not yet been reached by search teams.
+
+At least 68 foreigners had also died in the quake, while 111 were still unaccounted for.
+</text>

@@ -1,0 +1,29 @@
+<url>
+http://www.bbc.co.uk/news/uk-wales-south-east-wales-32560529
+</url>
+
+<date>
+20150501
+</date>
+
+<headline>
+Nepal earthquake: Welsh fire crew in rescue effort
+</headline>
+
+<text>
+Image copyright South Wales Fire and Rescue Service Image caption Shaun Moody is usually based at a station in Bridgend county
+
+Six Welsh firefighters are battling to secure the roof of a hospital in the wake of the Nepal earthquake.
+
+The officers from South Wales Fire and Rescue Service are part of a 67-strong team from UK International Search and Rescue (UKISAR).
+
+Station manager Shaun Moody said the team is working with colleagues from Leicestershire and Essex in Kathmandu.
+
+A collapsed water tower has damaged the hospital roof and is threatening three operating theatres.
+
+The other five team members, Raza Prince, Chris Jones, Simon Comley, Trystan Bowen and Bill Leahy, are all specialists in urban search and rescue.
+
+"If we can re-secure the roof over the next 24 hours, up to 200 operations a day could be carried out in the surgical theatres," said Mr Moody, who is normally based in Kenfig Hill, Bridgend.
+
+"We've brought 12-and-a-half tonnes of rescue equipment with us and we have everything we need. The damage is catastrophic."
+</text>

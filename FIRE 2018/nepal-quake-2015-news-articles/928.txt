@@ -1,0 +1,55 @@
+<url>
+http://thenewdaily.com.au/news/2015/04/26/disaster-response-teams-race-nepal/
+</url>
+
+<date>
+20150426
+</date>
+
+<headline>
+Response teams race to Nepal
+</headline>
+
+<text>
+Offers of help have poured in from governments around the world as Nepal comes to grips with a devastating earthquake.
+
+The US and EU announced they were sending in disaster response teams as emergency workers fanned out across Nepal to rescue those trapped under collapsed homes and buildings.
+
+The earthquake has killed more than 1300 people, toppling office blocks and towers in Kathmandu and triggering a deadly avalanche at Everest base camp.
+
+At least 1170 people are known to have died in Nepal, officials said, making it the quake-prone and impoverished Himalayan nation’s worst disaster in more than 80 years.
+
+But the final toll from the 7.8 magnitude quake on Saturday could be much higher, and dozens more people were reported killed in neighbouring India and China.
+
+The Red Cross said it was concerned about the fate of rural villages close to the epicentre of the quake northwest of the capital Kathmandu, where a historic tower collapsed.
+
+“Roads have been damaged or blocked by landslides and communication lines are down preventing us from reaching local Red Cross branches to get accurate information,” said IFRC Asia/Pacific director Jagan Chapagain.
+
+At least 10 people were killed when an avalanche buried parts of Mount Everest’s base camp in Nepal where hundreds of mountaineers have gathered at the start of the annual climbing season, officials said.
+
+Google executive Dan Fredinburg was the only climber killed so far identified.
+
+Lawrence You, director of privacy at Google, said Fredinburg was with three other Google employees, who all survived. He added that Google.org was contributing $US1 million ($A1.29 million) to response efforts.
+
+Experienced mountaineers said panic erupted at base camp, which had been “severely damaged”, while one described the avalanche as “huge”.
+
+Gyanendra Kumar Shrestha, an official in Nepal’s tourism department, said: “We are trying to assess how many are injured. There might be over 1,000 people there right now, including foreign climbers and Nepalese supporting staff.”
+
+Kathmandu was severely damaged, and the historic nine-storey Dharahara tower, a major tourist attraction, was among buildings brought down.
+
+At least a dozen bodies were taken away from the ruins of the 19th-century tower, according to a photographer who saw similar scenes of multiple casualties throughout the city.
+
+At least 42 people have died in India, including 30 in the eastern state of Bihar, while buildings in the capital New Delhi had to be evacuated.
+
+China’s official Xinhua news agency said 13 people were killed in the Tibet region.
+
+The United States Geological Survey said the shallow quake – initially measured at 7.5 magnitude and later adjusted to 7.8 – struck 77km northwest of Kathmandu.
+
+The quake ripped through the middle of highways in the capital and also caused damage to the country’s only international airport, which was briefly closed.
+
+Aftershock tremors could be felt more than two hours after the initial quake.
+
+Nepal and the rest of the Himalayas are particularly prone to earthquakes because of the collision of the Indian and Eurasia plates.
+
+A spokesman for Nepal’s home ministry said the government had released around $US500 million ($A643 million) as emergency funds for rescue operations.
+</text>

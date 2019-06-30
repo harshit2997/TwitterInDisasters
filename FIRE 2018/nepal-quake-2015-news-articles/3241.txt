@@ -1,0 +1,31 @@
+<url>
+http://www.saps.gov.za/newsroom/msspeechdetail.php?nid=4605
+</url>
+
+<date>
+20150428
+</date>
+
+<headline>
+SAPS (South African Police Service)
+</headline>
+
+<text>
+Media Statement from KwaZulu Natal Media Centre
+
+Corporate Communication
+
+South African Police Service The KwaZulu-Natal SAPS Provincial management team led by Lieutenant General Mmamonnye Ngobeni has extended their best wishes to Pietermaritzburg Search and Rescue Unit member, Lieutenant Jack Haskins and his K9 partner, Bear, after they were selected to assist with the Nepal disaster. Haskins who has 21 years of experience in search and rescue operations was delighted that he will be able to use his skills and expertise to assist the victims of the Nepal earthquake disaster. He flew to the OR Tambo International Airport last night to join other search and rescue members from across the country. They are expected to leave this afternoon to Nepal. The KwaZulu-Natal Provincial Commissioner, Lieutenant General Mmamonnye Ngobeni said she fully supports Haskins for the duration of his duties at Nepal. “We wish him good luck and we hope he returns home safely after the duration of the rescue operation,” she said.
+
+
+
+Media enquiries: Major Thulani Zwane - 071 683 6525 kzn.mediacentre@saps.gov.za
+
+
+
+Twitter: https://twitter.com/SAPoliceService
+
+Facebook: https://www.facebook.com/SAPoliceService
+
+Website: www.saps.gov.za
+</text>
