@@ -1,0 +1,6 @@
+Bombing : bomb blast explos explod attack
+Earthquake : earthquak quak magnitud shock tremor
+Flood : flood water heavi rain flash
+Shooting : shoot shot shooter mass massacr
+Tornado : typhoon tornado wind rain storm insid
+Wildfire : fire burn wildfir bushfir
